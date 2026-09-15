@@ -99,11 +99,17 @@ Determine the prospect's primary industry vertical from these categories:
 
 ### 1.5 Run Structured Data Extraction
 
-Execute the Python analysis script for machine-readable data extraction:
+Execute the Python analysis script for machine-readable data extraction. It
+lives at `skills/sales-prospect/scripts/analyze_prospect.py` — run it from
+this skill's directory, or with a path adjusted to wherever it landed:
 
 ```bash
 python3 scripts/analyze_prospect.py --url <url> --output json
 ```
+
+Standard-library only (`urllib`, `html.parser`, `re`, `ssl`) — no `pip
+install` needed, no API key, no network dependency beyond fetching the target
+URL itself.
 
 This script extracts:
 - Structured company metadata

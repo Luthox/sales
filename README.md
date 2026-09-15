@@ -74,19 +74,25 @@ reusable), `sales-followup` (email-specific), `sales-prep` / `sales-proposal`
 the same way — they're all single self-contained `SKILL.md` files with no
 further dependencies.
 
-**Top-level `agents/`, `templates/`, and `scripts/` folders from the source
-repo were not brought in.** None of the skills above have a hard dependency on
-them:
+**Top-level `agents/` and `templates/` folders from the source repo were not
+brought in** — no hard dependency on either:
 - The `agents/*.md` persona files (`sales-company.md`, `sales-strategy.md`,
   etc.) are never referenced by `sales-prospect`'s actual instructions — it
   explicitly launches subagents as `subagent_type: "general-purpose"`, driven
   by the `SKILL.md` files already here, not by those persona files.
 - `templates/*.md` (outreach templates, proposal template, meeting-prep
   template) all belong to skills that were left out or removed.
-- `scripts/analyze_prospect.py` is referenced once, by `sales-prospect`, but
-  is explicitly optional in its own instructions — "if the script is not
-  available or fails, continue the analysis" using plain `WebFetch` data
-  instead. Nothing breaks without it.
+
+**`scripts/analyze_prospect.py` was added**, at
+`skills/sales-prospect/scripts/analyze_prospect.py`. `sales-prospect` treats
+it as optional ("if the script is not available or fails, continue using
+plain `WebFetch` data instead") — but it's genuinely free to include: pure
+Python standard library (`urllib`, `html.parser`, `re`, `ssl`), no `pip
+install`, no API key. It fetches the target URL and pulls out structured
+metadata (title/meta tags, tech-stack signals, social links, contact
+patterns) that `sales-prospect` folds into its discovery briefing. The
+repo's other three scripts (`contact_finder.py`, `generate_pdf_report.py`,
+`lead_scorer.py`) were left out — they belong to skills not in this repo.
 
 ## Installing as Claude Code skills
 
