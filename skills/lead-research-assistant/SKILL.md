@@ -28,6 +28,16 @@ This skill helps you identify and qualify potential leads for your business by a
 4. **Provides Contact Strategies**: Suggests how to approach each lead with personalized messaging
 5. **Enriches Data**: Gathers relevant information about decision-makers and company context
 
+## Reuse the team's ICP if one exists
+
+Before asking the user to redescribe their business, check whether
+`profiles/<business-slug>/client-profile.yaml` already exists in this repo
+(from `/icp-onboarding`). If it might, `git pull` this repo first so you're
+reading the latest version, then use that file's `business`, `offer`, and
+`icp_hard_filters`/`icp_soft_preferences` as the ICP instead of asking the
+user to repeat it. If no such file exists, fall back to asking the user
+directly, as below.
+
 ## How to Use
 
 ### Basic Usage

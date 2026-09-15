@@ -21,7 +21,10 @@ Either:
 
 ## Outputs
 
-A single file: `~/cold-email-ai-skills/profiles/<business-slug>/client-profile.yaml`
+A single file, **inside this repo** (not in your home directory or anywhere
+project-specific): `profiles/<business-slug>/client-profile.yaml`, relative
+to the root of this `sales` repo. That's what lets it be git-tracked and
+shared — see "Sync this to the rest of the team" in step 6 below.
 
 ## Steps
 
@@ -139,8 +142,28 @@ created_at: <YYYY-MM-DD>
 
 ### 6. Save + confirm
 
-Save to `~/cold-email-ai-skills/profiles/<business-slug>/client-profile.yaml`.
-Print the yaml back to the user and ask "look right?" before ending the conversation.
+Save to `profiles/<business-slug>/client-profile.yaml`, relative to the root
+of this repo (find the repo root with `git rev-parse --show-toplevel` if
+you're not sure where you're running from). Print the yaml back to the user
+and ask "look right?" before ending the conversation.
+
+### 7. Sync this to the rest of the team
+
+This file only becomes the team's shared source of truth once it's actually
+committed and pushed — a local-only edit doesn't help anyone else. After the
+user confirms it looks right:
+
+```bash
+git add profiles/<business-slug>/client-profile.yaml
+git commit -m "Update ICP for <business-slug>"
+git push
+```
+
+If the push is rejected (someone else pushed in the meantime), `git pull
+--rebase` first, then push again. Tell the user this file is now live for
+every teammate who has this repo cloned — the next skill that reads it
+(`icp-prompt-builder`, or anything else) pulls the latest copy automatically
+before reading, so no one needs to manually resync.
 
 ## Common gotchas
 

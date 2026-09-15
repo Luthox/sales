@@ -27,7 +27,11 @@ At very large scale (5,000+ companies per batch), you may want to export the tun
 
 ### Step 1 — Gather ICP context
 
-Claude asks the user (or reads `client-profile.yaml` from `/icp-onboarding`):
+If a `client-profile.yaml` might exist from `/icp-onboarding`, **pull the
+latest copy of this repo first** (`git -C <repo-root> pull`) before reading
+it — a teammate may have updated the ICP since you last synced, and this is
+the one point where that update actually reaches you. Only after that, read
+`client-profile.yaml`, or ask the user directly if none exists yet:
 - Website of the client selling (to scrape for context)
 - Who IS a good customer? What makes them a good fit?
 - Who is NOT a good customer? What disqualifies them?
