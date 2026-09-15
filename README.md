@@ -43,8 +43,9 @@ input; they don't discover companies, they analyze one you already picked.
 
 | Skill | Command | What it does |
 |---|---|---|
-| `sales/SKILL.md` | *(orchestrator — no direct command)* | Routes every `/sales <command>` to the right skill below, and directly implements `/sales quick <url>` inline (a 60-second scorecard, terminal output only, no subagents). **Required for any `/sales ...` command to work at all.** |
-| `skills/sales-prospect` | `/sales prospect <url>` | The flagship command. Launches the 4 skills below as parallel subagents, aggregates them into one scored `PROSPECT-ANALYSIS.md`. |
+| `sales/SKILL.md` | *(orchestrator — no direct command)* | Routes every `/sales <command>` to the matching skill below. **Required for any `/sales ...` command to work at all** — nothing else in this layer runs without it. |
+| `sales/SKILL.md` (quick mode) | `/sales quick <url>` | Implemented inline in the router itself, not a separate file. WebFetch the homepage only, no subagents, no file written — a 60-second scorecard straight to the terminal (top 3 opportunities, top 3 concerns). *(You asked for this one directly.)* |
+| `skills/sales-prospect` | `/sales prospect <url>` | The flagship command. Launches the 4 skills below as parallel subagents, aggregates them into one scored `PROSPECT-ANALYSIS.md`. *(You asked for this one directly.)* |
 | `skills/sales-contacts` | `/sales contacts <url>` | Decision-maker mapping: buying committee, org chart, personalization anchors. *(You asked for this one directly.)* |
 | `skills/sales-competitors` | `/sales competitors <url>` | Competitive intelligence: current vendor signals, switching costs, positioning angles. *(You asked for this one directly.)* |
 | `skills/sales-objections` | `/sales objections <topic>` | Objection-handling playbook. *(You asked for this one directly.)* |
