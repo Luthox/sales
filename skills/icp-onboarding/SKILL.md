@@ -68,8 +68,7 @@ Ask these questions in order. Do NOT batch them — wait for each answer before 
 7. **Any triggers that matter?** (Recent fundraise, new hires in a role, tech on website, recent product launch, specific Google Ads spend.)
 8. **Any disqualifiers?** (Competitors, existing customers, partners — domains to exclude.)
 9. **Your offer / hook — what are you asking them to do?** (E.g. "book a 15-min call", "try our free audit", "reply with a Y and I'll send details".)
-10. **Tone — casual or formal? Peer-to-peer or vendor-to-buyer?**
-11. **Banned words / legal constraints** (any industries that restrict language, e.g. healthcare, finance, crypto).
+10. **Banned words / legal constraints** (any industries that restrict language, e.g. healthcare, finance, crypto).
 
 ### 3. Translate into Prospeo filters
 
@@ -100,7 +99,6 @@ business:
   name: <business name>
   website: <url>
   one_liner: <what they sell>
-  tone: <casual|formal|peer-to-peer>
 
 offer:
   primary_cta: <what you ask the lead to do>
