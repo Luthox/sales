@@ -100,11 +100,19 @@ repo's other three scripts (`contact_finder.py`, `generate_pdf_report.py`,
 This repo is public, so there's no login step for this at all — anyone can
 run this and it just works.
 
+**Prerequisite: `git` has to already be installed.** Check with `git
+--version`. If that doesn't print a version number, install it first — see
+[ONBOARDING.md](ONBOARDING.md) Step 1, and specifically **don't** click
+through Apple's "install command line developer tools" popup if one
+appears (that's a ~14GB download you don't need just for this) — the
+lightweight [git-scm.com](https://git-scm.com/download/mac) installer
+(~200MB) gets you the same `git` command without it.
+
 ```bash
 git clone https://github.com/YHavshush/sales.git ~/sales && bash ~/sales/install.sh
 ```
 
-That's the entire setup. It clones the repo to `~/sales` and symlinks every
+Once `git` is there, that command is the entire setup. It clones the repo to `~/sales` and symlinks every
 skill into `~/.claude/skills` — a symlink instead of a copy, so it always
 points at the live file in `~/sales`, not a frozen snapshot from today.
 
