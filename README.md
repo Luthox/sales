@@ -1,4 +1,4 @@
-# lead-finder
+# Sales Team
 
 Claude Code skills for finding relevant companies and running deep per-account
 sales research — built by hand-picking pieces from a few larger skill repos,
