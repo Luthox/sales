@@ -30,8 +30,7 @@ filter/rank the full pool).
 
 **Limitations:** modest scale (`lead-research-assistant` is built for a
 10-20 company shortlist per run, not bulk volume — building a big list means
-running it many times and merging results yourself), no contact enrichment
-(no phone/email by design — add that separately later), and results aren't
+running it many times and merging results yourself), no contact enrichment, and results aren't
 verified (spot-check anything found via web search before acting on it at
 volume).
 
