@@ -1,6 +1,6 @@
 ---
 name: icp-onboarding
-description: Conversational intake for cold email campaigns. Interviews the user about their business, ICP (Ideal Customer Profile), offer, lead magnets, and hard vs soft filters. Outputs a structured `client-profile.yaml` that every other skill in the repo reads from. Use at the very start of a new campaign or when onboarding a new business. Triggers on "onboard me", "set up my ICP", "new client", "new business intake", "help me define my ICP".
+description: Conversational intake for cold email campaigns. Interviews the user about their business, ICP (Ideal Customer Profile), offer, and hard vs soft filters. Outputs a structured `client-profile.yaml` that every other skill in the repo reads from. Use at the very start of a new campaign or when onboarding a new business. Triggers on "onboard me", "set up my ICP", "new client", "new business intake", "help me define my ICP".
 ---
 
 # ICP Onboarding
@@ -68,9 +68,8 @@ Ask these questions in order. Do NOT batch them — wait for each answer before 
 7. **Any triggers that matter?** (Recent fundraise, new hires in a role, tech on website, recent product launch, specific Google Ads spend.)
 8. **Any disqualifiers?** (Competitors, existing customers, partners — domains to exclude.)
 9. **Your offer / hook — what are you asking them to do?** (E.g. "book a 15-min call", "try our free audit", "reply with a Y and I'll send details".)
-10. **Lead magnet — what can you legally give away for free?** (If they don't have one, invoke `/lead-magnet-brainstorm` skill.)
-11. **Tone — casual or formal? Peer-to-peer or vendor-to-buyer?**
-12. **Banned words / legal constraints** (any industries that restrict language, e.g. healthcare, finance, crypto).
+10. **Tone — casual or formal? Peer-to-peer or vendor-to-buyer?**
+11. **Banned words / legal constraints** (any industries that restrict language, e.g. healthcare, finance, crypto).
 
 ### 3. Translate into Prospeo filters
 
@@ -105,7 +104,6 @@ business:
 
 offer:
   primary_cta: <what you ask the lead to do>
-  lead_magnet: <free thing you can give>
   value_prop: <why they should care, one sentence>
 
 icp_hard_filters:
