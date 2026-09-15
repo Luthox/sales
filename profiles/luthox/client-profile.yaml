@@ -1,0 +1,65 @@
+business:
+  name: Luthox
+  website: https://luthox.com
+  one_liner: >
+    Custom software, dashboards, and AI-powered automation for growing MKB
+    companies — replacing repetitive manual work and scattered/disconnected
+    systems with unified ERP/CRM, integrations, and tools that consolidate
+    everything into one place, built and maintained end-to-end by one team.
+
+offer:
+  primary_cta: >
+    Plan een intakegesprek (book an intake call) — low-barrier, low-pressure
+    mutual discovery: learn their business and pain points, let them learn
+    about Luthox, and show concretely what Luthox could do for their
+    specific problem rather than a generic pitch.
+  value_prop: >
+    A single team that combines the business judgment of a consultant with
+    the hands-on delivery of a developer — no thick report, just working
+    software.
+
+icp_hard_filters:
+  job_titles:
+    - Owner
+    - Founder
+    - CEO
+    - COO
+    - CFO
+    - General Manager
+    - Operations Manager
+    - Operations Lead
+  industries_in: []   # broad / industry-agnostic on purpose — will narrow to one industry or problem at a time later
+  industries_out: []
+  headcount_min: 20
+  headcount_max: 200
+  countries:
+    - NL
+  states: []
+  excluded_domains: []   # none named yet
+  qualitative_disqualifiers:
+    - Already has custom software built in-house or via another vendor (e.g. a company like featurn.com — used here only as an illustration of the pattern, not a named target to exclude)
+    - Clear signs of in-house software development expertise (a software company or technical startup) — they could build it themselves
+    - Low operational complexity (single location, single service line, low client/transaction volume) — even if headcount clears the floor, not enough backoffice complexity to justify custom software
+
+icp_soft_preferences:
+  headcount_edge_tolerance: true    # 20-200 is soft on the edges, not a hard cutoff
+  geography_edge_tolerance: true    # Netherlands is ~90% of focus right now, not 100% exclusive
+  triggers:
+    - pe_backed_mkb_rollup                     # MKB-scale buy-and-build groups only — explicitly NOT large/mega-PE-backed portfolio companies
+    - job_postings_with_explicit_pain_language # e.g. "handmatig", "Excel-lijsten", "systemen die niet met elkaar praten"
+    - visible_consumer_grade_tools_in_use      # WhatsApp for uren-registratie, Trello, shared Sheets — low confidence, hard to verify externally
+    - recent_leadership_change                 # new CEO/COO/directeur bedrijfsvoering in the last 6-12 months
+    - multi_location_expansion
+    - switching_or_evaluating_erp_software      # low confidence, hard to verify externally
+  partial_competitor_overlap_note: >
+    A competing partner/vendor visible on the prospect's site is NOT an
+    automatic disqualifier if they only cover part of what Luthox offers
+    (e.g. just automation, not the full ERP/CRM/dashboard package) — the
+    uncovered gap is still a real opportunity, not a reason to skip them.
+  personas_to_prioritize: []
+
+legal:
+  banned_words: []
+  regulated_industry: false
+
+created_at: 2026-09-15
