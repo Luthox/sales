@@ -95,50 +95,31 @@ patterns) that `sales-prospect` folds into its discovery briefing. The
 repo's other three scripts (`contact_finder.py`, `generate_pdf_report.py`,
 `lead_scorer.py`) were left out — they belong to skills not in this repo.
 
-## Installing — clone + symlink (recommended for a team)
+## Installing — one command, one time (recommended for the team)
 
-Copying files (further down) works, but it forks them — after that, a `git
-pull` in this repo updates nothing on your machine, since your copy is a
-disconnected snapshot from whenever you ran `cp`. For a team sharing one ICP
-and one set of skills, that's the wrong default: someone updates the ICP or
-fixes a skill, pushes it, and everyone else is silently still working off a
-stale copy with no signal that anything changed.
-
-Clone once, then **symlink** each skill into your personal skills directory
-instead of copying it. A symlink always resolves to the live file in your
-clone's working tree — so the only thing you ever need to do to get
-everyone's latest changes (skill fixes, and the shared ICP alike) is `git
-pull` in the clone. Nothing to re-copy, ever.
+This repo is public, so there's no login step for this at all — anyone can
+run this and it just works.
 
 ```bash
-# 1. Clone once, to the same path every teammate uses (so these instructions
-#    stay copy-pasteable for everyone — adjust if your team prefers another path)
-git clone https://github.com/YHavshush/sales.git ~/sales
-
-# 2. Symlink the discovery layer
-ln -s ~/sales/skills/icp-onboarding        ~/.claude/skills/icp-onboarding
-ln -s ~/sales/skills/icp-prompt-builder    ~/.claude/skills/icp-prompt-builder
-ln -s ~/sales/skills/lead-research-assistant ~/.claude/skills/lead-research-assistant
-
-# 3. Symlink the deep-dive layer (sales/ is a top-level folder in this repo, not under skills/)
-ln -s ~/sales/sales                        ~/.claude/skills/sales
-mkdir -p ~/.claude/skills/skills
-ln -s ~/sales/skills/sales-prospect        ~/.claude/skills/skills/sales-prospect
-ln -s ~/sales/skills/sales-contacts        ~/.claude/skills/skills/sales-contacts
-ln -s ~/sales/skills/sales-competitors     ~/.claude/skills/skills/sales-competitors
-ln -s ~/sales/skills/sales-objections      ~/.claude/skills/skills/sales-objections
-ln -s ~/sales/skills/sales-research        ~/.claude/skills/skills/sales-research
-ln -s ~/sales/skills/sales-qualify         ~/.claude/skills/skills/sales-qualify
+git clone https://github.com/YHavshush/sales.git ~/sales && bash ~/sales/install.sh
 ```
 
-From then on, whenever anything in this repo changes — a skill gets fixed, or
-someone updates the shared ICP — everyone just runs:
+That's the entire setup. It clones the repo to `~/sales` and symlinks every
+skill into `~/.claude/skills` — a symlink instead of a copy, so it always
+points at the live file in `~/sales`, not a frozen snapshot from today.
 
-```bash
-cd ~/sales && git pull
-```
+**You will not need to run this again**, and you will not need to run
+`git pull` yourself either. Every skill in this repo pulls the latest version
+of the repo automatically, silently, as its first step, before it does
+anything else — so simply *using* a skill is what keeps you in sync. A skill
+fix, or an update to the shared ICP, reaches you the next time you invoke
+anything, with nothing for you to remember or run. (Re-running the install
+command above is only ever needed if a brand new skill gets added to the
+repo later — existing ones update themselves.)
 
-and every symlinked skill picks up the change immediately. No reinstalling.
+The only person who ever needs a GitHub login is whoever *writes* an ICP
+update (`/icp-onboarding` ends with a `git push`, which needs write access).
+Everyone just reading/using skills needs nothing.
 
 ## Installing — copy (simpler, but a one-time snapshot)
 
@@ -175,25 +156,32 @@ profile file — a local-only edit doesn't help the team, only a pushed one
 does. If two people edit the ICP at once, a normal `git pull --rebase` +
 push resolves it same as any other file in this repo.
 
-**3. Reading an ICP means pulling first, automatically.**
-`icp-prompt-builder` (and `lead-research-assistant`, if a profile exists)
-now `git pull` this repo as their first step, before reading
-`client-profile.yaml`. This is what makes updates reach the whole team
-"automatically" from the user's point of view: nobody has to remember to
-sync — invoking the skill does it for you, every time.
+**3. Every skill pulls the latest repo before it does anything else —
+automatically, no one has to remember to sync.** `sales/SKILL.md` (so every
+`/sales <command>`), `icp-prompt-builder`, and `lead-research-assistant` all
+run a silent `git pull` as their first step. This is what makes updates
+reach the whole team "automatically" from the user's point of view:
+whoever wrote a fix or an ICP change just pushes it once, and the next
+person to use *any* skill gets it, with nothing for them to run or remember.
+If the pull fails (offline, whatever) it's silently skipped and the skill
+continues with whatever's already on disk — never blocks, never errors.
 
-**4. Skills are symlinked, not copied** (see the install section above) — so
-a fix to any `SKILL.md`, not just the ICP, reaches everyone on their next
-`git pull`, with no reinstall step.
+**4. Skills are symlinked, not copied** (`install.sh` sets this up in one
+shot) — so a fix to any `SKILL.md`, not just the ICP, is picked up the moment
+it's pulled, with no reinstall step.
 
-**Net effect:** `git pull` in the shared clone is the *only* sync operation
-that matters for this whole system — one clone, one pull command, and both
-"here's the current ICP" and "here's the current tooling" are up to date for
-every teammate. If your team wants a gate on ICP changes (so one person
-can't silently redefine who the whole team is calling), the natural next
-step is to stop pushing to `main` directly and require a pull request for
-changes under `profiles/` — GitHub's branch protection rules can enforce
-that without changing anything about how the skills themselves work.
+**5. The repo is public, so reading needs no login at all.** Only writing an
+ICP update needs GitHub write access (`icp-onboarding`'s final `git push`) —
+everyone just running skills, including the sync pulls above, needs nothing.
+
+**Net effect:** the one-time `install.sh` run is the *only* setup step for
+the whole system, and after that, using the tools *is* the sync mechanism —
+both "here's the current ICP" and "here's the current tooling" stay current
+for every teammate automatically. If your team wants a gate on ICP changes
+(so one person can't silently redefine who the whole team is calling), the
+natural next step is to stop pushing to `main` directly and require a pull
+request for changes under `profiles/` — GitHub's branch protection rules can
+enforce that without changing anything about how the skills themselves work.
 
 ## Attribution
 

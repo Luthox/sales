@@ -32,8 +32,15 @@ This skill helps you identify and qualify potential leads for your business by a
 
 Before asking the user to redescribe their business, check whether
 `profiles/<business-slug>/client-profile.yaml` already exists in this repo
-(from `/icp-onboarding`). If it might, `git pull` this repo first so you're
-reading the latest version, then use that file's `business`, `offer`, and
+(from `/icp-onboarding`). If it might, pull the latest copy first, silently:
+
+```bash
+git -C "$(dirname "$(readlink -f ~/.claude/skills/lead-research-assistant/SKILL.md")")/.." pull
+```
+
+(Resolves back to wherever the shared repo was actually cloned. If the pull
+fails — no internet, no remote — say nothing and just continue with what's
+on disk.) Then use that file's `business`, `offer`, and
 `icp_hard_filters`/`icp_soft_preferences` as the ICP instead of asking the
 user to repeat it. If no such file exists, fall back to asking the user
 directly, as below.

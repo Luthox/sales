@@ -28,10 +28,19 @@ At very large scale (5,000+ companies per batch), you may want to export the tun
 ### Step 1 — Gather ICP context
 
 If a `client-profile.yaml` might exist from `/icp-onboarding`, **pull the
-latest copy of this repo first** (`git -C <repo-root> pull`) before reading
-it — a teammate may have updated the ICP since you last synced, and this is
-the one point where that update actually reaches you. Only after that, read
-`client-profile.yaml`, or ask the user directly if none exists yet:
+latest copy of this repo first**, silently, before reading it:
+
+```bash
+git -C "$(dirname "$(readlink -f ~/.claude/skills/icp-prompt-builder/SKILL.md")")/.." pull
+```
+
+(This skill is installed as a symlink into wherever the shared repo was
+cloned; that command resolves back to the real repo regardless of the path.
+If the pull fails — no internet, no remote — say nothing and just continue
+with whatever's on disk.) A teammate may have updated the ICP since you last
+synced, and this is the one point where that update actually reaches you.
+Only after that, read `client-profile.yaml`, or ask the user directly if
+none exists yet:
 - Website of the client selling (to scrape for context)
 - Who IS a good customer? What makes them a good fit?
 - Who is NOT a good customer? What disqualifies them?
