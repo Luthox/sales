@@ -1,10 +1,12 @@
 # Full Prospect Analysis Orchestrator
 
-You are the full prospect audit engine for `/sales prospect <url>`. You launch 5 parallel subagents, aggregate their results, and produce a unified PROSPECT-ANALYSIS.md report that is ready-to-use and deal-focused.
+You are the full prospect audit engine for `/sales prospect <url>`. You launch 4 parallel subagents, aggregate their results, and produce a unified PROSPECT-ANALYSIS.md report that is ready-to-use and deal-focused.
 
 ## When This Skill Is Invoked
 
-The user runs `/sales prospect <url>`. This is the flagship command of the entire suite. It produces the most comprehensive deliverable: a scored, prioritized, actionable prospect analysis with a ready-to-send outreach email.
+The user runs `/sales prospect <url>`. This is the flagship command of the entire suite. It produces the most comprehensive deliverable: a scored, prioritized, actionable prospect analysis.
+
+**Note:** this is the trimmed 4-subagent version of the original 5-subagent design — the 5th subagent (`sales-strategy`, outreach-email drafting) was removed since it only produced an email draft, and this deployment is for calling, not emailing. Everything below reflects that 4-subagent version.
 
 ---
 
@@ -140,16 +142,16 @@ This briefing is passed to every subagent as context.
 
 ---
 
-## Phase 2: Parallel Analysis (5 Subagents Simultaneously)
+## Phase 2: Parallel Analysis (4 Subagents Simultaneously)
 
-Launch all 5 subagents simultaneously using Claude Code's Task tool. Each subagent receives the full discovery briefing. All subagents run with `subagent_type: "general-purpose"`.
+Launch all 4 subagents simultaneously using Claude Code's Task tool. Each subagent receives the full discovery briefing. All subagents run with `subagent_type: "general-purpose"`.
 
-**CRITICAL:** Launch all 5 in parallel. Do NOT run them sequentially. Each subagent is independent and does not depend on the others.
+**CRITICAL:** Launch all 4 in parallel. Do NOT run them sequentially. Each subagent is independent and does not depend on the others.
 
 ### Subagent 1: sales-company (Company Research & Firmographics)
 
 **Skill file:** `skills/sales-research/SKILL.md`
-**Weight:** 25% of Prospect Score
+**Weight:** 30% of Prospect Score
 **Focus:** Company research, firmographics, financial signals, growth trajectory
 
 **Task prompt must include:**
@@ -167,7 +169,7 @@ Launch all 5 subagents simultaneously using Claude Code's Task tool. Each subage
 ### Subagent 2: sales-contacts (Decision Maker Intelligence)
 
 **Skill file:** `skills/sales-contacts/SKILL.md`
-**Weight:** 20% of Prospect Score
+**Weight:** 25% of Prospect Score
 **Focus:** Decision maker identification, org chart mapping, personalization anchors
 
 **Task prompt must include:**
@@ -184,7 +186,7 @@ Launch all 5 subagents simultaneously using Claude Code's Task tool. Each subage
 ### Subagent 3: sales-opportunity (Opportunity & Budget Assessment)
 
 **Skill file:** `skills/sales-qualify/SKILL.md`
-**Weight:** 20% of Prospect Score
+**Weight:** 25% of Prospect Score
 **Focus:** Lead qualification (BANT + MEDDIC), pain point detection, budget signals, buying timeline
 
 **Task prompt must include:**
@@ -201,7 +203,7 @@ Launch all 5 subagents simultaneously using Claude Code's Task tool. Each subage
 ### Subagent 4: sales-competitive (Competitive Positioning)
 
 **Skill file:** `skills/sales-competitors/SKILL.md` (if available) or general-purpose competitive analysis
-**Weight:** 15% of Prospect Score
+**Weight:** 20% of Prospect Score
 **Focus:** Current solutions the prospect uses, switching costs, competitive gaps, positioning strategy
 
 **Task prompt must include:**
@@ -223,28 +225,11 @@ Launch all 5 subagents simultaneously using Claude Code's Task tool. Each subage
 5. Analyze their tech requirements from careers page
 6. Search web for "[prospect name] uses [competitor]" or "[prospect name] partnered with [vendor]"
 
-### Subagent 5: sales-strategy (Outreach Strategy & Messaging)
-
-**Skill file:** `skills/sales-outreach/SKILL.md`
-**Weight:** 20% of Prospect Score
-**Focus:** Outreach strategy, messaging, channel selection, first email draft
-
-**Task prompt must include:**
-- The full discovery briefing
-- Instruction to produce an Outreach Readiness Score (0-100)
-- Instruction to return: recommended outreach framework, personalization research, channel strategy, first email draft, objection preparation
-
-**Expected output:** Outreach Readiness Score (0-100) with breakdown across:
-- Personalization depth (0-25): Quality and quantity of personalization anchors
-- Trigger events found (0-25): Recent events that create natural outreach timing
-- Channel strategy clarity (0-25): Clear path to reach decision makers
-- Message-market fit (0-25): Strength of the value proposition match
-
 ---
 
 ## Phase 3: Synthesis (Sequential — Aggregation and Scoring)
 
-After all 5 subagents complete, aggregate their results into the final analysis.
+After all 4 subagents complete, aggregate their results into the final analysis.
 
 ### 3.1 Handle Subagent Failures
 
@@ -261,11 +246,10 @@ Compute the composite Prospect Score using the weighted formula:
 
 ```
 Prospect Score = (
-    Company_Fit      * 0.25 +
-    Contact_Access   * 0.20 +
-    Opportunity_Quality * 0.20 +
-    Competitive_Position * 0.15 +
-    Outreach_Readiness  * 0.20
+    Company_Fit      * 0.30 +
+    Contact_Access   * 0.25 +
+    Opportunity_Quality * 0.25 +
+    Competitive_Position * 0.20
 )
 ```
 
@@ -304,26 +288,15 @@ Based on the Prospect Score and subagent findings, create a three-tier action pl
 - Partnership or referral approaches
 - List 2-3 specific actions with milestones
 
-### 3.4 Create Ready-to-Use First Email
-
-Using the outreach strategy subagent's findings, craft the actual first outreach email. This must be:
-- Copy-paste ready (not a template with placeholders)
-- Personalized to the specific prospect (reference real data found during research)
-- Under 100 words in the body
-- Using one of the four outreach frameworks from the sales-outreach skill
-- With a clear, low-friction CTA
-- With 2 subject line options for A/B testing
-- With the specific send target (name, title, company)
-
-### 3.5 Confidence Assessment
+### 3.4 Confidence Assessment
 
 Rate the overall confidence of the analysis:
 
 | Confidence Level | Criteria |
 |-----------------|---------|
-| **High** | All 5 subagents completed successfully. Rich public data available. Multiple data sources confirmed findings. |
-| **Medium** | 4 of 5 subagents completed. Moderate public data. Some findings based on inference. |
-| **Low** | 3 or fewer subagents completed. Limited public data. Significant reliance on inference. |
+| **High** | All 4 subagents completed successfully. Rich public data available. Multiple data sources confirmed findings. |
+| **Medium** | 3 of 4 subagents completed. Moderate public data. Some findings based on inference. |
+| **Low** | 2 or fewer subagents completed. Limited public data. Significant reliance on inference. |
 | **Very Low** | Major data gaps. Most findings are speculative. Recommend manual research before outreach. |
 
 ---
@@ -348,7 +321,7 @@ Write the final report to `PROSPECT-ANALYSIS.md` in the current directory with t
 [3-5 paragraph summary for a sales leader. Lead with the Prospect Score and grade.
 Highlight the single biggest opportunity, the single biggest risk, and the
 recommended approach. Include the top decision maker to target and the
-recommended outreach timing. End with a clear go/no-go recommendation
+recommended timing for first contact. End with a clear go/no-go recommendation
 and expected deal timeline.]
 
 ---
@@ -376,11 +349,10 @@ and expected deal timeline.]
 
 | Category | Score | Weight | Weighted | Key Finding |
 |----------|-------|--------|----------|-------------|
-| Company Fit | [X]/100 | 25% | [X] | [one-line finding] |
-| Contact Access | [X]/100 | 20% | [X] | [one-line finding] |
-| Opportunity Quality | [X]/100 | 20% | [X] | [one-line finding] |
-| Competitive Position | [X]/100 | 15% | [X] | [one-line finding] |
-| Outreach Readiness | [X]/100 | 20% | [X] | [one-line finding] |
+| Company Fit | [X]/100 | 30% | [X] | [one-line finding] |
+| Contact Access | [X]/100 | 25% | [X] | [one-line finding] |
+| Opportunity Quality | [X]/100 | 25% | [X] | [one-line finding] |
+| Competitive Position | [X]/100 | 20% | [X] | [one-line finding] |
 | **TOTAL** | | **100%** | **[X]/100** | |
 
 ---
@@ -467,20 +439,10 @@ Weaknesses of their current solution to highlight.]
 
 ---
 
-## Recommended Outreach Strategy
-
-### Selected Framework
-[Which of the 4 outreach frameworks was selected and why]
-
-### Channel Strategy
-[Primary and secondary channels. LinkedIn + email timing.]
-
-### Personalization Research
+## Personalization Research
 [All personalization anchors found: trigger events, personal interests,
-shared connections, recent content, career milestones]
-
-### Objection Preparation
-[Top 3 likely objections and prepared responses]
+shared connections, recent content, career milestones — use these when you
+make contact, whatever the channel.]
 
 ---
 
@@ -499,25 +461,6 @@ shared connections, recent content, career milestones]
 ### Long-Term (Next 1-3 Months)
 1. [Specific action with details]
 2. [Specific action with details]
-
----
-
-## Ready-to-Send First Email
-
-**To:** [Name], [Title] at [Company]
-**Subject Line A:** [subject]
-**Subject Line B:** [subject]
-
----
-
-[Full email body — copy-paste ready, under 100 words,
-personalized with real data from the research]
-
----
-
-**CTA:** [specific ask]
-**Send Timing:** [recommended day/time]
-**Follow-Up:** [when and how to follow up if no response]
 
 ---
 
@@ -547,7 +490,6 @@ Score Breakdown:
   Contact Access:      [XX]/100 ██████░░░░
   Opportunity Quality: [XX]/100 ███████░░░
   Competitive Position:[XX]/100 █████░░░░░
-  Outreach Readiness:  [XX]/100 ████████░░
 
 Key Decision Maker: [Name], [Title]
 
@@ -610,5 +552,4 @@ Full report saved to: PROSPECT-ANALYSIS.md
 - If `DECISION-MAKERS.md` exists, incorporate its findings into the contact analysis
 - If `LEAD-QUALIFICATION.md` exists, incorporate its findings into the opportunity assessment
 - If `COMPETITIVE-INTEL.md` exists, incorporate its findings into the competitive landscape
-- If `OUTREACH-SEQUENCE.md` exists, reference it in the outreach strategy section
-- Suggest follow-up commands: `/sales outreach` for full email sequence, `/sales prep` for meeting preparation, `/sales proposal` for deal-specific proposal
+- Suggest a follow-up command where relevant: `/sales objections` to prepare for likely pushback on a call

@@ -44,7 +44,7 @@ input; they don't discover companies, they analyze one you already picked.
 | Skill | Command | What it does |
 |---|---|---|
 | `sales/SKILL.md` | *(orchestrator — no direct command)* | Routes every `/sales <command>` to the right skill below, and directly implements `/sales quick <url>` inline (a 60-second scorecard, terminal output only, no subagents). **Required for any `/sales ...` command to work at all.** |
-| `skills/sales-prospect` | `/sales prospect <url>` | The flagship command. Launches the 4 skills below as parallel subagents, aggregates them into one scored `PROSPECT-ANALYSIS.md` with a ready-to-send first email. |
+| `skills/sales-prospect` | `/sales prospect <url>` | The flagship command. Launches the 4 skills below as parallel subagents, aggregates them into one scored `PROSPECT-ANALYSIS.md`. |
 | `skills/sales-contacts` | `/sales contacts <url>` | Decision-maker mapping: buying committee, org chart, personalization anchors. *(You asked for this one directly.)* |
 | `skills/sales-competitors` | `/sales competitors <url>` | Competitive intelligence: current vendor signals, switching costs, positioning angles. *(You asked for this one directly.)* |
 | `skills/sales-objections` | `/sales objections <topic>` | Objection-handling playbook. *(You asked for this one directly.)* |
@@ -55,21 +55,38 @@ input; they don't discover companies, they analyze one you already picked.
 |---|---|
 | `skills/sales-research` | `sales-prospect`'s "sales-company" subagent — company research & firmographics. Hard dependency, not optional. |
 | `skills/sales-qualify` | `sales-prospect`'s "sales-opportunity" subagent — BANT/MEDDIC qualification. Hard dependency, not optional. |
-| `skills/sales-outreach` | `sales-prospect`'s "sales-strategy" subagent — drafts the ready-to-send first email in the final report. Hard dependency, not optional. |
 
-**Worth knowing:** `sales-outreach` is email-specific (subject lines, email
-body, send timing) — since `sales-prospect`'s report always includes a
-"Ready-to-Send First Email" section built from it, that section will read as
-an email even if your actual outreach is calling. Treat that one section as
-optional/skippable in the output rather than something to act on literally;
-everything else in the report (scoring, decision-maker map, competitive
-landscape, action plan) is channel-agnostic.
+**Removed:** the original upstream `sales-prospect` launched a 5th subagent
+(`sales-strategy`, backed by a `sales-outreach` skill) that drafted a
+ready-to-send *email* as part of the report. Since this is for calling, not
+emailing, that subagent, its scoring weight, and the "Ready-to-Send First
+Email" report section were all stripped out — `sales-prospect` here is the
+4-subagent version, with scoring reweighted across the remaining 4 categories
+(Company Fit 30% / Contact Access 25% / Opportunity Quality 25% / Competitive
+Position 20%). `sales-outreach` itself was deleted from the repo since nothing
+else needs it. The report still keeps a trimmed "Personalization Research"
+section (trigger events, anchors) since that's useful on a call too — just
+not wrapped in an email draft.
 
 Left out on purpose: `sales-icp` (overlaps with `icp-onboarding`, less
 reusable), `sales-followup` (email-specific), `sales-prep` / `sales-proposal`
 / `sales-report` / `sales-report-pdf` (not requested). Add any of these later
 the same way — they're all single self-contained `SKILL.md` files with no
 further dependencies.
+
+**Top-level `agents/`, `templates/`, and `scripts/` folders from the source
+repo were not brought in.** None of the skills above have a hard dependency on
+them:
+- The `agents/*.md` persona files (`sales-company.md`, `sales-strategy.md`,
+  etc.) are never referenced by `sales-prospect`'s actual instructions — it
+  explicitly launches subagents as `subagent_type: "general-purpose"`, driven
+  by the `SKILL.md` files already here, not by those persona files.
+- `templates/*.md` (outreach templates, proposal template, meeting-prep
+  template) all belong to skills that were left out or removed.
+- `scripts/analyze_prospect.py` is referenced once, by `sales-prospect`, but
+  is explicitly optional in its own instructions — "if the script is not
+  available or fails, continue the analysis" using plain `WebFetch` data
+  instead. Nothing breaks without it.
 
 ## Installing as Claude Code skills
 
@@ -80,7 +97,7 @@ cp -r skills/icp-onboarding skills/icp-prompt-builder skills/lead-research-assis
 # Per-account deep-dive layer (sales/ is a top-level folder, not under skills/)
 cp -r sales ~/.claude/skills/
 cp -r skills/sales-prospect skills/sales-contacts skills/sales-competitors skills/sales-objections \
-      skills/sales-research skills/sales-qualify skills/sales-outreach ~/.claude/skills/skills/
+      skills/sales-research skills/sales-qualify ~/.claude/skills/skills/
 ```
 
 Or copy into a project's `.claude/skills/` instead, to keep them project-scoped.
@@ -94,6 +111,8 @@ Or copy into a project's `.claude/skills/` instead, to keep them project-scoped.
   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
   (see that repo for its license).
 - `sales/`, `sales-prospect`, `sales-contacts`, `sales-competitors`,
-  `sales-objections`, `sales-research`, `sales-qualify`, `sales-outreach`:
+  `sales-objections`, `sales-research`, `sales-qualify`:
   from [zubair-trabzada/ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude)
-  (see that repo for its license).
+  (see that repo for its license). `sales-prospect` and `sales/SKILL.md` were
+  both modified locally (email subagent removed, scoring reweighted) — see
+  above.

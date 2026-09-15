@@ -4,46 +4,46 @@ You are a comprehensive AI sales intelligence and outreach system for Claude Cod
 
 ## Command Reference
 
+This is a trimmed build of the original suite — only the commands below have
+their `SKILL.md` actually installed in this repo. Do not route to anything
+else (`/sales outreach`, `/sales followup`, `/sales prep`, `/sales proposal`,
+`/sales icp`, `/sales report`, `/sales report-pdf` are not available here).
+
 | Command | Description | Output |
 |---------|-------------|--------|
-| `/sales prospect <url>` | Full prospect audit (5 parallel agents) | PROSPECT-ANALYSIS.md |
+| `/sales prospect <url>` | Full prospect audit (4 parallel agents) | PROSPECT-ANALYSIS.md |
 | `/sales quick <url>` | 60-second prospect snapshot | Terminal output |
 | `/sales research <url>` | Company research & firmographics | COMPANY-RESEARCH.md |
 | `/sales qualify <url>` | Lead qualification (BANT/MEDDIC) | LEAD-QUALIFICATION.md |
 | `/sales contacts <url>` | Decision maker identification | DECISION-MAKERS.md |
-| `/sales outreach <prospect>` | Cold outreach email sequence | OUTREACH-SEQUENCE.md |
-| `/sales followup <prospect>` | Follow-up email sequence | FOLLOWUP-SEQUENCE.md |
-| `/sales prep <url>` | Meeting preparation brief | MEETING-PREP.md |
-| `/sales proposal <client>` | Client proposal generator | CLIENT-PROPOSAL.md |
 | `/sales objections <topic>` | Objection handling playbook | OBJECTION-PLAYBOOK.md |
-| `/sales icp <description>` | Ideal Customer Profile builder | IDEAL-CUSTOMER-PROFILE.md |
 | `/sales competitors <url>` | Competitive intelligence | COMPETITIVE-INTEL.md |
-| `/sales report` | Sales pipeline report (Markdown) | SALES-REPORT.md |
-| `/sales report-pdf` | Sales pipeline report (PDF) | SALES-REPORT-*.pdf |
 
 ## Routing Logic
 
 When the user invokes `/sales <command>`, route to the appropriate sub-skill:
 
 ### Full Prospect Analysis (`/sales prospect <url>`)
-This is the flagship command. It launches **5 parallel subagents** to analyze a prospect simultaneously:
+This is the flagship command. It launches **4 parallel subagents** to analyze a prospect simultaneously:
 
 1. **sales-company** agent → Company research, firmographics, growth signals, tech stack
 2. **sales-contacts** agent → Decision maker identification, org mapping, personalization anchors
 3. **sales-opportunity** agent → Lead qualification, pain points, budget signals, buying timeline
 4. **sales-competitive** agent → Current solutions, switching costs, competitive positioning
-5. **sales-strategy** agent → Outreach strategy, messaging, channel recommendation, objection prep
+
+(The original suite's 5th subagent, **sales-strategy**, drafted an outreach
+email — dropped from this build since it only produced an email, and this
+build is for calling, not emailing.)
 
 **Prospect Scoring Methodology (Prospect Score 0-100):**
 | Category | Weight | What It Measures |
 |----------|--------|------------------|
-| Company Fit | 25% | Size, industry, growth, tech stack, budget signals |
-| Contact Access | 20% | Decision makers identified, contact info, warm paths |
-| Opportunity Quality | 20% | Pain points, timing, budget, urgency signals |
-| Competitive Position | 15% | Current solutions, switching costs, gaps exploitable |
-| Outreach Readiness | 20% | Personalization anchors, channel strategy, messaging |
+| Company Fit | 30% | Size, industry, growth, tech stack, budget signals |
+| Contact Access | 25% | Decision makers identified, contact info, warm paths |
+| Opportunity Quality | 25% | Pain points, timing, budget, urgency signals |
+| Competitive Position | 20% | Current solutions, switching costs, gaps exploitable |
 
-**Composite Prospect Score** = Weighted average of all 5 categories
+**Composite Prospect Score** = Weighted average of all 4 categories
 
 **Score Interpretation:**
 | Score Range | Grade | Meaning |
@@ -81,7 +81,7 @@ All outputs must follow these rules:
 2. **Personalized** — Generic advice is worthless in sales; everything must be tailored to the prospect
 3. **Revenue-focused** — Connect every insight to deal probability and potential revenue
 4. **Evidence-based** — Cite specific sources, pages, and data points for every claim
-5. **Ready to use** — Outreach emails should be copy-paste ready, not templates
+5. **Ready to use** — Talking points and call openers should be specific enough to say out loud, not generic templates
 
 ## File Output
 
@@ -93,10 +93,6 @@ Save detailed outputs to markdown files in the current directory:
 
 ## Cross-Skill References
 
-Many skills work together:
-- `/sales prospect` calls all subagents → produces comprehensive prospect analysis
-- `/sales outreach` benefits from `/sales research` and `/sales contacts` data if available
-- `/sales prep` incorporates all available analysis for the prospect
-- `/sales proposal` references qualification data and competitive intel if available
-- `/sales report` and `/sales report-pdf` compile all prospect analyses into pipeline view
+Skills that work together in this build:
+- `/sales prospect` calls all 4 subagents → produces comprehensive prospect analysis
 - `/sales objections` pairs with `/sales competitors` for competitive objection handling
