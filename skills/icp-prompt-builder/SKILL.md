@@ -1,6 +1,6 @@
 ---
 name: icp-prompt-builder
-description: Interactive loop that builds and tunes an AI prompt for evaluating whether a company fits a client's ICP. Run after any list-building skill (disco-like, blitz-list-builder, google-maps-list-builder, prospeo-full-export) to qualify companies before scaling. Iterates batches of 10 companies with user feedback, stops when 2 consecutive rounds have zero corrections, saves the final prompt for reuse. Always uses Claude Code Task sub-agents — never an external API key.
+description: Interactive loop that builds and tunes an AI prompt for evaluating whether a company fits a client's ICP. Run after any list-building skill (lead-research-assistant) to qualify companies before scaling. Iterates batches of 10 companies with user feedback, stops when 2 consecutive rounds have zero corrections, saves the final prompt for reuse. Always uses Claude Code Task sub-agents — never an external API key.
 ---
 
 # ICP Prompt Builder
