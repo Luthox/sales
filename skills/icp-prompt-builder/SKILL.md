@@ -181,12 +181,11 @@ The script supports both. Default is Option A to keep everything inside Claude C
 ## Recommended flow
 
 1. `/icp-onboarding` → produce `client-profile.yaml`
-2. `/disco-like` OR `/blitz-list-builder` OR `/prospeo-full-export` → pull a sample of 50-100 companies
+2. `/lead-research-assistant` a few times → pull a sample of 10-20 companies
 3. `/icp-prompt-builder` → tune qualification prompt on that sample (3-5 rounds typical)
-4. Scale the list-builder to 5,000+ companies
+4. Scale the list-builder to 50+ companies
 5. Apply the tuned prompt to the full list → only keep `qualified: true` with `confidence >= 0.6`
-6. `/blitz-list-builder` or `/email-waterfall` on the qualified subset
-7. Upload to Smartlead
+6. `/lead-research-assistant` on the qualified subset
 
 ## Data points the prompt can use
 
