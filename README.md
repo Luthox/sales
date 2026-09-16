@@ -48,6 +48,47 @@ accounts, no paid data services, no API keys to manage.
 
 ---
 
+## 📞 Recommended flow: zero to calling
+
+If you're starting from nothing, this is the order that gets you from "no
+target list" to "ready to dial," using the skills above:
+
+1. **Define your ICP, once per business.** *"Help me set up our ICP"*
+   (`icp-onboarding`). You only redo this when your targeting actually
+   changes — it's the one step everyone shares.
+2. **Build a shortlist.** *"Find me leads that fit our ICP"*
+   (`lead-generator-assistant`). Run it repeatedly with different sector or
+   region framings to keep surfacing candidates.
+3. *(Optional, only at real volume)* **Tune a qualification prompt**
+   (`icp-prompt-builder`) — think of it as training a junior assistant to
+   screen a huge stack of resumes for you. You write down what a good fit
+   looks like, test it on 10 companies, correct anything it got wrong,
+   retest on 10 more, and repeat until it gets two batches in a row
+   completely right — only then do you trust it to grade the rest of a
+   pile you could never review yourself. Skip this for a 10-20 company
+   shortlist — there's no "pile too big to check yourself" problem yet,
+   since you're already looking at each one directly via
+   `lead-generator-assistant`. It only earns its keep once a list-building
+   tool is dumping 50+ raw, unvetted companies on you at once.
+4. **Triage the shortlist.** `/sales quick <url>` on each candidate — a fast
+   gut check to rank who's actually worth going deeper on before you invest
+   more time.
+5. **Go deep on your top few**, using whichever of these actually answers
+   the question you have — you don't need all of them for every prospect:
+   - `/sales research <url>` — company background & firmographics
+   - `/sales contacts <url>` — who to actually ask for
+   - `/sales qualify <url>` — is this lead worth chasing (BANT/MEDDIC)
+   - `/sales competitors <url>` — what they're already using
+6. **Prep for pushback.** `/sales objections <topic/industry>` right before
+   the call, so responses are ready instead of improvised live.
+7. **Call.**
+
+`/sales prospect <url>` (the full 4-in-1 report) isn't part of this flow —
+it's a heavier deliverable for when you want a written report to hand off
+or reference later, not something you need on the way to a cold call.
+
+---
+
 ## 🔄 How "everyone stays up to date" actually works
 
 Think of it like a shared Google Doc instead of downloaded copies. There's
