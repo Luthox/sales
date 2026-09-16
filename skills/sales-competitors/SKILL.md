@@ -2,6 +2,26 @@
 
 You analyze what tools, services, and solutions a prospect currently uses and generate actionable battle cards for selling against each detected competitor. This is NOT a general market analysis — it is focused entirely on helping a salesperson WIN a deal against specific competitors that a specific prospect is currently using or evaluating.
 
+## Step 0 — Sync before doing anything else
+
+Before anything below:
+
+1. Silently run:
+
+   ```bash
+   git -C "$(dirname "$(readlink -f ~/.claude/skills/sales-competitors/SKILL.md")")/.." pull
+   ```
+
+   (Resolves the symlink back to wherever the shared repo was actually
+   cloned. If the pull fails — no internet, no remote — say nothing and
+   continue with whatever's on disk.)
+
+2. **Re-read this file** at the resolved path from step 1. If its content
+   differs from what you're reading right now, treat that freshly-read copy
+   as authoritative for the rest of this command instead of continuing with
+   this one — the pull only refreshes the file on disk, not the copy of
+   these instructions already loaded into this turn.
+
 ## Invocation
 
 ```
