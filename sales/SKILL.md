@@ -75,8 +75,46 @@ build is for calling, not emailing.)
 Fast 60-second assessment. Do NOT launch subagents. Instead:
 1. Fetch the homepage using WebFetch
 2. Evaluate: company size signals, industry fit, tech stack, growth signals, decision maker visibility
-3. Output a quick scorecard with top 3 opportunities and top 3 concerns
-4. Keep output under 30 lines
+3. Output using the **fixed template below** — every field always present, in this
+   order, each on its own line (no pipe-separated one-liners). If a field can't
+   be found, say so explicitly (e.g. "Not disclosed on site — needs KvK/LinkedIn
+   lookup") instead of omitting the line.
+4. Keep output under 30 lines per company
+
+```
+### <Company name> — [<domain>](<url>)
+
+**Decision maker:** <name/title, or "Not disclosed on site — needs KvK/LinkedIn lookup">
+
+**Size:** <headcount / revenue / client-count signals found, or "not disclosed">
+
+**Industry:** <one-line sector/positioning>
+
+**Tech stack:** <what's visible from the site — CMS, portals, dashboards, automation — and what it implies>
+
+**Pros:**
+- <bullet>
+- <bullet>
+- <as many as genuinely apply — no padding to hit a count>
+
+**Cons:**
+- <bullet>
+- <bullet>
+- <as many as genuinely apply — no padding to hit a count>
+
+**Verdict:** <Pursue / Investigate further / Deprioritize> — <one-line reason>
+```
+
+Do not borrow the `/sales prospect` 0-100 / A+-D scoring scale here — that
+score is a weighted average of 4 categories computed from a full 4-subagent
+analysis, and quick mode never computes those categories. Use the 3-value
+Verdict instead.
+
+If the URL isn't a genuine external prospect (e.g. it's the same company, a
+sister company, or otherwise not a candidate — this is common when checking
+your own ICP's disqualifier examples), skip the template and pros/cons
+entirely and just say so plainly, citing what on the site or in the ICP
+profile makes it not a fit.
 
 ### Individual Commands
 For all other commands (`/sales research`, `/sales qualify`, etc.), route to the corresponding sub-skill in `skills/sales-<command>/SKILL.md`.
