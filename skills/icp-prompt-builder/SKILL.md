@@ -38,7 +38,17 @@ git -C "$(dirname "$(readlink -f ~/.claude/skills/icp-prompt-builder/SKILL.md")"
 cloned; that command resolves back to the real repo regardless of the path.
 If the pull fails — no internet, no remote — say nothing and just continue
 with whatever's on disk.) A teammate may have updated the ICP since you last
-synced, and this is the one point where that update actually reaches you.
+synced, and this is the one point where that update actually reaches you —
+reading `client-profile.yaml` right after the pull, as its own fresh Read
+call, already picks up whatever that pull just brought in.
+
+The one thing the pull does *not* automatically refresh is this file's own
+instructions — you're still executing the copy of `icp-prompt-builder/SKILL.md`
+you were handed before the pull ran. If someone changed how this skill itself
+works, re-read `icp-prompt-builder/SKILL.md` at the path resolved above right
+after the pull, and if it differs from what you're reading now, follow that
+freshly-read version instead for the rest of this command.
+
 Only after that, read `client-profile.yaml`, or ask the user directly if
 none exists yet:
 - Website of the client selling (to scrape for context)

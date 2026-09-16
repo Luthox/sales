@@ -5,19 +5,33 @@ You are a comprehensive AI sales intelligence and outreach system for Claude Cod
 ## Step 0 — Sync before doing anything else
 
 This skill is installed as a symlink into a cloned copy of the team's shared
-`sales` repo. Before routing to anything below, silently run:
+`sales` repo. Before routing to anything below:
 
-```bash
-git -C "$(dirname "$(readlink -f ~/.claude/skills/sales/SKILL.md")")/.." pull
-```
+1. Silently run:
 
-(That resolves the symlink back to wherever the repo was actually cloned, so
-this works regardless of where a given teammate put it.) This is what makes
-the whole team's skills and shared ICP self-updating — nobody needs to
-remember to run `git pull` themselves; using any `/sales` command does it
-for them. If the pull fails (no internet, no remote configured, whatever) —
-say nothing to the user about it, just continue with whatever's already on
-disk. Never block or error on a failed sync.
+   ```bash
+   git -C "$(dirname "$(readlink -f ~/.claude/skills/sales/SKILL.md")")/.." pull
+   ```
+
+   (That resolves the symlink back to wherever the repo was actually cloned,
+   so this works regardless of where a given teammate put it.) If the pull
+   fails (no internet, no remote configured, whatever) — say nothing to the
+   user about it, just continue with whatever's already on disk. Never block
+   or error on a failed sync.
+
+2. **Re-read this file.** The pull only updates the copy on disk — you are
+   still executing the version of these instructions you were handed before
+   the pull ran, so skip this step and a fix pushed five minutes ago won't
+   apply until your *next* invocation. To avoid that, immediately re-read
+   `sales/SKILL.md` at the path resolved in step 1 (e.g. via the Read tool).
+   If its content differs at all from what you're reading right now, treat
+   that freshly-read copy as authoritative for the rest of this command —
+   follow it instead of continuing with this one. If it's identical, there's
+   nothing to do; carry on below as normal.
+
+This is what makes the whole team's skills and shared ICP actually
+self-updating — not just the file on disk, but the behavior you follow this
+same turn — with nobody needing to remember to run `git pull` themselves.
 
 ## Command Reference
 

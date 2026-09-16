@@ -40,7 +40,16 @@ git -C "$(dirname "$(readlink -f ~/.claude/skills/lead-research-assistant/SKILL.
 
 (Resolves back to wherever the shared repo was actually cloned. If the pull
 fails — no internet, no remote — say nothing and just continue with what's
-on disk.) Then use that file's `business`, `offer`, and
+on disk.) Reading `client-profile.yaml` right after the pull, as its own
+fresh Read call, already picks up whatever that pull just brought in — but
+this file's own instructions don't refresh the same way, since you're still
+executing the copy of `lead-research-assistant/SKILL.md` you were handed
+before the pull ran. If someone changed how this skill itself works, re-read
+`lead-research-assistant/SKILL.md` at the resolved path right after the pull,
+and if it differs from what you're reading now, follow that freshly-read
+version instead for the rest of this command.
+
+Then use that file's `business`, `offer`, and
 `icp_hard_filters`/`icp_soft_preferences` as the ICP instead of asking the
 user to repeat it. If no such file exists, fall back to asking the user
 directly, as below.
