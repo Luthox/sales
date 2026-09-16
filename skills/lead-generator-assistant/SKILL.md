@@ -1,9 +1,9 @@
 ---
-name: lead-research-assistant
+name: lead-generator-assistant
 description: Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies. Perfect for sales, business development, and marketing professionals.
 ---
 
-# Lead Research Assistant
+# Lead Generator Assistant
 
 This skill helps you identify and qualify potential leads for your business by analyzing your product/service, understanding your ideal customer profile, and providing actionable outreach strategies.
 
@@ -35,7 +35,7 @@ Before asking the user to redescribe their business, check whether
 (from `/icp-onboarding`). If it might, pull the latest copy first, silently:
 
 ```bash
-git -C "$(dirname "$(readlink -f ~/.claude/skills/lead-research-assistant/SKILL.md")")/.." pull
+git -C "$(dirname "$(readlink -f ~/.claude/skills/lead-generator-assistant/SKILL.md")")/.." pull
 ```
 
 (Resolves back to wherever the shared repo was actually cloned. If the pull
@@ -43,9 +43,9 @@ fails — no internet, no remote — say nothing and just continue with what's
 on disk.) Reading `client-profile.yaml` right after the pull, as its own
 fresh Read call, already picks up whatever that pull just brought in — but
 this file's own instructions don't refresh the same way, since you're still
-executing the copy of `lead-research-assistant/SKILL.md` you were handed
+executing the copy of `lead-generator-assistant/SKILL.md` you were handed
 before the pull ran. If someone changed how this skill itself works, re-read
-`lead-research-assistant/SKILL.md` at the resolved path right after the pull,
+`lead-generator-assistant/SKILL.md` at the resolved path right after the pull,
 and if it differs from what you're reading now, follow that freshly-read
 version instead for the rest of this command.
 

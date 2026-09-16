@@ -80,7 +80,7 @@ if you're maintaining it, not required reading to just use it day to day.
 
 ## Two layers, kept deliberately separate
 
-1. **Discovery** (`icp-onboarding`, `icp-prompt-builder`, `lead-research-assistant`)
+1. **Discovery** (`icp-onboarding`, `icp-prompt-builder`, `lead-generator-assistant`)
    — find and grade a list of companies. **Zero paid third-party APIs** — runs
    on Claude's own reasoning plus built-in web-search/fetch.
 2. **Per-account deep dive** (everything under `sales/` and the `sales-*`
@@ -95,14 +95,14 @@ if you're maintaining it, not required reading to just use it day to day.
 |---|---|---|
 | `skills/icp-onboarding` | [growthenginenowoslawski/coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills) | Conversational ICP intake. Scrapes your own website for context, interviews you on target industries/size/geography/disqualifiers, splits **hard filters** (must match) from **soft preferences** (nice-to-have), saves a structured `client-profile.yaml`. |
 | `skills/icp-prompt-builder` | same | Builds and tunes an AI qualification prompt against a sample of companies, iterating with your corrections until 2 rounds in a row need none. Runs entirely as Claude Task sub-agents — no external API key, ever. |
-| `skills/lead-research-assistant` | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | The actual company *finder*. Given a product/ICP description, searches for and scores matching companies, with contact-strategy suggestions per lead. |
+| `skills/lead-generator-assistant` | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | The actual company *finder*. Given a product/ICP description, searches for and scores matching companies, with contact-strategy suggestions per lead. |
 
-**Flow:** `icp-onboarding` (define who you want, once) → `lead-research-assistant`
+**Flow:** `icp-onboarding` (define who you want, once) → `lead-generator-assistant`
 (run repeatedly with different sector/region framings to surface candidates)
 → `icp-prompt-builder` (tune a qualification prompt on a sample, apply it to
 filter/rank the full pool).
 
-**Limitations:** modest scale (`lead-research-assistant` is built for a
+**Limitations:** modest scale (`lead-generator-assistant` is built for a
 10-20 company shortlist per run, not bulk volume — building a big list means
 running it many times and merging results yourself), no contact enrichment,
 and results aren't verified (spot-check anything found via web search
@@ -193,7 +193,7 @@ this (or `git pull` + re-copy) manually whenever you want the latest version:
 
 ```bash
 # Discovery layer
-cp -r skills/icp-onboarding skills/icp-prompt-builder skills/lead-research-assistant ~/.claude/skills/
+cp -r skills/icp-onboarding skills/icp-prompt-builder skills/lead-generator-assistant ~/.claude/skills/
 
 # Per-account deep-dive layer (sales/ is a top-level folder, not under skills/)
 cp -r sales ~/.claude/skills/
@@ -214,7 +214,7 @@ Or copy into a project's `.claude/skills/` instead, to keep them project-scoped.
    file. A local-only edit doesn't help the team, only a pushed one does.
 3. **Every skill pulls the latest repo before it does anything else** —
    `sales/SKILL.md` (so every `/sales <command>`), `icp-prompt-builder`, and
-   `lead-research-assistant` all run a silent `git pull` as their first
+   `lead-generator-assistant` all run a silent `git pull` as their first
    step. If the pull fails (offline, etc.) it's silently skipped and the
    skill continues with whatever's on disk — never blocks, never errors.
 4. **Skills are symlinked, not copied** — a fix to any `SKILL.md` is picked
@@ -234,7 +234,7 @@ change to how the skills themselves work.
 - `icp-onboarding`, `icp-prompt-builder`: from
   [growthenginenowoslawski/coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills)
   (see that repo for its license).
-- `lead-research-assistant`: from
+- `lead-generator-assistant`: from
   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
   (see that repo for its license).
 - `sales/`, `sales-prospect`, `sales-contacts`, `sales-competitors`,

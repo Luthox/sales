@@ -1,6 +1,6 @@
 ---
 name: icp-prompt-builder
-description: Interactive loop that builds and tunes an AI prompt for evaluating whether a company fits a client's ICP. Run after any list-building skill (lead-research-assistant) to qualify companies before scaling. Iterates batches of 10 companies with user feedback, stops when 2 consecutive rounds have zero corrections, saves the final prompt for reuse. Always uses Claude Code Task sub-agents — never an external API key.
+description: Interactive loop that builds and tunes an AI prompt for evaluating whether a company fits a client's ICP. Run after any list-building skill (lead-generator-assistant) to qualify companies before scaling. Iterates batches of 10 companies with user feedback, stops when 2 consecutive rounds have zero corrections, saves the final prompt for reuse. Always uses Claude Code Task sub-agents — never an external API key.
 ---
 
 # ICP Prompt Builder
@@ -181,11 +181,11 @@ The script supports both. Default is Option A to keep everything inside Claude C
 ## Recommended flow
 
 1. `/icp-onboarding` → produce `client-profile.yaml`
-2. `/lead-research-assistant` a few times → pull a sample of 10-20 companies
+2. `/lead-generator-assistant` a few times → pull a sample of 10-20 companies
 3. `/icp-prompt-builder` → tune qualification prompt on that sample (3-5 rounds typical)
 4. Scale the list-builder to 50+ companies
 5. Apply the tuned prompt to the full list → only keep `qualified: true` with `confidence >= 0.6`
-6. `/lead-research-assistant` on the qualified subset
+6. `/lead-generator-assistant` on the qualified subset
 
 ## Data points the prompt can use
 
