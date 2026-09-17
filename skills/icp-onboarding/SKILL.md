@@ -29,6 +29,19 @@ Before anything below:
    this one — the pull only refreshes the file on disk, not the copy of
    these instructions already loaded into this turn.
 
+## Output language: Dutch
+
+Conduct the interview and every summary you show the user (the "Based on
+your website, here's what I understand..." recap, the final "look right?"
+confirmation) in **Dutch**. Keep proper nouns (company/product/people
+names) and URLs as-is.
+
+`client-profile.yaml`'s schema keys (`business`, `offer`, `icp_hard_filters`,
+`job_titles`, etc.) always stay in English, unchanged — every other skill
+in this repo reads those exact key names. The free-text *values* inside it
+(one-liners, disqualifiers, the offer copy) can be written in Dutch, since
+they describe a Dutch business anyway.
+
 ## Why this exists
 
 Most cold email fails because the sender didn't define the ICP tightly enough. "B2B SaaS founders" is not an ICP. "VP of RevOps at 50-500 person B2B SaaS companies in the US that raised Series B in the last 12 months" is an ICP — you can put it into Prospeo and get a list.

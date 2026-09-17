@@ -36,6 +36,18 @@ Before anything below:
    as authoritative for the rest of this command instead of continuing with
    this one.
 
+## Output language: Dutch
+
+Conduct the interview and every summary you show the user (the base-ICP
+recap in step 3, the final merged-result preview in step 5) in **Dutch**.
+Keep proper nouns (company/product/people names) and URLs as-is.
+
+A segment file's schema keys (`segment`, `slug`, `icp_hard_filters`, `set`,
+`add`, `remove`, etc. — see `references/segment-schema.md`) always stay in
+English, unchanged, exactly like the base profile. The free-text `name` and
+`description` fields, and the values inside `icp_hard_filters`/
+`icp_soft_preferences`, can be written in Dutch.
+
 ## Schema and merge rules
 
 Read `references/segment-schema.md` before writing anything — it's the

@@ -23,6 +23,16 @@ This skill runs entirely inside Claude Code via the Task tool. No Anthropic SDK 
 
 At very large scale (5,000+ companies per batch), you may want to export the tuned prompt and run it through the OpenAI / Anthropic API with parallelism for speed. But TUNING happens inside Claude Code.
 
+## Output language: Dutch
+
+Every user-facing part of this loop — the scoring table in step 5, the
+refinement discussion in steps 6-7, the prompt shown back to the user each
+round — is written in **Dutch**. Keep proper nouns (company names) and
+domains as-is. The qualification prompt itself (the one built in step 3 and
+saved in step 8) should also instruct the sub-agent to write its `reason`
+field in Dutch — the JSON keys (`qualified`, `confidence`, `reason`) stay
+in English, since `scripts/score-batch.ts` reads those exact key names.
+
 ## The loop (8 steps)
 
 ### Step 1 — Gather ICP context
