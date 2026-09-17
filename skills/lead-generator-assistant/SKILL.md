@@ -54,6 +54,23 @@ Then use that file's `business`, `offer`, and
 user to repeat it. If no such file exists, fall back to asking the user
 directly, as below.
 
+## Optional: use a segment instead of the base ICP alone
+
+If the user names a segment ("use the `<segment-slug>` segment", "find
+leads for our wholesale push"), or `profiles/<business-slug>/segments/`
+exists and what they're asking for sounds like it matches one of the
+filenames there, check for `profiles/<business-slug>/segments/<segment-slug>.yaml`
+(same pull-first step as above already covers this — the segment file comes
+along with the same `git pull`). If found, read `references/segment-schema.md`
+in `icp-segment-builder` (in this same repo, at
+`skills/icp-segment-builder/references/segment-schema.md`) for the merge
+rules, then merge the segment onto the base profile per those rules and use
+the **merged** result as the ICP for this run instead of the base alone.
+
+If the user didn't name a segment, just use the base profile — segments are
+opt-in, never required. If they ask what segments exist, list the filenames
+under `profiles/<business-slug>/segments/` (strip `.yaml`).
+
 ## How to Use
 
 ### Basic Usage

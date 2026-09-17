@@ -32,6 +32,7 @@ echo "Linking skills from $REPO_DIR into $SKILLS_DIR ..."
 
 # Discovery layer
 link "skills/icp-onboarding"          "icp-onboarding"
+link "skills/icp-segment-builder"     "icp-segment-builder"
 link "skills/icp-prompt-builder"      "icp-prompt-builder"
 link "skills/lead-generator-assistant" "lead-generator-assistant"
 

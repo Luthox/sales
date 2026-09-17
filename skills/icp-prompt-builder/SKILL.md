@@ -57,6 +57,15 @@ none exists yet:
 - Any specific signals? (B2B only, revenue range, tech stack, hiring status, recent fundraise, etc.)
 - Any HARD disqualifiers? (competitor domains, existing customer domains, certain industries/geographies)
 
+**Optional: use a segment instead of the base ICP alone.** If the user names
+a segment ("tune a prompt for the `<segment-slug>` segment") or asks to
+tune for a specific vertical/campaign that matches a file under
+`profiles/<business-slug>/segments/`, read that segment file plus
+`skills/icp-segment-builder/references/segment-schema.md` for the merge
+rules, merge it onto the base profile, and use the **merged** result as the
+ICP for the rest of this loop instead of the base alone. If no segment is
+named, just use the base profile as before.
+
 ### Step 2 — Select 10 test companies
 
 Pull 10 companies from the list-builder output:
