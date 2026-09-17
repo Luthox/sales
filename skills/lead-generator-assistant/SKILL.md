@@ -143,6 +143,11 @@ When a user requests lead research:
    - Consider growth indicators (funding, expansion, hiring)
    - Identify companies with complementary products/services
    - Check for budget indicators
+   - Check the company's visible tech stack (CMS, customer portals, webshop,
+     dashboards, automation tooling — whatever's visible from the site) and
+     what it implies about their current level of digitization. This is
+     gathered here, up front, for every lead — not deferred to a later
+     per-company check.
 
 4. **Prioritize and Score**
    - Create a fit score (1-10) for each lead
@@ -159,6 +164,9 @@ When a user requests lead research:
    - **Company Name** and website
    - **Why They're a Good Fit**: Specific reasons based on their business
    - **Priority Score**: 1-10 with explanation
+   - **Tech Stack**: What's visible on their site/systems (CMS, portals,
+     webshop, dashboards, automation) and what it implies about their
+     current digitization level
    - **Decision Maker**: Role/title to target (e.g., "VP of Engineering")
    - **Contact Strategy**: Personalized approach suggestions
    - **Value Proposition**: How your product solves their specific problem
@@ -186,6 +194,7 @@ When a user requests lead research:
    **Priority Score**: [X/10]
    **Industry**: [Industry]
    **Size**: [Employee count/revenue range]
+   **Tech Stack**: [What's visible from the site — CMS, portals, dashboards, automation — and what it implies, or "not disclosed on site"]
    
    **Why They're a Good Fit**:
    [2-3 specific reasons based on their business]
@@ -210,10 +219,11 @@ When a user requests lead research:
 
 7. **Save the batch and sync to the team**
 
-   The chat output from step 6 is for the user right now. Separately, save a
-   **stripped-down** version — company name and URL only, nothing else from
-   this run's scoring or reasoning — as a batch file the rest of the team
-   can pull and work from.
+   Save the **full** per-lead detail from step 6 — not just name and URL —
+   as a batch file the rest of the team can pull and work from, so anyone
+   who opens the file sees the same fit reasoning, tech stack read, and
+   contact strategy that generated it, without having to be in this chat
+   or re-run the research themselves.
 
    **a. Propose a filename.** Derive a short label from this run's search
    framing (e.g. "fintech companies hiring platform engineers" →
@@ -234,8 +244,8 @@ When a user requests lead research:
    business for the folder name, or skip saving entirely if they say this
    was a one-off — never invent a slug silently.
 
-   **b. Build the YAML**, using only `name` and `url` per lead — drop every
-   other field from step 6's chat output:
+   **b. Build the YAML**, carrying over every field from step 6's chat
+   output per lead (nothing dropped):
 
    ```yaml
    business: <business-slug>
@@ -247,9 +257,38 @@ When a user requests lead research:
    leads:
      - name: <Company Name>
        url: <https://...>
+       priority_score: <X/10>
+       industry: <Industry>
+       size: <Employee count/revenue range>
+       tech_stack: <What's visible and what it implies, or "not disclosed">
+       why_fit: <Specific reasons based on their business>
+       decision_maker: <Role/title to target>
+       linkedin: <URL, or null if not found>
+       value_proposition: <How the product solves their specific problem>
+       outreach_strategy: <Personalized approach>
+       conversation_starters:
+         - <Specific point 1>
+         - <Specific point 2>
      - name: <Company Name>
        url: <https://...>
+       priority_score: <X/10>
+       industry: <Industry>
+       size: <Employee count/revenue range>
+       tech_stack: <What's visible and what it implies, or "not disclosed">
+       why_fit: <Specific reasons based on their business>
+       decision_maker: <Role/title to target>
+       linkedin: <URL, or null if not found>
+       value_proposition: <How the product solves their specific problem>
+       outreach_strategy: <Personalized approach>
+       conversation_starters:
+         - <Specific point 1>
+         - <Specific point 2>
    ```
+
+   The YAML keys themselves (`priority_score`, `tech_stack`, `why_fit`,
+   etc.) always stay in English, unchanged, same as `name`/`url` already
+   did — other skills and teammates' tooling read those exact key names.
+   Field *values* follow the normal Dutch output-language rule.
 
    **c. Show the user the exact YAML and filename, and ask "look right?"**
    before touching disk or git — same confirm gate `icp-onboarding` uses
@@ -295,12 +334,15 @@ When a user requests lead research:
   caught anyway when someone goes to actually enter it into the CRM. Do not
   "helpfully" add comparison-against-history logic here — it was discussed
   and deliberately rejected.
-- **The batch file is intentionally stripped down.** Only `name` and `url`
-  per lead — no fit score, decision-maker guess, or contact strategy get
-  persisted, because `/sales quick` and `/sales prospect` regenerate that
-  analysis fresh per company when someone actually works the lead. Stale
-  scoring in a static file would just go out of date. Don't add those
-  fields back into the saved YAML even though they're in the chat output.
+- **The batch file carries the full research, on purpose.** Every field
+  from step 6's chat output (priority score, tech stack, decision maker,
+  value proposition, outreach strategy, conversation starters) is
+  persisted per lead, not just `name`/`url` — so any teammate who pulls the
+  repo sees the same reasoning without re-running research or needing this
+  conversation. This is a point-in-time snapshot, not a live source of
+  truth: `generated_at` marks when it was produced, and `/sales quick`
+  or `/sales prospect` can still be run on a lead later to refresh a stale
+  read (e.g. the company's site or team has visibly changed since).
 - **This is not a CRM.** Don't add status tracking, "contacted" flags, or
   notes fields to the batch schema — the team already has a real CRM used
   manually at call time; this file's only job is handing off a raw list.

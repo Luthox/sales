@@ -54,7 +54,7 @@ else (`/sales outreach`, `/sales followup`, `/sales prep`, `/sales proposal`,
 | Command | Description | Output |
 |---------|-------------|--------|
 | `/sales prospect <url>` | Full prospect audit (4 parallel agents) | PROSPECT-ANALYSIS.md |
-| `/sales quick <url>` | 60-second prospect snapshot | Terminal output |
+| `/sales quick <url>` | Single-company snapshot, reusing lead-generator-assistant's field set | Terminal output |
 | `/sales research <url>` | Company research & firmographics | COMPANY-RESEARCH.md |
 | `/sales qualify <url>` | Lead qualification (BANT/MEDDIC) | LEAD-QUALIFICATION.md |
 | `/sales contacts <url>` | Decision maker identification | DECISION-MAKERS.md |
@@ -97,49 +97,41 @@ build is for calling, not emailing.)
 | 0-39 | D | Poor Fit — deprioritize or disqualify |
 
 ### Quick Snapshot (`/sales quick <url>`)
-Fast 60-second assessment. Do NOT launch subagents. Instead:
-1. Fetch the homepage using WebFetch
-2. Evaluate: company size signals, industry fit, tech stack, growth signals, decision maker visibility
-3. Output using the **fixed template below** — every field always present, in this
-   order, each on its own line (no pipe-separated one-liners). If a field can't
-   be found, say so explicitly (e.g. "Not disclosed on site — needs KvK/LinkedIn
-   lookup") instead of omitting the line.
-4. Keep output under 30 lines per company
 
-```
-### <Company name> — [<domain>](<url>)
+This no longer has its own separate research routine or template. It is a
+single-company shortcut into `lead-generator-assistant`'s own research and
+output steps (that skill's steps 3 and 5-6 — which already include a tech
+stack check as of this build) run for exactly one URL, using the current
+ICP from `profiles/<business-slug>/client-profile.yaml` for fit reasoning.
+Do NOT launch subagents.
 
-**Decision maker:** <name/title, or "Not disclosed on site — needs KvK/LinkedIn lookup">
+1. Load the ICP the same way `lead-generator-assistant` does (pull +
+   re-read `client-profile.yaml`, apply a segment if the user named one).
+2. Fetch the homepage (and any obviously linked pages — team/over ons,
+   vacatures) using WebFetch.
+3. Produce the exact per-lead field set from `lead-generator-assistant`
+   step 5/6: Website, Priority Score (1-10), Industry, Size, **Tech
+   Stack**, Why They're a Good Fit, Target Decision Maker, LinkedIn, Value
+   Proposition, Outreach Strategy, Conversation Starters. Use the same
+   per-lead block format that skill's chat template uses — no separate
+   Pros/Cons/Verdict template, and no `/sales prospect` 0-100 / A+-D score
+   (that scale is a weighted average of 4 categories from a full
+   4-subagent analysis, which quick mode never computes).
+4. If a field can't be found, say so explicitly (e.g. "Niet vermeld op de
+   site — vereist KvK/LinkedIn-opzoek") instead of omitting the line.
 
-**Size:** <headcount / revenue / client-count signals found, or "not disclosed">
-
-**Industry:** <one-line sector/positioning>
-
-**Tech stack:** <what's visible from the site — CMS, portals, dashboards, automation — and what it implies>
-
-**Pros:**
-- <bullet>
-- <bullet>
-- <as many as genuinely apply — no padding to hit a count>
-
-**Cons:**
-- <bullet>
-- <bullet>
-- <as many as genuinely apply — no padding to hit a count>
-
-**Verdict:** <Pursue / Investigate further / Deprioritize> — <one-line reason>
-```
-
-Do not borrow the `/sales prospect` 0-100 / A+-D scoring scale here — that
-score is a weighted average of 4 categories computed from a full 4-subagent
-analysis, and quick mode never computes those categories. Use the 3-value
-Verdict instead.
+Because this reuses `lead-generator-assistant`'s exact fields, a company
+checked with `/sales quick` today produces the same shape of output as one
+that skill would have found in a batch — so there's no separate "quick vs.
+full lead-gen" distinction to maintain going forward. This command is not
+saved to a batch file — that only happens via `lead-generator-assistant`
+step 7.
 
 If the URL isn't a genuine external prospect (e.g. it's the same company, a
 sister company, or otherwise not a candidate — this is common when checking
-your own ICP's disqualifier examples), skip the template and pros/cons
-entirely and just say so plainly, citing what on the site or in the ICP
-profile makes it not a fit.
+your own ICP's disqualifier examples), skip the template entirely and just
+say so plainly, citing what on the site or in the ICP profile makes it not
+a fit.
 
 ### Individual Commands
 For all other commands (`/sales research`, `/sales qualify`, etc.), route to the corresponding sub-skill in `skills/sales-<command>/SKILL.md`.
