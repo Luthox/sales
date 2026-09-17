@@ -1,0 +1,14 @@
+segment:
+  slug: warehousing-storage
+  name: Warehousing & Storage
+  description: >
+    Narrows the industry-agnostic base ICP to warehousing/storage companies
+    specifically, for a focused campaign push. Split out from the
+    "transportation" segment so the two can be run as distinct campaigns.
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-09-17
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Warehousing and Storage

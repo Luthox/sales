@@ -1,0 +1,19 @@
+segment:
+  slug: transportation
+  name: Transportation
+  description: >
+    Narrows the industry-agnostic base ICP to transportation companies
+    specifically (trucking/rail, freight/package, ground passenger, and
+    maritime) for a focused transport-sector campaign push. Split out from
+    the "warehousing-storage" segment so the two can be run as distinct
+    campaigns.
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-09-17
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Truck and Railroad Transportation
+      - Freight and Package Transportation
+      - Ground Passenger Transportation
+      - Maritime Transportation
