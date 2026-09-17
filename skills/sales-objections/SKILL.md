@@ -22,6 +22,14 @@ Before anything below:
    this one — the pull only refreshes the file on disk, not the copy of
    these instructions already loaded into this turn.
 
+## Output language: Dutch
+
+All user-facing output — the chat presentation and the saved
+`OBJECTION-PLAYBOOK.md` report — is written in **Dutch**, including the
+objection responses themselves (they must be word-for-word ready to say out
+loud on a Dutch-language call). Keep proper nouns (company/product/people
+names), URLs, domains, and emails as-is.
+
 ## Invocation
 
 ```

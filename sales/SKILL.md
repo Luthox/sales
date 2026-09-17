@@ -33,6 +33,17 @@ This is what makes the whole team's skills and shared ICP actually
 self-updating — not just the file on disk, but the behavior you follow this
 same turn — with nobody needing to remember to run `git pull` themselves.
 
+## Output language: Dutch
+
+All user-facing output — every chat response and every saved report file
+(`PROSPECT-ANALYSIS.md`, `COMPANY-RESEARCH.md`, `DECISION-MAKERS.md`,
+`LEAD-QUALIFICATION.md`, `OBJECTION-PLAYBOOK.md`, `COMPETITIVE-INTEL.md`,
+the `/sales quick` snapshot, everything) is written in **Dutch**. Keep
+proper nouns as-is (company names, product names, people's names), and keep
+URLs/domains/emails as-is — don't translate those. Section headers, labels,
+scores, and all prose go in Dutch. This applies to every sub-skill routed
+to from here, not just this router file.
+
 ## Command Reference
 
 This is a trimmed build of the original suite — only the commands below have

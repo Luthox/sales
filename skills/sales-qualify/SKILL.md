@@ -22,6 +22,13 @@ Before anything below:
    this one — the pull only refreshes the file on disk, not the copy of
    these instructions already loaded into this turn.
 
+## Output language: Dutch
+
+All user-facing output — the chat presentation and the saved
+`LEAD-QUALIFICATION.md` report — is written in **Dutch**. Keep proper nouns
+(company/product/people names), URLs, domains, and emails as-is; translate
+everything else (headers, labels, prose, the BANT/MEDDIC assessment text).
+
 ## When This Skill Is Invoked
 
 - **Standalone:** The user runs `/sales qualify <url>`. Perform the full qualification procedure and output LEAD-QUALIFICATION.md.

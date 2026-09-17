@@ -22,6 +22,13 @@ Before anything below:
    this one — the pull only refreshes the file on disk, not the copy of
    these instructions already loaded into this turn.
 
+## Output language: Dutch
+
+All user-facing output — the chat presentation and the saved
+`COMPETITIVE-INTEL.md` report (battle cards included) — is written in
+**Dutch**. Keep proper nouns (company/product/people names), URLs, domains,
+and emails as-is; translate everything else (headers, labels, prose).
+
 ## Invocation
 
 ```

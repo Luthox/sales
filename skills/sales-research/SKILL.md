@@ -22,6 +22,13 @@ Before anything below:
    this one — the pull only refreshes the file on disk, not the copy of
    these instructions already loaded into this turn.
 
+## Output language: Dutch
+
+All user-facing output — the chat presentation and the saved
+`COMPANY-RESEARCH.md` report — is written in **Dutch**. Keep proper nouns
+(company/product/people names), URLs, domains, and emails as-is; translate
+everything else (headers, labels, prose, the executive summary).
+
 ## When This Skill Is Invoked
 
 - **Standalone:** The user runs `/sales research <url>`. Perform the full research procedure and output COMPANY-RESEARCH.md.

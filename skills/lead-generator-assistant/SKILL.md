@@ -7,6 +7,19 @@ description: Identifies high-quality leads for your product or service by analyz
 
 This skill helps you identify and qualify potential leads for your business by analyzing your product/service, understanding your ideal customer profile, and providing actionable outreach strategies.
 
+## Output language: Dutch
+
+The chat-facing "Lead Research Results" presentation (step 6 below — fit
+reasoning, contact strategy, everything) is written in **Dutch**. Keep
+company names, URLs, and person names as-is.
+
+The **saved batch YAML** (step 7) is the one exception — it stays
+machine-readable as documented there: `name`/`url` field values are just
+the company name and URL (nothing to translate), and the `description`
+field can be written in Dutch like everything else, but the YAML keys
+themselves (`business`, `segment`, `leads`, `name`, `url`, etc.) always
+stay in English, unchanged — other skills read those exact key names.
+
 ## When to Use This Skill
 
 - Finding potential customers or clients for your product/service

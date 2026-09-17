@@ -22,6 +22,13 @@ Before anything below:
    this one — the pull only refreshes the file on disk, not the copy of
    these instructions already loaded into this turn.
 
+## Output language: Dutch
+
+All user-facing output — the chat presentation and the saved
+`PROSPECT-ANALYSIS.md` report — is written in **Dutch**. Keep proper nouns
+(company/product/people names), URLs, domains, and emails as-is; translate
+everything else (headers, labels, prose, the executive summary).
+
 ## When This Skill Is Invoked
 
 The user runs `/sales prospect <url>`. This is the flagship command of the entire suite. It produces the most comprehensive deliverable: a scored, prioritized, actionable prospect analysis.
