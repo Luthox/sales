@@ -16,7 +16,7 @@ Please set up the shared sales team skills for me:
 1. Check if git is installed. If it isn't, install it yourself (prefer
    `brew install git`, or the small git-scm.com installer — not Apple's
    Xcode Command Line Tools, which is a ~14GB download we don't need here).
-2. Run: git clone https://github.com/YHavshush/sales.git ~/sales
+2. Run: git clone https://github.com/Luthox/sales.git ~/sales
 3. Run: bash ~/sales/install.sh
 ```
 

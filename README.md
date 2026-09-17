@@ -17,7 +17,7 @@ Please set up the shared sales team skills for me:
 1. Check if git is installed. If it isn't, install it yourself (prefer
    `brew install git`, or the small git-scm.com installer — not Apple's
    Xcode Command Line Tools, which is a ~14GB download we don't need here).
-2. Run: git clone https://github.com/YHavshush/sales.git ~/sales
+2. Run: git clone https://github.com/Luthox/sales.git ~/sales
 3. Run: bash ~/sales/install.sh
 ```
 
@@ -238,7 +238,7 @@ This repo is public, so there's no login step for reading it at all.
 small [git-scm.com](https://git-scm.com/download/mac) installer.
 
 ```bash
-git clone https://github.com/YHavshush/sales.git ~/sales && bash ~/sales/install.sh
+git clone https://github.com/Luthox/sales.git ~/sales && bash ~/sales/install.sh
 ```
 
 That clones the repo to `~/sales` and symlinks every skill into
