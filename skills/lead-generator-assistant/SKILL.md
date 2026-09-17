@@ -148,6 +148,15 @@ When a user requests lead research:
      what it implies about their current level of digitization. This is
      gathered here, up front, for every lead — not deferred to a later
      per-company check.
+   - Check the company's vacancies/careers page for open roles that signal
+     relevant pain (planning, operations, supply chain, QHSE/quality,
+     logistics coordination, "coördinator"/"planner"/"manager" roles —
+     anything suggesting a growing need for process/structure). Explicitly
+     exclude purely operational/execution roles (driver, warehouse,
+     mechanic, mover) — those aren't a signal for this ICP. Same as tech
+     stack: do this here, up front, for every lead, not as an afterthought.
+     If a lead has zero relevant vacancies, say so plainly ("no relevant
+     openings found") rather than omitting the check.
 
 4. **Prioritize and Score**
    - Create a fit score (1-10) for each lead
@@ -167,6 +176,9 @@ When a user requests lead research:
    - **Tech Stack**: What's visible on their site/systems (CMS, portals,
      webshop, dashboards, automation) and what it implies about their
      current digitization level
+   - **Relevant Vacancies**: Open roles signaling relevant pain (planning,
+     operations, supply chain, QHSE/quality, coordination) — never driver/
+     warehouse/execution roles — or "none found"
    - **Decision Maker**: Role/title to target (e.g., "VP of Engineering")
    - **Contact Strategy**: Personalized approach suggestions
    - **Value Proposition**: How your product solves their specific problem
@@ -195,6 +207,7 @@ When a user requests lead research:
    **Industry**: [Industry]
    **Size**: [Employee count/revenue range]
    **Tech Stack**: [What's visible from the site — CMS, portals, dashboards, automation — and what it implies, or "not disclosed on site"]
+   **Relevant Vacancies**: [Open planning/operations/supply-chain/QHSE/coordination roles found on their careers page, or "none found" — never list driver/warehouse/execution roles here]
    
    **Why They're a Good Fit**:
    [2-3 specific reasons based on their business]
@@ -261,6 +274,7 @@ When a user requests lead research:
        industry: <Industry>
        size: <Employee count/revenue range>
        tech_stack: <What's visible and what it implies, or "not disclosed">
+       relevant_vacancies: <Open planning/operations/supply-chain/QHSE/coordination roles found, or "none found" — never driver/warehouse/execution roles>
        why_fit: <Specific reasons based on their business>
        decision_maker: <Role/title to target>
        linkedin: <URL, or null if not found>
@@ -275,6 +289,7 @@ When a user requests lead research:
        industry: <Industry>
        size: <Employee count/revenue range>
        tech_stack: <What's visible and what it implies, or "not disclosed">
+       relevant_vacancies: <Open planning/operations/supply-chain/QHSE/coordination roles found, or "none found" — never driver/warehouse/execution roles>
        why_fit: <Specific reasons based on their business>
        decision_maker: <Role/title to target>
        linkedin: <URL, or null if not found>
@@ -285,10 +300,11 @@ When a user requests lead research:
          - <Specific point 2>
    ```
 
-   The YAML keys themselves (`priority_score`, `tech_stack`, `why_fit`,
-   etc.) always stay in English, unchanged, same as `name`/`url` already
-   did — other skills and teammates' tooling read those exact key names.
-   Field *values* follow the normal Dutch output-language rule.
+   The YAML keys themselves (`priority_score`, `tech_stack`,
+   `relevant_vacancies`, `why_fit`, etc.) always stay in English, unchanged,
+   same as `name`/`url` already did — other skills and teammates' tooling
+   read those exact key names. Field *values* follow the normal Dutch
+   output-language rule.
 
    **c. Show the user the exact YAML and filename, and ask "look right?"**
    before touching disk or git — same confirm gate `icp-onboarding` uses
@@ -335,9 +351,10 @@ When a user requests lead research:
   "helpfully" add comparison-against-history logic here — it was discussed
   and deliberately rejected.
 - **The batch file carries the full research, on purpose.** Every field
-  from step 6's chat output (priority score, tech stack, decision maker,
-  value proposition, outreach strategy, conversation starters) is
-  persisted per lead, not just `name`/`url` — so any teammate who pulls the
+  from step 6's chat output (priority score, tech stack, relevant
+  vacancies, decision maker, value proposition, outreach strategy,
+  conversation starters) is persisted per lead, not just `name`/`url` — so
+  any teammate who pulls the
   repo sees the same reasoning without re-running research or needing this
   conversation. This is a point-in-time snapshot, not a live source of
   truth: `generated_at` marks when it was produced, and `/sales quick`
@@ -346,6 +363,14 @@ When a user requests lead research:
 - **This is not a CRM.** Don't add status tracking, "contacted" flags, or
   notes fields to the batch schema — the team already has a real CRM used
   manually at call time; this file's only job is handing off a raw list.
+- **Vacancy check is deliberately narrow.** Only flag planning/operations/
+  supply-chain/QHSE/coordination roles as `relevant_vacancies` — driver,
+  warehouse, mechanic, and mover roles are noise for this ICP, not signal,
+  even though they're usually the majority of what's actually posted (a
+  real test run found 20 driver/warehouse postings vs. 1 relevant QHSE
+  coordinator role at a single company — don't let the volume of irrelevant
+  postings bury the one that matters). Costs one extra fetch per lead,
+  same order of magnitude as the tech-stack check.
 
 ## Examples
 

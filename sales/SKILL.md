@@ -111,8 +111,11 @@ Do NOT launch subagents.
    vacatures) using WebFetch.
 3. Produce the exact per-lead field set from `lead-generator-assistant`
    step 5/6: Website, Priority Score (1-10), Industry, Size, **Tech
-   Stack**, Why They're a Good Fit, Target Decision Maker, LinkedIn, Value
-   Proposition, Outreach Strategy, Conversation Starters. Use the same
+   Stack**, **Relevant Vacancies** (planning/operations/supply-chain/QHSE/
+   coordination roles found on their careers page, never driver/warehouse/
+   execution roles — or "none found"), Why They're a Good Fit, Target
+   Decision Maker, LinkedIn, Value Proposition, Outreach Strategy,
+   Conversation Starters. Use the same
    per-lead block format that skill's chat template uses — no separate
    Pros/Cons/Verdict template, and no `/sales prospect` 0-100 / A+-D score
    (that scale is a weighted average of 4 categories from a full
