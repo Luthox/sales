@@ -1,0 +1,1065 @@
+business: luthox
+segment: warehousing-storage
+generated_at: 2026-09-21
+description: >-
+  Brede zoektocht binnen het "warehousing-storage"-segment (opslag, fulfilment,
+  koel-/vriesopslag, zelfopslag, douane-entrepot/bonded warehousing) over
+  heel Nederland, verdeeld over acht invalshoeken: algemeen Randstad,
+  Brabant/Limburg fulfilment, multi-locatie/zelfopslagketens, koelhuizen,
+  Noord-Nederland/Zeeland, PE-backed rollups en leiderschapswissels,
+  douane-entrepot/containeropslag, en vacatures met expliciete
+  handmatig-werk-signalen. Ontdubbeld op bedrijfsnaam/URL en gefilterd op
+  de basis-ICP (20-200 medewerkers, NL, geen zichtbare in-house
+  software-expertise, voldoende operationele complexiteit) — groepen die
+  duidelijk boven de ICP-schaal vielen (bijv. onderdeel van een concern van
+  400+ fte) of zonder verifieerbare eigen website zijn uitgesloten.
+leads:
+  - name: MKB-Fulfilment B.V.
+    url: https://www.mkb-fulfilment.nl/
+    priority_score: 6/10
+    industry: Fulfilment en opslag voor webshops (voorraadbeheer, orderverwerking en verzending) in een distributiecentrum in Zoetermeer
+    size: KvK-registratie toont 1 medewerker (mogelijk beheer-BV boven een grotere operationele eenheid); geen exacte headcount vermeld op de site — vereist verificatie via LinkedIn/KvK
+    tech_stack: Eigen "fulfillmentportaal" (online WMS) met automatische voorraadsynchronisatie; koppelingen met Magento, Bol.com, WooCommerce, Shopify, Amazon en Lightspeed — dekt alleen het WMS-deel, geen zichtbare unified ERP/CRM of managementdashboards
+    why_fit: Positioneert zichzelf expliciet als MKB-partner, wat past bij Luthox' doelgroep; WMS dekt alleen fulfilment, geen bredere bedrijfsvoering/CRM-koppeling zichtbaar; groeiend platform met veel handmatige klantcommunicatie rond "eerlijke all-in tarieven" suggereert kans op procesoptimalisatie
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Eén centraal dashboard dat voorraad, orders en klantcommunicatie over alle platformen samenbrengt, zodat groei niet leidt tot meer handmatig werk in het fulfilmentportaal
+    outreach_strategy: Benader via een korte e-mail die inspeelt op hun MKB-positionering en vraagt hoe zij naast het WMS de rest van de bedrijfsvoering (facturatie, klantcommunicatie, rapportage) aansturen
+    conversation_starters:
+      - Jullie noemen zich expliciet een MKB-fulfilmentpartner — hoe houden jullie zelf intern het overzicht tussen WMS, facturatie en klantcommunicatie?
+      - Gebruiken jullie naast het fulfillmentportaal nog Excel of losse tools voor rapportage aan klanten?
+
+  - name: NH Fulfilment
+    url: https://nhfulfilment.nl/
+    priority_score: 8/10
+    industry: E-commerce fulfilment en voorraadbeheer voor webshops vanuit Schagen, Noord-Holland
+    size: Jong, snelgroeiend bedrijf opgericht door twee ondernemers (Kenzo en Lasse); exacte headcount niet vermeld op de site, actieve vacaturepagina wijst op groei
+    tech_stack: Eigen "fulfilmentportaal" voor klanten; site noemt apart "Software & Data" als dienst — WMS-achtige functionaliteit aanwezig, maar geen zichtbare unified ERP/CRM of managementdashboard voor de eigen bedrijfsvoering
+    why_fit: Opgericht vanuit frustratie over gebrekkige transparantie bij andere fulfilmentpartijen — signaal dat interne processen en tooling nog volop in ontwikkeling zijn; actief werven van personeel wijst op operationele groeipijn; jong ondernemersteam is eerder open voor nieuwe software
+    decision_maker: Kenzo en/of Lasse, medeoprichters — functietitels niet vermeld op de site
+    linkedin: https://nl.linkedin.com/company/nh-fulfilment
+    value_proposition: Eigen dashboards voor operationele KPI's en klantrapportages, los van het klantportaal, zodat de oprichters grip houden op groei zonder extra administratief personeel
+    outreach_strategy: Persoonlijke aanpak richting de twee oprichters, verwijzend naar hun eigen missie (transparantie/eerlijke prijzen) en hoe dat ook intern via betere dashboards kan
+    conversation_starters:
+      - Jullie zijn gestart vanuit frustratie over ondoorzichtige fulfilment-tarieven — hebben jullie zelf al volledig zicht op marges per klant?
+      - Met de groei die jullie vacatures suggereren, hoe borgen jullie dat nieuwe medewerkers snel met dezelfde systemen werken?
+
+  - name: Roller Mode B.V. (Rollermode Warehouse & Transport)
+    url: https://warehouse-utrecht.nl/
+    priority_score: 7/10
+    industry: Opslag, warehousing en zeecontainerbehandeling voor bedrijven, gevestigd in Bunnik (Utrecht)
+    size: Familiebedrijf met 20+ jaar ervaring; exacte headcount niet vermeld op de site
+    tech_stack: niet vermeld op de site — geen enkele verwijzing naar WMS, ERP of klantportaal, wat wijst op mogelijk handmatige planning en administratie
+    why_fit: Klassiek familiebedrijf zonder zichtbare software-investeringen, dus geen concurrerende tool die al de hele scope dekt; centrale ligging in Utrecht met diverse diensten (opslag, containers, transport, fulfilment) duidt op operationele complexiteit die baat heeft bij één systeem
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Eén overzichtelijk systeem dat opslag, containerlogistiek en transportplanning samenbrengt, in plaats van losse Excel-lijsten of telefonisch afstemmen tussen diensten
+    outreach_strategy: Telefonische of e-mailbenadering gericht op de eigenaar/directeur, met nadruk op het ontbreken van een zichtbaar digitaal systeem en de kans om met één dashboard planning en facturatie te stroomlijnen
+    conversation_starters:
+      - Hoe plannen jullie op dit moment de inzet van opslagcapaciteit en transport tussen de verschillende diensten die Roller Mode aanbiedt?
+      - Werken jullie nog met Excel-lijsten of WhatsApp voor de planning tussen het magazijn en de chauffeurs?
+
+  - name: LIS Logistics B.V.
+    url: https://www.lis-logistics.nl/
+    priority_score: 7/10
+    industry: Transport en warehousing/distributiecentrum (40.000+ m² opslagcapaciteit) in Almere, Flevoland
+    size: Actief sinds 2007, meer dan 200 klanten bediend, 51-200 medewerkers; exacte headcount niet los bevestigd op de site
+    tech_stack: Mendrix-inlogportaal voor ordermanagement en een apart gehost WMS-portaal, plus douanesoftware — twee gescheiden klantportalen wijzen op losse, niet-gekoppelde systemen naast douanesoftware, geen zichtbare unified ERP/CRM
+    why_fit: Al 15+ jaar actief met groot klantenbestand (200+), wat wijst op behoorlijke operationele complexiteit; twee gescheiden inlogportalen (Mendrix en WMS) voor hetzelfde proces is een concreet signaal van gefragmenteerde systemen
+    decision_maker: "niet eenduidig vastgesteld — verschillende bronnen noemen andere namen (Joeri van Gelder, of Jaap Vermeer/Roelf van Hees); vereist KvK/LinkedIn-verificatie voordat een naam wordt gebruikt in outreach"
+    linkedin: https://www.linkedin.com/in/joeri-van-gelder-935a8372/
+    value_proposition: Eén centraal dashboard boven Mendrix en het WMS dat management een real-time totaalbeeld geeft over 200+ klanten, in plaats van twee losse portalen per proces
+    outreach_strategy: Vraag naar de reden voor de twee gescheiden klantportalen (Mendrix en WMS) en bied aan dit te consolideren tot één klantvriendelijk dashboard
+    conversation_starters:
+      - Jullie klanten loggen nu in via twee verschillende portalen (Mendrix en WMS) — is dat een bewuste keuze of historisch zo gegroeid?
+      - Met 200+ klanten en 40.000 m² opslag, hoe krijgt het management nu één totaaloverzicht van de operatie?
+
+  - name: Rockstar Fulfilment
+    url: https://rockstarfulfilment.nl/
+    priority_score: 6/10
+    industry: E-commerce fulfilment (opslag, orderverwerking, verzending en retouren) in Almere, Flevoland
+    size: KvK-nummer wijst op relatief recente inschrijving; 10+ jaar operationele ervaring genoemd op de site maar geen exacte headcount vermeld — vraagt om verificatie, minimum-orderdrempel van 150 orders/maand wijst op kleinere tot middelgrote klanten
+    tech_stack: Eigen klantenportaal met real-time voorraad- en verzendtracking, koppelingen met 50+ platformen (Bol.com, Kaufland, Shopify e.a.) — dekt fulfilment/WMS, geen zichtbare unified ERP/CRM of interne managementdashboards
+    why_fit: Al behoorlijk digitaal (eigen portaal) maar dit dekt alleen het klantproces, niet interne bedrijfsvoering zoals facturatie/HR/planning; groeiend bedrijf met kwaliteitsclaims (99,8% foutloos) wat wijst op behoefte aan interne procesbeheersing
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Interne dashboards die de kwaliteitscijfers en operationele KPI's die zij naar klanten communiceren ook automatisch voor het management beschikbaar maken, zonder handmatige rapportbouw
+    outreach_strategy: E-mail gericht op hun kwaliteitsclaim (99,8% foutloos) en de vraag hoe die cijfers nu intern worden bijgehouden en gerapporteerd
+    conversation_starters:
+      - Hoe meten en rapporteren jullie intern die 99,8% foutloze levering — gebeurt dat automatisch of nog deels handmatig?
+      - Met koppelingen naar 50+ platformen, hoe houden jullie het overzicht op bedrijfsniveau (buiten het klantportaal om)?
+
+  - name: We-Fulfil B.V.
+    url: https://we-fulfil.nl/
+    priority_score: 8/10
+    industry: B2B/B2C e-commerce logistiek en fulfilment (orderverwerking, opslag, retouren) vanuit Soest, Utrecht
+    size: Circa 11-50 medewerkers volgens LinkedIn; opgericht in 2013, moederbedrijf/oprichter ook actief in familiebedrijf Dorrestijn Transport (86 jaar historie)
+    tech_stack: Eigen klantportaal met real-time inzicht in voorraad en orderstatus; koppelingen met Bol.com, Amazon, Kaufland, WooCommerce, Shopify, Lightspeed, Magento en Shopware — dekt fulfilment-tracking, geen zichtbare unified ERP/CRM of interne managementrapportage
+    why_fit: Headcount (11-50) past uitstekend binnen de ICP; meerdere certificeringen (ISO 9001, ISO 22000, GDP, SKAL) wijzen op behoorlijke operationele complexiteit die vraagt om goede interne systemen; oprichter runt naast We-Fulfil ook het familiebedrijf Dorrestijn Transport, wat kan wijzen op behoefte aan overzicht tussen meerdere bedrijfsonderdelen
+    decision_maker: Remco Dorrestijn, oprichter/directeur (tevens directeur Dorrestijn Transport en Logistiek)
+    linkedin: https://nl.linkedin.com/company/we-fulfil
+    value_proposition: Eén dashboard dat de certificeringseisen (ISO, GDP, SKAL) en kwaliteitsrapportages automatisch bijhoudt, en desgewenst overzicht biedt over zowel We-Fulfil als het gelieerde Dorrestijn Transport
+    outreach_strategy: Persoonlijke LinkedIn-benadering naar Remco Dorrestijn, met verwijzing naar de combinatie van twee bedrijven (We-Fulfil en Dorrestijn Transport) en de vraag hoe rapportage tussen beide nu verloopt
+    conversation_starters:
+      - Met alle certificeringen (ISO 9001, ISO 22000, GDP, SKAL) die jullie voeren, hoe houden jullie de compliance-rapportage nu bij?
+      - Werken We-Fulfil en Dorrestijn Transport met dezelfde systemen, of zijn dat nu nog gescheiden werelden?
+
+  - name: PackHero B.V.
+    url: https://packhero.nl/
+    priority_score: 6/10
+    industry: Warehousing en fulfilment (pick & pack, opslag, retouren) voor e-commerce en B2B, gevestigd in Heinenoord (Hoeksche Waard, Zuid-Holland)
+    size: Opgericht februari 2022 (nog relatief jong); bestuurder is R. Boers Holding B.V.; exacte headcount niet vermeld op de site
+    tech_stack: Eigen klantportaal (portal.packhero.nl) en genoemde "integraties" — dekt klantzijde fulfilment, geen zichtbare unified ERP/CRM of interne managementdashboards
+    why_fit: Jong en groeiend bedrijf met al meerdere genoemde klanten (FarLogistics, WickedWoodGames, W-Pharma Europe e.a.), wat duidt op groeiende operationele complexiteit; als scale-up is er kans dat interne tooling (facturatie, planning) nog niet is meegegroeid met het klantportaal
+    decision_maker: R. Boers (bestuurder via R. Boers Holding B.V.) — functietitel niet expliciet vermeld
+    linkedin: https://www.linkedin.com/company/packhero
+    value_proposition: Schaalbaar dashboard voor interne operatie en facturatie dat meegroeit met het klantenbestand, zonder dat het klantportaal de enige bron van waarheid blijft
+    outreach_strategy: Korte, directe e-mail/LinkedIn-bericht naar R. Boers over hun snelle klantengroei sinds 2022 en de vraag hoe de interne organisatie daarin meegroeit
+    conversation_starters:
+      - Jullie hebben sinds 2022 al een mooi klantenportfolio opgebouwd (FarLogistics, W-Pharma e.a.) — is de interne organisatie al net zo ver gedigitaliseerd als het klantportaal?
+      - Hoe verloopt de facturatie en rapportage naar al die verschillende klanten op dit moment?
+
+  - name: Van Galen Logistiek
+    url: https://van-galen.nl/
+    priority_score: 8/10
+    industry: Warehousing, opslag (40.000 palletplaatsen), orderpicking en logistiek advies vanuit Almere, Flevoland
+    size: Familiebedrijf sinds 1890, inmiddels 6e generatie; meerdere vestigingen; exacte headcount niet vermeld op de site
+    tech_stack: Site noemt "goede koppelingen tussen onze systemen" voor geautomatiseerde orderverwerking, maar zonder specifieke WMS/ERP-naam — geen zichtbare unified ERP/CRM of managementdashboard
+    why_fit: Zeer lange bedrijfsgeschiedenis met generatiewissel (6e generatie) is een sterk signaal voor recente/aankomende verandering in leiderschap en modernisering; grote opslagcapaciteit (40.000 palletplaatsen) wijst op forse operationele complexiteit; vage systeemverwijzing suggereert losse koppelingen in plaats van één centraal platform
+    decision_maker: "Ludo & Evita (genoemd als 'Eigenaren'); mogelijk Bas Tijssen als Algemeen Directeur — vereist verificatie welke rol het meest relevant is"
+    linkedin: https://nl.linkedin.com/company/van-galen-logistiek
+    value_proposition: Eén centraal platform dat de bestaande "koppelingen tussen systemen" vervangt door een overzichtelijk dashboard, passend bij een bedrijf dat na 135 jaar een nieuwe generatie aan het roer krijgt
+    outreach_strategy: Benader de eigenaren met een boodschap die aansluit op de generatiewissel en trots op de bedrijfsgeschiedenis, gecombineerd met de vraag hoe modern hun huidige systeemlandschap daadwerkelijk is
+    conversation_starters:
+      - Na 135 jaar en 6 generaties — in hoeverre lopen jullie interne systemen nog gelijk op met de omvang van de operatie (40.000 palletplaatsen)?
+      - Jullie noemen "goede koppelingen tussen systemen" — is dat één centraal platform, of nog een verzameling losse tools?
+
+  - name: GlobalTrans BV
+    url: https://globaltransbv.com/en/warehousing-amsterdam/
+    priority_score: 5/10
+    industry: Warehousing, fulfilment (ambient, koelopslag, farma, bonded warehouse) en multimodale expeditie vanuit Amsterdam
+    size: Internationale voetafdruk (VK en Europa); mogelijk aan de grote kant van de ICP — exacte headcount niet vermeld op de site
+    tech_stack: Volwaardig WMS met real-time dashboard voor voorraad, in- en uitgaande orders en retouren; koppelingen met Shopify, WooCommerce, Amazon — al relatief geavanceerd, maar dekt alleen warehousing/fulfilment, niet de bredere bedrijfsvoering (CRM, cross-modale rapportage)
+    why_fit: Combinatie van lucht-, zee-, weg- en spoorvracht met warehousing wijst op hoge operationele complexiteit die baat heeft bij overkoepelende rapportage over alle modaliteiten heen; huidige WMS-dashboard dekt slechts een deel van het geheel
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Eén overkoepelend dashboard dat warehousing, lucht-, zee-, weg- en spoorvracht samenbrengt, bovenop het bestaande WMS, voor echt end-to-end inzicht
+    outreach_strategy: Benader via een e-mail die specifiek ingaat op de complexiteit van hun multimodale dienstverlening en vraagt of rapportage tussen de verschillende modaliteiten al centraal gebeurt
+    conversation_starters:
+      - Jullie bieden lucht-, zee-, weg- en spoorvracht naast warehousing aan — is er één centraal dashboard dat al die modaliteiten combineert, of blijft dat per dienst gescheiden?
+      - Hoe verloopt de rapportage aan klanten die zowel gebruikmaken van jullie bonded warehouse als van transport?
+
+  - name: DL Logistics
+    url: https://www.dl.nl/warehousing-rotterdam/
+    priority_score: 7/10
+    industry: 3PL-logistiek dienstverlener met warehousing (30.000+ palletplaatsen, 12 loading docks), transport, expeditie en douanediensten in Rotterdam-Albrandswaard, Zuid-Holland
+    size: Substantiële opslagcapaciteit (30.000+ palletplaatsen); exacte headcount niet vermeld op de site, wel actieve vacaturepagina
+    tech_stack: Geavanceerd WMS-systeem genoemd zonder specifieke softwarenaam — dekt magazijnbeheer, geen zichtbare unified ERP/CRM of managementdashboard voor de volledige 3PL-operatie
+    why_fit: Brede dienstverlening (warehousing, transport, expeditie, douane, waardetoevoegende diensten) wijst op hoge operationele complexiteit; certificeringen (SKAL, BRC, AEO, accijnsgoederenplaats) vragen om nauwkeurige compliance-rapportage die nu vermoedelijk deels los van elkaar wordt bijgehouden
+    decision_maker: "niet vermeld op de site — contactpersoon 'Anouk' genoemd voor aanvragen, vereist KvK/LinkedIn-opzoek voor directeur/eigenaar"
+    linkedin: https://www.linkedin.com/company/dl-logistics
+    value_proposition: Eén dashboard dat warehousing-KPI's, transportplanning en compliance-rapportage (AEO, SKAL, BRC) samenbrengt, zodat audits en klantrapportages sneller en foutlozer verlopen
+    outreach_strategy: Benader via de website-contactpersoon of LinkedIn, met focus op de complexiteit van het combineren van bonded warehousing, accijnsgoederen en reguliere 3PL-diensten onder één dak
+    conversation_starters:
+      - Met zoveel certificeringen (AEO, SKAL, BRC, accijnsgoederenplaats) — hoe houden jullie de compliance-rapportage nu bij, centraal of per certificering apart?
+      - Praten jullie WMS en transportplanning al met elkaar, of loopt dat via aparte systemen en handmatige afstemming?
+
+  - name: GS-Fulfilment
+    url: https://gs-fulfilment.nl/
+    priority_score: 8/10
+    industry: E-commerce fulfilmentcenter in Eindhoven (Brainport-regio), gespecialiseerd in orderverwerking, opslag, pick & pack en retourafhandeling voor webshops zonder minimumvolume
+    size: Opgericht in 2020, bedient 100+ actieve webshops en verwerkt 1.250.000+ pakketten per jaar; exact personeelsaantal niet vermeld op de site, geschat in MKB-range (20-100 fte) op basis van schaalgrootte
+    tech_stack: Koppelingen met 100+ marktplaatsen/shopsystemen (Shopify, WooCommerce, Magento, Bol.com, Amazon, Etsy), eigen retourenapp en real-time dashboard voor voorraad en orders — dit is een operationeel WMS/klantportaal, geen volledig ERP/CRM
+    why_fit: Snelle groei (1,25 miljoen pakketten/jaar) duidt op complexe, deels handmatige processen; bedient veel losse webshopklanten wat vraagt om schaalbare interne tooling; regio Eindhoven past exact bij de gevraagde Brabant-focus
+    decision_maker: Bas Heemskerk (CEO) — vermeld op LinkedIn, functie niet apart geverifieerd op de eigen site
+    linkedin: https://nl.linkedin.com/company/gs-fulfilment
+    value_proposition: Eén centraal dashboard dat orderstromen, voorraad en klantcommunicatie over alle 100+ webshopklanten heen samenbrengt, zodat groei niet leidt tot meer handmatig beheer
+    outreach_strategy: Benader Bas Heemskerk direct via LinkedIn met een korte case over hoe gekoppelde dashboards foutgevoelige Excel-achtige processen bij groeiende fulfilmentbedrijven vervangen
+    conversation_starters:
+      - Jullie verwerken 1,25 miljoen pakketten per jaar via 100+ marktplaatskoppelingen — hoe houden jullie intern overzicht tussen al die systemen?
+      - Bij zo'n schaal loopt de vraag naar maatwerk-rapportages vaak vooruit op wat standaard fulfilmentsoftware biedt; hoe lossen jullie dat nu op?
+
+  - name: Surlogic
+    url: https://surlogic.nl/
+    priority_score: 9/10
+    industry: E-fulfilment en webshoplogistiek vanuit Boxtel (Noord-Brabant), gericht op groeiende webshopondernemers vanaf 300 orders per maand
+    size: Circa 65 medewerkers, actief sinds 7+ jaar, bedient 50+ ondernemers — valt precies in de ICP-doelgroep van 20-200 fte
+    tech_stack: Eigen WMS omschreven als "modern automatiseringssysteem", koppelingen met Lightspeed, Shopify, WooCommerce, Magento en CCV Shop — sterke basis maar geen zichtbaar centraal ERP/CRM voor bedrijfsvoering
+    why_fit: Ideale bedrijfsgrootte (circa 65 fte), duidelijke operationele complexiteit (50+ klanten, meerdere platformkoppelingen), en Boxtel ligt midden in Noord-Brabant
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Koppel de bestaande WMS-koppelingen aan een centraal management-dashboard zodat het management in één oogopslag klantprestaties, marges en capaciteit per klant ziet
+    outreach_strategy: Mail/bel naar het algemene contact met een concreet voorbeeld van een dashboard dat operationele KPI's per klant (orders, retouren, doorlooptijd) samenvat — vraag naar de operationeel manager
+    conversation_starters:
+      - Met 50+ webshopklanten en meerdere platformkoppelingen: hoe krijgt het management nu overzicht over prestaties per klant?
+      - Waar loopt de administratie nu nog vast tussen jullie WMS en de rest van de bedrijfsvoering?
+
+  - name: LSE Venlo (Logistics, Storage & E-fulfilment)
+    url: https://lsevenlo.com/
+    priority_score: 7/10
+    industry: "Familiebedrijf voor e-fulfilment en opslag in Venlo (Limburg): goederenontvangst, value added logistics, pick & pack en verzending"
+    size: Omschreven als "midsize family business"; verwerkt 100+ zendingen per dag; exact personeelsaantal niet vermeld op de site
+    tech_stack: Geen specifiek WMS, klantportaal of dashboard vermeld op de site — sterk signaal dat processen nog grotendeels handmatig of met basistools lopen
+    why_fit: Typisch MKB-familiebedrijf ("korte lijnen, persoonlijke aandacht, flexibiliteit"), geen zichtbare software-investering, en centrale ligging Venlo/Limburg sluit precies aan bij de gevraagde regio
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Een eenvoudig in te voeren klantportaal en voorraaddashboard waarmee LSE zich kan onderscheiden van grotere concurrenten zonder de persoonlijke aanpak te verliezen
+    outreach_strategy: Benader via het algemene contactformulier/telefoon met de invalshoek "personal touch behouden, maar met digitaal overzicht"
+    conversation_starters:
+      - Jullie noemen korte lijnen en persoonlijke aandacht als kracht — hoe houden jullie dat vol als het volume verder groeit?
+      - Werken jullie nu nog met Excel-lijsten of los van elkaar staande systemen voor voorraad en orders?
+
+  - name: e-Fulfilment Hub
+    url: https://e-fulfilmenthub.nl/
+    priority_score: 6/10
+    industry: One-stop-shop e-fulfilment provider in Weert (Limburg), met focus op duurzame logistiek en "Living Lab Green Fulfillment" voor snelgroeiende webshops met Europese ambities
+    size: Verwerkt tussen 100 en 100.000 pakketten per maand per klant; exact eigen personeelsaantal niet vermeld op de site
+    tech_stack: Geen specifiek WMS, klantportaal of dashboard genoemd in het beschikbare materiaal — duidt op ruimte voor digitalisering ondanks de innovatieve duurzaamheidspositionering
+    why_fit: Sterke groeiambitie (Europese schaal) vraagt om schaalbare interne systemen; duurzaamheids-/innovatiefocus toont een bedrijf dat open staat voor nieuwe technologie; ligging Weert past bij Limburg-focus
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek (mogelijk gelieerd aan zustervestiging LogiQom op hetzelfde adres, vereist verificatie)"
+    linkedin: https://nl.linkedin.com/company/e-fulfilment-hub
+    value_proposition: Combineer hun duurzaamheidsverhaal met een klantportaal dat CO2- en efficiencycijfers per klant zichtbaar maakt, als extra verkoopargument richting hun eigen webshopklanten
+    outreach_strategy: Positioneer Luthox als partner die hun "Living Lab" innovatie-imago versterkt met concrete digitale tools (dashboard/portaal)
+    conversation_starters:
+      - Jullie noemen groeiambities richting heel Europa — is de interne administratie daar al klaar voor?
+      - Hoe meten en delen jullie nu de duurzaamheidsresultaten van het Living Lab richting klanten?
+
+  - name: Fulfilment Center
+    url: https://fulfilmentcenter.nl/
+    priority_score: 7/10
+    industry: E-fulfilmentcenter op de grens Nederland-België (Etten-Leur, Noord-Brabant), gericht op kleine tot middelgrote webshops zonder contract of minimumvolume
+    size: Bedient 75+ merken/klanten; exact personeelsaantal niet vermeld op de site
+    tech_stack: Eigen klantportaal en real-time trackingdashboard, WMS-systeem, koppelingen met Shopify, WooCommerce, Magento, BigCommerce, Bol.com — functioneel maar deelgebied-specifiek, geen volledig ERP/CRM
+    why_fit: Groeiend klantenbestand (75+ merken) zonder minimumvolume-eis duidt op veel kleine, diverse klantstromen die veel handmatige coördinatie vergen; ligt in Noord-Brabant
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Eén overkoepelend dashboard dat klantportaal, facturatie en operationele planning combineert, zodat accountmanagers niet tussen losse tools hoeven te schakelen
+    outreach_strategy: Benader via het contactformulier met concrete voorbeelden van hoe gekoppelde ERP/CRM-oplossingen accountmanagement bij 75+ klanten kunnen versimpelen
+    conversation_starters:
+      - Met 75+ merken zonder minimumvolume: hoe houden accountmanagers het overzicht per klant bij zonder dat het handwerk wordt?
+      - Draait jullie facturatie los van het klantportaal, of is dat al gekoppeld?
+
+  - name: Jos Heeren E-Logistics (Jos Heeren Transport B.V.)
+    url: https://www.jos-heeren.nl/diensten/webshop-logistiek-e-fulfilment-tilburg
+    priority_score: 6/10
+    industry: Familiebedrijf (opgericht 1921) met fulfilment- en opslagtak in Breda en Tilburg naast hun transportactiviteiten, gericht op webshoplogistiek en orderafhandeling
+    size: Historisch, groot familiebedrijf sinds 1921; exact personeelsaantal fulfilmenttak niet vermeld op de site
+    tech_stack: Koppelingen met WooCommerce, Magento, Bol.com, Amazon en marktplaatsen; eigen "voorraadsysteem" genoemd, maar geen centraal dashboard of ERP/CRM zichtbaar
+    why_fit: Fulfilment is duidelijk een nieuwere tak naast het kernbedrijf transport, wat kans geeft op achterstallige digitalisering specifiek voor die tak; twee vestigingen (Breda en Tilburg) in Noord-Brabant
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Een los van de kernactiviteit transport op te zetten dashboard specifiek voor de e-fulfilmenttak, zodat deze nieuwe bedrijfstak niet meelift op verouderde transportadministratie
+    outreach_strategy: Benader via het algemene contactformulier met de invalshoek "eigen tooling voor jullie nieuwere e-fulfilmenttak, los van de transportkant"
+    conversation_starters:
+      - Fulfilment lijkt een relatief nieuwe tak naast jullie kernactiviteit transport — draait die al op eigen systemen of leunt die nog op de transportadministratie?
+      - Met twee vestigingen (Breda en Tilburg) actief in fulfilment: hebben jullie daar al gezamenlijk overzicht over?
+
+  - name: BVG Fulfilment
+    url: https://www.bvgfulfilment.nl/
+    priority_score: 7/10
+    industry: Webshop- en e-fulfilmentbedrijf in 's-Hertogenbosch (Noord-Brabant), met nadruk op handmatig picken/verpakken en personalisatie van verpakkingen
+    size: Klein tot middelgroot MKB-bedrijf; exacte cijfers staan als placeholders op de site, wat duidt op een nog jong of kleinschalig bedrijf
+    tech_stack: Geen specifiek WMS, klantportaal of dashboard vermeld — sterke nadruk op "mensenwerk" en handmatige processen is een expliciet signaal van lage automatiseringsgraad
+    why_fit: Zeer sterk "handmatig"-signaal (letterlijk genoemd op de site), kleinschalig en persoonlijk, past bij MKB-profiel; site toont zelfs onvoltooide placeholder-cijfers wat duidt op beperkte interne IT-capaciteit
+    decision_maker: Floris van Dijk (Business Manager)
+    linkedin: https://linkedin.com/company/bvg-fulfilment/
+    value_proposition: Een eenvoudig dashboard dat het handmatige werkproces ondersteunt (orderstatus, voorraad, planning) zonder de persoonlijke, ambachtelijke aanpak te vervangen
+    outreach_strategy: Benader Floris van Dijk direct via LinkedIn; noem de placeholder-cijfers op de website als vriendelijke ijsbreker richting een gesprek over digitalisering
+    conversation_starters:
+      - Jullie benadrukken bewust "mensenwerk" bij het picken en verpakken — hoe houden jullie daarbij het overzicht op voorraad en orderstatus?
+      - Is de planning en klantcommunicatie nu nog handmatig, of draait daar al iets achter?
+
+  - name: MRfulfilment
+    url: https://mrfulfilment.nl/
+    priority_score: 6/10
+    industry: E-commercefulfilmentbedrijf in Waalwijk (Noord-Brabant), gespecialiseerd in dropshipping en import-gerelateerde fulfilment voor webshops
+    size: Verwerkt circa 3.200 orders en 240 retouren per week; exact personeelsaantal niet vermeld op de site
+    tech_stack: Shopify-koppeling en een klantendashboard/portaal genoemd, maar geen breder ERP/CRM-systeem zichtbaar
+    why_fit: Aanzienlijk orderwerk (3.200/week) met veel operationele complexiteit door import- en dropshipfocus; regio Waalwijk (Noord-Brabant) past in de gevraagde focus
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Koppel het bestaande klantdashboard aan een backoffice-systeem voor import- en voorraadplanning, specifiek afgestemd op hun dropshipmodel
+    outreach_strategy: Benader via het contactformulier met een concrete invalshoek over het combineren van import-planning en orderafhandeling in één systeem
+    conversation_starters:
+      - Met 3.200 orders en 240 retouren per week via dropshipping: hoe plannen jullie de import-stromen nu naast de dagelijkse orderafhandeling?
+      - Draait het klantdashboard los van jullie interne voorraad- en importadministratie?
+
+  - name: Titan Fulfilment
+    url: https://titanfulfilment.nl/
+    priority_score: 6/10
+    industry: E-fulfilmentbedrijf in Weert (Limburg), onderdeel van Send Solution Group, gericht op schaalbare fulfilment inclusief bol.com-integratie en palletopslag
+    size: Opgericht in 2022, 11-50 medewerkers, bedient 120+ webshops; onderdeel van een groter groepsverband (Send Solution Group)
+    tech_stack: "Werkt met een extern WMS (Lyra WMS via een eigen klantportaal titan-fulfilment.lyrawms.nl) en 20+ platformkoppelingen — een deeloplossing (WMS), geen eigen ERP/CRM voor facturatie/klantcommunicatie"
+    why_fit: "Jong bedrijf dat klanten expliciet 'transparantie in de kosten' en snelheid belooft, wat om goede interne dashboards vraagt naast het externe WMS; onderdeel van een groepsverband kan betekenen dat centrale IT-beslissingen (deels) elders liggen — eerst verifiëren of Titan zelf lokaal beslist voordat je uitbelt"
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek (mogelijk op groepsniveau bij Send Solution Group); contact info@titanfulfilment.nl / 0495 745 032"
+    linkedin: null
+    value_proposition: Eén centraal dashboard dat het externe WMS, facturatie en klantcommunicatie koppelt, zodat Titan zijn beloofde kostentransparantie en snelheid ook intern kan waarmaken
+    outreach_strategy: Onderzoek eerst via KvK/LinkedIn of de beslisser lokaal (Titan) of op groepsniveau (Send Solution Group) zit, benader dan met een boodschap over het koppelen van hun WMS-portaal aan facturatie en klantrapportage
+    conversation_starters:
+      - Jullie site belooft "transparantie in de kosten" aan webshopklanten — hoe brengen jullie dat nu zelf in kaart tussen WMS, facturatie en klantcommunicatie?
+      - Als onderdeel van Send Solution Group, hebben jullie al gezamenlijk overzicht over de prestaties van de verschillende fulfilmentlabels?
+
+  - name: Core Connect Solutions
+    url: https://coreconnectsolutions.nl/fulfillment-zevenbergen/
+    priority_score: 6/10
+    industry: Kleinschalig, lokaal fulfilmentbedrijf in Zevenbergen (West-Brabant), gepositioneerd als persoonlijk alternatief voor grote onpersoonlijke magazijnen
+    size: Klein familiebedrijf, gerund door twee eigenaren; exact personeelsaantal niet vermeld op de site — aan de kleine kant van de ICP
+    tech_stack: WooCommerce-koppeling, ordermatatisering en trackingdashboard genoemd, plus een eigen tak voor websitebouw/hosting — de fulfilmentkant zelf oogt nog basaal qua systemen
+    why_fit: Zeer kleinschalig en persoonlijk ("fulfillment met aandacht"), duidelijke groeiruimte in interne systemen; regio Zevenbergen/West-Brabant past in de gevraagde focus
+    decision_maker: Stein & Ilse van Broekhoven (eigenaren/oprichters)
+    linkedin: "https://www.instagram.com/coreconnect_nl (LinkedIn niet gevonden, Instagram vermeld op site)"
+    value_proposition: Een licht dashboard dat orderstatus en voorraad combineert met hun klantcommunicatie, passend bij hun kleinschalige maar persoonlijke aanpak
+    outreach_strategy: Benader Stein en Ilse van Broekhoven rechtstreeks via het contactformulier of social media met een laagdrempelig voorstel, gezien de kleine bedrijfsgrootte
+    conversation_starters:
+      - Jullie noemen zelf "fulfillment met aandacht" als onderscheidend vermogen — hoe blijven jullie dat waarmaken als het aantal klanten groeit?
+      - Bouwen en hosten jullie zelf ook websites voor klanten — is de interne bedrijfsvoering daar al even ver in gedigitaliseerd als de klantkant?
+
+  - name: Storage Share
+    url: https://storage-share.nl/
+    priority_score: 9/10
+    industry: Zelfopslag (self-storage) verhuurder met meer dan vijftig vestigingen door heel Nederland, recent sterk gegroeid via overname
+    size: "Opgericht 8 jaar geleden door twee ondernemers; 50+ vestigingen, circa 5.000 huurders, omzet >5 miljoen euro; door de overname van het failliete Boxx (10 extra locaties) verdubbelt de omzet ongeveer — headcount niet exact vermeld, geschat 30-60 medewerkers op basis van vestigingsaantal"
+    tech_stack: "Geen zichtbaar geïntegreerd ERP/CRM-platform; los per vestiging georganiseerd (klassiek self-storage boekingssysteem), geen aanwijzingen voor eigen ontwikkelteam — juist door de plotselinge overname van Boxx-locaties is centrale sturing en integratie waarschijnlijk een acute pijn"
+    why_fit: "Net een grote overname (Boxx, 8-10 extra locaties) verwerkt, wat vraagt om snelle integratie van klantdata, bezetting en facturatie over veel losse vestigingen; sterke groei zonder zichtbare eigen software-afdeling; landelijke spreiding vraagt om overzicht/dashboards voor management op afstand"
+    decision_maker: "Julian Doorten en Niels van Eck, medeoprichters/eigenaren"
+    linkedin: null
+    value_proposition: "Eén centraal dashboard dat bezetting, omzet en klantgegevens van alle 50+ (en de nieuwe Boxx-)vestigingen samenbrengt, zodat de net verdubbelde organisatie niet vastloopt op handmatig vestigingsbeheer"
+    outreach_strategy: "Verwijs direct naar het recente nieuws over de overname van Boxx en de bijbehorende operationele uitdaging, en bied een intake aan om te bespreken hoe de vestigingen straks één geïntegreerd systeem kunnen delen"
+    conversation_starters:
+      - "Hoe gaan jullie na de overname van Boxx alle nieuwe vestigingen operationeel op één lijn krijgen qua boekingen en facturatie?"
+      - "Met bijna een verdubbeling van het aantal huurders, houden jullie nog voldoende overzicht per vestiging zonder een centraal dashboard?"
+
+  - name: GaragePark
+    url: https://garagepark.nl/
+    priority_score: 9/10
+    industry: Verhuur van self-storage garageboxen (opslag voor particulieren, verhuisbedrijven en installateurs) met een landelijk netwerk van garageparken
+    size: "22 vaste medewerkers, 57 garageparken in Nederland (begin 2025) met ruim 5.000 garageboxen, hoofdkantoor in Blaricum"
+    tech_stack: "Geen aanwijzingen voor een centraal ERP/CRM of eigen ontwikkelteam op de site; groei via losse, nieuwe parken impliceert veel handmatig locatiebeheer"
+    why_fit: "Sterke, aanhoudende multi-locatie-expansie (van 0 naar 57 parken sinds 2007, met doorlopend nieuwe openingen in 2025); headcount van 22 zit perfect in de ICP-range; kleine backoffice die waarschijnlijk met spreadsheets/losse systemen tientallen locaties beheert"
+    decision_maker: "Rick Venema, oprichter, eigenaar en directeur"
+    linkedin: null
+    value_proposition: "Eén overzichtelijk dashboard voor bezetting, verhuurstatus en omzet per garagepark, zodat een team van 22 man 57+ locaties kan blijven aansturen zonder dat het beheer explodeert bij elke nieuwe opening"
+    outreach_strategy: "Benader Rick Venema met een concrete referentie naar de snelle groei naar 57 parken en vraag hoe nieuwe locaties nu operationeel worden aangesloten"
+    conversation_starters:
+      - "Met 57 garageparken en nog steeds nieuwe openingen — hoe houden jullie met 22 medewerkers het overzicht per locatie?"
+      - "Werken alle garageparken nu met dezelfde manier van boeken en factureren, of verschilt dat nog per vestiging?"
+
+  - name: ALLSAFE Mini Opslag
+    url: https://www.allsafe.nl/
+    priority_score: 8/10
+    industry: Zelfopslag / mini-opslag verhuurder met een landelijk netwerk van eigen en partnervestigingen
+    size: "42 (partner)vestigingen door heel Nederland; decentrale organisatiestructuur met per vestiging een eigen 'Owner'/manager — geschatte headcount 40-100 medewerkers verspreid over vestigingen"
+    tech_stack: "Geen centraal ERP/CRM zichtbaar op de site; decentrale eigenaarsstructuur per vestiging wijst op losstaande administraties en beperkte automatisering tussen locaties"
+    why_fit: "Groot aantal vestigingen (42) met kennelijk decentraal eigenaarschap per locatie, wat duidt op gefragmenteerd beheer; landelijke prijsgarantie-formule vereist actuele, centrale data over prijzen en bezetting per vestiging"
+    decision_maker: "Eric Stubbé, Owner & Founder (concernniveau); per vestiging aparte 'Owner'/manager, bijv. Marc Scheffers (Apeldoorn) — vereist verder KvK/LinkedIn-opzoek voor de juiste centrale beslisser"
+    linkedin: "https://nl.linkedin.com/company/allsafe-group"
+    value_proposition: "Eén centraal klant- en bezettingsoverzicht over 42 vestigingen, zodat de 'laagste prijsgarantie'-belofte en cross-locatie verhuur betrouwbaar en actueel blijven"
+    outreach_strategy: "Benader het hoofdkantoor/Eric Stubbé met de invalshoek dat de decentrale vestigingsstructuur kansen laat liggen op het gebied van centrale sturing en cross-sell tussen vestigingen"
+    conversation_starters:
+      - "Hoe wordt de laagste-prijsgarantie tussen 42 vestigingen nu bewaakt — centraal of per locatie apart?"
+      - "Hebben de losse vestigingseigenaren inzicht in elkaars bezetting, zodat klanten makkelijk naar een andere ALLSAFE-locatie kunnen worden doorverwezen?"
+
+  - name: 1BOX Self-Storage
+    url: https://www.1box.nl/
+    priority_score: 8/10
+    industry: Zelfopslag (self-storage) keten, actief als nummer drie speler in de Nederlandse markt met vestigingen door het hele land
+    size: "11-50 medewerkers (LinkedIn), opgericht in 2017, hoofdkantoor in Rijswijk; 29+ vestigingen verspreid over Noord-Brabant, Groningen, Flevoland, Limburg, Utrecht en Gelderland"
+    tech_stack: "Geen zichtbaar eigen ERP/CRM-platform of ontwikkelteam; zakelijke klanten huren nu vaak losse opslagruimtes 'onder één contract' wat wijst op handmatige coördinatie tussen locaties"
+    why_fit: "Duidelijke multi-locatie groeistrategie (van start in 2017 naar 29+ vestigingen, met zicht op nieuwbouwprojecten met woningbouwontwikkelaars); headcount van 11-50 past goed in de ICP-range"
+    decision_maker: "Jan P. Bikker, oprichter en managing director; Jasper Bos, mede-managing director"
+    linkedin: "https://nl.linkedin.com/company/1box-self-storage"
+    value_proposition: "Een centraal dashboard voor bezetting en klantbeheer over alle 1BOX-locaties, zodat de verdere expansie niet leidt tot een lappendeken aan lokale systemen"
+    outreach_strategy: "Benader Jan Bikker en Jasper Bos gezamenlijk met een verwijzing naar hun ambitie om als nummer drie speler verder te groeien via nieuwbouwlocaties"
+    conversation_starters:
+      - "Bij elke nieuwe 1BOX-locatie, hoe snel is die operationeel aangesloten op jullie centrale klant- en bezettingsdata?"
+      - "Jullie noemen kansen in woningbouw voor nieuwe vestigingen — is het huidige systeem klaar om dat tempo van openen bij te houden?"
+
+  - name: Eurobox Self Storage
+    url: https://www.euroboxselfstorage.nl/
+    priority_score: 8/10
+    industry: Zelfopslag verhuurder, familiebedrijf met per vestiging aparte juridische entiteiten, actief in tien steden
+    size: "10 vestigingen (Bergen op Zoom, Breda, Dordrecht, Gouda, Haarlem, Hoofddorp, Leiden, Noordwijk, Rotterdam, Tilburg); eigen nieuwsbericht 'team groeit hard' wijst op actieve personeelsgroei"
+    tech_stack: "Structuur met een aparte B.V. per vestiging wijst op sterk gedecentraliseerd beheer zonder centraal ERP/CRM; geen klantportaal of dashboard zichtbaar vermeld"
+    why_fit: "Snelle groei naar tien vestigingen met recent geopende locaties in Hoofddorp en Haarlem; per-vestiging BV-structuur betekent vrijwel zeker gefragmenteerde administratie die baat heeft bij één centraal systeem"
+    decision_maker: "Sebastiaan van Dam, directeur (KvK-registratie Eurobox Self Storage Leiden B.V.) — voor concernbrede beslissingen nader te verifiëren via LinkedIn"
+    linkedin: "https://www.linkedin.com/company/eurobox-self-storage"
+    value_proposition: "Eén overkoepelend systeem dat de tien losse vestigings-BV's verbindt in plaats van elk apart te laten administreren"
+    outreach_strategy: "Open met de eigen uitspraak van Eurobox dat hun team 'hard groeit' en vraag hoe dat samengaat met het beheer van tien losse vestigingsentiteiten"
+    conversation_starters:
+      - "Jullie team groeit hard — groeit de administratie van tien losse vestigings-BV's daarin mee, of wordt dat juist complexer?"
+      - "Hebben de nieuwe locaties in Hoofddorp en Haarlem al hetzelfde systeem als de oudere vestigingen, of draait elke Eurobox-locatie nog op zijn eigen manier?"
+
+  - name: Bo-Rent Self Storage
+    url: https://borent.nl/self-storage/
+    priority_score: 7/10
+    industry: Zelfopslag-tak van een breder verhuurbedrijf (naast auto- en busjesverhuur), actief op meerdere vestigingen in Nederland
+    size: "11-50 medewerkers volgens externe bedrijvendatabase; 11 self-storage vestigingen binnen een breder netwerk van 67+ Bo-Rent verhuurlocaties, bedrijf bestaat al 50+ jaar"
+    tech_stack: "Geen centraal klantportaal of dashboard vermeld specifiek voor self-storage; opslag is een nevenactiviteit naast voertuigverhuur, wat duidt op systemen die primair voor verhuur van voertuigen zijn ingericht"
+    why_fit: "Self-storage als groeiende nevenpoot binnen een gevestigd verhuurbedrijf met veel vestigingen, wat kansen biedt voor een dedicated dashboard naast de bestaande voertuigverhuur-administratie"
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek naar de operationeel verantwoordelijke"
+    linkedin: null
+    value_proposition: "Een apart, overzichtelijk dashboard voor de groeiende self-storage-tak, losstaand van de voertuigverhuur-systemen"
+    outreach_strategy: "Benader via de self-storage-tak specifiek en vraag hoe opslag nu naast de kernactiviteit (voertuigverhuur) wordt geadministreerd"
+    conversation_starters:
+      - "Draait de self-storage-tak van Bo-Rent nu op hetzelfde systeem als jullie auto- en busjesverhuur, of apart?"
+      - "Met 11 opslagvestigingen naast de verhuurlocaties, hoe houden jullie bezetting en omzet per opslaglocatie nu bij?"
+
+  - name: Logicall
+    url: https://logicall.com/nl/
+    priority_score: 7/10
+    industry: 3PL- en fulfillmentdienstverlener gericht op MKB-klanten, met opslag-, douane- en orderverwerkingsdiensten vanuit meerdere depots
+    size: "Actief vanuit meerdere vestigingen (Zaandam, Delft, Schiphol-Rijk, Bleiswijk, Venlo); Zaandam-locatie alleen al 22.000 pallet- en 11.000 stellingplaatsen; LinkedIn-bedrijfspagina heeft ruim 3.600 volgers wat op een middelgrote organisatie wijst"
+    tech_stack: "Waarschijnlijk een WMS voor het eigen magazijnbeheer, maar geen zichtbaar centraal klant-dashboard of CRM voor hun eigen MKB-klantrelaties over de verschillende vestigingen heen"
+    why_fit: "Meerdere depots die gecoördineerd moeten worden richting dezelfde MKB-klanten; positioneert zich expliciet als 'one-stop-shop' voor MKB-logistiek, dus interne coördinatie tussen diensten over meerdere locaties is complex genoeg voor een centraal dashboard"
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek"
+    linkedin: "https://nl.linkedin.com/company/logicall-trusted-logistics"
+    value_proposition: "Eén centraal overzicht van klantorders, voorraad en douaneafhandeling over de vijf vestigingen, zodat de 'one-stop-shop'-belofte aan MKB-klanten ook intern werkelijk naadloos verloopt"
+    outreach_strategy: "Benader operationeel management met de invalshoek dat het combineren van transport, douane, opslag en fulfilment vanuit vijf locaties voor dezelfde MKB-klant vraagt om één klantbeeld"
+    conversation_starters:
+      - "Als een MKB-klant zowel opslag in Zaandam als transport en douane bij Logicall afneemt, hebben jullie dan nu één centraal klantbeeld of loopt dat via losse systemen?"
+      - "Met vestigingen in Zaandam, Delft, Bleiswijk en Venlo, hoe wordt capaciteit en bezetting nu onderling afgestemd?"
+
+  - name: Future Fulfilment
+    url: https://futurefulfilment.nl/
+    priority_score: 6/10
+    industry: E-commerce fulfillment- en warehousingpartner, recent flink uitgebreide vestiging in Beek en Donk
+    size: "KvK-registratie maart 2025, onderdeel van FOLU Holding B.V.; magazijn uitgebreid van 3.000 naar 7.000 m² om groeiende klantvraag op te vangen"
+    tech_stack: "Koppelingen met 150+ marktplaatsen wijzen op een gangbaar fulfillment-platform voor orderverwerking, maar geen zichtbaar centraal management-dashboard of CRM voor de eigen bedrijfsvoering"
+    why_fit: "Net (2025) fors uitgebreide magazijncapaciteit door groeiende vraag, wat wijst op operationele groeipijn; jong, snelgroeiend bedrijf zonder zichtbare eigen IT-afdeling"
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek naar de bestuurder van FOLU Holding B.V."
+    linkedin: "https://nl.linkedin.com/company/futurefulfilment-nl"
+    value_proposition: "Een centraal operationeel dashboard dat meegroeit met de net verdubbelde magazijncapaciteit"
+    outreach_strategy: "Verwijs naar de recente uitbreiding van 3.000 naar 7.000 m² en vraag hoe de interne systemen zijn meegegroeid met die schaalsprong"
+    conversation_starters:
+      - "Jullie magazijn is meer dan verdubbeld in oppervlakte — is de interne aansturing en rapportage al net zo hard meegegroeid?"
+      - "Met koppelingen naar 150+ marktplaatsen, hebben jullie daar nu één centraal dashboard voor, of blijft dat versnipperd per klant?"
+
+  - name: Opslagman
+    url: https://www.opslagman.nl/
+    priority_score: 6/10
+    industry: Familiebedrijf gespecialiseerd in verhuur van particuliere en zakelijke opslagruimte, van origine een vastgoedbedrijf
+    size: "Elf vestigingen; tweede-generatie familiebedrijf, exact medewerkersaantal niet vermeld op de site — vermoedelijk klein team gezien de vastgoedachtergrond"
+    tech_stack: "Geen centraal klantportaal of dashboard vermeld; komt voort uit vastgoedbeheer, wat wijst op traditionele, handmatige beheerprocessen over elf losse locaties"
+    why_fit: "Elf vestigingen verspreid over meerdere provincies bij een van origine klein vastgoedbedrijf, wat vrijwel zeker leidt tot handmatig locatiebeheer zonder centraal systeem"
+    decision_maker: "Edwin Putman, eigenaar Grepu Vastgoed B.V. (moederbedrijf Opslagman)"
+    linkedin: "https://nl.linkedin.com/in/edwin-putman-b4b9aa89"
+    value_proposition: "Eén centraal systeem voor bezetting, verhuurcontracten en facturatie over elf vestigingen"
+    outreach_strategy: "Benader Edwin Putman met de invalshoek dat Opslagman vanuit vastgoedbeheer is gegroeid naar elf actieve opslaglocaties, en vraag hoe dat beheer nu is georganiseerd"
+    conversation_starters:
+      - "Vanuit vastgoedbeheer zijn jullie doorgegroeid naar elf opslaglocaties — draait elke vestiging nog op zijn eigen manier van administreren?"
+      - "Hoe krijgen jullie nu in één oogopslag inzicht in de bezetting van alle elf Opslagman-vestigingen samen?"
+
+  - name: Altena Express (Altena Fulfilment)
+    url: https://altenaexpress.nl/
+    priority_score: 5/10
+    industry: Logistiek dienstverlener in het midden van het land die transport, B2B/B2C e-fulfilment en opslag combineert
+    size: "Gevestigd in Utrecht/Nieuwegein; geen medewerkersaantal of vestigingsaantal vermeld op de site"
+    tech_stack: "niet vermeld op de site; combinatie van transport, fulfilment en opslag onder één dak wijst op meerdere operationele processen die mogelijk nog niet in één systeem samenkomen"
+    why_fit: "Combineert drie diensten (transport, fulfilment, opslag) die normaal apart worden aangestuurd, wat kansen biedt voor één centraal overzicht — omvang onvoldoende hard te maken, vandaar lagere score"
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek"
+    linkedin: "https://nl.linkedin.com/company/altena-express-bv"
+    value_proposition: "Eén centraal dashboard dat transport, fulfilment en opslag met elkaar verbindt"
+    outreach_strategy: "Vraag eerst nader (via LinkedIn/KvK) naar de exacte omvang en beslisser voordat je concreet contact legt"
+    conversation_starters:
+      - "Nu jullie transport, fulfilment én opslag combineren, lopen die drie nu via hetzelfde systeem of nog los van elkaar?"
+      - "Hoe houden jullie voor een klant die zowel opslag als e-fulfilment afneemt nu één centraal overzicht bij?"
+
+  - name: Koelhuis Dintelmond B.V.
+    url: https://koelhuisdintelmond.nl/
+    priority_score: 8/10
+    industry: Koel-, vries- en droge opslag voor voedingsmiddelen (fruit, sappen, kaas, vis) in Heijningen/Fijnaart, sinds 1980
+    size: Onafhankelijk familiebedrijf, capaciteit van circa 15.000 palletplaatsen (3.000 vries, 9.000 koel, 3.000 droog); medewerkersaantal niet vermeld op de site
+    tech_stack: Geen WMS, klantportaal of software zichtbaar op de website — communicatie loopt via "korte lijnen tussen kantoor en loods", wat duidt op handmatige/telefonische werkprocessen
+    why_fit: "Net (2025) overgenomen door de familie Van Tilburg — een verse eigenaarswissel is een klassiek instapmoment voor procesverbetering; geen enkele vermelding van WMS/ERP/dashboards ondanks meerdere productcategorieën en klantstromen"
+    decision_maker: Van Tilburg (nieuwe eigenaar/directie sinds 2025) — voornaam niet vermeld op de site, vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Met een nieuwe eigenaar is dit het moment om vanaf de basis een overzichtelijk dashboard en gekoppelde systemen voor voorraad, klantcommunicatie en facturatie neer te zetten
+    outreach_strategy: Benader de nieuwe directie (familie Van Tilburg) met een boodschap gericht op "een frisse start voor jullie bedrijfsvoering", gekoppeld aan de recente overname
+    conversation_starters:
+      - "Gefeliciteerd met de recente overname door de familie Van Tilburg — hoe kijken jullie naar de digitalisering van de bedrijfsvoering nu er een nieuwe koers wordt uitgezet?"
+      - "Jullie noemen 'korte lijnen tussen kantoor en loods' als kracht — hebben jullie weleens overwogen om die lijnen ook digitaal te verkorten?"
+
+  - name: Koelhuis Dronten B.V.
+    url: https://www.koelhuisdronten.nl/
+    priority_score: 7/10
+    industry: Koelhuis voor fruit, groente, granen, vlees, eieren en pootgoed met ULO- en DCS-bewaring, in Dronten
+    size: Familiebedrijf (sinds 2015 eigendom van familie Robaard), 77 koelcellen, 18.000 ton capaciteit, meer dan 50 klanten; medewerkersaantal niet vermeld op de site
+    tech_stack: Geen WMS, klantportaal of software vermeld op de website — beheer lijkt op basis van eigen administratie te gebeuren
+    why_fit: Aanzienlijke operationele complexiteit (77 cellen, meerdere productcategorieën, 50+ klanten) zonder enig zichtbaar digitaal systeem; familieopvolging biedt een groeimoment voor professionalisering
+    decision_maker: Aard en Greeke Robaard (eigenaren); Job Robaard actief bij het bedrijf — functietitels niet vermeld op de site
+    linkedin: https://nl.linkedin.com/in/greeke-robaard-2435a454
+    value_proposition: Met 50+ klanten en 77 cellen is inzicht in bezetting, kwaliteit en klantcommunicatie via één dashboard een directe tijdsbesparing ten opzichte van handmatig bijhouden
+    outreach_strategy: Benader via LinkedIn (Greeke of Job Robaard) met een boodschap over grip op bezettingsgraad en klantoverzicht bij een groeiend aantal klanten
+    conversation_starters:
+      - "Met 77 koelcellen en 50+ klanten: hoe houden jullie nu het overzicht op bezetting en bewaarcondities per klant?"
+      - "Job, nu de tweede generatie actief is bij Koelhuis Dronten — is dit een moment om ook de systemen een update te geven?"
+
+  - name: Coldstore Van der Vaart B.V.
+    url: https://vandervaartbv.nl/
+    priority_score: 6/10
+    industry: Gekoelde en gevroren opslag, droge opslag en transport (droog, geconditioneerd, groupage, zeevracht) in Ittervoort
+    size: Volgens LinkedIn 2-10 medewerkers, maar de omvang van de dienstverlening (opslag + transport + customs) wijst mogelijk op een grotere feitelijke bezetting; exact aantal niet vermeld op de site
+    tech_stack: Gebruikt Boltrics WMS voor palletregistratie en heeft een klantportaal (voorraad.vandervaartbv.nl) — dit dekt alleen het opslagdeel, geen gekoppeld CRM/ERP/dashboard voor transport, facturatie of klantbeheer
+    why_fit: Combinatie van opslag én transport suggereert meerdere deelsystemen die niet per se met elkaar praten; alleen een WMS aanwezig, geen bredere ERP/CRM-oplossing zichtbaar
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: https://nl.linkedin.com/company/van-der-vaart-b-v
+    value_proposition: Eén centraal dashboard dat Boltrics-voorraaddata koppelt aan transportplanning en klantcommunicatie
+    outreach_strategy: Open met erkenning van hun Boltrics-implementatie en positioneer Luthox als aanvulling die de gaten tussen WMS, transport en klantcontact dicht
+    conversation_starters:
+      - "Jullie gebruiken Boltrics voor de opslag — praat dat systeem ook al soepel met jullie transportplanning en facturatie, of zijn dat nog gescheiden werelden?"
+      - "Met opslag, transport en customs onder één dak: hoe voorkomen jullie dat medewerkers tussen meerdere systemen moeten schakelen?"
+
+  - name: Willems Logistics
+    url: https://willemslogistics.com/
+    priority_score: 5/10
+    industry: Logistieke dienstverlener met transport, opslag (incl. 2.000 m² gekoelde opslag) en distributie in Benelux en Duits Ruhrgebied, gevestigd in Rijkevoort
+    size: "Circa 250 medewerkers (bovengrens van de doelgroep, geaccepteerd gezien de operationele complexiteit) — meerdere vestigingen (Rijkevoort, Haps, Veghel)"
+    tech_stack: Heeft een klantenportaal (portal.willemslogistics.com) voor real-time zichtbaarheid, maar geen genoemd WMS/ERP dat opslag, transport en CRM combineert — losse bouwstenen
+    why_fit: Grote, meerlocatie-organisatie met transport én opslag naast elkaar; klantportaal bestaat, maar een overkoepelend systeem voor sturing en rapportage ontbreekt op de site
+    decision_maker: "Arie van Rijn — Algemeen directeur"
+    linkedin: https://nl.linkedin.com/in/arie-van-rijn-ab2a7a32
+    value_proposition: Eén overkoepelend dashboard dat data uit het klantportaal, transportplanning en de gekoelde opslag samenbrengt
+    outreach_strategy: Benader Arie van Rijn direct via LinkedIn met een boodschap over overzicht houden over meerdere vestigingen (Rijkevoort, Haps, Veghel)
+    conversation_starters:
+      - "Met vestigingen in Rijkevoort, Haps en Veghel: hebben jullie één centraal overzicht van bezetting en planning, of moet dat per locatie worden opgevraagd?"
+      - "Jullie klantportaal geeft klanten inzicht — hebben jullie zelf ook een centraal management-dashboard, of gebeurt dat nog via losse rapportages?"
+
+  - name: Cool Control B.V.
+    url: https://coolcontrol.nl/
+    priority_score: 9/10
+    industry: Koelopslag en value-added logistics (rijping, verpakking, labeling) voor aardappelen, groente en fruit, met drie/vier vestigingen in Maasdijk (Westland)
+    size: 51-200 medewerkers volgens LinkedIn, opgericht in 1995 door Rob Mulder, vier vestigingen op bedrijventerrein Honderdland met samen circa 9.200-12.000 palletplaatsen verdeeld over 41 zelfstandig regelbare compartimenten
+    tech_stack: Klantportaal (portal.coolcontrol.nl) aanwezig; sorteerlijn waarbij rijpheid "machinaal en handmatig" wordt bepaald — geen WMS/ERP genoemd dat opslag, VAL-diensten en klantbeheer koppelt
+    why_fit: Precies in de ICP-sweet spot qua omvang (51-200 medewerkers); actief werven voor meerdere operationele rollen wijst op groei en operationele druk; gegroeid van 1 naar 4 vestigingen zonder dat er iets over een centraal systeem wordt vermeld; familiebedrijf met oprichter Rob Mulder, nu bredere directie (B. Mulder sinds 2013)
+    decision_maker: "Rob Mulder (oprichter); B. Mulder in directie sinds 2013 — exacte huidige functietitel niet vermeld op de site, vereist KvK/LinkedIn-opzoek"
+    linkedin: https://nl.linkedin.com/company/coolcontrol
+    value_proposition: Bij 9.200+ palletplaatsen verdeeld over 41 compartimenten en meerdere operationele teams levert een centraal dashboard direct grip op bezetting, VAL-orders en personeelsplanning
+    outreach_strategy: Benader via LinkedIn met verwijzing naar hun actieve werving van operationeel personeel — positioneer Luthox als manier om de groeiende organisatie grip te laten houden zonder evenredige toename van administratieve last
+    conversation_starters:
+      - "Jullie werven actief voor meerdere operationele functies — groeit de organisatie sneller dan de systemen eromheen kunnen bijbenen?"
+      - "Met 41 zelfstandig regelbare compartimenten: hebben jullie één dashboard dat bezetting en VAL-orders in real-time toont, of loopt dat nog via meerdere losse overzichten?"
+
+  - name: Koel- en Vrieshuis Medemblik B.V.
+    url: https://www.koelhuismedemblik.nl/
+    priority_score: 6/10
+    industry: Verwerking en opslag van agrarische producten — pootaardappelen, koelopslag wortelen/kool en vriesopslag vlees/vis/garnalen, in Medemblik
+    size: Opgericht in 1924, twee locaties (Almereweg en Klinkhamer) in Medemblik, capaciteit 1.700 palletplaatsen diepvries en 4.000 kuubskisten; medewerkersaantal niet vermeld op de site
+    tech_stack: Geen WMS, klantportaal of software vermeld op de (zeer eenvoudige) website — contact verloopt via een basis contactformulier
+    why_fit: Zeer lange bedrijfsgeschiedenis (1924) met meerdere productlijnen (pootgoed, koel, vries) en meerdere locaties, maar geen enkel zichtbaar digitaal systeem; GMP+/NVWA-certificering betekent traceability-eisen die nu waarschijnlijk handmatig worden bijgehouden
+    decision_maker: "Abraham A.J. van der Lee (kernpersoon/directie) — exacte functietitel niet vermeld op de site, vereist KvK/LinkedIn-opzoek"
+    linkedin: null
+    value_proposition: Een gekoppeld systeem voor voorraad- en kwaliteitsregistratie over de twee locaties heen (pootgoed vs. koel/vries), voldoend aan de GMP+/NVWA-eisen, bespaart dubbel werk
+    outreach_strategy: Benader via een brief/telefoongesprek gericht op de combinatie van lange historie en modernisering — vraag naar hoe partijadministratie tussen de twee locaties nu wordt bijgehouden
+    conversation_starters:
+      - "Met twee locaties voor pootgoed en koel/vriesopslag: lopen partij- en kwaliteitsgegevens al automatisch tussen beide locaties, of gebeurt dat nog handmatig?"
+      - "Voor de GMP+- en NVWA-registratie — houden jullie dat nu digitaal bij of nog op papier/Excel per partij?"
+
+  - name: Arctic Koel & Vrieshuis (Koel- en Vrieshuis Arctic B.V.)
+    url: https://www.arctic.nl/
+    priority_score: 7/10
+    industry: Opslag en verwerking van vlees- en diepvriesproducten, met eigen vriestechniek en douanefaciliteiten (Type C entrepot), in Zoetermeer
+    size: 11-20 medewerkers volgens externe bronnen, familiebedrijf met drie mede-directeuren (Hans, Nico en Jeffrey Post), 60.000 m³ opslag, 15.000 palletplaatsen, 8 loading docks
+    tech_stack: Gebruikt een "WICS Internet Portal" voor klanttoegang, maar geen WMS/ERP/dashboard dat interne processen (planning, facturatie, personeel) koppelt
+    why_fit: Familiebedrijf met drie generaties/mede-directeuren actief — meerdere beslissers in één familie is een sterk signaal voor opvolging en modernisering; forse operationele complexiteit (eigen vriestechniek, douane) t.o.v. beperkte teamgrootte
+    decision_maker: "Jeffrey Post — Directeur (naast mede-directeuren Hans en Nico Post)"
+    linkedin: https://nl.linkedin.com/in/jeffrey-post-85891311a
+    value_proposition: Eén overzicht dat het klantportaal (WICS) koppelt aan interne planning, personeelsinzet en douaneadministratie
+    outreach_strategy: Benader Jeffrey Post via LinkedIn — als jongere generatie in een familiebedrijf met meerdere mede-directeuren is hij een logische ingang voor een gesprek over modernisering
+    conversation_starters:
+      - "Met Hans, Nico en Jeffrey samen aan het roer: hoe houden jullie onderling het overzicht op planning en bezetting naast het klantportaal?"
+      - "Jullie eigen ammoniak-CO2 vriesinstallaties en Type C-entrepot vragen om precieze administratie — draait dat nog los van het WICS-klantportaal?"
+
+  - name: De Poel Koel- en Vrieshuis B.V.
+    url: https://www.koelenvrieshuis.nl/
+    priority_score: 5/10
+    industry: Op- en overslag van gekoelde en diepgevroren producten met douanefaciliteiten, twee vestigingen (Surhuisterveen en Stroobos) in Noord-Nederland
+    size: Circa 10 medewerkers volgens eigen website, 40+ jaar ervaring, tot 30.000 palletplaatsen — kleiner dan de kernbandbreedte maar met relatief hoge operationele complexiteit
+    tech_stack: Geen WMS, klantportaal of software vermeld op de website
+    why_fit: Ondanks een klein team (circa 10 medewerkers) een aanzienlijke opslagcapaciteit (30.000 pallets) en twee vestigingen met douaneafhandeling — dat wijst op veel handmatig werk per medewerker
+    decision_maker: "Ewout Betten — General Manager"
+    linkedin: null
+    value_proposition: Met een klein team dat 30.000 palletplaatsen op twee locaties beheert, levert automatisering van rapportage en klantcommunicatie direct tijdwinst per medewerker
+    outreach_strategy: Benader Ewout Betten rechtstreeks (telefoon/e-mail) met een boodschap over efficiëntie per medewerker
+    conversation_starters:
+      - "Met maar een man of tien beheren jullie 30.000 palletplaatsen op twee locaties — waar gaat op dit moment de meeste tijd naartoe: rapportage, klantcontact of planning?"
+      - "Bij op- en overslag met douaneafhandeling komt vaak veel papierwerk kijken — is dat bij De Poel al gedigitaliseerd?"
+
+  - name: Sealane Coldstorage B.V.
+    url: https://www.sealane.nl/
+    priority_score: 6/10
+    industry: Koelopslag, expeditie, offshore-ondersteuning en terminaloperaties (o.a. bevroren vis/zeevruchten) in de Eemshaven
+    size: Meerdere managementlagen zichtbaar (Managing Director, Sales Manager, Operations Manager, voorzitter RvC), twee koelopslagfaciliteiten en twee eigen kades; exact medewerkersaantal niet vermeld op de site
+    tech_stack: Geen WMS, klantportaal of software vermeld op de site — twee divisies (Sealane Coldstorage BV en Sealane Terminals BV) lijken apart beheerd te worden
+    why_fit: Twee divisies (coldstorage + terminals) met meerdere managementrollen wijst op complexiteit die vraagt om onderlinge afstemming; 40+ jaar ervaring zonder zichtbare digitale laag
+    decision_maker: "Harald Jansen — Operations Manager (naast Geralt Vels, Managing Director)"
+    linkedin: https://nl.linkedin.com/company/sealane-coldstorage
+    value_proposition: Eén dashboard dat de coldstorage- en terminalactiviteiten van beide Sealane-divisies samenbrengt
+    outreach_strategy: Benader Harald Jansen (Operations Manager) via LinkedIn met een boodschap over het samenbrengen van coldstorage- en terminaldata in één overzicht
+    conversation_starters:
+      - "Met Sealane Coldstorage en Sealane Terminals als aparte divisies: hebben jullie al één gezamenlijk overzicht van bezetting en planning, of blijft dat gescheiden?"
+      - "Bevroren vis en zeevracht vragen om strakke temperatuur- en partijregistratie — hoe wordt dat nu vastgelegd en gedeeld tussen de teams?"
+
+  - name: Vrieshuis Weert B.V.
+    url: https://www.nekovri.nl/leden/vrieshuis-weert-bv
+    priority_score: 4/10
+    industry: Koel- en vrieshuis (opslag in koelhuizen e.d.), gevestigd in Weert sinds 1978
+    size: Familiebedrijf sinds 1978; medewerkersaantal, exacte capaciteit en klantprofiel niet vermeld — vereist verder KvK-onderzoek voor een preciezere inschatting
+    tech_stack: niet vermeld op de site
+    why_fit: Lang bestaand onafhankelijk familiebedrijf zonder zichtbare digitale aanwezigheid — al is verificatie van omvang nodig voor de intake, vandaar lagere prioriteit
+    decision_maker: Paul L.M. Kollee (kernpersoon volgens bedrijfsregisters) — exacte functietitel niet vermeld op de site, vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Voor een familiebedrijf zonder eigen uitgebreide onlineaanwezigheid kan een eenvoudig, overzichtelijk systeem voor voorraad en klantcommunicatie een grote stap vooruit betekenen
+    outreach_strategy: Begin met een verkennend telefoongesprek of brief om eerst de huidige werkwijze en bedrijfsomvang te verifiëren
+    conversation_starters:
+      - "Als gevestigd vrieshuis in Weert sinds 1978: hoe wordt de voorraad- en klantadministratie op dit moment bijgehouden?"
+      - "Zijn er plannen om de bedrijfsvoering de komende tijd te moderniseren, bijvoorbeeld rond planning of klantcommunicatie?"
+
+  - name: Green Logistics Groningen B.V.
+    url: https://glgbv.com/nl/
+    priority_score: 7/10
+    industry: 3PL-dienstverlener gespecialiseerd in warehousing, bonded warehouse, fulfillment, value-added logistics en retaillogistiek (opslag, orderverwerking, repacking/labeling) vanuit Aduard, Groningen
+    size: "51-200 medewerkers (circa 28-61 fte genoemd in verschillende bronnen), gevestigd aan de Albert Harkemaweg in Aduard; verzendt 5.000+ pakketten per dag, 15.000+ pallets opslagcapaciteit; certificeringen AEO, IATA, Skal-bio"
+    tech_stack: Bedrijf claimt "tech-driven" met eigen systemen voor WMS, douane, parcel, TMS en financieel beheer — dit oogt als een lappendeken van losse (deels zelfgebouwde) tools in plaats van één geïntegreerd platform, wat juist kansen biedt voor een overkoepelend dashboard
+    why_fit: Klein-tot-middelgroot team dat vijf verschillende systemen naast elkaar gebruikt (WMS, douane, parcel, TMS, financieel) — typisch een organisatie waar niets met elkaar praat; meerdere zware certificeringen (AEO, IATA, Skal) vragen om nauwkeurige, nu vermoedelijk versnipperde compliance-rapportage
+    decision_maker: "Jan Drenth, eigenaar — vereist verificatie via KvK/LinkedIn voordat dit in outreach wordt gebruikt"
+    linkedin: null
+    value_proposition: Eén centraal dashboard dat hun bestaande WMS-, douane-, parcel- en TMS-data samenbrengt, zodat de directie in één oogopslag ziet wat er in het magazijn gebeurt
+    outreach_strategy: Benader de eigenaar direct met een concrete vraag over hoe hij nu overzicht houdt over vijf losse systemen, en bied een gratis quickscan van hun datastromen aan
+    conversation_starters:
+      - "Jullie werken met vijf verschillende systemen voor WMS, douane, parcel, TMS en financiën — hoe houdt het management daar nu overzicht over?"
+      - "Met certificeringen als AEO, IATA en Skal — hoe houden jullie overzicht tussen de verschillende gecertificeerde goederenstromen binnen één warehouse?"
+
+  - name: LCW Groningen B.V.
+    url: https://www.lcw.nl/
+    priority_score: 7/10
+    industry: Transport-, opslag- en distributiebedrijf, ontstaan uit een fusie van drie Groningse transportbedrijven in 2003
+    size: ongeveer 150 medewerkers (bovenkant van de bandbreedte, maar met meerdere bedrijfsonderdelen en dus reële operationele complexiteit)
+    tech_stack: site vermeldt een planningssysteem voor transport, maar geen klantportaal of geïntegreerd dashboard voor opslag/distributie — niet vermeld op de site of en hoe WMS en planning gekoppeld zijn
+    why_fit: fusie van drie bedrijven in 2003 betekent vaak samengevoegde, niet-gestandaardiseerde systemen; forse omvang met transport, opslag én distributie onder één dak vraagt om centrale sturing; directeur/mede-eigenaar is bekend en bereikbaar
+    decision_maker: Jakob Vonck, algemeen directeur en financieel mede-eigenaar
+    linkedin: https://nl.linkedin.com/in/jakob-vonck-6a239b23
+    value_proposition: een centraal management-dashboard dat de resultaten van de drie samengevoegde bedrijfsonderdelen (transport, opslag, distributie) samenbrengt in één overzicht
+    outreach_strategy: benader Jakob Vonck vanuit zijn rol als financieel directeur — focus op grip op cijfers en KPI's over de gefuseerde bedrijfsonderdelen heen
+    conversation_starters:
+      - "Na de fusie van drie transportbedrijven in 2003 — zijn de systemen van die bedrijven inmiddels samengevoegd of werkt iedere afdeling nog met eigen tools?"
+      - "Hoe krijgt u als financieel directeur nu een geconsolideerd beeld van transport, opslag en distributie samen?"
+
+  - name: Venus Op- en Overslag B.V.
+    url: https://www.venusopenoverslag.nl/
+    priority_score: 6/10
+    industry: Opslag, logistiek en distributie van foodproducten, met 30.000 m² buitenterrein, 9.000 m² binnenopslag en 17 verhuurbare kantoren in Heerenveen
+    size: niet eenduidig vermeld — KvK-registratie toont een klein aantal medewerkers op papier, maar de fysieke omvang (39.000 m² totaal, 17 kantoren) wijst op een grotere operatie dan de formele registratie suggereert
+    tech_stack: niet vermeld op de site — geen klantportaal, WMS of dashboard genoemd, wel verhuur van kantoorruimtes aan derden wat wijst op een divers geheel van huurders/processen
+    why_fit: relatief jong en dynamisch bedrijf (opgericht 2015) middenin Friesland met een fysiek grote, diverse operatie (opslag + verhuur + foodlogistiek) die vermoedelijk niet in één systeem is gevat
+    decision_maker: Joscha Oenema, eigenaar (volgens LinkedIn)
+    linkedin: https://nl.linkedin.com/in/oenema1-undefined-713674263
+    value_proposition: een overzichtelijk dashboard dat opslagbezetting, verhuurstatus van de 17 kantoren en foodlogistieke processen samen in beeld brengt
+    outreach_strategy: benader Joscha Oenema met de invalshoek "grip op een divers vastgoed- en logistiek portfolio"
+    conversation_starters:
+      - "Met opslag, foodlogistiek én verhuur van 17 kantoren onder één dak — hoe houdt u nu overzicht over bezetting en rendement per onderdeel?"
+      - "Gebruikt Venus op dit moment één systeem voor zowel de opslag- als de verhuuractiviteiten, of loopt dat via losse administraties?"
+
+  - name: Hoogland B.V.
+    url: https://hooglandbv.nl/
+    priority_score: 8/10
+    industry: Op- en overslag, opslag en handel in veevoeders, meststoffen, gewasbeschermingsmiddelen, zaaizaad en granen, met eigen laadkade in Leeuwarden
+    size: circa 40 medewerkers, hoofdvestiging op bedrijventerrein De Hemrik in Leeuwarden, nevenvestiging in Westernieland (Groningen), ruim 20.000 ton opslagcapaciteit
+    tech_stack: niet vermeld op de site — geen klantportaal, WMS of dashboard genoemd; bedrijf combineert handel, opslag, eigen voermolen (sinds 2017) en transport
+    why_fit: familiebedrijf sinds 1854 met meerdere activiteiten (handel, opslag, eigen voermolen) die vaak los van elkaar worden beheerd; 40 medewerkers past goed in de ICP-bandbreedte; directeur-eigenaar direct bekend en bereikbaar
+    decision_maker: Camiel Hoogland, directeur-eigenaar
+    linkedin: https://nl.linkedin.com/in/camiel-hoogland-a8810035
+    value_proposition: één dashboard dat voorraad (20.000 ton opslag), inkoop/verkoop en de eigen voermolen-productie combineert
+    outreach_strategy: benader Camiel Hoogland direct als directeur-eigenaar met de invalshoek "van boer tot boerderij"
+    conversation_starters:
+      - "Sinds 2017 hebben jullie een eigen voermolen erbij — is de aansturing daarvan al gekoppeld aan jullie opslag- en handelsadministratie, of loopt dat nog los?"
+      - "Met 20.000 ton opslagcapaciteit voor voeders en meststoffen — hoe houden jullie nu voorraad en doorlooptijden in de gaten?"
+
+  - name: Firma Klouwers Terneuzen
+    url: https://www.klouwers.nl/
+    priority_score: 8/10
+    industry: Op- en overslagbedrijf met opslag, verbulking, ompakken, labeling en een 60-tons weegbrug, gevestigd in Terneuzen, Zeeland
+    size: familiebedrijf sinds 1897, ongeveer 8.000 m² overdekte opslag op een terrein van ruim 13.000 m²; exact medewerkersaantal niet vermeld op de site
+    tech_stack: geen enkele vermelding van WMS, klantportaal of digitaal dashboard op de site — sterk signaal dat processen nog grotendeels handmatig/op papier of in Excel verlopen
+    why_fit: 127 jaar oud familiebedrijf zonder enige zichtbare digitale infrastructuur op de site; combinatie van opslag, overslag, verbulking en weegbrug-activiteiten die typisch los van elkaar worden bijgehouden
+    decision_maker: Jan Kruijsse (of Eugene Kruijsse), eigenaar
+    linkedin: https://nl.linkedin.com/in/jan-kruijsse-408078264
+    value_proposition: een eenvoudig dashboard dat opslagbezetting, verbulkings-/ompakactiviteiten en weegbrug-transacties samenbrengt
+    outreach_strategy: benader de eigenaar laagdrempelig met een concreet, klein eerste project (bijv. digitaal overzicht van opslagbezetting) in plaats van een grote ERP-pitch
+    conversation_starters:
+      - "Als familiebedrijf van al 127 jaar — hoe houden jullie nu overzicht over welke loods, partij en klant waar staat?"
+      - "Met opslag, verbulking, ompakken én een weegbrug onder één dak — worden die processen nu los van elkaar bijgehouden, bijvoorbeeld op papier of in Excel?"
+
+  - name: ZUIDWEST Logistiek B.V.
+    url: https://zuidwestlogistiek.nl/
+    priority_score: 7/10
+    industry: Transport-, distributie- en opslagbedrijf met opslagfaciliteiten voor korte en lange termijn, actief vanuit vier vestigingen (Goes, Terneuzen, Tholen en Krimpen aan den IJssel)
+    size: meer dan 100 medewerkers (bovenkant van de bandbreedte), hoofdvestiging aan de Van Doornestraat in Goes, Zeeland
+    tech_stack: niet vermeld op de site — geen klantportaal of WMS genoemd; bedienen van meerdere sectoren (recht, notariaat, food, zorg, overheid, bouw, industrie, mkb) wijst op sterk uiteenlopende klantprocessen
+    why_fit: vier vestigingen in twee provincies met opslag voor zeer diverse sectoren — hoge operationele complexiteit; geen zichtbare digitale systemen op de site
+    decision_maker: Jan Willem Van der Voorden, contactpersoon/directie
+    linkedin: null
+    value_proposition: een centraal dashboard dat opslag en distributie over de vier vestigingen heen inzichtelijk maakt
+    outreach_strategy: benader vanuit de invalshoek "grip over vier vestigingen heen" — vraag hoe zij nu prestaties en bezetting tussen de locaties vergelijken
+    conversation_starters:
+      - "Met vier vestigingen in twee provincies — hoe vergelijkt het management nu bezetting en doorlooptijd tussen de locaties?"
+      - "Jullie bedienen heel uiteenlopende sectoren, van notariaat tot bouw — werkt dat allemaal via dezelfde systemen of per klant net iets anders?"
+
+  - name: Verhuisbedrijf Nobbe
+    url: https://www.verhuisbedrijfnobbe.nl/
+    priority_score: 5/10
+    industry: Verhuisbedrijf met bedrijfsmatige opslagfaciliteiten (32.000 m³ op twee locaties) in Winschoten, met nevenvestigingen in Groningen, Assen en Stadskanaal
+    size: niet vermeld op de site — vereist KvK/LinkedIn-opzoek; meerdere vestigingen wijzen op een mkb-organisatie van enige omvang
+    tech_stack: niet vermeld op de site — wel een "nummeringssysteem" voor opslagcontainers genoemd, maar geen digitaal klantportaal of dashboard
+    why_fit: opslag is hier een nevenactiviteit naast verhuizingen, dus minder zuiver "warehousing"-profiel, maar wel reële operationele omvang (4 vestigingen, 32.000 m³) en certificeringen (ISO 9001/14001, VCA) die op professionalisering wijzen
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: een dashboard dat opslagbezetting over de twee opslagfaciliteiten en vier vestigingen samenbrengt
+    outreach_strategy: benader via een algemene intake omdat geen specifieke naam bekend is; vraag naar hoe zij nu bezetting van de opslagcontainers over meerdere vestigingen bijhouden
+    conversation_starters:
+      - "Met opslagcapaciteit op twee locaties en vestigingen in vier plaatsen — hoe houden jullie nu bij welke opslagcontainer waar staat en hoe vol die is?"
+      - "Jullie zijn ISO 9001 en 14001 gecertificeerd — is de rapportage daarvoor nu handmatig of al gekoppeld aan een centraal systeem?"
+
+  - name: ALC Warehousing
+    url: https://www.alcwarehousing.nl/
+    priority_score: 9/10
+    industry: Full-service logistiek dienstverlener gespecialiseerd in e-fulfilment, warehousing, opslag, transport, distributie en voorraadbeheer (TAPA-A gecertificeerd, 25.000 m² opslagcapaciteit)
+    size: 27 medewerkers, gevestigd in Alphen aan den Rijn, familiebedrijf (Van de Kamp-familie) sinds 2008, internationale klanten van Zuid-Afrika tot Zweden en China
+    tech_stack: Geen custom software of eigen ontwikkelteam gevonden op de site; werkt met reguliere WMS-achtige opslagprocessen — geen unified ERP/CRM/dashboard zichtbaar
+    why_fit: Net overgenomen door investeringsmaatschappij Globitas als start van een buy-and-build strategie in logistiek/warehousing — een klassiek MKB-groeisignaal; MKB-schaal (27 medewerkers) past perfect binnen de ICP; complexe internationale operatie duidt op behoefte aan betere systeemintegratie
+    decision_maker: Peter van Noordennen, algemeen directeur
+    linkedin: null
+    value_proposition: Na de overname door Globitas wil het bedrijf verder groeien en professionaliseren — Luthox kan met een centraal dashboard en gekoppelde systemen de operationele schaalbaarheid ondersteunen die een buy-and-build fase vereist
+    outreach_strategy: Benader Peter van Noordennen met een korte case over hoe andere MKB-logistiekbedrijven na een overname hun IT-basis hebben gemoderniseerd om sneller te kunnen integreren en opschalen
+    conversation_starters:
+      - Hoe bereiden jullie de systemen en processen voor op de groeiplannen van Globitas na de recente overname?
+      - Zijn voorraadbeheer en klantcommunicatie bij de internationale klanten van ALC nu nog handmatig of via losse systemen geregeld?
+
+  - name: Vareya B.V.
+    url: https://www.vareya.nl/
+    priority_score: 7/10
+    industry: E-fulfilment en warehousing partner voor webshops (cosmetica, supplementen, telefoonhoesjes en accessoires), opslagcapaciteit van 42.000 m² in Breda/Etten-Leur
+    size: Niet exact vermeld; kleine tot middelgrote organisatie, actief sinds 2016, gericht op merken vanaf 500+ orders per maand
+    tech_stack: Gebruikt het externe (niet-zelfgebouwde) WMS ShipHero en koppelingen met Shopify en Amazon FBM — geen eigen ontwikkelteam zichtbaar
+    why_fit: Duidelijke groeiambitie (overweegt zelfs een coöperatief model met merkeigenaren) wat wijst op behoefte aan schaalbare, overzichtelijke systemen; MKB-schaal fulfilmentbedrijf zonder zichtbare eigen software-afdeling
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: https://nl.linkedin.com/company/vareya
+    value_proposition: Met een gekoppeld dashboard tussen ShipHero, webshopplatforms en klantcommunicatie kan Vareya sneller schalen richting het geplande coöperatieve groeimodel
+    outreach_strategy: Korte, nieuwsgierige opener over het coöperatieve model dat ze overwegen en hoe systemen daarin meebewegen
+    conversation_starters:
+      - Jullie noemen een mogelijk coöperatief model met merken — hoe zorgen jullie dat de systemen dat straks aankunnen?
+      - Is er al één plek waar voorraad, orders en klantrapportages samenkomen, of loopt dat nu via losse tools?
+
+  - name: K.G. van Vliet
+    url: https://www.vanvlietcontainers.nl/
+    priority_score: 6/10
+    industry: Verkoop en verhuur van rolcontainers en laadmiddelen/opslagoplossingen voor transport van bloemen en planten (tuinbouw- en retailsector), inclusief opslagfaciliteit van 22.000 m²
+    size: Aantal medewerkers niet exact vastgesteld; sinds 2018 gevestigd in een nieuw pand van 22.000 m² in Epe
+    tech_stack: Niet vermeld op de site
+    why_fit: Duidelijk buy-and-build/PE-signaal — overgenomen door participatiemaatschappij Scheybeeck met een nieuwe algemeen directeur als opvolgingsroute; logistiek-aanpalende opslag/verhuuractiviteit die typisch met handmatige planning werkt
+    decision_maker: Bob IJpelaar, algemeen directeur
+    linkedin: https://nl.linkedin.com/in/bob-ijpelaar-30071973
+    value_proposition: Na de overname door Scheybeeck is dit het moment om verhuurplanning, voorraad van laadmiddelen en klantfacturatie in één systeem te brengen
+    outreach_strategy: Benader Bob IJpelaar met de invalshoek "nieuwe eigenaar, nieuw groeimoment" en vraag hoe de verhuuradministratie van rolcontainers nu verloopt
+    conversation_starters:
+      - Sinds de overname door Scheybeeck, hoe kijkt u naar het moderniseren van de verhuuradministratie van de rolcontainers?
+      - Is er nu al overzicht in real-time van welke rolcontainers waar staan, of gebeurt dat nog handmatig?
+
+  - name: Pick & Pack B.V.
+    url: https://pickpackbv.nl/
+    priority_score: 6/10
+    industry: Fulfilmentcenter voor webshops en marketplaces (Bol.com, Amazon) met opslag, pick & pack, verzending en retourverwerking, gevestigd in Bleiswijk
+    size: Niet vermeld op de site; bedient 200+ webshops en 500+ klanten
+    tech_stack: Eigen klantportaal voor ordertracking en voorraadinzicht, gekoppeld aan 180+ platformen — dekt maar een deel (tracking) van wat Luthox biedt, geen unified ERP/CRM zichtbaar
+    why_fit: Hoge transactievolumes (500+ klanten, 23:59 cut-off) duiden op operationele complexiteit die verder gaat dan één simpele opslaglocatie; bestaand klantportaal dekt slechts een deel van de behoefte
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Uitbreiding van het bestaande klantportaal naar een volwaardig dashboard met voorraad-, financiële en operationele KPI's
+    outreach_strategy: Contact leggen met de eigenaar/operationeel manager, vraag stellen over hoe zij hun 500+ klanten nu inzicht geven buiten het bestaande trackingportaal om
+    conversation_starters:
+      - Jullie klantportaal geeft ordertracking — geeft het ook inzicht in marges of doorlooptijden per klant?
+      - Bij 500+ klanten en 23:59 cut-off, hoe voorkomen jullie nu foutgevoelige handmatige afstemming tussen platformen?
+
+  - name: Nic. Oud
+    url: https://www.nicoud.nl/
+    priority_score: 6/10
+    industry: Specialist in direct mail, print, duurzame verzendoplossingen en e-commerce fulfilment/logistiek, gevestigd in Heerhugowaard
+    size: Circa 130 medewerkers, actief sinds 1978
+    tech_stack: ISO-gecertificeerd, gebruikt webshopkoppelingen voor fulfilment en eigen Paperwrap-machines voor duurzame verpakking; geen aanwijzing van een unified ERP/CRM of eigen softwareteam
+    why_fit: MKB-schaal aan de bovenkant van de range (130 medewerkers) met meerdere bedrijfsonderdelen (print, direct mail, fulfilment) die apart aangestuurd worden
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Eén overkoepelend dashboard tussen de print-, direct mail- en fulfilmenttak kan Nic. Oud helpen cross-sell en capaciteitsplanning tussen de afdelingen te verbeteren
+    outreach_strategy: Benader met de invalshoek "meerdere bedrijfsonderdelen, één overzicht" en verwijs naar hun recente Biosiel-innovatie als bewijs van vernieuwingsgezindheid
+    conversation_starters:
+      - Met print, direct mail en fulfilment onder één dak, hebben jullie al één plek waar de planning van alle afdelingen samenkomt?
+      - Na de erkenning voor Biosiel, hoe brengen jullie die duurzaamheidsdata nu terug naar klanten?
+
+  - name: Erenpack
+    url: https://www.erenpack.nl/
+    priority_score: 5/10
+    industry: Fulfilmentbedrijf met opslag, verzending, direct mail en print/promotiediensten, gevestigd in Kolham (Groningen)
+    size: Niet vermeld op de site; actief sinds 2009, meer dan 15 jaar ervaring in fulfilment en logistiek
+    tech_stack: Koppelingen met 10+ webshopplatformen (Shopify, WooCommerce, Bol.com, Amazon, Magento); geen unified ERP/CRM of eigen ontwikkelteam zichtbaar
+    why_fit: Kleinschalig MKB-bedrijf met meerdere dienstverleningslijnen (fulfilment, direct mail, print) die vermoedelijk los van elkaar worden aangestuurd
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Eén systeem dat orderverwerking, retourlogistiek en print/direct-mail-opdrachten samenbrengt
+    outreach_strategy: Kort, persoonlijk bericht over hun combinatie van fulfilment en print/direct mail en vraag hoe zij nu tussen die twee werelden schakelen
+    conversation_starters:
+      - Hoe zorgen jullie dat fulfilment-orders en print/direct-mail-opdrachten niet in aparte systemen terechtkomen?
+      - Bij 15+ jaar ervaring, wat is nu het grootste knelpunt in de dagelijkse planning?
+
+  - name: Fullfillers.nl
+    url: https://www.fullfillers.nl/
+    priority_score: 5/10
+    industry: Fulfilmentcenter voor webshops met "volledige ontzorging" op het gebied van voorraadbeheer, orderverwerking, verpakking, verzending en retouren, gevestigd in Capelle aan den IJssel
+    size: Niet vermeld op de site
+    tech_stack: Plug & play software-integratie en een real-time dashboard voor voorraad/orders, gekoppeld aan 20+ platformen — dekt alleen ordertracking, geen unified ERP/CRM/financieel dashboard
+    why_fit: Positioneert zich expliciet op Bol-verkopers en transparante prijzen, wat duidt op groeigerichte, prijsbewuste MKB-onderneming die efficiëntie via techniek zoekt
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Uitbreiding van het huidige real-time dashboard naar een breder bedrijfsoverzicht (marge, klantrendement, capaciteit)
+    outreach_strategy: Benader met vraag hoe zij nu rendement per klant/webshop meten naast het operationele dashboard
+    conversation_starters:
+      - Jullie dashboard toont voorraad en orders — geeft het ook zicht op marge per webshop-klant?
+      - Hoe onderbouwen jullie de transparante prijzen richting klanten als het onderliggende proces nog los van elkaar draait?
+
+  - name: MTS Fulfilment
+    url: https://mtsfulfilment.nl/
+    priority_score: 5/10
+    industry: Fulfilmentbedrijf voor webshops en marketplaces met opslag, orderverwerking en verzending, gevestigd in Heerhugowaard
+    size: 15 medewerkers, opgericht in 2022, opslagcapaciteit van 4.000 m², bedient 30+ webshops
+    tech_stack: Gebruikt het externe platform ChannelDock voor voorraad- en orderbeheer, gekoppeld aan 150+ verkoopkanalen — geen eigen ontwikkelteam
+    why_fit: Kleine maar snelgroeiende MKB-onderneming (600.000+ verwerkte pakketten) net na de opstartfase, typisch moment waarop processen nog handmatig/versnipperd zijn
+    decision_maker: niet vermeld op de site — vereist KvK/LinkedIn-opzoek
+    linkedin: null
+    value_proposition: Een centraal dashboard bovenop ChannelDock voor klantcommunicatie en managementrapportage
+    outreach_strategy: Korte outreach gericht op de oprichter met de invalshoek "snelle groei sinds 2022, hoe houden jullie overzicht"
+    conversation_starters:
+      - Bij 600.000+ verwerkte pakketten en 30+ webshops, hoe houden jullie nu overzicht op klantniveau naast ChannelDock?
+      - Wat is voor jullie het grootste knelpunt geweest tijdens de snelle groei sinds de start in 2022?
+
+  - name: Gebroeders van Eijk
+    url: https://www.gebroedersvaneijk.nl/
+    priority_score: 8/10
+    industry: Douane-entrepot, distributie en warehousing (in- en uitslag, orderpicking) in Asten en Someren, gericht op MKB-klanten in de Benelux
+    size: ca. 135 medewerkers (120 in Asten, 20 in Someren); twee locaties van resp. 10.000 m² (60 laaddocks) en 15.000 m² (20 laaddocks) — vierde generatie familiebedrijf sinds 1908
+    tech_stack: Klantportaal (KIOC2) en Babeldat-koppeling voor track & trace; geen vermelding van een centraal ERP/CRM of BI-dashboard — losse portalen wijzen op versnipperde systemen
+    why_fit: Groeiend familiebedrijf met recente generatiewissel (Pim en Jannis van Eijk, 4e generatie sinds 2022) op twee locaties, wat vraagt om betere onderlinge datastroom; heeft alleen een basaal klantportaal, geen zichtbaar centraal management-dashboard
+    decision_maker: "Pim van Eijk / Jannis van Eijk — mede-eigenaren (4e generatie), functietitel verder niet gespecificeerd op de site"
+    linkedin: null
+    value_proposition: Eén overzichtelijk dashboard dat voorraad, in-/uitslag en klantstatus over beide locaties samenbrengt
+    outreach_strategy: Benader de nieuwe (jongere) eigenaren rond het thema generatiewissel en groei — vraag hoe zij als opvolgers de bedrijfsvoering over twee locaties efficiënter willen maken
+    conversation_starters:
+      - "Jullie runnen nu twee locaties (Asten en Someren) als vierde generatie — hoe houden jullie het overzicht tussen beide panden?"
+      - "Het klantportaal KIOC2 is mooi voor klanten, maar hoe werkt de interne planning en voorraadadministratie daarachter?"
+
+  - name: Lamberink Logistiek
+    url: https://lamberink-logistiek.nl/
+    priority_score: 8/10
+    industry: Palletopslag, koelopslag (tot 8.000 pallets) en cross-docking vanuit Hardenberg, met distributie naar Benelux en Duitsland
+    size: ca. 100+ medewerkers, twee locaties met ruim 10.000 m² opslagruimte, familiebedrijf
+    tech_stack: Klantportaal via een 3PL Dynamics-achtige WMS-oplossing — puur voor track & trace, geen zichtbaar centraal dashboard voor management/CRM
+    why_fit: Familiebedrijf op precies de juiste MKB-schaal (ca. 100 fte), met een externe WMS-tool maar zonder eigen ontwikkelcapaciteit; koel-/palletopslag en cross-docking zijn complex genoeg om baat te hebben bij een centraal overzicht
+    decision_maker: "Gerrit Lamberink — Managing Partner"
+    linkedin: null
+    value_proposition: Eén overzichtelijk dashboard bovenop het bestaande WMS-portaal, zodat Gerrit Lamberink real-time inzicht krijgt in bezetting, koelcapaciteit en klantstatus
+    outreach_strategy: Persoonlijk benaderen van Gerrit Lamberink met verwijzing naar zijn eigen uitspraak over maatwerk — positioneer Luthox als maatwerk-softwarepartner die past bij die filosofie
+    conversation_starters:
+      - "U noemt maatwerk als kernwaarde van Lamberink — geldt dat ook voor de software en systemen die jullie zelf gebruiken, of werken jullie nog met een standaard WMS-portaal?"
+      - "Met koel- en palletopslag tot 8.000 pallets, hoe snel heeft u nu inzicht in bezetting en klantvoorraad?"
+
+  - name: Smart Hub Logistics
+    url: https://www.smarthublogistics.nl/
+    priority_score: 6/10
+    industry: Warehousing, douane-entrepot en cross-docking op het bedrijventerrein De Rietvelden in 's-Hertogenbosch, vlak bij de BCTN containerterminal
+    size: 11-50 medewerkers, meerdere hubs (Smart Hub DB 1-4, Bossche BouwHub 1-2) in Den Bosch
+    tech_stack: Eigen WMS genoemd met 24-uurs real-time zichtbaarheid tot op locatieniveau; geen vermelding van een centraal CRM of managementdashboard naast het WMS
+    why_fit: Kleinere, groeiende MKB-speler dicht bij een containerterminal met meerdere hubs — de spreiding over meerdere hubs zonder centraal overzicht is precies het soort versnippering dat Luthox kan oplossen
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek"
+    linkedin: https://nl.linkedin.com/company/smart-hub-logistics
+    value_proposition: Eén centraal dashboard dat de verschillende hubs (DB 1-4, BouwHub 1-2) samenbrengt
+    outreach_strategy: Benader met de invalshoek "meerdere hubs, één overzicht" en vraag hoe zij nu rapportages over de verschillende hublocaties combineren
+    conversation_starters:
+      - "Met meerdere hubs op De Rietvelden, hoe brengen jullie nu de voorraad- en bezettingscijfers van alle locaties samen?"
+      - "Zitten jullie dicht bij de BCTN containerterminal — hoe verloopt de afstemming tussen containeraanvoer en jullie eigen planning nu?"
+
+  - name: GD-iTS Group
+    url: https://gd-its.nl/
+    priority_score: 6/10
+    industry: Transport, expeditie (lucht/zee) en palletopslag (100.000+ m²) vanuit Zaltbommel, Alblasserdam en Schiphol
+    size: meer dan 160 fte verdeeld over 4 bedrijfsonderdelen; drie vestigingen in Nederland
+    tech_stack: Warehouse Management Systeem (WMS) voor real-time pallet-traceerbaarheid; recent een nieuwe IT Lead aangesteld voor digitale transformatie — signaal dat systemen nu actief op de schop gaan
+    why_fit: Actief bezig met digitale transformatie (recente aanstelling IT Lead) maar nog geen eigen ontwikkelteam of centraal ERP zichtbaar; schaal (160+ fte, 4 werkmaatschappijen, 100.000 m²) vraagt om overkoepelende sturing over meerdere entiteiten heen
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek (contactpersoon op site: Jan Korsten, jankorsten@gd-its.com)"
+    linkedin: https://nl.linkedin.com/company/gd-its-group
+    value_proposition: Een overkoepelend dashboard dat de vier bedrijfsonderdelen en drie locaties samenbrengt, precies op het moment dat GD-iTS toch al investeert in digitale transformatie
+    outreach_strategy: Timing benutten — zij hebben recent een IT Lead aangenomen voor digitale transformatie, dus benader met de vraag hoe die transformatie eruitziet en waar Luthox kan aanvullen
+    conversation_starters:
+      - "Jullie hebben recent een IT Lead aangesteld voor digitale transformatie — valt overkoepelende rapportage over de 4 bedrijfsonderdelen daar ook onder?"
+      - "Met vestigingen in Zaltbommel, Alblasserdam en Schiphol, hoe houden jullie nu het totaaloverzicht over voorraad en capaciteit?"
+
+  - name: Jonker & Schut
+    url: https://jonker-schut.nl/
+    priority_score: 7/10
+    industry: Silo-opslag, herverpakking en blending van zuivelpoeders en food-/feed-ingrediënten, met douane- en entrepotafhandeling vanuit Barneveld
+    size: 51-200 medewerkers (65 op LinkedIn), opgericht in 1987, gegroeid van klein expeditiekantoor naar volwaardige logistieke dienstverlener
+    tech_stack: Geen specifiek ERP/WMS-merk vermeld op de publieke pagina's — sterke focus op fysieke processen (rebulking, blending, silo-opslag) zonder zichtbaar digitaal dashboard
+    why_fit: Complexe operatie (silo-opslag, blending, douane) op precies de juiste MKB-schaal, gegroeid vanuit een kleine start zonder dat er iets over een centraal systeem wordt gecommuniceerd
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek (mogelijk betrokken: Harm Jansen of Erik de Koning, genoemd op LinkedIn)"
+    linkedin: https://nl.linkedin.com/company/jonker-schut
+    value_proposition: Eén dashboard dat silo-bezetting, blending-batches en douaneadministratie combineert
+    outreach_strategy: Benader vanuit de foodveiligheid/traceerbaarheid-invalshoek — vraag hoe zij nu batch- en voorraadregistratie voor zuivelpoeders en rebulking bijhouden
+    conversation_starters:
+      - "Bij blending en rebulking van zuivelpoeders is traceerbaarheid cruciaal — hoe registreren jullie nu welke batch in welke silo zit?"
+      - "Jullie zijn gegroeid van een klein expeditiekantoor naar een volwaardige logistieke dienstverlener — is de interne administratie in dat tempo meegegroeid?"
+
+  - name: KS Project Logistics
+    url: https://www.ksprojectlogistics.com/
+    priority_score: 6/10
+    industry: Bonded warehousing, containeroverslag en douaneafhandeling (AEO-F) vanuit een distributiecentrum direct naast de containerterminal in Moerdijk
+    size: 11-50 medewerkers (19 op LinkedIn), opgericht in 2020, onderdeel van een groter familieconcern (KS Industries)
+    tech_stack: Eigen klantenportaal (portal.ksprojectlogistics.nl); geen vermelding van WMS-merk of centraal CRM/dashboard
+    why_fit: Jong bedrijf (2020) met snelle groei en complexe logistiek, maar zonder zichtbaar centraal systeem naast een basaal klantportaal — typisch een scale-up die processen nog handmatig regelt
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek"
+    linkedin: https://nl.linkedin.com/company/ksprojectlogistics
+    value_proposition: Een centraal dashboard bovenop het bestaande klantportaal dat operationele planning, douanestatus en klantcommunicatie samenbrengt tijdens hun groeifase
+    outreach_strategy: Benader met de groei-invalshoek (opgericht in 2020, sterke groei sindsdien) en vraag hoe zij die groei administratief bijhouden naast het klantenportaal
+    conversation_starters:
+      - "Jullie zijn in 2020 gestart en groeien hard — is de interne planning en administratie qua systemen meegegroeid met die schaal?"
+      - "Direct naast de containerterminal in Moerdijk — hoe verloopt de afstemming tussen aankomende containers en jullie eigen planning nu?"
+
+  - name: Hoekstra Kwaliteit in Logistiek
+    url: https://www.hoekstrasneek.nl/
+    priority_score: 6/10
+    industry: Palletopslag (automatisch magazijn, ca. 3.800 palletplaatsen) gecombineerd met gespecialiseerd transport van breekbare/niet-standaard goederen, vanuit Sneek (Friesland)
+    size: 51-200 medewerkers (175 volgens de site), familiebedrijf sinds 1929
+    tech_stack: Geen specifiek WMS/ERP-merk vermeld; wel een recent geautomatiseerd magazijn ("Ynte Hoekstra Loads") met stellingsysteem — fysiek gemoderniseerd, maar een centraal digitaal dashboard wordt niet genoemd
+    why_fit: Nuchter Fries familiebedrijf dat net heeft geïnvesteerd in een nieuw geautomatiseerd magazijn — een investeringsmoment waarop ook de softwarekant vaak achterblijft; schaal (175 fte) past goed
+    decision_maker: "familie Hoekstra (mogelijk Ynte Hoekstra) — functietitel niet bevestigd op de site, vereist KvK/LinkedIn-opzoek"
+    linkedin: https://nl.linkedin.com/company/hoekstra-kwaliteit-in-logistiek
+    value_proposition: Een dashboard dat het nieuwe geautomatiseerde magazijn koppelt aan planning en klantstatus
+    outreach_strategy: Aanhaken bij de recente opening van het nieuwe magazijn — vraag hoe de software daarachter is ingericht en of er al een koppeling is met de rest van de bedrijfsvoering
+    conversation_starters:
+      - "Met het nieuwe magazijn Ynte Hoekstra Loads en 3.800 palletplaatsen — is de software erachter ook vernieuwd, of draait dat nog op de oude manier?"
+      - "Jullie combineren opslag met specialistisch transport van breekbare goederen — hoe zorgen jullie dat beide takken hetzelfde overzicht hebben?"
+
+  - name: CJ Hendriks Group
+    url: https://www.cjhendriks.com/
+    priority_score: 8/10
+    industry: Bonded warehousing, accijnsgoederenopslag (wijn/gedistilleerd) en gevaarlijke stoffen/chemicaliën-opslag vanuit Amsterdam Westpoort
+    size: ca. 180 medewerkers, 60.000+ m² opslag (waarvan 8.000 m² gevaarlijke stoffen en 20.000 m² accijnsgoederen), familiebedrijf sinds 1840
+    tech_stack: Eigen WMS/TMS met real-time tracking genoemd; site benadrukt "system integration en data-analyse" als kernactiviteit, maar geeft geen naam van een specifiek platform — mogelijk maatwerk of verouderd systeem zonder centraal management-dashboard
+    why_fit: Lange historie (1840) met complexe, gereguleerde opslag (accijns, gevaarlijke stoffen) op precies de juiste MKB-schaal (180 fte); expliciete focus op "system integration en data-analyse" duidt op een behoefte die nog niet volledig is ingevuld
+    decision_maker: "Johan Hendriks / Christoffel Hendriks — familie-eigenaren, functietitel niet expliciet vermeld op de site"
+    linkedin: https://nl.linkedin.com/company/cj-hendriks-group
+    value_proposition: Eén dashboard dat de gereguleerde accijns-, chemie- en containerprocessen samenbrengt, zodat de "system integration en data-analyse" die zij zelf als kernwaarde noemen ook echt centraal wordt ingericht
+    outreach_strategy: Benader Johan of Christoffel Hendriks direct met een verwijzing naar hun eigen tagline over systeemintegratie en data-analyse
+    conversation_starters:
+      - "Jullie noemen system integration en data-analyse als speerpunt — is dat vandaag de dag al één centraal systeem, of nog een verzameling losse tools?"
+      - "Met 60.000+ m² verdeeld over accijnsgoederen, chemie en gewone opslag — hoe krijgt het management nu in één oogopslag het totaalbeeld?"
+
+  - name: Loendersloot Global Logistics
+    url: https://loendersloot.com/
+    priority_score: 7/10
+    industry: Douane- en opslagdienstverlener (bonded warehousing, douaneafhandeling en e-commerce fulfilment), gevestigd in Roosendaal
+    size: Opgericht in 1982 door Frits Loendersloot, circa 150 medewerkers, 60.000 m² opslagcapaciteit met recente uitbreiding van 9.000+ m² op VGP Park Roosendaal, kantoor in Dubai
+    tech_stack: Geen specifiek systeem genoemd op de site; gezien de combinatie van douane, opslag, escrow en e-commerce fulfilment werken zij vermoedelijk met meerdere losstaande systemen per dienst
+    why_fit: Meerdere dienstonderdelen (douane, opslag, forwarding, e-commerce fulfilment, escrow) die van nature met losse specialistische systemen werken; groeiend bedrijf met net een grote uitbreiding, wat vaak leidt tot handmatige tussenstappen tussen afdelingen
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek (oprichter Frits Loendersloot, huidige directie niet genoemd)"
+    linkedin: https://nl.linkedin.com/company/loendersloot-global-logistics
+    value_proposition: Eén overkoepelend dashboard dat douane-, opslag- en fulfilmentactiviteiten met elkaar verbindt
+    outreach_strategy: Richt je op de operationele/IT-verantwoordelijke via LinkedIn, met de invalshoek dat hun recente groei (nieuwe locatie, meerdere diensten) vraagt om betere onderlinge koppeling van systemen
+    conversation_starters:
+      - "Met de nieuwe 9.000 m² uitbreiding en meerdere dienstonderdelen (douane, opslag, fulfilment) — praten die systemen onderling al goed met elkaar of loopt er nog veel via aparte tools?"
+      - "Bij bedrijven die douane, opslag én e-commerce fulfilment combineren zien we vaak dat rapportages nog handmatig worden samengevoegd — herkenbaar bij Loendersloot?"
+
+  - name: Van den Brink BV (Brink Fruit)
+    url: https://brinkfruit.nl/
+    priority_score: 7/10
+    industry: Koel- en opslagbedrijf voor hardfruit met een sorteer- en pakstation, gevestigd in 't Goy (gemeente Houten)
+    size: Familiebedrijf, aangeduid als "sterk groeiend en modern familiebedrijf"; exact medewerkersaantal niet vermeld op de site, vermoedelijk klein-tot-middelgroot (schatting 20-50 fte)
+    tech_stack: Geen tech-stack of systemen genoemd op de site; sollicitaties lopen via een persoonlijk mailadres, wat wijst op weinig gedigitaliseerde bedrijfsvoering
+    why_fit: "Groeiend familiebedrijf dat expliciet uitbreidt (nieuwe vacature 'Bedrijfsleider Koelhuis' vanwege uitbreiding koel- en opslagbedrijf) — groei zonder digitale basis leidt vaak tot handmatig voorraadbeheer en losse Excel-lijsten"
+    decision_maker: "Ton (waarschijnlijk familielid/eigenaar), contact via ton@brinkfruit.nl / 06-55345722 — volledige naam en functie niet vermeld op de site"
+    linkedin: null
+    value_proposition: Een eenvoudig dashboard voor voorraad, kwaliteitscontrole en klantafspraken dat meegroeit met de uitbreiding van het koel- en opslagbedrijf
+    outreach_strategy: Persoonlijke benadering via het vermelde mobiele nummer/mailadres van Ton, met de invalshoek dat de huidige uitbreiding een goed natuurlijk moment is om processen te digitaliseren
+    conversation_starters:
+      - "Jullie breiden het koel- en opslagbedrijf net uit — hoe houden jullie nu voorraad en klantafspraken bij, nog via Excel of op papier?"
+      - "Bij groeiende koelhuizen zien we vaak dat de administratie niet meegroeit met de nieuwe capaciteit — hoe pakken jullie dat aan bij Brink Fruit?"
+
+  - name: GiftNation B.V.
+    url: https://giftnation.nl/
+    priority_score: 6/10
+    industry: Loyalty- en giftingpartner die merken verbindt met geschenkplatformen, inclusief eigen sourcing, marketing en fulfilment/opslag van relatiegeschenken
+    size: Meer dan 15 jaar actief, team van circa 20 specialisten zichtbaar op de site plus aparte warehouse-medewerkers, gevestigd in Arnhem
+    tech_stack: Geen centraal ERP/CRM/WMS genoemd op de site; werkt met los vermelde functies voor "Operations" en "Supply Chain", wat duidt op handmatige afstemming tussen sourcing, warehouse en accountmanagement
+    why_fit: "Vacature voor Warehouse Coördinator vraagt iemand die 'de lead neemt in de dagelijkse warehouse operatie' — bij een bedrijf dat sourcing, marketing en fulfilment voor tientallen merken combineert, is voorraadafstemming tussen klant, magazijn en sales een logisch pijnpunt"
+    decision_maker: "Dave van Stijn, CEO & Founder GiftNation Group"
+    linkedin: https://nl.linkedin.com/company/giftnation
+    value_proposition: Eén platform dat voorraad van relatiegeschenken, klantorders per merk/campagne en facturatie samenbrengt
+    outreach_strategy: Benader Dave van Stijn (CEO) rechtstreeks via LinkedIn met een boodschap over het combineren van sourcing, warehouse en klantcampagnes in één overzicht
+    conversation_starters:
+      - "Jullie zoeken een Warehouse Coördinator die de lead neemt in de dagelijkse operatie — hoe wordt voorraad nu afgestemd tussen sourcing, magazijn en de accountteams per merk?"
+      - "Met tientallen merken en campagnes tegelijk — is er één plek waar iedereen voorraad en levertijden kan zien, of gebeurt dat nog per campagne apart?"
+
+  - name: Braca Fulfilment B.V.
+    url: https://bracafulfilment.nl/
+    priority_score: 7/10
+    industry: Fulfilmentbedrijf voor groeiende webshops (opslag, orderverwerking, verzending en retouren), gevestigd in Zoeterwoude
+    size: Kleine, groeiende fulfilmentonderneming; exact medewerkersaantal niet vermeld op de site, vacatureteksten spreken van een "groeiend fulfilmentbedrijf" met een klein team (schatting 10-30 fte)
+    tech_stack: Geen ERP, WMS of klantportaal genoemd op de eigen (zeer minimale) website — dit wijst op een jong bedrijf dat processen nog grotendeels handmatig of met basistools (spreadsheets) organiseert
+    why_fit: "Zeer jong en klein fulfilmentbedrijf zonder zichtbare systemen op de site; groeiambitie wordt expliciet genoemd in vacatureteksten. Dit is precies het punt waarop handmatige orderverwerking en voorraadbeheer een bedrijf gaan afremmen"
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek"
+    linkedin: null
+    value_proposition: Een lichte, schaalbare basis voor voorraad-, order- en klantbeheer die met Braca meegroeit
+    outreach_strategy: Benader via het contactformulier op de site met een korte boodschap gericht op de eigenaar/operationeel verantwoordelijke, met als invalshoek het voorkomen van groeipijn nu het bedrijf actief nieuw personeel werft
+    conversation_starters:
+      - "Braca groeit hard qua klanten en personeel — hoe houden jullie nu voorraad en orderstatussen bij, in een systeem of nog met spreadsheets?"
+      - "Bij snelgroeiende fulfilmentbedrijven zien we vaak dat pick&pack-processen en klantcommunicatie nog los van elkaar staan — hoe pakken jullie dat aan?"
+
+  - name: Koel- en Vrieshuis Klaas de Jong B.V.
+    url: https://koelenvriesdejong.nl/
+    priority_score: 8/10
+    industry: Geconditioneerde koel- en vriesopslag (logistieke dienstverlener voor temperatuurgevoelige producten), gevestigd in Bunnik
+    size: Opgestart in 2013; mede-eigenaar Ferdinand Zandbergen is ook actief bij het gelieerde "2Mates Coldstores B.V.", wat duidt op een kleine groep van gelieerde koelhuisbedrijven; schatting klein-tot-middelgroot (20-60 fte)
+    tech_stack: Geen ERP, WMS of klantportaal genoemd; het bedrijf is relatief nieuw opgezet (2013) en werkt vermoedelijk met basis Office-tools voor planning en facturatie
+    why_fit: "Kleine, door mede-eigenaren aangestuurde koelhuisorganisatie (met gelieerde vennootschappen zoals 2Mates Coldstores) — dat soort structuren werkt vaak met losse Excel-overzichten per vestiging in plaats van een gekoppeld systeem"
+    decision_maker: "Corinne de Jong, Algemeen directeur; Ferdinand Zandbergen, mede-eigenaar"
+    linkedin: https://nl.linkedin.com/company/koel-en-vrieshuis-klaas-de-jong
+    value_proposition: Eén overzichtelijk dashboard voor voorraad, temperatuurregistratie en facturatie dat werkt over meerdere gelieerde koelhuislocaties heen
+    outreach_strategy: Benader Corinne de Jong rechtstreeks via LinkedIn of het bedrijf, met de invalshoek dat gekoppelde systemen tussen Klaas de Jong en gelieerde bedrijven als 2Mates Coldstores tijd en fouten kunnen besparen
+    conversation_starters:
+      - "Met meerdere gelieerde koelhuisbedrijven (zoals 2Mates Coldstores) — hebben jullie nu overzicht over voorraad en klantorders in één systeem, of per vennootschap apart?"
+      - "Hoe registreren jullie nu temperatuur, voorraad en facturatie — is dat gekoppeld of werken jullie nog met losse Excel-overzichten per klant?"
+
+  - name: WheelTyre (Wheel-Tyre B.V.)
+    url: https://wheeltyre.com/
+    priority_score: 5/10
+    industry: Opslag, montage en distributie van banden, velgen en complete wielsets voor autofabrikanten en importeurs (automotive warehousing/cross-docking), gevestigd in Moerdijk/Zevenbergen
+    size: Opgericht in 2004, circa 11 medewerkers; onderdeel van een grotere automotive-groep (exacte moederstructuur niet volledig vermeld op de site)
+    tech_stack: Heeft een eigen bestelsysteem "WEBDIS" voor dealers (realtime voorraadinzage en bestellen) — dit dekt alleen de klantbestelkant, niet interne rapportage, facturatie of een gekoppeld CRM/ERP
+    why_fit: "Klein team (circa 11 medewerkers) dat een internationaal logistiek netwerk in 23+ landen bedient — een flinke operationele last voor zo'n klein team; WEBDIS lost alleen het bestelproces voor dealers op, interne processen lijken niet gekoppeld"
+    decision_maker: "niet vermeld op de site — vereist KvK/LinkedIn-opzoek (wel bekend: Didier van Merrienboer, Sales Manager; Martijn van der Velde, Accountmanager)"
+    linkedin: https://nl.linkedin.com/company/wheeltyre
+    value_proposition: Een intern dashboard dat montage, opslag en buy-back-voorraad koppelt aan het bestaande WEBDIS-bestelsysteem
+    outreach_strategy: Benader via Sales Manager Didier van Merrienboer of het algemene contact, met de invalshoek dat WEBDIS wel de klantkant regelt maar interne koppeling een logische volgende stap is
+    conversation_starters:
+      - "WEBDIS geeft dealers realtime voorraadinzage — is die data ook intern gekoppeld aan jullie montage- en buy-backprocessen, of loopt dat via aparte overzichten?"
+      - "Met een klein team en een logistiek netwerk in 23+ landen — hoe houden jullie het overzicht tussen montagelijn, opslag en overstock-inkoop?"
+
+  - name: Noord-Europees Wijnopslagbedrijf B.V. (NWB)
+    url: https://nwb.eu/
+    priority_score: 6/10
+    industry: Bulkvloeistofterminal/tankopslag voor ethanol (voedingskwaliteit en industrieel), historisch opgericht als wijnopslagbedrijf, gevestigd in de haven van Amsterdam
+    size: Opgericht in 1964; volgens een eigen bedrijfscasus "een bescheiden speler in de reusachtige tankopslagmarkt van Amsterdam" — schatting klein-tot-middelgroot (20-60 fte)
+    tech_stack: Heeft recent "UAB-Online" digital terminal management geïmplementeerd voor het beheer van de tankterminal zelf; dit dekt alleen de terminaloperatie en niet noodzakelijk facturatie, klantcommunicatie of bredere bedrijfsrapportage
+    why_fit: "Expliciet zichzelf omschreven als bescheiden/kleine speler in een verder door grote partijen gedomineerde markt; recente implementatie van terminal-software laat zien dat ze open staan voor digitalisering, maar dekt alleen een deel van het proces"
+    decision_maker: "Hans Schim van der Loeff, General Manager; Marius Oancea, Operations Manager"
+    linkedin: https://nl.linkedin.com/company/noord-europees-wijnopslagbedrijf-b-v-nwb
+    value_proposition: Een koppeling tussen de nieuwe terminal-managementsoftware en de rest van de bedrijfsvoering (facturatie, klantrapportage, compliance-registratie)
+    outreach_strategy: Benader Hans Schim van der Loeff (General Manager) via LinkedIn, met als invalshoek dat de recente UAB-Online-implementatie een goed vertrekpunt is om ook de rest van de organisatie te ontsluiten
+    conversation_starters:
+      - "Sinds de overstap naar UAB-Online voor terminalbeheer — is die data ook gekoppeld aan facturatie en klantrapportage, of blijft dat een apart proces?"
+      - "Als bescheiden speler in een markt vol grote tankopslagbedrijven — hoeveel van jullie rapportage naar klanten en toezichthouders gebeurt nog handmatig?"
