@@ -36,7 +36,7 @@ short commands below if you prefer.
 | Define who our ideal customer is | *"Help me set up our ICP"* |
 | Narrow our ICP for one vertical or campaign push, without redoing the whole interview | *"Set up an ICP segment for [vertical/campaign]"* |
 | Find companies that match that profile | *"Find me leads that fit our ICP"* |
-| Get a 60-second gut check on one company | `/sales quick <url>` |
+| Get a fast, single-company gut check | `/sales quick <url>` |
 | Get the full picture before I call someone | `/sales prospect <url>` |
 | Just research a company's background | `/sales research <url>` |
 | Figure out who to actually talk to there | `/sales contacts <url>` |
@@ -79,7 +79,10 @@ target list" to "ready to dial," using the skills above:
    tool is dumping 50+ raw, unvetted companies on you at once.
 4. **Triage the shortlist.** `/sales quick <url>` on each candidate — a fast
    gut check to rank who's actually worth going deeper on before you invest
-   more time.
+   more time. Since the saved batch file already carries lead-generator-
+   assistant's full read on each company (score, tech stack, decision
+   maker, etc.), this step matters most when you want a fresh look at a
+   lead that may have changed since the batch was generated.
 5. **Go deep on your top few**, using whichever of these actually answers
    the question you have — you don't need all of them for every prospect:
    - `/sales research <url>` — company background & firmographics
@@ -144,7 +147,7 @@ if you're maintaining it, not required reading to just use it day to day.
 | `skills/icp-onboarding` | [growthenginenowoslawski/coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills) | Conversational ICP intake. Scrapes your own website for context, interviews you on target industries/size/geography/disqualifiers, splits **hard filters** (must match) from **soft preferences** (nice-to-have), saves a structured `client-profile.yaml`. |
 | `skills/icp-segment-builder` | this repo | *(Optional)* Layers a narrower or extended sub-ICP ("segment") on top of an existing `client-profile.yaml`, for one vertical or campaign push — without re-running the full interview. Writes `profiles/<slug>/segments/<segment-slug>.yaml` as a delta on the base; see [Segments](#segments-narrower-icps-without-re-onboarding) below. |
 | `skills/icp-prompt-builder` | [growthenginenowoslawski/coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills) | Builds and tunes an AI qualification prompt against a sample of companies, iterating with your corrections until 2 rounds in a row need none. Runs entirely as Claude Task sub-agents — no external API key, ever. Accepts an optional segment name to tune against instead of the base ICP. |
-| `skills/lead-generator-assistant` | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | The actual company *finder*. Given a product/ICP description, searches for and scores matching companies, with contact-strategy suggestions per lead. Accepts an optional segment name to search against instead of the base ICP. Saves each run as a batch file (company name + URL only) under `profiles/<slug>/leads/` and pushes it for the team. |
+| `skills/lead-generator-assistant` | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | The actual company *finder*. Given a product/ICP description, searches for and scores matching companies — including a tech stack read (CMS, portals, dashboards, automation visible on their site) as a standard part of research — with contact-strategy suggestions per lead. Accepts an optional segment name to search against instead of the base ICP. Saves each run as a batch file under `profiles/<slug>/leads/` with the full per-lead detail (score, industry, size, tech stack, decision maker, value prop, outreach strategy, conversation starters — not just name/URL) and pushes it for the team. |
 
 **Flow:** `icp-onboarding` (define who you want, once) → optionally
 `icp-segment-builder` (narrow/extend for a specific vertical or push) →
@@ -187,7 +190,7 @@ input; they don't discover companies, they analyze one you already picked.
 | Skill | Command | What it does |
 |---|---|---|
 | `sales/SKILL.md` | *(orchestrator — no direct command)* | Routes every `/sales <command>` to the matching skill below. **Required for any `/sales ...` command to work at all** — nothing else in this layer runs without it. |
-| `sales/SKILL.md` (quick mode) | `/sales quick <url>` | Implemented inline in the router itself, not a separate file. WebFetch the homepage only, no subagents, no file written — a 60-second scorecard straight to the terminal. |
+| `sales/SKILL.md` (quick mode) | `/sales quick <url>` | Implemented inline in the router itself, not a separate file — and no longer has its own scoring template. Loads the ICP, WebFetches the homepage, and runs `lead-generator-assistant`'s own research/output steps for that one URL, printing the same field set (including tech stack) straight to the terminal. No subagents, no file written. |
 | `skills/sales-prospect` | `/sales prospect <url>` | The flagship command. Launches the 4 skills below as parallel subagents, aggregates them into one scored `PROSPECT-ANALYSIS.md`. |
 | `skills/sales-contacts` | `/sales contacts <url>` | Decision-maker mapping: buying committee, org chart, personalization anchors. |
 | `skills/sales-competitors` | `/sales competitors <url>` | Competitive intelligence: current vendor signals, switching costs, positioning angles. |
