@@ -1,0 +1,105 @@
+business: luthox
+segment: null
+generated_at: 2026-09-21
+description: >-
+  Brede zoektocht op de industrie-agnostische basis-ICP (geen segment
+  meegegeven), gericht op MKB-bedrijven met meerdere vestigingen en
+  zichtbare backoffice-complexiteit buiten transport/warehousing (al
+  eerder gedekt): technische groothandel, woningrenovatie/onderhoud voor
+  corporaties, en materieelverhuur.
+leads:
+  - name: Sijperda Verhuur
+    url: https://www.sijperdaverhuur.nl/
+    priority_score: 8/10
+    industry: Verhuur van bouwmachines, steigerbouw, sanitaire voorzieningen en events
+    size: "~180 medewerkers, 11-12 vestigingen (Noord-Nederland)"
+    tech_stack: >-
+      Klantportaal "Mijn Sijperda" (contracten, actieve huur) + los online
+      reserveringssysteem/webshop — typisch kant-en-klare verhuursoftware,
+      niet zelfgebouwd. Vier losse divisies (steigerbouw, sanitair,
+      materieelverhuur, events) over 11+ vestigingen wijst sterk op
+      gefragmenteerde interne systemen naast de klant-facing tools.
+    relevant_vacancies: >-
+      "Calculator Steigerbouw" (business office, plannings-/calculatierol)
+      — geen aparte "planner"-vacature op dit moment
+    why_fit: >-
+      11-12 vestigingen en 4 bedrijfsonderdelen = hoge operationele
+      complexiteit; geen zichtbare eigen software-expertise, klant-facing
+      tooling is duidelijk ingekocht; groeiend bedrijf (overname Borg
+      Verhuur, nieuwe vestiging Zwaagdijk).
+    decision_maker: "Peter Bijkerk, Algemeen Directeur (sinds 2017 — geen recente wissel)"
+    linkedin: null
+    value_proposition: >-
+      Eén centraal systeem dat verhuurbeheer, planning over 4 divisies en
+      11+ vestigingen en klantcommunicatie samenbrengt, i.p.v. los-vaste
+      tools per onderdeel.
+    outreach_strategy: >-
+      Noem concreet de spreiding over steigerbouw/sanitair/verhuur/events
+      en vraag hoe planning en voorraad nu tussen die onderdelen wordt
+      afgestemd.
+    conversation_starters:
+      - "Jullie hebben 4 verschillende bedrijfsonderdelen over 11 vestigingen — hoe stemmen jullie materieel en planning nu onderling af?"
+      - "De Calculator Steigerbouw-vacature suggereert groeiende planningsdruk — herkenbaar?"
+  - name: Knaapen Groep
+    url: https://www.knaapen.nl/
+    priority_score: 7/10
+    industry: Renovatie en onderhoud van woningen voor woningcorporaties
+    size: "180 medewerkers, 11 corporatiepartners, o.a. Eindhoven, Den Bosch, Vlijmen"
+    tech_stack: >-
+      Eigen "Bouwtool" — projectmanagementplatform met real-time
+      voortgangsinzicht. Onduidelijk of dit zelfgebouwd/maatwerk is of
+      ingekochte software met eigen naam — expliciet navragen in het
+      intakegesprek, want zelfgebouwd zou een disqualifier zijn.
+    relevant_vacancies: >-
+      "Coördinator Beheer & Onderhoud" (32-40u); overige vacatures zijn
+      uitvoerend (timmerman, schilder, bouwplaatsmedewerker) en niet
+      meegeteld
+    why_fit: >-
+      11e generatie familiebedrijf, flink gegroeid (verdubbeld onder
+      huidige directeur); grootschalige projecten (137-364 woningen,
+      €12-30M+) met meerdere stakeholders = complexe coördinatiebehoefte;
+      zit tegen de bovengrens van de headcount-range (180 van 200), nog
+      binnen de soft-tolerance.
+    decision_maker: "Bart Knaapen, Algemeen Directeur"
+    linkedin: null
+    value_proposition: >-
+      Bouwtool-achtige real-time inzicht doortrekken naar de rest van de
+      bedrijfsvoering (personeel, planning, facturatie) i.p.v. één
+      geïsoleerd projecttool.
+    outreach_strategy: >-
+      Eerst verifiëren of Bouwtool zelfgebouwd is — zo ja minder sterke
+      lead, zo nee juist een sterk aanknopingspunt.
+    conversation_starters:
+      - "Bouwtool geeft real-time inzicht in projecten — is de rest van de bedrijfsvoering (planning, facturatie, personeel) ook zo overzichtelijk?"
+      - "Met 11 corporatiepartners en projecten tot €30M, hoe lopen rapportage en afstemming nu?"
+  - name: Pehavo
+    url: https://pehavo.nl/
+    priority_score: 7/10
+    industry: Technische groothandel (aandrijftechniek, gereedschap, PBM, bevestigingsmaterialen)
+    size: "~45-60 medewerkers, 5 vestigingen (Oss, Den Bosch, Uden, Boven-Leeuwen, Cuijk)"
+    tech_stack: >-
+      Nieuwe webshop naast een "oude vertrouwde" legacy bestelportaal die
+      nog naast elkaar bestaan — expliciet signaal van gefragmenteerde
+      systemen. Daarnaast een VMI-oplossing voor voorraadbeheer bij klanten.
+    relevant_vacancies: >-
+      "Backoffice Support medewerker Uden" — planning/coördinatie van
+      orders en leveringen tussen vestigingen; overige vacatures
+      (balie/magazijn) niet meegeteld
+    why_fit: >-
+      Twee bestelsystemen naast elkaar (nieuw + legacy) is een letterlijk
+      voorbeeld van systemen die niet met elkaar praten; 5 vestigingen,
+      familiebedrijf sinds 1976, geen zichtbare interne
+      software-expertise; backoffice-vacature noemt expliciet coördinatie
+      tussen orders/leveringen als knelpunt.
+    decision_maker: "Frank Pennings, Chairman/Managing Director"
+    linkedin: null
+    value_proposition: >-
+      Eén platform i.p.v. twee naast elkaar bestaande bestelsystemen,
+      gekoppeld aan orderplanning tussen de 5 vestigingen.
+    outreach_strategy: >-
+      Direct verwijzen naar het feit dat de oude portal nog naast de
+      nieuwe webshop bestaat — zichtbaar op hun eigen site en een
+      concreet, herkenbaar startpunt.
+    conversation_starters:
+      - "Jullie oude bestelportal bestaat nog naast de nieuwe webshop — hoe lastig is dat voor klanten en backoffice?"
+      - "Met 5 vestigingen, hoe stemmen jullie voorraad en orders nu onderling af?"
