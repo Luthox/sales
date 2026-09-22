@@ -1,0 +1,1406 @@
+business: luthox
+segment: facility-management
+generated_at: '2026-09-22'
+description: >-
+  Brede zoektocht binnen het "facility-management"-segment (multi-locatie facilitaire dienstverleners:
+  schoonmaak, beveiliging, receptie/hospitality, contractcatering, groenvoorziening, technisch/mutatieonderhoud)
+  over heel Nederland, verdeeld over vijf invalshoeken: schoonmaak Randstad, schoonmaak buiten
+  de Randstad, beveiliging + receptiediensten, catering + groen, en technisch gebouwbeheer/IFM.
+  Ontdubbeld op naam/URL en gefilterd op de basis-ICP plus segment (20-200 fte, NL, meerdere
+  locaties/klantcontracten); uitgesloten o.a. bedrijven boven ~300 fte of onderdeel van een
+  groot concern (DJM, HD Security, NIVO, KBK, Smit/VDK), eenlocatie- of te kleine bedrijven,
+  en niet-FM-bedrijven. 45 leads — bewust gestopt onder de 50 op verzoek.
+leads:
+- name: Wiegmans
+  url: https://wiegmans.com
+  priority_score: 9/10
+  industry: >-
+    Facilitaire schoonmaakdienstverlening, kantoren in Amsterdam en Woerden, landelijke dekking
+  size: >-
+    circa 200 medewerkers, 2 vestigingen (Amsterdam, Woerden) (bron: websearch/bedrijfsprofiel)
+  tech_stack: Geen software, klantportaal of planningstool zichtbaar op de site
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (alleen schoonmaakmedewerker/open sollicitatie zichtbaar)
+  why_fit: >-
+    Sinds 2020 transitie van lokaal naar landelijk schoonmaakbedrijf met 71% groei sinds 2021
+    - duidelijke trigger van multi-locatie expansie; breed dienstenpakket (los of gecombineerd)
+    wijst op meerdere contractvormen per klant; geen zichtbare planningssoftware.
+  decision_maker: Rob Nap, directeur
+  linkedin: https://nl.linkedin.com/company/wiegmans-facilitaire-diensten-bv
+  value_proposition: >-
+    Software die meegroeit met de snelle landelijke expansie - één plek voor planning, urenregistratie
+    en facturatie per klantcontract, in plaats van losse systemen per vestiging.
+  outreach_strategy: >-
+    LinkedIn-bericht/mail naar Rob Nap met referentie aan de landelijke groei sinds 2020-2021
+    en de operationele complexiteit die daarbij komt kijken; intakegesprek voorstellen.
+  conversation_starters:
+  - >-
+    Met 71% groei sinds 2021 - hoe houden Amsterdam en Woerden nu gezamenlijk overzicht over
+    planning en facturatie?
+  - >-
+    Bij de omslag van lokaal naar landelijk schoonmaakbedrijf, lopen jullie tegen groeipijn
+    met Excel of losse systemen aan?
+- name: Weekra Schoonmaak & Wasserij
+  url: https://www.weekra.nl
+  priority_score: 8/10
+  industry: >-
+    Schoonmaak & wasserij/linnenservice voor kantoren, instellingen, recreatie, winkels en scholen
+    in Zuidwest-Nederland (Zeeland e.o.)
+  size: >-
+    niet vermeld (fte); familiebedrijf sinds 1995, werkgebied gegroeid naar vrijwel geheel Zuidwest-Nederland
+    (bron: over-ons pagina / facto.nl artikel)
+  tech_stack: >-
+    Eigen intranet/personeelsportaal (intranet.weekra-portals.nl); geen klantportaal, planningssoftware
+    of CRM genoemd op de site
+  relevant_vacancies: >-
+    Planner/Coördinator Front Office — vacaturetekst noemt expliciet 'dynamische planning',
+    wisselende roosters bijhouden en logistieke coördinatie van personeel en materiaal
+  why_fit: >-
+    Vacaturetekst voor de plannerrol beschrijft letterlijk de pijn van handmatige, dynamische
+    planning over meerdere klantlocaties; combinatie van schoonmaak + wasserij/linnenservice
+    betekent meerdere dienstenstromen die nu vermoedelijk los van elkaar worden beheerd; groeiend
+    familiebedrijf met twee generaties in de directie
+  decision_maker: Jean-Paul van der Weele, mede-eigenaar
+  linkedin: https://www.linkedin.com/in/jean-paul-van-der-weele-13945174/
+  value_proposition: >-
+    Eén centraal systeem dat planning per klantlocatie automatisch koppelt aan urenregistratie
+    en facturatie, in plaats van Excel en losse coördinatie
+  outreach_strategy: >-
+    Persoonlijk benaderen van Jean-Paul van der Weele; verwijzen naar de open planner-vacature
+    als concreet bewijs van de huidige planningsdruk, en naar de combinatie schoonmaak+wasserij
+    als complexiteit die om systeemkoppeling vraagt
+  conversation_starters:
+  - >-
+    Jullie zoeken een Planner/Coördinator Front Office voor 'dynamische planning' — hoe wordt
+    die planning nu gekoppeld aan de urenregistratie en facturatie per klant?
+  - >-
+    Met zowel schoonmaak als wasserij/linnenservice onder één dak, werken die diensten nu in
+    gescheiden systemen of is dat al gekoppeld?
+- name: DCA Dienstverlening
+  url: https://www.dcadienstverlening.nl/
+  priority_score: 8/10
+  industry: >-
+    Landelijke schoonmaak- en facilitaire dienstverlening (kantoor, horeca, industrieel, gevel,
+    drone-inspectie), actief door heel Nederland
+  size: >-
+    1500+ locaties per week bediend, 25+ actieve projecten (bron: website); exact fte niet vermeld
+    (KVK 83940464)
+  tech_stack: Geen planningssoftware, ERP/CRM of klantportaal genoemd op de site
+  relevant_vacancies: geen relevante vacatures gevonden (vacatures-pagina gaf 404)
+  why_fit: >-
+    1500+ bediende locaties per week en 25+ lopende projecten door heel Nederland (van hotels
+    als Van der Valk/Moxy tot Rijksoverheid en retail als HEMA/Praxis) is een zeer sterke indicator
+    van decentrale planning per locatie en per klantcontract; geen zichtbaar centraal systeem
+    om uren en facturatie hieraan te koppelen
+  decision_maker: Directeur/Eigenaar of Operations Manager (naam niet gevonden binnen budget)
+  linkedin: https://nl.linkedin.com/company/dca-dienstverlening
+  value_proposition: >-
+    Software die urenregistratie op 1500+ locaties automatisch koppelt aan facturatie per klantcontract,
+    zonder handmatig overzicht per project
+  outreach_strategy: >-
+    Benader via info@dcadienstverlening.nl of LinkedIn-bedrijfspagina, gebruik de schaal (1500+
+    locaties, 25+ projecten) als directe aanleiding
+  conversation_starters:
+  - >-
+    Met 1500+ locaties die jullie wekelijks bedienen — hoe wordt de koppeling tussen urenregistratie
+    op locatie en facturatie per klantcontract nu geregeld?
+  - >-
+    Bij 25+ actieve projecten door heel Nederland: werkt elk team/project nog met eigen Excel-planning,
+    of is dat al gecentraliseerd?
+- name: Allpro Service
+  url: https://www.allproservice.nl
+  priority_score: 8/10
+  industry: >-
+    Schoonmaak- en facilitaire dienstverlening, actief in Zuid-Holland (Rotterdam, Gouda, Krimpen
+    a/d IJssel, Barendrecht, Capelle a/d IJssel e.o.)
+  size: '100+ medewerkers, 130+ locaties, 51-200 fte (bron: bedrijfsprofiel/websearch)'
+  tech_stack: >-
+    Geen software, klantportaal of planningstool zichtbaar op de site - sterke digitaliseringskans
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (alleen algemene link naar vacaturepagina, geen functietitels
+    zichtbaar binnen budget)
+  why_fit: >-
+    Bedient 130+ locaties/objecten in meerdere sectoren (kantoren, scholen, zorg, VvE's, winkelcentra),
+    typisch decentrale planning per locatie/object; geen zichtbare planningssoftware wat wijst
+    op handmatige/Excel-processen; bedrijf van 100+ fte past goed in de doelgroep.
+  decision_maker: Oscar Peeters, directeur
+  linkedin: https://www.linkedin.com/company/allpro-service-b-v
+  value_proposition: >-
+    Eén centraal systeem voor planning en urenregistratie per locatie/klantcontract, gekoppeld
+    aan facturatie, in plaats van losse lijsten per vestiging.
+  outreach_strategy: >-
+    Persoonlijke mail/LinkedIn-bericht naar Oscar Peeters met verwijzing naar de schaal van
+    130+ locaties en de complexiteit van planning per object; uitnodigen voor intakegesprek.
+  conversation_starters:
+  - Hoe houden jullie nu het overzicht over planning en facturatie voor 130+ locaties?
+  - >-
+    Allpro is sinds 1987 gegroeid naar 100+ medewerkers - lopen jullie weleens tegen handmatig
+    werk aan bij het koppelen van uren aan klantcontracten?
+- name: DagelijksOnderhoud.nl
+  url: https://dagelijksonderhoud.nl
+  priority_score: 8/10
+  industry: >-
+    Vastgoedonderhoud (reparatie-, mutatie- en planmatig onderhoud), landelijk actief door heel
+    Nederland
+  size: >-
+    niet vermeld exact; landelijk netwerk van monteurs actief in Zuid-Holland, Noord-Holland,
+    Utrecht, Overijssel, Friesland, Groningen en Brabant (bron: vacaturepagina)
+  tech_stack: >-
+    Online dashboard voor opdrachtgevers via app.insezo.com (inzage in status van meldingen)
+    - gedeeltelijke digitalisering aan klantkant, koppeling met facturatie per klantcontract
+    onduidelijk
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (vacatures zijn stage accountmanagement, stage marketing
+    en allround onderhoudsmonteurs in 7 regio's - geen planner/operations/coördinator rollen)
+  why_fit: >-
+    Landelijk, decentraal netwerk van monteurs per regio met eigen aansturing; claim van 90%
+    first-time-fix en een digitaal dashboard tonen ambitie, maar planning en facturatie per
+    klantcontract lijken nog niet volledig gekoppeld; bedrijf groeit richting marktleiderschap
+    in NL.
+  decision_maker: niet gevonden op de site; richten op Operations Manager/Directeur
+  linkedin: null
+  value_proposition: >-
+    Koppel het bestaande meldingen-dashboard direct aan urenregistratie en facturatie per klantcontract,
+    zodat regionale monteurs en backoffice niet meer los van elkaar werken.
+  outreach_strategy: >-
+    Korte, waarde-gerichte e-mail over het combineren van hun bestaande dashboard met een automatische
+    koppeling naar facturatie; uitnodigen voor intakegesprek.
+  conversation_starters:
+  - >-
+    Jullie dashboard geeft opdrachtgevers al inzage in meldingen - is de koppeling naar uren
+    en facturatie per klantcontract ook al geautomatiseerd?
+  - >-
+    Met monteurs verspreid over 7 regio's, hoe zorgen jullie dat facturatie per klant centraal
+    blijft?
+- name: Turnkey Facility NL
+  url: https://www.turnkey-facility.nl
+  priority_score: 8/10
+  industry: Facilitair onderhoud voor retailketens (winkels en warehouses), Sprang-Capelle
+  size: >-
+    niet vermeld; 1 vestiging (Sprang-Capelle), werkt al 15+ jaar voor klanten zoals Zara, Bershka,
+    Pull & Bear, Massimo Dutti en Stradivarius
+  tech_stack: Geen software, klantportaal of planningstool zichtbaar op de site
+  relevant_vacancies: geen relevante vacatures gevonden (geen vacaturepagina zichtbaar binnen
+    budget)
+  why_fit: >-
+    Onderhoudt commerciële ruimtes voor grote retailketens verspreid over veel winkellocaties
+    door heel Nederland - schoolvoorbeeld van decentrale planning per locatie/object en facturatie
+    per klantcontract (elke keten is een apart contract met veel vestigingen); geen zichtbare
+    planningssoftware.
+  decision_maker: niet gevonden op de site; richten op Directeur/Operations Manager
+  linkedin: null
+  value_proposition: >-
+    Centrale koppeling van planning, urenregistratie per winkellocatie en facturatie per retailketen-contract,
+    in plaats van handmatig werk per winkel.
+  outreach_strategy: >-
+    Introductiemail met verwijzing naar de retailklanten (Zara, Bershka e.a.) en de complexiteit
+    van onderhoud over honderden winkellocaties; intakegesprek voorstellen.
+  conversation_starters:
+  - >-
+    Met klanten als Zara en Bershka die tientallen tot honderden winkels hebben, hoe koppelen
+    jullie nu uren per winkel aan facturatie per keten?
+  - >-
+    Werkt elke retailketen met een eigen planning- en facturatieaanpak, of hebben jullie dat
+    al gestandaardiseerd?
+- name: Verheij Integrale groenzorg
+  url: https://www.verheijbv.nl/
+  priority_score: 8/10
+  industry: >-
+    Groenvoorziening/hovenier voor zakelijke markt (zorg, onderwijs, overheid, vastgoed), regio
+    Sliedrecht/Alblasserwaard
+  size: '140-150 medewerkers, met steunpunten verspreid door heel Nederland (bron: websearch)'
+  tech_stack: >-
+    Biedt "Digitaal Groenbeheer" als dienst en heeft een klantportaal/login op de site - gedeeltelijke
+    digitalisering, koppeling met facturatie per klantcontract onduidelijk
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (werkvoorbereider/calculator, voorman, groenvoorziener,
+    stratenmaker - geen planner/coördinator/administratie rollen)
+  why_fit: >-
+    140+ medewerkers met steunpunten door heel het land wijst op decentrale aansturing per regio/klant;
+    bestaand Digitaal Groenbeheer-aanbod toont ambitie maar dekt vermoedelijk niet de koppeling
+    uren-facturatie; 35+ jaar gegroeid vanuit eenmanszaak, past qua omvang precies in de doelgroep.
+  decision_maker: Dick Verheij, algemeen directeur
+  linkedin: https://nl.linkedin.com/company/verheij-integrale-groenzorg
+  value_proposition: >-
+    Koppel het bestaande Digitaal Groenbeheer-platform aan automatische urenregistratie en facturatie
+    per klantcontract, over alle steunpunten heen.
+  outreach_strategy: >-
+    Mail/LinkedIn-bericht naar Dick Verheij met verwijzing naar de groei naar 140+ medewerkers
+    en de steunpunten door het land; intakegesprek voorstellen.
+  conversation_starters:
+  - >-
+    Jullie bieden al Digitaal Groenbeheer aan klanten - is de koppeling naar uren en facturatie
+    per klantcontract ook al geautomatiseerd?
+  - >-
+    Met steunpunten door heel Nederland, hoe zorgen jullie dat planning en facturatie centraal
+    overzichtelijk blijven?
+- name: Bunnik Groep
+  url: https://www.bunnikgroep.nl/
+  priority_score: 8/10
+  industry: >-
+    Multidisciplinaire aannemer (infra, milieu, groenvoorziening, gebiedsbeheer) in Het Groene
+    Hart, regio Alphen aan den Rijn
+  size: 'circa 150 medewerkers (bron: LinkedIn/webzoekresultaten); vestiging Alphen aan den
+    Rijn'
+  tech_stack: >-
+    Geen CMS/klantportaal/planningssoftware zichtbaar op de site; vacaturepagina met dynamisch
+    (template-gebaseerd) vacatureoverzicht, geen concrete software-namen gevonden
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (vacaturelijst laadt dynamisch, geen functietitels zichtbaar
+    in de site-tekst)
+  why_fit: >-
+    Werkt gelijktijdig aan losse projecten/contracten voor gemeenten, waterschappen, woningcorporaties
+    en bedrijven binnen vier disciplines - typisch decentraal projectenwerk; in 2018 overgenomen
+    door Biggelaar Groep (buy-and-build), wat vaak leidt tot behoefte aan centrale sturing over
+    meerdere bedrijfsonderdelen; 150 fte past goed in de doelgroep.
+  decision_maker: Frank Mollenhof, Directeur
+  linkedin: >-
+    https://nl.linkedin.com/in/frank-mollenhof-287b21a8 (bedrijfspagina: https://nl.linkedin.com/company/bunnik-groep)
+  value_proposition: >-
+    Eén overzicht dat projecturen per opdracht/klantcontract koppelt aan facturatie, zodat projectadministratie
+    over de vier disciplines niet meer los in Excel of aparte systemen hoeft
+  outreach_strategy: >-
+    Verwijs naar de overname door Biggelaar Groep en de combinatie van vier disciplines (infra/milieu/groen/gebiedsbeheer)
+    - vraag hoe zij nu projecturen en facturatie per opdrachtgever bijhouden over de bedrijfsonderdelen
+    heen; low-pressure intakegesprek voorstellen.
+  conversation_starters:
+  - >-
+    Hoe houden jullie bij Bunnik Groep uren en facturatie per project/opdrachtgever nu bij over
+    de vier disciplines heen?
+  - >-
+    Sinds de overname door Biggelaar Groep, is er behoefte aan meer centraal overzicht tussen
+    de bedrijfsonderdelen?
+- name: Nasec
+  url: https://nasec.nl
+  priority_score: 8/10
+  industry: >-
+    Uitzendbureau voor dag- en nachtreceptie (hotels, zorginstellingen, kantoren, appartementencomplexen,
+    vakantieparken), landelijk vanuit Arnhem
+  size: >-
+    niet vermeld (historisch: >2500 medewerkers ooit werkzaam sinds oprichting; huidig aantal
+    onbekend); actief in minstens 12 steden landelijk
+  tech_stack: >-
+    Geen CMS/klantportaal/planningssoftware genoemd; wel certificeringen NEN 4400-1, SNA Keurmerk,
+    WTTA, Waadi-registratie die wijzen op formele uitzend-/urenadministratie
+  relevant_vacancies: >-
+    Cluster Manager Nacht (24-40 uur, meerdere regio's) - overige vacatures zijn nachtreceptionist-functies
+    (niet relevant per uitsluitingslijst)
+  why_fit: >-
+    Zet personeel in op tientallen locaties (hotels, zorg, kantoren, vakantieparken) verspreid
+    over minstens 12 steden, elk met eigen opdrachtgeverscontract - dit is vrijwel exact het
+    decentrale planning/urenregistratie-naar-facturatie-probleem; brede en actieve wervingscampagne
+    (12+ steden, cluster-manager-vacature) wijst op recente groei/expansie.
+  decision_maker: >-
+    Directeur/Operations Manager (naam niet gevonden op site) - richt op Directeur of de nieuwe
+    Cluster Manager Nacht-rol
+  linkedin: https://nl.linkedin.com/company/nasecbv
+  value_proposition: >-
+    Eén systeem dat urenregistratie van nachtreceptionisten per opdrachtgever (hotel, zorginstelling,
+    kantoor) koppelt aan facturatie, in plaats van los per locatie/regio bij te houden
+  outreach_strategy: >-
+    Verwijs naar de landelijke uitrol over 12+ steden en de nieuwe Cluster Manager Nacht-vacature;
+    vraag hoe planning en facturatie per opdrachtgever nu worden gecoördineerd tussen regio's.
+  conversation_starters:
+  - >-
+    Met nachtreceptie in meer dan 12 steden - hoe lopen planning en facturatie per opdrachtgever
+    nu samen, of is dat per regio geregeld?
+  - >-
+    Jullie werven net een Cluster Manager Nacht - is dat mede om het overzicht over de regio's
+    te vergroten?
+- name: Carea Facilitaire Dienstverlening
+  url: https://carea-online.nl
+  priority_score: 7/10
+  industry: >-
+    Facilitaire schoonmaakdienstverlening (kantoren, glasbewassing, vloeronderhoud, conciërgerie),
+    regio Achterhoek/Stedendriehoek/Twente
+  size: >-
+    3 vestigingen (Warnsveld/hoofdkantoor, Almelo, Harderwijk); fte niet vermeld op site, MKB-familiebedrijf
+  tech_stack: >-
+    Geen software, planningssysteem of klantportaal vermeld op de site — geen zichtbare digitalisering
+    van planning/facturatie
+  relevant_vacancies: geen relevante vacatures gevonden (werken-bij pagina niet bereikbaar/404)
+  why_fit: >-
+    Meerdere vestigingen over verschillende regio's (Achterhoek, Twente, Veluwe) wijst op decentrale
+    planning per object/klantcontract; MKB-familiebedrijf (Frank en Karin Kühlkamp) zonder zichtbare
+    software-stack, dus waarschijnlijk nog Excel/handmatig gekoppeld voor urenregistratie-facturatie
+  decision_maker: >-
+    Frank Kühlkamp (algemeen directeur/mede-eigenaar) of Karin Kühlkamp (financieel directeur/mede-eigenaar)
+  linkedin: null
+  value_proposition: >-
+    Koppel urenregistratie per vestiging/klantcontract automatisch aan facturatie, zonder een
+    dik adviesrapport — één team dat het gewoon bouwt
+  outreach_strategy: >-
+    Persoonlijke e-mail aan Frank of Karin Kühlkamp, verwijzend naar de groei naar drie vestigingen
+    en de familiebedrijf-aanpak; CTA intakegesprek
+  conversation_starters:
+  - >-
+    Hoe houden jullie met drie vestigingen (Warnsveld, Almelo, Harderwijk) de urenregistratie
+    per klantcontract op één lijn met de facturatie?
+  - Werkt elke vestiging nu met eigen Excel-planning, of is dat al gecentraliseerd?
+- name: Brabant Schoonmaak
+  url: https://brabantschoonmaak.nl
+  priority_score: 7/10
+  industry: >-
+    Breed facilitair schoonmaakbedrijf (interieur, gevel, riool, industrieel) voor gemeenten,
+    bedrijven, scholen en zorg, Midden/West-Brabant
+  size: >-
+    circa 180-200 medewerkers, ±600 zakelijke klanten (bron: Vermetten accountants klantverhaal,
+    LinkedIn)
+  tech_stack: Geen klantportaal of planningssoftware vermeld op de website
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (pagina meldt 'op dit moment geen vacatures beschikbaar')
+  why_fit: >-
+    ±200 fte en ±600 klanten verspreid over 7 Brabantse gemeenten (Waalwijk, Tilburg, Roosendaal,
+    Raamsdonksveer, Oosterhout, Breda, Den Bosch) - klassiek decentraal planningsprobleem per
+    locatie/klantcontract; breed dienstenpakket zonder zichtbaar gekoppeld systeem voor uren/facturatie.
+  decision_maker: 'Jeroen Schwartzmans, (mede-)directeur familiebedrijf (bron: Vermetten klantverhaal)'
+  linkedin: https://nl.linkedin.com/company/brabant-in--en-exterieurverzorging-b.v.
+  value_proposition: >-
+    Eén werkend systeem dat uren per klantcontract automatisch koppelt aan facturatie, over
+    alle 7 gemeenten heen.
+  outreach_strategy: >-
+    Korte e-mail naar Jeroen Schwartzmans over de complexiteit van 600 klanten over 7 gemeenten
+    en hoe uren nu gekoppeld worden aan facturatie per klant.
+  conversation_starters:
+  - >-
+    Met zo'n 600 klanten verspreid over Waalwijk tot Den Bosch - hoe koppelen jullie nu de uren
+    per klantcontract aan de facturatie?
+  - >-
+    Bij zo'n breed dienstenpakket (interieur, gevel, riool, industrieel) - werkt dat nog met
+    losse systemen of Excel per vestiging?
+- name: BLINCK Schoon
+  url: https://blinckschoon.nl
+  priority_score: 7/10
+  industry: Schoonmaakbedrijf voor kantoren en bedrijven, landelijk opererend vanuit Almere
+    en Arnhem
+  size: >-
+    2 vestigingen zichtbaar (Almere, Arnhem) met 'vaste teams door heel Nederland'; fte niet
+    vermeld (bron: website)
+  tech_stack: >-
+    Klantenportaal (portal.blinckschoon.nl) en online rekentool aanwezig; geen zichtbaar end-to-end
+    ERP/CRM/planningssysteem - portaal dekt waarschijnlijk niet de koppeling urenregistratie-facturatie
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: >-
+    Meerdere vestigingen plus landelijke dekking met vaste teams per klantlocatie betekent decentrale
+    planning over veel contracten; recente mede-eigendomsoverdracht (David Vinck sinds januari
+    2025) is een concrete trigger voor procesvernieuwing; bestaand klantportaal toont digitaliseringsbereidheid
+    maar dekt vermoedelijk niet de volledige uren-naar-factuur keten
+  decision_maker: Anton Vinck (directeur-eigenaar) en David Vinck (mede-eigenaar sinds jan 2025)
+  linkedin: https://nl.linkedin.com/company/blinck-schoon
+  value_proposition: >-
+    Eén systeem dat planning per vestiging/locatie koppelt aan urenregistratie en automatische
+    facturatie per klantcontract, boven op het bestaande klantportaal
+  outreach_strategy: >-
+    Persoonlijke e-mail aan Anton en/of David Vinck, verwijzend naar de recente mede-eigendomsoverdracht
+    als moment om processen tussen vestigingen te stroomlijnen; CTA intakegesprek
+  conversation_starters:
+  - >-
+    Met de overdracht naar David als mede-eigenaar - een mooi moment om te kijken of planning
+    en facturatie tussen Almere en Arnhem al soepel op elkaar aansluiten?
+  - >-
+    Jullie klantportaal is een mooie stap - is de koppeling tussen urenregistratie per locatie
+    en facturatie per klantcontract daar ook al in meegenomen, of loopt dat nog los?
+- name: Sanitize
+  url: https://www.sanitize.nl
+  priority_score: 7/10
+  industry: >-
+    Facilitaire schoonmaak (onderhoud, glasbewassing, vloeronderhoud, gevelreiniging) in Oost-Nederland
+    (Twente e.o.)
+  size: >-
+    niet vermeld (fte); actief in meerdere steden (Enschede, Hengelo, Almelo, Deventer, Apeldoorn,
+    Oldenzaal) via rayonmanagers en objectleiders
+  tech_stack: >-
+    Eigen klantportaal/intranet (intranet.sanitize-portals.nl); geen ERP/CRM/planningssoftware
+    genoemd
+  relevant_vacancies: >-
+    Coördinator Schoonmaak Hengelo Avond, Rayonmanager Glas- & Specialistische Reiniging, Ambulant
+    Objectleidster
+  why_fit: >-
+    Meerdere serviceregio's met rondreizende rayonmanagers/objectleiders wijzen op decentrale
+    planning per locatie; alleen een klantportaal zichtbaar, geen centrale koppeling van urenregistratie
+    aan facturatie per klantcontract
+  decision_maker: Directeur/Eigenaar (naam niet gevonden op site)
+  linkedin: https://nl.linkedin.com/company/sanitize-schoonmaakbedrijf
+  value_proposition: >-
+    Urenregistratie per object/rayon automatisch koppelen aan facturatie per klantcontract,
+    zonder los Excel-werk per vestiging
+  outreach_strategy: >-
+    Richten op de directie-/rayonmanager-functie, verwijzen naar hun meerdere serviceregio's
+    en objectleider-structuur als bewijs van decentrale planning
+  conversation_starters:
+  - >-
+    Hoe houden jullie de planning tussen de verschillende rayons (Enschede, Hengelo, Almelo,
+    Deventer, Apeldoorn, Oldenzaal) op elkaar afgestemd?
+  - >-
+    Loopt de urenregistratie van objectleiders al automatisch door naar de facturatie per klant,
+    of gebeurt dat nog handmatig?
+- name: Handy-Clean B.V.
+  url: https://www.handyclean.nl/
+  priority_score: 7/10
+  industry: >-
+    Schoonmaakdienstverlening voor zakelijke, onderwijs-, zorg- en industriële klanten, regio
+    Flevoland en omstreken
+  size: '200+ medewerkers, 4 vestigingen (bron: website)'
+  tech_stack: >-
+    Website vermeldt een intranet/klantportaal (inlogportaal); geen planningssoftware zoals
+    Planbition/Shiftbase genoemd
+  relevant_vacancies: geen relevante vacatures gevonden (werken-bij pagina niet bereikbaar/404)
+  why_fit: >-
+    200+ medewerkers verspreid over 4 vestigingen en tientallen gemeenten (Lelystad, Kampen,
+    Zwolle, Almere) met uiteenlopende klanten (Omroep Flevoland, Paleis Het Loo, Leger des Heils)
+    wijst op sterk gedecentraliseerde planning per locatie/klantcontract; ISO 9001 en Keurmerk
+    Schoon tonen procesvolwassenheid maar geen zichtbaar end-to-end ERP/CRM
+  decision_maker: Directeur/Eigenaar of Operations Manager (naam niet gevonden binnen budget)
+  linkedin: null
+  value_proposition: >-
+    Eén centraal systeem voor planning en facturatie over 4 vestigingen en tientallen klantlocaties,
+    zodat vestigingen niet langer los van elkaar werken
+  outreach_strategy: >-
+    Benader via het contactformulier of directe e-mail, focus op de spreiding over 4 vestigingen
+    en brede klantportefeuille als kans om planning/facturatie te centraliseren zonder een zwaar
+    ERP-traject
+  conversation_starters:
+  - >-
+    Met 4 vestigingen en klanten als Paleis Het Loo en Omroep Flevoland — werken die vestigingen
+    nu met dezelfde planning- en facturatiesystemen, of toch los van elkaar?
+  - >-
+    Bij 200+ medewerkers over meerdere locaties: hoe worden uren nu gekoppeld aan de juiste
+    klantfacturatie?
+- name: Hensen Cleaning
+  url: https://hensencleaning.nl/
+  priority_score: 7/10
+  industry: Facilitaire schoonmaak en glasbewassing voor scholen en kantoren in Rotterdam/Zuid-Holland
+  size: >-
+    Ca. 150 medewerkers (website), vaste teams per klantlocatie vanuit één hoofdvestiging Rotterdam
+  tech_stack: >-
+    Klantportaal met 24/7 inzicht in uren, frequenties en tarieven, plus een 'Facility-app'
+    voor meldingen/communicatie; DKS-rondes en OVSR voor kwaliteitscontrole — dekt zichtbaarheid
+    maar niet per se koppeling naar facturatie/ERP
+  relevant_vacancies: >-
+    Rayonleider Schoonmaak (aansturing teams, planning/roostering, kwaliteitsbewaking, klantcontact
+    over meerdere objecten)
+  why_fit: >-
+    150 fte met vaste teams verspreid over veel klantlocaties (scholen/kantoren) is precies
+    het decentrale multi-object model; open Rayonleider-vacature wijst op groeiende planningscomplexiteit;
+    bestaand portaal toont digitale ambitie maar dekt alleen uren/tarieven, niet volledige facturatie-koppeling
+  decision_maker: Joost Kleinjan, eigenaar/directeur
+  linkedin: null
+  value_proposition: >-
+    Koppel het bestaande klantportaal aan een sluitende urenregistratie-naar-facturatie flow
+    per klantcontract, zonder het portaal te vervangen
+  outreach_strategy: >-
+    Persoonlijke aanpak naar Joost Kleinjan als eigenaar van een familiebedrijf; verwijs naar
+    het bestaande klantportaal als vertrekpunt en de nieuwe Rayonleider-vacature als teken van
+    groeiende coördinatiebehoefte
+  conversation_starters:
+  - >-
+    Jullie klantportaal toont uren en tarieven — is dat al automatisch gekoppeld aan de facturatie
+    per klantcontract, of gebeurt dat nog handmatig?
+  - >-
+    Met de nieuwe Rayonleider die meerdere locaties gaat aansturen, hoe zorgen jullie dat planning
+    en uren per object overzichtelijk blijven?
+- name: Huschka Groep
+  url: https://www.huschka.nl
+  priority_score: 7/10
+  industry: >-
+    Beveiliging, alarmcentrale, brandveiligheid en trainingen, regio Zuid-Holland (Leiden, Zoetermeer,
+    Rijswijk, Gouda)
+  size: >-
+    3000+ klanten vermeld op de site; meerdere operationele locaties (Leiden, Zoetermeer, Rijswijk,
+    Gouda); exact fte niet vermeld
+  tech_stack: >-
+    TRNSPRNT klantenportaal en een eigen Academy op LearnWorlds; WordPress-site. Partiële systemen
+    — geen zichtbaar end-to-end systeem dat uren en facturatie centraal koppelt.
+  relevant_vacancies: >-
+    P&O Medewerker Personeelszaken en Recruitment (Zoetermeer); Coördinator Personeelszaken
+    & Recruitment (Zoetermeer, parttime); open sollicitatie Backoffice
+  why_fit: >-
+    Actief op meerdere locaties met 3000+ klanten en uiteenlopende diensten; klantportaal dekt
+    niet de volledige urenregistratie-naar-facturatie keten; meerdere open HR/backoffice-vacatures
+    wijzen op groei en administratieve druk.
+  decision_maker: >-
+    Emill de Waal, Directeur/Eigenaar (bron: bedrijfsregistratie/search, niet op de site bevestigd)
+  linkedin: https://nl.linkedin.com/company/huschka
+  value_proposition: >-
+    Voortbouwen op het bestaande TRNSPRNT-portaal met een koppeling tussen urenregistratie per
+    locatie en facturatie per klantcontract, zodat de admin-druk bij groei niet toeneemt.
+  outreach_strategy: >-
+    Persoonlijke mail/LinkedIn naar de directie met verwijzing naar de schaal (3000+ klanten,
+    meerdere vestigingen) en de groei in backoffice/HR-vacatures.
+  conversation_starters:
+  - >-
+    Met 3000+ klanten over meerdere locaties: is de koppeling tussen urenregistratie en facturatie
+    per klantcontract al geautomatiseerd, of gebeurt dat nog los van het TRNSPRNT-portaal?
+  - >-
+    Jullie werven momenteel voor backoffice en P&O - speelt handmatig administratief werk daarbij
+    een rol?
+- name: Accent Receptieservices
+  url: https://www.accent-receptieservice.nl
+  priority_score: 7/10
+  industry: >-
+    Gespecialiseerd receptie- en gastvrouwdienstverlener (receptie, telefonie, hostmanship),
+    klanten in Rijnmond/Haaglanden, gevestigd in Rijswijk
+  size: >-
+    Meerdere gelijktijdige klantlocaties zichtbaar via vacatures (Ridderkerk, Delft, Den Haag,
+    Rotterdam-centrum, Sliedrecht); fte niet vermeld
+  tech_stack: Geen klantportaal, planningssoftware of apps genoemd op de site
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (alleen receptionist(e)-vacatures op 7 verschillende klantlocaties)
+  why_fit: >-
+    Zeven gelijktijdige parttime-klantlocaties in verschillende steden tonen het klassieke decentrale-planning-probleem;
+    nichespeler puur in hospitality zonder zichtbaar ERP/CRM/planningssysteem; bekende directeur
+    voor persoonlijke aanpak
+  decision_maker: Mariejan de Lange, Directeur/CEO
+  linkedin: https://nl.linkedin.com/company/accent-receptie-services-b.v.
+  value_proposition: >-
+    Eén dashboard dat uren en planning van alle losse receptielocaties automatisch koppelt aan
+    facturatie per klantcontract, zonder handmatig Excel-werk per locatie
+  outreach_strategy: >-
+    Persoonlijke mail naar Mariejan de Lange, verwijzend naar de vele losse klantlocaties die
+    apart beheerd moeten worden; laagdrempelig intakegesprek
+  conversation_starters:
+  - >-
+    Met receptionistes op zoveel losse klantlocaties tegelijk — hoe worden de uren nu verzameld
+    en gekoppeld aan de facturatie per klant?
+  - Werkt Accent nu met Excel of losse systemen om per locatie het overzicht te houden?
+- name: Weverling Groenproviders
+  url: https://weverling.nl/
+  priority_score: 7/10
+  industry: >-
+    Full-service groendiensten (advies, aanleg, onderhoud, boomverzorging, begraafplaatsbeheer)
+    in Zuid-Holland
+  size: >-
+    120 medewerkers, 4 vestigingen (Westland, Den Haag, Rotterdam, Alphen a/d Rijn) — bron:
+    homepage
+  tech_stack: Geen specifieke planningssoftware, klantportaal of CRM/ERP vermeld op de homepage
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden binnen budget (vacaturesite weverlingwerktvoorjou.nl niet
+    verder onderzocht)
+  why_fit: >-
+    4 vestigingen en opdrachtgevers in meerdere sectoren (woningcorporaties, gemeenten, zorg,
+    bedrijven) wijst op decentrale planning per vestiging/object; familiebedrijf met 4 BV's
+    (Weverling Groenproviders, Allure Tuinen, House of Green, Groenperspectief) onder één directie
+    vergroot de kans op versnipperde systemen; nieuwe vestiging Alphen a/d Rijn als expansiesignaal
+  decision_maker: Menno Weverling, Algemeen Directeur
+  linkedin: https://www.linkedin.com/in/menno-weverling-7b724711/
+  value_proposition: >-
+    Eén werkend systeem dat planning en urenregistratie per vestiging/object koppelt aan facturatie
+    per klantcontract, over de 4 vestigingen en BV's heen
+  outreach_strategy: >-
+    Persoonlijke mail aan Menno Weverling met verwijzing naar de 4 vestigingen en meerdere BV's
+    onder één directie; praktische, snel werkende oplossing i.p.v. groot IT-traject
+  conversation_starters:
+  - >-
+    Met 4 vestigingen en meerdere bedrijfsonderdelen (Groenproviders, Allure Tuinen, House of
+    Green) — lopen planning en urenregistratie nu via aparte systemen of Excel?
+  - >-
+    Hoe koppelen jullie nu de uren van medewerkers op locatie aan de facturatie richting woningcorporaties
+    en gemeenten?
+- name: M. van der Spek
+  url: https://www.mvdspek.nl/
+  priority_score: 7/10
+  industry: Groenvoorziening/hoveniersbedrijf, regio Zoetermeer, Den Haag, Rotterdam en Utrecht
+    e.o.
+  size: >-
+    circa 200 medewerkers, meerdere merken binnen de groep (M. van der Spek Groenprojecten,
+    Hoveniers, Groenvoorziening, Boomstijl, Meersma, Van Nieuwland Tuinen, Ton Greeve Groen)
+    (bron: websearch)
+  tech_stack: Geen software, klantportaal of planningstool zichtbaar op de site
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (aanleg, onderhoud, groenprojecten, boomverzorging, werkplaats,
+    chauffeur, bedrijfsbureau - geen planner/coördinator specifiek genoemd)
+  why_fit: >-
+    Groep van meerdere merken/vestigingen (Benthuizen plus regionale spreiding) met circa 200
+    medewerkers - decentrale structuur per merk/regio wijst op mogelijk versnipperde planning
+    en facturatie; geen zichtbare digitalisering; omvang past net binnen de doelgroep.
+  decision_maker: >-
+    niet gevonden op de site; richten op Directeur/Operations Manager (mogelijk familie Van
+    der Spek)
+  linkedin: https://nl.linkedin.com/company/m-van-der-spek-hoveniersbedrijf-b-v-
+  value_proposition: >-
+    Eén gecentraliseerd systeem voor planning, urenregistratie en facturatie over alle merken
+    en vestigingen van de groep heen.
+  outreach_strategy: >-
+    Introductiemail met verwijzing naar de meerdere merken/vestigingen binnen de groep en de
+    vraag hoe planning en facturatie nu tussen de merken worden afgestemd; intakegesprek voorstellen.
+  conversation_starters:
+  - >-
+    Met meerdere merken binnen de groep, werken jullie nu met één centraal systeem voor planning
+    en facturatie, of per merk apart?
+  - >-
+    Bij circa 200 medewerkers verspreid over meerdere vestigingen/regio's, hoe voorkomen jullie
+    dubbel werk tussen urenregistratie en facturatie?
+- name: Woningbouw Services
+  url: https://woningbouwservices.nl
+  priority_score: 7/10
+  industry: >-
+    Onderhoudsbedrijf voor woningcorporaties (dagelijks, planmatig, mutatie-, storings-, vastgoed-
+    en serviceonderhoud), regio Zuid-Holland/Noord-Holland/Utrecht/Zeeland, gevestigd in Delft
+  size: >-
+    circa 20 technici (bron: eigen website); onderdeel van Hobuma Holding B.V., samen met zustermaatschappij
+    Holland Building Maintenance B.V.
+  tech_stack: >-
+    Geen CMS/klantportaal/planningssoftware genoemd op de site; vacaturepagina (/vacatures)
+    niet bereikbaar (404)
+  relevant_vacancies: niet gevonden op de site (vacaturepagina gaf 404)
+  why_fit: >-
+    Werkt met vaste technici toegewezen aan afzonderlijke woningcorporaties (500-20.000 vhe
+    per klant) over vier provincies - exact het decentrale planning-per-klantcontract-probleem
+    uit het segment; onderdeel van een holdingstructuur met een zustermaatschappij (Holland
+    Building Maintenance), wat kan wijzen op groei/buy-and-build en behoefte aan gedeelde systemen.
+  decision_maker: >-
+    Directeur/eigenaar (naam niet gevonden op site; Ric de Jong is op LinkedIn gekoppeld aan
+    Woningbouw Services, functie niet bevestigd) - richt op Directeur/Operations Manager
+  linkedin: null
+  value_proposition: >-
+    Koppel urenregistratie van technici per woningcorporatie-contract direct aan facturatie,
+    zodat het overzicht tussen Woningbouw Services en zustermaatschappij Holland Building Maintenance
+    niet los in Excel hoeft
+  outreach_strategy: >-
+    Benader vanuit de holdingstructuur (Hobuma Holding) en het permanente-technicus-per-klant-model;
+    vraag hoe onderhoudsuren nu per woningcorporatie worden vastgelegd en gefactureerd.
+  conversation_starters:
+  - >-
+    Jullie werken met vaste technici per woningcorporatie over vier provincies - hoe worden
+    die uren nu gekoppeld aan facturatie per klant?
+  - >-
+    Werken Woningbouw Services en Holland Building Maintenance met gedeelde systemen, of loopt
+    dat nog gescheiden?
+- name: Blankers Schoon
+  url: https://blankersschoon.nl
+  priority_score: 6/10
+  industry: >-
+    Facilitaire schoonmaak (kantoor, zorg, food, gevel) via drie divisies, Noord- en Zuid-Limburg
+  size: >-
+    niet expliciet vermeld; familiebedrijf sinds 1966, actief vanuit Weert/Venray/Roermond/Venlo
+    met aparte divisies Blankers Schoon, Blankers Specialistisch en Blankers Facilitair (bron:
+    Facto Magazine)
+  tech_stack: >-
+    Geen klantportaal of planningssoftware vermeld; wel schoonmaakrobots (robotisering) genoemd
+  relevant_vacancies: >-
+    geen concrete vacatures met titel gevonden op werken-bij pagina (verwijst naar extern portal
+    werkenbijblankersschoon.nl, niet bezocht binnen budget)
+  why_fit: >-
+    Drie aparte divisies (schoonmaak, specialistisch, facilitair) en meerdere vestigingsplaatsen
+    wijzen op decentrale planning per object; recente wijziging in aandeelhouderschap/operationele
+    leiding (Erik Ruijters) kan duiden op groeifase; geen software zichtbaar.
+  decision_maker: >-
+    Ruud Danklof, Eigenaar/Directeur; Erik Ruijters, mede-aandeelhouder en operationeel directeur
+    (bron: Facto Magazine)
+  linkedin: https://nl.linkedin.com/company/blankers-schoon
+  value_proposition: >-
+    Eén overzicht dat planning en facturatie tussen de drie Blankers-divisies en vestigingen
+    samenbrengt.
+  outreach_strategy: >-
+    Aanhaken op de recente uitbreiding van het aandeelhouderschap en de meerdere divisies, richten
+    op Erik Ruijters als operationeel directeur.
+  conversation_starters:
+  - >-
+    Met Blankers Schoon, Specialistisch én Facilitair naast elkaar - hoe lopen planning en facturatie
+    nu samen per divisie en locatie?
+  - >-
+    Sinds Erik Ruijters mede-aandeelhouder is geworden - is dit het moment om de systemen tussen
+    de onderdelen te stroomlijnen?
+- name: Schoonmaakbedrijf Van der Aart B.V.
+  url: https://van-der-aart.nl/
+  priority_score: 6/10
+  industry: >-
+    Bedrijfsschoonmaak en facilitaire dienstverlening (onderwijs, sport, kantoren, VVE's) in
+    de Gooi-regio
+  size: >-
+    actief in 21 gemeenten (Amsterdam, Utrecht, Almere, Hilversum, Gooi-regio); medewerkersaantal
+    niet vermeld op site
+  tech_stack: Geen software, klantportaal of planningstool vermeld op de site
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: >-
+    Bedient klanten in 21 gemeenten vanuit één vestiging (Naarden) — sterke indicatie van decentrale
+    objectplanning per locatie; groeide via overname (Sieben uit Hilversum) wat wijst op groeiende
+    complexiteit in contracten en vestigingen; geen zichtbare software-tooling
+  decision_maker: Maarten van der Aart, Directeur/Eigenaar (genoemd op website en LinkedIn)
+  linkedin: https://nl.linkedin.com/in/maarten-van-der-aart-56133018
+  value_proposition: >-
+    Eén platform om planning en facturatie te koppelen over de 21 bediende gemeenten, zonder
+    dat dit los van elkaar in Excel gebeurt
+  outreach_strategy: >-
+    Persoonlijke LinkedIn-benadering naar Maarten, verwijzend naar de overname (Sieben) als
+    groeimoment waarin systemen vaak achterblijven
+  conversation_starters:
+  - >-
+    Met de overname van Sieben groeit het aantal klantcontracten — hoe houden jullie de planning
+    en facturatie daarvan nu op elkaar afgestemd?
+  - Werken jullie nog met Excel of losse systemen per gemeente/locatie voor de planning?
+- name: Schoonpand B.V.
+  url: https://schoonpand.nl/
+  priority_score: 6/10
+  industry: >-
+    Bedrijfsschoonmaak (kantoren, kinderopvang, scholen, praktijken, VvE's) met landelijke dekking
+    vanuit Amsterdam
+  size: >-
+    landelijke dekking (Groningen tot Maastricht) via lokale teams; medewerkersaantal niet vermeld
+    op site
+  tech_stack: Geen software, klantportaal of planningstool vermeld op de site
+  relevant_vacancies: geen relevante vacatures gevonden (vacaturepagina niet bereikbaar/404)
+  why_fit: >-
+    Landelijke dekking met vaste teams per locatie is een sterke indicator voor decentrale planning
+    per object/vestiging en losse klantcontracten; geen zichtbare software wat wijst op handmatige
+    koppeling van uren en facturatie per klant
+  decision_maker: Directeur/Eigenaar (naam niet gevonden binnen budget)
+  linkedin: null
+  value_proposition: >-
+    Eén centraal systeem om planning en facturatie per klantcontract landelijk te beheren, i.p.v.
+    losse teams/systemen per regio
+  outreach_strategy: >-
+    Algemene benadering via contactformulier/telefoon gericht op directie, met focus op landelijke
+    schaal als complexiteitsfactor
+  conversation_starters:
+  - >-
+    Met teams door heel Nederland — hoe zorgen jullie dat de urenregistratie per klantcontract
+    goed doorstroomt naar facturatie?
+  - >-
+    Werkt elke regio nu met hetzelfde systeem voor planning, of is dat per locatie verschillend?
+- name: DES Schoonmaakdiensten
+  url: https://des-schoonmaak.nl/
+  priority_score: 6/10
+  industry: >-
+    Facilitaire schoonmaak (kantoren, scholen, zorg, retail) vanuit drie vestigingen in de Randstad
+  size: 3 vestigingen (Den Haag hoofdkantoor, Rotterdam, Amsterdam) — fte niet vermeld op de
+    site
+  tech_stack: Geen klantportaal, planningssoftware of digitale tools vermeld op de site
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: >-
+    Drie aparte vestigingen (Den Haag, Rotterdam, Amsterdam) impliceert decentrale planning
+    per locatie; geen zichtbare software wijst op mogelijk versnipperde Excel/systemen per vestiging;
+    jong groeiend team suggereert opschalingsbehoefte
+  decision_maker: >-
+    Algemeen Directeur (functietitel op teampagina, naam niet bevestigd); Maxime de Wit genoemd
+    als aanspreekpunt
+  linkedin: null
+  value_proposition: >-
+    Eén systeem dat planning en urenregistratie tussen de drie vestigingen samenbrengt, zodat
+    facturatie per klantcontract niet los per locatie hoeft te gebeuren
+  outreach_strategy: >-
+    Mail/LinkedIn naar de algemeen directeur met focus op het overzicht houden tussen de drie
+    vestigingen
+  conversation_starters:
+  - >-
+    Met vestigingen in Den Haag, Rotterdam én Amsterdam, werken jullie daar met één centraal
+    systeem voor planning en facturatie of per vestiging apart?
+  - >-
+    Hoe voorkomen jullie dat de administratie tussen de drie kantoren uit elkaar gaat lopen
+    naarmate jullie groeien?
+- name: Easy-Plan Contractcatering
+  url: https://www.easy-plan.nl/
+  priority_score: 6/10
+  industry: >-
+    Contractcatering / bedrijfsrestaurants voor MKB en (gemeentelijke) instellingen, landelijk
+    vanuit Doesburg
+  size: 'circa 70 vaste medewerkers, meerdere klantlocaties door heel Nederland (bron: website)'
+  tech_stack: >-
+    Geen planningssoftware, klantportaal of CMS zichtbaar op de site; geen digitale koppelingen
+    genoemd tussen locaties, urenregistratie of facturatie
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (alleen 'Catering beheerder/-ster op vaste locatie', operationele
+    rol)
+  why_fit: >-
+    Beheert bedrijfsrestaurants op meerdere klantlocaties (o.a. Dekra, Hornbach, Mammoet) tegelijk
+    vanuit één centraal team in Doesburg, wat typisch decentrale planning per locatie en losgekoppelde
+    uren-/facturatieprocessen per klantcontract met zich meebrengt
+  decision_maker: Edward Bulte, Directeur (gevonden via zoekopdracht, niet op de website zelf)
+  linkedin: https://www.linkedin.com/company/easy-plan-contract-catering
+  value_proposition: >-
+    Eén centraal dashboard dat urenregistratie per locatie automatisch koppelt aan facturatie
+    per klantcontract, zodat beheer over tientallen bedrijfsrestaurants niet meer los in Excel
+    per locatie hoeft
+  outreach_strategy: >-
+    Directe benadering van Edward Bulte met verwijzing naar de spreiding van klantlocaties (Dekra,
+    Hornbach, Mammoet); aanbod voor kort intakegesprek zonder dik rapport
+  conversation_starters:
+  - >-
+    Hoe houden jullie nu uren en facturatie per klantlocatie (Dekra, Hornbach, Mammoet) bij,
+    in Excel of los per vestiging?
+  - >-
+    Bij beheer van bedrijfsrestaurants op zoveel verschillende locaties: is er al één centraal
+    overzicht, of werkt elke locatie nog op zichzelf?
+- name: Berends Beveiliging B.V.
+  url: https://www.berendsbeveiliging.nl
+  priority_score: 6/10
+  industry: >-
+    Objectbeveiliging, mobiele surveillance en evenementenbeveiliging, regio Gelderland/Brabant
+    (Nijmegen, Venlo, Den Bosch, Eindhoven, Arnhem e.o.)
+  size: >-
+    11-20 medewerkers volgens KVK/Company.info; 150+ klanten en 100+ projecten vermeld op de
+    site — aan de kleine kant van de ICP-range maar met duidelijke multi-locatie spreiding
+  tech_stack: Geen planningssoftware, klantportaal, ERP of CRM genoemd op de site
+  relevant_vacancies: geen relevante vacatures gevonden (alleen objectbeveiligers)
+  why_fit: >-
+    Bedient 150+ klanten en 100+ projecten verspreid over 15+ gemeenten in Gelderland/Brabant
+    vanuit één hoofdvestiging — sterke indicatie van decentrale planning per object/klantcontract
+    zonder zichtbare software-ondersteuning; familiebedrijf met 20+ jaar ervaring
+  decision_maker: Jimmy Berends (mogelijk eigenaar/directeur); ook Wesley Berends actief bij
+    het bedrijf
+  linkedin: https://www.linkedin.com/in/jimmy-berends-a7749395/
+  value_proposition: >-
+    Eén werkende oplossing die uren per object automatisch koppelt aan facturatie per klantcontract,
+    zodat administratie over 15+ gemeenten niet langer los in Excel loopt.
+  outreach_strategy: >-
+    Persoonlijke LinkedIn-connectie of mail naar Jimmy Berends, met verwijzing naar de brede
+    regionale spreiding (150+ klanten, 15+ gemeenten); laagdrempelige uitnodiging voor intakegesprek.
+  conversation_starters:
+  - >-
+    Met 150+ klanten verspreid over Gelderland en Brabant — hoe houden jullie nu uren en facturatie
+    per klantcontract op elkaar afgestemd?
+  - >-
+    Bij zo'n regionale spreiding zien we vaak dat planning per object nog los staat van facturatie
+    — herkenbaar bij Berends?
+- name: EW Security
+  url: https://ewsecurity.nl
+  priority_score: 6/10
+  industry: >-
+    Beveiliging, brandveiligheid en receptiediensten voor zorg, evenementen, overheid en sport,
+    regio Westland/Den Haag
+  size: niet vermeld; actief sinds 30+ jaar in de Westland-regio
+  tech_stack: >-
+    WordPress-website met contactformulier; geen planningssoftware, klantportaal of ERP/CRM
+    vermeld.
+  relevant_vacancies: geen relevante vacatures gevonden (alleen operationele beveiligingsfuncties)
+  why_fit: >-
+    Breed dienstenpakket over uiteenlopende sectoren (zorg, evenementen, overheid, sport) betekent
+    veel losse klantcontracten en locaties met eigen planning; site noemt coördinatie tussen
+    vestigingen; geen aanwijzingen voor bestaande custom software.
+  decision_maker: Naam niet gevonden - target Owner/Directeur/Operations Manager
+  linkedin: null
+  value_proposition: >-
+    Werkende software die uren per locatie/sector automatisch koppelt aan facturatie per klantcontract,
+    zonder aparte Excel-lijsten per vestiging.
+  outreach_strategy: >-
+    Korte mail aan directie, met verwijzing naar de brede sectorspreiding en de vraag hoe planning
+    en facturatie nu per sector/locatie worden samengevoegd.
+  conversation_starters:
+  - >-
+    Met klanten in zorg, evenementen, overheid en sport tegelijk: hoe brengen jullie de uren
+    per contract nu samen in de facturatie?
+  - Speelt handmatig werk met Excel nog een rol in de planning per locatie?
+- name: BDG Beveiliging B.V.
+  url: https://www.bdgbeveiliging.nl
+  priority_score: 6/10
+  industry: >-
+    Beveiligingsdienst (mobiele surveillance, objectbeveiliging, receptiebeveiliging) actief
+    in heel Nederland, gevestigd in Barneveld
+  size: 1 vestiging (Barneveld), landelijk werkzaam bij klanten; fte niet vermeld op de site
+  tech_stack: Geen klantportaal, planningssoftware of apps genoemd op de site
+  relevant_vacancies: geen relevante vacatures gevonden (enkel surveillant/beveiliger-vacatures)
+  why_fit: >-
+    Totaalleverancier van beveiligingsdiensten met veel losse klantlocaties/objecten door heel
+    NL, typisch decentraal planningsmodel per object/klantcontract; geen spoor van eigen software
+    of ERP/CRM-vendor
+  decision_maker: Directeur/eigenaar (naam niet gevonden) — richt op Operations Manager of Directeur
+  linkedin: https://nl.linkedin.com/company/bdg-beveiliging-b-v-
+  value_proposition: >-
+    Eén centraal systeem om urenregistratie per object/locatie automatisch te koppelen aan facturatie
+    per klantcontract
+  outreach_strategy: >-
+    Korte, no-nonsense mail over de operationele pijn van objectbeveiliging op veel locaties
+    tegelijk — 'geen dik rapport, gewoon werkende software' — en vraag om een intakegesprek
+  conversation_starters:
+  - >-
+    Hoe houden jullie nu overzicht over de uren en planning van surveillanten op al die verschillende
+    objecten door heel Nederland?
+  - >-
+    Is het koppelen van urenregistratie aan facturatie per klantcontract nu nog handwerk bij
+    BDG?
+- name: H&H Service B.V.
+  url: https://hh-service.nl
+  priority_score: 6/10
+  industry: >-
+    Hospitality- en servicebedrijf (receptie, host/hostess, verkeersregelaars) — onderdeel van
+    H&H Group, landelijk actief, hoofdkantoor Tilburg
+  size: >-
+    Hoofdkantoor Tilburg, actief in minstens 8 grote steden; fte niet vermeld; onderdeel van
+    H&H Group (incl. H&H Security en H&H Safety)
+  tech_stack: Geen klantportaal, planningssoftware of apps genoemd op de site
+  relevant_vacancies: geen relevante vacatures gevonden (alleen open sollicitatie servicemedewerker)
+  why_fit: >-
+    Landelijke spreiding over veel steden met eigen klantlocaties wijst op decentrale planning
+    per locatie/contract; groep met meerdere zusterbedrijven (Security, Safety) vergroot de
+    coördinatie-complexiteit; geen zichtbaar eigen ERP/CRM-systeem
+  decision_maker: Directeur/Operations Manager van H&H Service/H&H Group (naam niet gevonden)
+  linkedin: null
+  value_proposition: >-
+    Eén systeem dat planning en urenregistratie per locatie koppelt aan facturatie per klantcontract,
+    werkend over de verschillende H&H-onderdelen heen
+  outreach_strategy: >-
+    Persoonlijke mail met focus op de operationele last van landelijke spreiding en meerdere
+    groepsonderdelen; laagdrempelig intakegesprek aanbieden
+  conversation_starters:
+  - >-
+    Met inzet in zoveel steden — hoe zorgen jullie dat de uren per klantlocatie kloppend de
+    facturatie in gaan?
+  - >-
+    Werken H&H Service, H&H Security en H&H Safety nu met losse Excel-bestanden of systemen
+    per onderdeel?
+- name: H3-Facility
+  url: https://www.h3-facility.nl
+  priority_score: 6/10
+  industry: Schoonmaak- en facilitaire dienstverlening, Utrecht en omgeving
+  size: >-
+    niet vermeld; bedient 50+ organisaties (o.a. Lidl, ProRail, Carglass), familiebedrijf over
+    meerdere generaties (bron: homepage)
+  tech_stack: Geen software, klantportaal of planningstool zichtbaar op de site
+  relevant_vacancies: geen relevante vacatures gevonden (vacaturepagina niet bereikbaar binnen
+    budget)
+  why_fit: >-
+    Bedient 50+ organisaties/locaties in diverse sectoren (kantoren, VvE's, zorg, scholen, retail,
+    industrie, transport), wat wijst op decentrale planning per object; geen zichtbare digitalisering
+    van planning/facturatie; geen concrete trigger gevonden binnen budget.
+  decision_maker: niet gevonden op de site; richten op Directeur/Operations Manager
+  linkedin: https://nl.linkedin.com/company/h3-cleaning
+  value_proposition: >-
+    Eén overzicht voor planning en facturatie over 50+ klantlocaties, zonder handmatig werk
+    per object.
+  outreach_strategy: >-
+    Korte introductiemail met verwijzing naar de schaal van 50+ organisaties en de vraag hoe
+    planning per locatie nu geregeld is; intakegesprek voorstellen.
+  conversation_starters:
+  - >-
+    Met 50+ organisaties als klant, hoe borgen jullie nu de koppeling tussen uren per locatie
+    en facturatie per klant?
+  - Werken jullie nog met Excel of losse systemen per opdracht, of is dat al gecentraliseerd?
+- name: Klien
+  url: https://klien.nl
+  priority_score: 6/10
+  industry: >-
+    Schoonmaakbedrijf voor kantoren, VvE's, schoolgebouwen en sportfaciliteiten, regio Breda/Midden-Brabant
+  size: 'meer dan 80 medewerkers (bron: eigen website); actief sinds 1974'
+  tech_stack: >-
+    Geen CMS/klantportaal/planningssoftware genoemd op de site; werkt met projectleiders als
+    kwaliteits- en klantcontactpunt
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (alleen schoonmaakmedewerkers en glasbewassing, uitgesloten
+    functies)
+  why_fit: >-
+    Bedient veel losse locaties met eigen contract (kantoorgebouwen, VvE's, scholen, sportfaciliteiten)
+    via projectleiders als tussenlaag - klassieke decentrale planning-per-object-uitdaging;
+    80+ fte past goed binnen de doelgroep; geen concrete trigger gevonden.
+  decision_maker: Raymond Kouwenberg, Directeur
+  linkedin: https://nl.linkedin.com/company/schoonmaakbedrijf-klien-bv
+  value_proposition: >-
+    Eén overzicht dat projectleiders per locatie/klantcontract hun uren laten registreren, direct
+    gekoppeld aan facturatie per klant
+  outreach_strategy: >-
+    Benader via de projectleiderstructuur (kwaliteit + klantcontact per locatie) - vraag hoe
+    uren en facturatie per klantlocatie nu worden bijgehouden en of dat nog handmatig gebeurt.
+  conversation_starters:
+  - >-
+    Met projectleiders verantwoordelijk voor losse locaties (VvE's, scholen, kantoren) - hoe
+    worden uren per klant nu gekoppeld aan facturatie?
+  - Speelt Excel of losse systemen per locatie nog een rol in de administratie bij Klien?
+- name: Allgroen B.V.
+  url: https://allgroenbv.nl/
+  priority_score: 6/10
+  industry: >-
+    Groenvoorziening, grondwerk, infra en constructies (hovenier/aannemer), regio Dordrecht
+    binnen straal van 50 km
+  size: 'circa 40-45 medewerkers (bron: eigen website); actief sinds 1982'
+  tech_stack: >-
+    Geen CMS/klantportaal/planningssoftware genoemd op de site; VCA- en ISO 9001-gecertificeerd
+  relevant_vacancies: geen relevante vacatures gevonden (alleen hovenier aanleg/onderhoud, uitgesloten
+    functies)
+  why_fit: >-
+    Voert meer dan 500 projecten per jaar uit voor uiteenlopende opdrachtgevers (gemeenten,
+    waterschappen, woningcorporaties, scholen, zorginstellingen, bedrijven) - sterke projectcomplexiteit
+    met losse klantcontracten, ook al is er één vestiging; 40-45 fte past binnen de doelgroep;
+    geen concrete trigger gevonden.
+  decision_maker: Directeur/eigenaar (naam niet gevonden op site) - richt op Directeur/Operations
+    Manager
+  linkedin: https://nl.linkedin.com/company/allgroen-b-v-
+  value_proposition: >-
+    Koppel projecturen per opdrachtgever/contract direct aan facturatie, zodat 500+ projecten
+    per jaar niet los in Excel per klant bijgehouden hoeven worden
+  outreach_strategy: >-
+    Benader via het hoge projectvolume (500+/jaar) voor uiteenlopende opdrachtgevers - vraag
+    hoe uren en facturatie per project/klant nu worden vastgelegd.
+  conversation_starters:
+  - >-
+    Met 500+ projecten per jaar voor gemeenten, woningcorporaties en bedrijven - hoe lopen urenregistratie
+    en facturatie per opdrachtgever nu samen?
+  - >-
+    Is er bij die hoeveelheid projecten al een gedeeld systeem, of werkt ieder projectteam nog
+    los?
+- name: Olympus Schoonmaak
+  url: https://www.olympusschoonmaak.nl/
+  priority_score: 6/10
+  industry: >-
+    Schoonmaakbedrijf voor kantoren/bedrijfspanden, regio Almere/Amsterdam/Utrecht en omstreken
+    (Amersfoort, Lelystad, Hilversum, Diemen)
+  size: 'niet vermeld (2 oprichters genoemd: Mike en Weshall van Liempt); bron: eigen website'
+  tech_stack: >-
+    Zelf ontwikkelde interne 'Olympus Werkapp' voor registratie/controle door schoonmakers -
+    dit is een gedeeltelijke tool (registratie van bevindingen), geen volledig ERP/CRM/planningssysteem,
+    dus geen harde uitsluiting
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (werken-bij-pagina is een open uitnodiging, geen concrete
+    functies)
+  why_fit: >-
+    Actief met vaste schoonmakers per locatie en backup-dekking over 6+ steden - decentrale
+    planning-uitdaging aanwezig; het feit dat ze zelf al een (beperkte) werk-app bouwden toont
+    digitale ambitie maar geen dekkende ERP/CRM/planningsoplossing - de opening voor Luthox
+    zit in het koppelen van uren/facturatie die de eigen app niet dekt.
+  decision_maker: Weshall van Liempt (operations) of Mike (co-founder), Eigenaren/Oprichters
+  linkedin: null
+  value_proposition: >-
+    Bouw voort op de bestaande Olympus Werkapp door urenregistratie per locatie te koppelen
+    aan facturatie per klantcontract, zonder een volledig nieuw systeem te hoeven optuigen
+  outreach_strategy: >-
+    Erken de zelfgebouwde Werkapp als sterk startpunt en positioneer Luthox als partij die het
+    gat (uren-naar-facturatie koppeling per klant) verder dichtzet, in lijn met hun 'geen dik
+    rapport, gewoon werkende software'-aanpak.
+  conversation_starters:
+  - >-
+    Jullie hebben zelf de Olympus Werkapp gebouwd - koppelt die ook al automatisch aan facturatie
+    per klantcontract, of loopt dat nog los?
+  - >-
+    Met vaste schoonmakers en backup over 6+ steden - hoe overzichtelijk is de planning per
+    locatie op dit moment?
+- name: Uni Schoonmaak
+  url: https://www.unischoonmaak.nl
+  priority_score: 5/10
+  industry: >-
+    Schoonmaakbedrijf, landelijk actief in alle 12 provincies (kantoren, VvE, retail, industrieel,
+    scholen)
+  size: 'niet vermeld; landelijke dekking met vaste teams per klantlocatie genoemd (bron: website)'
+  tech_stack: >-
+    Digitale werkbonnen voor kwaliteitscontrole genoemd; geen CRM/ERP/planningssoftware zichtbaar
+  relevant_vacancies: niet gevonden - vacatures-pagina gaf 404
+  why_fit: >-
+    Landelijke dekking met vaste teams per klantlocatie impliceert decentrale planning over
+    veel losse contracten; digitale werkbonnen bestaan al, maar een koppeling met facturatie
+    per contract is niet zichtbaar
+  decision_maker: Directeur/Eigenaar (naam niet gevonden op de site of via zoekopdracht)
+  linkedin: null
+  value_proposition: >-
+    Eén systeem dat de bestaande digitale werkbonnen koppelt aan urenregistratie en facturatie
+    per klantcontract over alle locaties heen
+  outreach_strategy: >-
+    Algemene e-mail aan directie over het sluiten van de laatste stap (werkbon naar factuur)
+    in hun al deels gedigitaliseerde proces, met intake-uitnodiging
+  conversation_starters:
+  - >-
+    Jullie werken al met digitale werkbonnen - is de stap naar automatische facturatie per klantcontract
+    daar ook al aan gekoppeld?
+  - >-
+    Met teams verspreid over alle 12 provincies - hoe houden jullie nu overzicht tussen planning
+    per locatie en facturatie per contract?
+- name: Pro.Aktief Services
+  url: https://www.pro-aktiefservices.nl
+  priority_score: 5/10
+  industry: >-
+    Industriële/food-reiniging en facilitaire schoonmaak voor food-verwerkende bedrijven en
+    kantoren in Noord-Nederland (Friesland, Groningen, Drenthe)
+  size: >-
+    niet vermeld (fte); actief in 3 provincies met meerdere klantlocaties in de food-sector
+    (bron: over-ons pagina)
+  tech_stack: Geen klantportaal, planningssoftware of CRM genoemd op de website
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: >-
+    Werkt op meerdere klantlocaties (food-productiebedrijven) met strikte kwaliteitsnormen (HACCP/ISO/IFS/BRC)
+    per contract; 24/7 beschikbaarheid over 3 provincies wijst op decentrale planning; geen
+    enkele software zichtbaar op de site, wat op lage digitalisering wijst
+  decision_maker: Directeur/Eigenaar (rol als target; naam niet met zekerheid bevestigd)
+  linkedin: null
+  value_proposition: >-
+    Automatische koppeling van urenregistratie per klantlocatie/contract aan facturatie, met
+    borging van kwaliteitsnormen per klant
+  outreach_strategy: >-
+    Benaderen via de directie-/eigenaarfunctie, focus op hoe planning en facturatie nu lopen
+    over de 3 provincies en meerdere food-klanten
+  conversation_starters:
+  - >-
+    Hoe regelen jullie nu de planning en facturatie voor de verschillende food-klanten in Friesland,
+    Groningen en Drenthe?
+  - >-
+    Werken jullie met één systeem voor urenregistratie per klantcontract, of is dat nu per locatie
+    anders geregeld?
+- name: All Clean Schoonmaak- en Bedrijfsdiensten B.V.
+  url: https://www.allclean.nl/
+  priority_score: 5/10
+  industry: >-
+    Bedrijfsschoonmaak en facilitaire diensten (glazenwassen, gevel-, dak- en vloeronderhoud)
+    in de regio Utrecht/Amersfoort/Hilversum/Amsterdam
+  size: 'meer dan 70 medewerkers, 1 vestiging (Den Dolder) — bron: website'
+  tech_stack: >-
+    Geen planningssoftware, klantportaal of CMS-vermelding gevonden op de site; werkt vanuit
+    één vestiging maar bedient klanten in 8+ regio's/gemeenten
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: >-
+    Bedient klanten over meerdere regio's vanuit één vestiging (Utrecht, Amersfoort, Hilversum,
+    Zeist, Nieuwegein, Houten, Doorn, Maarssen, Amsterdam) wat wijst op decentrale objectplanning;
+    70 fte past in doelgroep; geen zichtbare software-tooling wat duidt op handmatige processen
+  decision_maker: Eigenaar/Directeur (naam niet zichtbaar)
+  linkedin: https://nl.linkedin.com/company/all-clean-schoonmaak--en-bedrijfsdiensten
+  value_proposition: >-
+    Eén systeem voor planning per object/klantcontract i.p.v. handmatige coördinatie over de
+    vele servicegebieden
+  outreach_strategy: >-
+    Benader eigenaar/directeur via LinkedIn met concrete vraag over hoe planning en facturatie
+    nu verloopt over de verschillende servicegebieden
+  conversation_starters:
+  - >-
+    Hoe houden jullie nu overzicht op de planning van medewerkers over al die verschillende
+    servicegebieden (Utrecht tot Amsterdam)?
+  - Is het koppelen van urenregistratie aan facturatie per klant nu nog handwerk?
+- name: Hodal B.V.
+  url: https://hodal.nl/
+  priority_score: 5/10
+  industry: >-
+    Facilitaire dienstverlening en schoonmaak (gevel, vloer, glas, groen, schilderwerk, catering)
+    in Flevoland, Gooi en Amsterdam
+  size: niet vermeld (omschrijft zichzelf als 'middelgroot schoonmaakbedrijf'), sinds 1984 actief
+  tech_stack: Geen planningssoftware, klantportaal of specifieke systemen genoemd op de site
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: >-
+    Breed dienstenpakket (gevel, vloer, glas, groen, schilderwerk, catering) over meerdere regio's
+    wijst op decentrale planning per object/locatie; geen zichtbare software voor koppeling
+    urenregistratie-facturatie; regionale speler zonder duidelijke in-house IT-afdeling
+  decision_maker: Attie van Gog (operationeel manager, 27 jaar in dienst) — target ook Directeur/Eigenaar
+  linkedin: https://nl.linkedin.com/company/hodal
+  value_proposition: >-
+    Eén systeem dat urenregistratie per klantcontract automatisch koppelt aan facturatie, in
+    plaats van los beheer per dienst/locatie
+  outreach_strategy: >-
+    Benader via LinkedIn of e-mail (info@hodal.nl), verwijs naar het brede en gespreide dienstenaanbod
+    als reden waarom planning en facturatie per klant al snel versnipperd raken
+  conversation_starters:
+  - >-
+    Met zoveel verschillende diensten (gevel, vloer, glas, groen) — hoe houden jullie uren en
+    facturatie per klantcontract nu op elkaar afgestemd?
+  - >-
+    Hodal bestaat al 40+ jaar — is de planning/administratie meegegroeid met het aantal diensten
+    en klanten, of loopt dat nog via Excel/losse systemen?
+- name: FNH Security B.V.
+  url: https://fnhsecurity.nl
+  priority_score: 5/10
+  industry: >-
+    Objectbeveiliging, receptie-, bouw- en evenementenbeveiliging, regio Utrecht/Noord-Holland
+    (o.a. Amsterdam, Haarlem, Alkmaar, Den Haag, Apeldoorn)
+  size: >-
+    Niet vermeld op de site; één vestigingsadres (Utrecht), objecten/klanten verspreid over
+    meerdere steden
+  tech_stack: Geen planningssoftware, klantportaal, ERP of CRM zichtbaar op de site
+  relevant_vacancies: geen relevante vacatures gevonden (alleen beveiligers/centralisten)
+  why_fit: >-
+    Opereert vanuit één vestiging maar bedient objecten/klanten in meerdere steden wat wijst
+    op decentrale planning per object/contract; geen zichtbare software voor planning of facturatie-koppeling,
+    dus urenregistratie-naar-facturatie waarschijnlijk nog handmatig.
+  decision_maker: Geen naam gevonden — richt op Directeur / Operations Manager
+  linkedin: null
+  value_proposition: >-
+    Eén centraal dashboard dat urenregistratie per object automatisch koppelt aan facturatie
+    per klantcontract, zonder los Excel-werk per locatie.
+  outreach_strategy: >-
+    Korte, directe mail naar info@fnhsecurity.nl gericht aan directie/operations, met herkenning
+    van de spreiding over meerdere objecten/steden; CTA intakegesprek.
+  conversation_starters:
+  - >-
+    Jullie objecten liggen verspreid over Amsterdam, Haarlem, Alkmaar en Den Haag — hoe lopen
+    de uren en facturatie per klant nu samen?
+  - >-
+    Herkennen jullie het knelpunt dat planning per object los staat van de facturatie aan de
+    klant?
+- name: Guardian Security
+  url: https://guardiansecurity.nl
+  priority_score: 5/10
+  industry: Objectbeveiliging en mobiele surveillance voor bedrijventerreinen, regio Utrecht/Houten
+  size: 'circa 30 medewerkers (bron: websearch), 1 hoofdlocatie Utrecht'
+  tech_stack: >-
+    WordPress-website; geen planningssoftware of klantportaal gevonden. Geen zichtbare digitalisering
+    van planning/facturatie.
+  relevant_vacancies: geen relevante vacatures gevonden (geen werken-bij pagina aangetroffen)
+  why_fit: >-
+    Bedient meerdere bedrijventerreinen/objecten in de regio Utrecht tegelijk, wat wijst op
+    aparte planning en facturatie per klantcontract; geen tekenen van bestaande custom software
+    of geïntegreerd ERP/CRM.
+  decision_maker: >-
+    Erwin Hogervorst (contactpersoon op de site, functie niet vermeld) - target Owner/Directeur
+  linkedin: https://nl.linkedin.com/company/guardian-security-bv
+  value_proposition: >-
+    Eén centraal systeem om urenregistratie per object/bedrijventerrein te koppelen aan facturatie
+    per klantcontract — direct werkende software.
+  outreach_strategy: >-
+    Korte, persoonlijke mail naar Erwin Hogervorst met verwijzing naar de spreiding over meerdere
+    bedrijventerreinen en de vraag hoe planning/facturatie per locatie nu wordt bijgehouden.
+  conversation_starters:
+  - >-
+    Hoe houden jullie nu de uren en facturatie per bedrijventerrein/object uit elkaar - via
+    Excel of losse systemen?
+  - 'Met meerdere objecten tegelijk: is opschalen van de administratie een knelpunt?'
+- name: MB-ALL
+  url: https://mball.nl
+  priority_score: 5/10
+  industry: >-
+    Detachering en advies op het gebied van veiligheid en leefbaarheid (BOA's, toezicht, handhaving)
+    voor gemeenten en publieke organisaties, Houten/landelijk
+  size: Niet vermeld; 200+ opdrachtgevers volgens de site; één vestigingsadres (Houten)
+  tech_stack: WordPress-website; geen planningssoftware, klantportaal of CRM/ERP vermeld
+  relevant_vacancies: geen relevante vacatures gevonden (werken-bij pagina niet bereikbaar binnen
+    budget)
+  why_fit: >-
+    Detacheert BOA's/toezichthouders bij tientallen opdrachtgevers tegelijk — vergelijkbare
+    pijn als multi-locatie facilitair: uren per plaatsing/klantcontract moeten gekoppeld worden
+    aan facturatie; geen zichtbare software die dit end-to-end dekt
+  decision_maker: Directeur / Algemeen Directeur (naam niet vastgesteld)
+  linkedin: https://nl.linkedin.com/company/mb-all
+  value_proposition: >-
+    Eén systeem dat uren per opdrachtgever/plaatsing koppelt aan facturatie, zonder handmatig
+    werk tussen losse bestanden per klant
+  outreach_strategy: >-
+    Korte mail over de complexiteit van 200+ klantrelaties en de administratieve last van uren-naar-factuur
+    per opdrachtgever; vrijblijvend intakegesprek
+  conversation_starters:
+  - >-
+    Hoe houden jullie nu uren per opdrachtgever/plaatsing bij en koppelen jullie dat aan de
+    facturatie?
+  - >-
+    Met 200+ klanten tegelijk — draait dat nu nog via Excel of losse systemen per opdrachtgever?
+- name: Clean Care Limburg
+  url: https://cleancarelimburg.nl
+  priority_score: 4/10
+  industry: >-
+    Zakelijke schoonmaak en glasbewassing voor bedrijven, horeca en vastgoed/VVE's, Zuid-Limburg
+  size: >-
+    niet vermeld op site; klein kantoor in Maastricht (Sibemaweg), geen vacaturepagina gevonden
+    - vermoedelijk klein bedrijf, fit met 20-200 fte onzeker
+  tech_stack: Geen klantportaal of planningssoftware vermeld op de website
+  relevant_vacancies: geen vacaturepagina gevonden op de site
+  why_fit: >-
+    Bedient klanten (bedrijven, horeca, vastgoed) verspreid over meerdere Zuid-Limburgse gemeenten
+    (Maastricht, Heerlen, Sittard-Geleen, Kerkrade e.o.) zonder zichtbaar systeem voor planning
+    of koppeling uren-facturatie; geen enkele software genoemd op de site.
+  decision_maker: 'Sjoerd Wiersma, Eigenaar (bron: LinkedIn)'
+  linkedin: https://nl.linkedin.com/in/sjoerd-wiersma-118760219
+  value_proposition: >-
+    Eén systeem dat uren per klantlocatie automatisch koppelt aan facturatie, zonder Excel of
+    losse tools.
+  outreach_strategy: >-
+    Korte persoonlijke e-mail naar Sjoerd Wiersma, verwijzend naar de spreiding van klanten
+    over meerdere Limburgse gemeenten.
+  conversation_starters:
+  - >-
+    Hoe koppelen jullie nu de uren per klantlocatie (Maastricht, Heerlen, Sittard-Geleen...)
+    aan de facturatie?
+  - >-
+    Met klanten in horeca, vastgoed en VVE's door heel Zuid-Limburg - werkt dat nog met Excel
+    of losse systemen per vestiging?
+- name: Rein Groep
+  url: https://www.reingroep.nl
+  priority_score: 4/10
+  industry: Schoonmaakbedrijf voor bedrijven, VVE's en industrie, regio Doetinchem/Achterhoek
+  size: niet vermeld; op de site is één vestiging zichtbaar (Doetinchem)
+  tech_stack: Geen software, klantportaal of planningssysteem zichtbaar op de website
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: >-
+    Breed dienstenpakket (VVE, industrieel, gevel, vloeren, glazenwassen) impliceert meerdere
+    klantcontracten op verschillende locaties met decentrale planning; geen enkele digitalisering
+    zichtbaar op de site wijst op handmatige (Excel-achtige) processen
+  decision_maker: Directeur/Eigenaar (naam niet gevonden op de site of LinkedIn)
+  linkedin: null
+  value_proposition: >-
+    Eén centraal systeem dat planning per locatie koppelt aan urenregistratie en facturatie
+    per klantcontract, zonder dikke rapporten
+  outreach_strategy: >-
+    Korte, feitelijke e-mail gericht aan directie/eigenaar over het combineren van planning,
+    uren en facturatie voor meerdere klantlocaties, met concrete intake-uitnodiging
+  conversation_starters:
+  - Hoe houden jullie nu het overzicht tussen planning per klant/locatie en de facturatie?
+  - >-
+    Bij een dienstenpakket zo breed als dat van Rein Groep - loopt de urenregistratie per contract
+    nog via Excel of losse systemen?
+- name: Multiclean
+  url: https://www.multiclean.nl/
+  priority_score: 4/10
+  industry: >-
+    Zakelijke schoonmaakdienstverlening (kantoren, VvE's, agrarisch, onderwijs, zorg) in Westland/Zuid-Holland
+  size: >-
+    Niet vermeld op de site; familiebedrijf sinds 1979, actief in Westland, Rotterdam, Den Haag,
+    Delft, Zoetermeer
+  tech_stack: >-
+    Geen klantportaal, planningssoftware of app vermeld op de site — geen zichtbare digitalisering
+    van planning/facturatie
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: >-
+    Bedient meerdere sectoren en locaties door heel Zuid-Holland vanuit één vestiging, typisch
+    voor decentrale objectplanning; geen zichtbare software wijst op handmatige/Excel-achtige
+    processen
+  decision_maker: >-
+    René Zwinkels (Commercieel Directeur) — gevonden via LinkedIn, niet op de eigen site bevestigd
+  linkedin: https://www.linkedin.com/in/ren%C3%A9-zwinkels-8514722b/
+  value_proposition: >-
+    Eén team dat planning, urenregistratie en facturatie per klant/locatie koppelt zonder dat
+    het een log ERP-traject wordt
+  outreach_strategy: >-
+    Korte, informele mail/LinkedIn-bericht gericht op het commercieel/directie-niveau, met nadruk
+    op tijdsbesparing bij administratie over meerdere objecten
+  conversation_starters:
+  - Hoe houden jullie nu het overzicht over uren en facturatie per klantcontract en locatie?
+  - >-
+    Met klanten in zoveel verschillende sectoren, hoe voorkomen jullie dat planning per object
+    in losse Excel-bestanden versnippert?
+- name: Van Duijnen Koffie
+  url: https://vanduijnen.nl/
+  priority_score: 4/10
+  industry: >-
+    Leverancier en onderhoud van koffiemachines/koffieoplossingen voor bedrijven, regio Almere/landelijk
+  size: >-
+    51-200 medewerkers (bron: webzoekresultaten/LinkedIn-schatting, niet op eigen site bevestigd)
+  tech_stack: Geen CMS/klantportaal/planningssoftware genoemd op de site
+  relevant_vacancies: >-
+    geen relevante vacatures gevonden (Servicemonteur en Facilitair Medewerker zijn uitvoerende/uitgesloten
+    functies)
+  why_fit: >-
+    Servicemonteurs werken op veel klantlocaties met onderhoudscontracten (vergelijkbaar patroon
+    van decentrale planning en uren-naar-facturatie), maar dit is geen klassieke facilitaire
+    dienstverlener met meerdere vestigingen/objecten per klant - de fit met het segment is indirect
+    en er is geen concrete trigger gevonden; twijfel over passendheid van de niche.
+  decision_maker: Paul Kragten, Directeur
+  linkedin: https://nl.linkedin.com/company/van-duijnen-koffie
+  value_proposition: >-
+    Koppel onderhoudsuren van servicemonteurs per klantcontract direct aan facturatie, in plaats
+    van losse registratie per regio
+  outreach_strategy: >-
+    Lagere prioriteit - alleen benaderen als de kernsegmenten binnen facility-management zijn
+    uitgeput; positioneer vanuit servicemonteurs die op veel klantlocaties werken met eigen
+    onderhoudscontract.
+  conversation_starters:
+  - >-
+    Met servicemonteurs die dagelijks bij veel verschillende klanten langsgaan - hoe worden
+    onderhoudsuren nu gekoppeld aan facturatie per contract?
+  - >-
+    Is er per regio (Ridderkerk/Dordrecht, Amsterdam) een apart systeem, of werkt dat centraal?
+- name: Zuivra Schoonmaak
+  url: https://zuivra.nl
+  priority_score: 4/10
+  industry: >-
+    Schoonmaakbedrijf voor bedrijven en particulieren (kantoren, glas, gevels, zonnepanelen),
+    regio Gelderland/Overijssel
+  size: niet vermeld op de site; geen betrouwbare externe bron gevonden binnen budget
+  tech_stack: niet gevonden op de site
+  relevant_vacancies: >-
+    niet gevonden op de site (vacaturepagina gaf 404; wel een algemene 'werken bij'-uitnodiging
+    zonder concrete functies)
+  why_fit: >-
+    Bedient zowel bedrijven als particulieren over twee provincies, wat kan wijzen op meerdere
+    losse klantlocaties, maar omvang en klantstructuur (facilitaire contracten vs. eenmalige
+    klussen) zijn onduidelijk - te weinig concrete informatie binnen het onderzoeksbudget om
+    een sterke fit te onderbouwen; geen trigger gevonden.
+  decision_maker: >-
+    Eigenaar/directeur (naam niet gevonden op site of in zoekresultaten) - richt op Directeur/Eigenaar
+  linkedin: null
+  value_proposition: >-
+    Overzicht van uren en facturatie per klantcontract, mocht Zuivra meerdere doorlopende bedrijfscontracten
+    naast losse particuliere klussen beheren
+  outreach_strategy: >-
+    Lagere prioriteit gezien beperkte informatie - eerst kwalificeren (aantal doorlopende bedrijfscontracten,
+    fte) voordat een gerichte aanpak wordt ingezet.
+  conversation_starters:
+  - >-
+    Werken jullie bij Zuivra met vaste doorlopende contracten bij bedrijven naast losse particuliere
+    klussen, en hoe worden die uren en facturatie gescheiden bijgehouden?
