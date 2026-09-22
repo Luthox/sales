@@ -9,7 +9,10 @@ description: >-
   Ontdubbeld op naam/URL en gefilterd op de basis-ICP plus segment (20-200 fte, NL, meerdere
   locaties/klantcontracten); uitgesloten o.a. bedrijven boven ~300 fte of onderdeel van een
   groot concern (DJM, HD Security, NIVO, KBK, Smit/VDK), eenlocatie- of te kleine bedrijven,
-  en niet-FM-bedrijven. 45 leads — bewust gestopt onder de 50 op verzoek.
+  en niet-FM-bedrijven. Na een onafhankelijke controleronde (beslisser, omvang, meerdere locaties
+  en vacatures nagelopen tegen een bron) zijn 11 leads gecorrigeerd en 3 afgevallen (MB-ALL:
+  ~350 fte, onderdeel van ADG dienstengroep; Clean Care Limburg: eenmanszaak; Van Duijnen Koffie:
+  geen facilitaire dienstverlener). 42 leads, met per lead een sources-veld met de bron-URL's.
 leads:
 - name: Wiegmans
   url: https://wiegmans.com
@@ -27,6 +30,11 @@ leads:
     wijst op meerdere contractvormen per klant; geen zichtbare planningssoftware.
   decision_maker: Rob Nap, directeur
   linkedin: https://nl.linkedin.com/company/wiegmans-facilitaire-diensten-bv
+  sources:
+    decision_maker: https://ondernamen.nl/rob-nap-officieel-nieuwe-eigenaar-wiegmans-facilitaire-diensten/
+    size: https://ondernamen.nl/rob-nap-officieel-nieuwe-eigenaar-wiegmans-facilitaire-diensten/
+    multi_location: https://wiegmans.com
+    relevant_vacancies: null
   value_proposition: >-
     Software die meegroeit met de snelle landelijke expansie - één plek voor planning, urenregistratie
     en facturatie per klantcontract, in plaats van losse systemen per vestiging.
@@ -47,8 +55,8 @@ leads:
     Schoonmaak & wasserij/linnenservice voor kantoren, instellingen, recreatie, winkels en scholen
     in Zuidwest-Nederland (Zeeland e.o.)
   size: >-
-    niet vermeld (fte); familiebedrijf sinds 1995, werkgebied gegroeid naar vrijwel geheel Zuidwest-Nederland
-    (bron: over-ons pagina / facto.nl artikel)
+    60+ medewerkers (familiebedrijf, 2e generatie Jean-Paul en Mandy van der Weele nam over
+    van ouders Maarten en Betty)
   tech_stack: >-
     Eigen intranet/personeelsportaal (intranet.weekra-portals.nl); geen klantportaal, planningssoftware
     of CRM genoemd op de site
@@ -62,6 +70,11 @@ leads:
     familiebedrijf met twee generaties in de directie
   decision_maker: Jean-Paul van der Weele, mede-eigenaar
   linkedin: https://www.linkedin.com/in/jean-paul-van-der-weele-13945174/
+  sources:
+    decision_maker: https://www.facto.nl/23958/weekra-zeeuws-familiebedrijf-met-oog-voor-mensen
+    size: https://www.facto.nl/23958/weekra-zeeuws-familiebedrijf-met-oog-voor-mensen
+    multi_location: https://www.weekra.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén centraal systeem dat planning per klantlocatie automatisch koppelt aan urenregistratie
     en facturatie, in plaats van Excel en losse coördinatie
@@ -94,6 +107,11 @@ leads:
     om uren en facturatie hieraan te koppelen
   decision_maker: Directeur/Eigenaar of Operations Manager (naam niet gevonden binnen budget)
   linkedin: https://nl.linkedin.com/company/dca-dienstverlening
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: https://www.dcadienstverlening.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Software die urenregistratie op 1500+ locaties automatisch koppelt aan facturatie per klantcontract,
     zonder handmatig overzicht per project
@@ -125,6 +143,11 @@ leads:
     op handmatige/Excel-processen; bedrijf van 100+ fte past goed in de doelgroep.
   decision_maker: Oscar Peeters, directeur
   linkedin: https://www.linkedin.com/company/allpro-service-b-v
+  sources:
+    decision_maker: https://www.allproservice.nl/over-schoonmaakbedrijf-allpro/
+    size: null
+    multi_location: https://www.allproservice.nl/schoonmaakbedrijf-rotterdam/
+    relevant_vacancies: null
   value_proposition: >-
     Eén centraal systeem voor planning en urenregistratie per locatie/klantcontract, gekoppeld
     aan facturatie, in plaats van losse lijsten per vestiging.
@@ -159,6 +182,11 @@ leads:
     in NL.
   decision_maker: niet gevonden op de site; richten op Operations Manager/Directeur
   linkedin: null
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: https://dagelijksonderhoud.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Koppel het bestaande meldingen-dashboard direct aan urenregistratie en facturatie per klantcontract,
     zodat regionale monteurs en backoffice niet meer los van elkaar werken.
@@ -187,8 +215,16 @@ leads:
     door heel Nederland - schoolvoorbeeld van decentrale planning per locatie/object en facturatie
     per klantcontract (elke keten is een apart contract met veel vestigingen); geen zichtbare
     planningssoftware.
-  decision_maker: niet gevonden op de site; richten op Directeur/Operations Manager
+  decision_maker: >-
+    Sedat Horuz (commercieel directeur) en Edward van Tiggelen (operationeel directeur), management
+    van moederbedrijf E&S B.V.
   linkedin: null
+  sources:
+    decision_maker: >-
+      https://companyinfo.nl/organisatieprofiel/facility-management/techric-sprang-capelle-42043612-000065466829
+    size: null
+    multi_location: null
+    relevant_vacancies: null
   value_proposition: >-
     Centrale koppeling van planning, urenregistratie per winkellocatie en facturatie per retailketen-contract,
     in plaats van handmatig werk per winkel.
@@ -219,8 +255,16 @@ leads:
     140+ medewerkers met steunpunten door heel het land wijst op decentrale aansturing per regio/klant;
     bestaand Digitaal Groenbeheer-aanbod toont ambitie maar dekt vermoedelijk niet de koppeling
     uren-facturatie; 35+ jaar gegroeid vanuit eenmanszaak, past qua omvang precies in de doelgroep.
-  decision_maker: Dick Verheij, algemeen directeur
+  decision_maker: >-
+    Wilco Boender en Arie in 't Veld (directie sinds juli 2017; Dick Verheij droeg toen de directie
+    over als (mede-)aandeelhouder, niet meer als algemeen directeur)
   linkedin: https://nl.linkedin.com/company/verheij-integrale-groenzorg
+  sources:
+    decision_maker: >-
+      https://www.stad-en-groen.nl/article/15262/wijziging-samenstelling-directie-verheij-integrale-groenzorg
+    size: https://sliedrecht24.nl/verheij-integrale-groenzorg-viert-haar-40-jarig-jubileum/
+    multi_location: https://www.verheijbv.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Koppel het bestaande Digitaal Groenbeheer-platform aan automatische urenregistratie en facturatie
     per klantcontract, over alle steunpunten heen.
@@ -240,8 +284,9 @@ leads:
   industry: >-
     Multidisciplinaire aannemer (infra, milieu, groenvoorziening, gebiedsbeheer) in Het Groene
     Hart, regio Alphen aan den Rijn
-  size: 'circa 150 medewerkers (bron: LinkedIn/webzoekresultaten); vestiging Alphen aan den
-    Rijn'
+  size: >-
+    circa 100-150 medewerkers, ca. driekwart buitendienst (bron: eigen 'organisatie'-pagina
+    en LinkedIn)
   tech_stack: >-
     Geen CMS/klantportaal/planningssoftware zichtbaar op de site; vacaturepagina met dynamisch
     (template-gebaseerd) vacatureoverzicht, geen concrete software-namen gevonden
@@ -256,6 +301,11 @@ leads:
   decision_maker: Frank Mollenhof, Directeur
   linkedin: >-
     https://nl.linkedin.com/in/frank-mollenhof-287b21a8 (bedrijfspagina: https://nl.linkedin.com/company/bunnik-groep)
+  sources:
+    decision_maker: https://nl.linkedin.com/in/frank-mollenhof-287b21a8
+    size: https://www.bunnikgroep.nl/over-ons/organisatie/
+    multi_location: https://www.bunnikgroep.nl/over-ons/organisatie/
+    relevant_vacancies: null
   value_proposition: >-
     Eén overzicht dat projecturen per opdracht/klantcontract koppelt aan facturatie, zodat projectadministratie
     over de vier disciplines niet meer los in Excel of aparte systemen hoeft
@@ -290,10 +340,13 @@ leads:
     over minstens 12 steden, elk met eigen opdrachtgeverscontract - dit is vrijwel exact het
     decentrale planning/urenregistratie-naar-facturatie-probleem; brede en actieve wervingscampagne
     (12+ steden, cluster-manager-vacature) wijst op recente groei/expansie.
-  decision_maker: >-
-    Directeur/Operations Manager (naam niet gevonden op site) - richt op Directeur of de nieuwe
-    Cluster Manager Nacht-rol
+  decision_maker: Vincent van der Steege, Directeur
   linkedin: https://nl.linkedin.com/company/nasecbv
+  sources:
+    decision_maker: https://drimble.nl/bedrijf/arnhem/23033991/nasec-bv.html
+    size: null
+    multi_location: https://nasec.nl
+    relevant_vacancies: null
   value_proposition: >-
     Eén systeem dat urenregistratie van nachtreceptionisten per opdrachtgever (hotel, zorginstelling,
     kantoor) koppelt aan facturatie, in plaats van los per locatie/regio bij te houden
@@ -326,6 +379,14 @@ leads:
   decision_maker: >-
     Frank Kühlkamp (algemeen directeur/mede-eigenaar) of Karin Kühlkamp (financieel directeur/mede-eigenaar)
   linkedin: null
+  sources:
+    decision_maker: >-
+      https://www.facto.nl/26115/carea-facilitaire-dienstverlening-de-uitstraling-van-een-mkb-familiebedrijf
+    size: >-
+      https://www.facto.nl/26115/carea-facilitaire-dienstverlening-de-uitstraling-van-een-mkb-familiebedrijf
+    multi_location: >-
+      https://www.facto.nl/26115/carea-facilitaire-dienstverlening-de-uitstraling-van-een-mkb-familiebedrijf
+    relevant_vacancies: null
   value_proposition: >-
     Koppel urenregistratie per vestiging/klantcontract automatisch aan facturatie, zonder een
     dik adviesrapport — één team dat het gewoon bouwt
@@ -355,6 +416,11 @@ leads:
     locatie/klantcontract; breed dienstenpakket zonder zichtbaar gekoppeld systeem voor uren/facturatie.
   decision_maker: 'Jeroen Schwartzmans, (mede-)directeur familiebedrijf (bron: Vermetten klantverhaal)'
   linkedin: https://nl.linkedin.com/company/brabant-in--en-exterieurverzorging-b.v.
+  sources:
+    decision_maker: https://www.vermetten.nl/klantverhalen/jeroen-schwartzmans
+    size: https://www.vermetten.nl/klantverhalen/brabant-in-en-exterieurverzorging
+    multi_location: https://www.vermetten.nl/klantverhalen/brabant-in-en-exterieurverzorging
+    relevant_vacancies: null
   value_proposition: >-
     Eén werkend systeem dat uren per klantcontract automatisch koppelt aan facturatie, over
     alle 7 gemeenten heen.
@@ -387,6 +453,11 @@ leads:
     maar dekt vermoedelijk niet de volledige uren-naar-factuur keten
   decision_maker: Anton Vinck (directeur-eigenaar) en David Vinck (mede-eigenaar sinds jan 2025)
   linkedin: https://nl.linkedin.com/company/blinck-schoon
+  sources:
+    decision_maker: https://www.facto.nl/42445/blinck-schoon-heeft-nieuwe-mede-eigenaar
+    size: null
+    multi_location: https://blinckschoon.nl
+    relevant_vacancies: null
   value_proposition: >-
     Eén systeem dat planning per vestiging/locatie koppelt aan urenregistratie en automatische
     facturatie per klantcontract, boven op het bestaande klantportaal
@@ -419,8 +490,13 @@ leads:
     Meerdere serviceregio's met rondreizende rayonmanagers/objectleiders wijzen op decentrale
     planning per locatie; alleen een klantportaal zichtbaar, geen centrale koppeling van urenregistratie
     aan facturatie per klantcontract
-  decision_maker: Directeur/Eigenaar (naam niet gevonden op site)
+  decision_maker: 'Jurian Dol, eigenaar (bron: websearch)'
   linkedin: https://nl.linkedin.com/company/sanitize-schoonmaakbedrijf
+  sources:
+    decision_maker: https://nl.indeed.com/cmp/Sanitize-Schoonmaakbedrijf-1
+    size: null
+    multi_location: https://www.sanitize.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Urenregistratie per object/rayon automatisch koppelen aan facturatie per klantcontract,
     zonder los Excel-werk per vestiging
@@ -452,6 +528,12 @@ leads:
     Schoon tonen procesvolwassenheid maar geen zichtbaar end-to-end ERP/CRM
   decision_maker: Directeur/Eigenaar of Operations Manager (naam niet gevonden binnen budget)
   linkedin: null
+  sources:
+    decision_maker: null
+    size: >-
+      https://trustoo.nl/flevoland/lelystad/schoonmaakbedrijf/handy-clean-schoonmaak-bedrijfsdiensten/
+    multi_location: https://www.handyclean.nl/over-ons/
+    relevant_vacancies: null
   value_proposition: >-
     Eén centraal systeem voor planning en facturatie over 4 vestigingen en tientallen klantlocaties,
     zodat vestigingen niet langer los van elkaar werken
@@ -485,6 +567,11 @@ leads:
     bestaand portaal toont digitale ambitie maar dekt alleen uren/tarieven, niet volledige facturatie-koppeling
   decision_maker: Joost Kleinjan, eigenaar/directeur
   linkedin: null
+  sources:
+    decision_maker: https://www.linkedin.com/in/joostkleinjan/
+    size: https://hensencleaning.nl/
+    multi_location: https://hensencleaning.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Koppel het bestaande klantportaal aan een sluitende urenregistratie-naar-facturatie flow
     per klantcontract, zonder het portaal te vervangen
@@ -521,6 +608,11 @@ leads:
   decision_maker: >-
     Emill de Waal, Directeur/Eigenaar (bron: bedrijfsregistratie/search, niet op de site bevestigd)
   linkedin: https://nl.linkedin.com/company/huschka
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: https://huschka.nl/over-huschka/
+    relevant_vacancies: null
   value_proposition: >-
     Voortbouwen op het bestaande TRNSPRNT-portaal met een koppeling tussen urenregistratie per
     locatie en facturatie per klantcontract, zodat de admin-druk bij groei niet toeneemt.
@@ -552,6 +644,11 @@ leads:
     voor persoonlijke aanpak
   decision_maker: Mariejan de Lange, Directeur/CEO
   linkedin: https://nl.linkedin.com/company/accent-receptie-services-b.v.
+  sources:
+    decision_maker: https://www.accent-receptieservice.nl/over-ons
+    size: null
+    multi_location: https://www.accent-receptieservice.nl/over-ons
+    relevant_vacancies: null
   value_proposition: >-
     Eén dashboard dat uren en planning van alle losse receptielocaties automatisch koppelt aan
     facturatie per klantcontract, zonder handmatig Excel-werk per locatie
@@ -583,6 +680,11 @@ leads:
     vergroot de kans op versnipperde systemen; nieuwe vestiging Alphen a/d Rijn als expansiesignaal
   decision_maker: Menno Weverling, Algemeen Directeur
   linkedin: https://www.linkedin.com/in/menno-weverling-7b724711/
+  sources:
+    decision_maker: https://weverling.nl/contact/menno-weverling/
+    size: https://weverling.nl/
+    multi_location: https://weverling.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén werkend systeem dat planning en urenregistratie per vestiging/object koppelt aan facturatie
     per klantcontract, over de 4 vestigingen en BV's heen
@@ -614,9 +716,14 @@ leads:
     medewerkers - decentrale structuur per merk/regio wijst op mogelijk versnipperde planning
     en facturatie; geen zichtbare digitalisering; omvang past net binnen de doelgroep.
   decision_maker: >-
-    niet gevonden op de site; richten op Directeur/Operations Manager (mogelijk familie Van
-    der Spek)
+    Rien van der Spek (oprichter) samen met zonen Stefan en Robbert-Jan van der Spek, aan het
+    hoofd van de groep (bron: websearch)
   linkedin: https://nl.linkedin.com/company/m-van-der-spek-hoveniersbedrijf-b-v-
+  sources:
+    decision_maker: https://www.mvdspek.nl/site/van-der-spek-groep-in-vogelvlucht
+    size: https://www.mvdspek.nl/
+    multi_location: https://www.mvdspek.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén gecentraliseerd systeem voor planning, urenregistratie en facturatie over alle merken
     en vestigingen van de groep heen.
@@ -652,6 +759,11 @@ leads:
     Directeur/eigenaar (naam niet gevonden op site; Ric de Jong is op LinkedIn gekoppeld aan
     Woningbouw Services, functie niet bevestigd) - richt op Directeur/Operations Manager
   linkedin: null
+  sources:
+    decision_maker: null
+    size: https://woningbouwservices.nl/over-woningbouwservices/
+    multi_location: https://woningbouwservices.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Koppel urenregistratie van technici per woningcorporatie-contract direct aan facturatie,
     zodat het overzicht tussen Woningbouw Services en zustermaatschappij Holland Building Maintenance
@@ -688,6 +800,13 @@ leads:
     Ruud Danklof, Eigenaar/Directeur; Erik Ruijters, mede-aandeelhouder en operationeel directeur
     (bron: Facto Magazine)
   linkedin: https://nl.linkedin.com/company/blankers-schoon
+  sources:
+    decision_maker: >-
+      https://www.facto.nl/43532/erik-ruijters-mede-aandeelhouder-bij-blankers-schoon-en-specialistisch
+    size: null
+    multi_location: >-
+      https://www.facto.nl/25513/blankers-wordt-volledig-zelfstandig-en-krijgt-nieuwe-naam-slimm-facility-services
+    relevant_vacancies: null
   value_proposition: >-
     Eén overzicht dat planning en facturatie tussen de drie Blankers-divisies en vestigingen
     samenbrengt.
@@ -718,6 +837,11 @@ leads:
     complexiteit in contracten en vestigingen; geen zichtbare software-tooling
   decision_maker: Maarten van der Aart, Directeur/Eigenaar (genoemd op website en LinkedIn)
   linkedin: https://nl.linkedin.com/in/maarten-van-der-aart-56133018
+  sources:
+    decision_maker: https://van-der-aart.nl/over-ons/
+    size: null
+    multi_location: https://van-der-aart.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén platform om planning en facturatie te koppelen over de 21 bediende gemeenten, zonder
     dat dit los van elkaar in Excel gebeurt
@@ -746,6 +870,11 @@ leads:
     koppeling van uren en facturatie per klant
   decision_maker: Directeur/Eigenaar (naam niet gevonden binnen budget)
   linkedin: null
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: https://schoonpand.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén centraal systeem om planning en facturatie per klantcontract landelijk te beheren, i.p.v.
     losse teams/systemen per regio
@@ -771,10 +900,13 @@ leads:
     Drie aparte vestigingen (Den Haag, Rotterdam, Amsterdam) impliceert decentrale planning
     per locatie; geen zichtbare software wijst op mogelijk versnipperde Excel/systemen per vestiging;
     jong groeiend team suggereert opschalingsbehoefte
-  decision_maker: >-
-    Algemeen Directeur (functietitel op teampagina, naam niet bevestigd); Maxime de Wit genoemd
-    als aanspreekpunt
+  decision_maker: Maxime de Wit, Eigenaar (LinkedIn bevestigt eigenaarschap, niet alleen aanspreekpunt)
   linkedin: null
+  sources:
+    decision_maker: https://www.linkedin.com/in/maxime-de-wit-395b7712a/
+    size: null
+    multi_location: https://des-schoonmaak.nl/over-ons
+    relevant_vacancies: null
   value_proposition: >-
     Eén systeem dat planning en urenregistratie tussen de drie vestigingen samenbrengt, zodat
     facturatie per klantcontract niet los per locatie hoeft te gebeuren
@@ -807,6 +939,11 @@ leads:
     uren-/facturatieprocessen per klantcontract met zich meebrengt
   decision_maker: Edward Bulte, Directeur (gevonden via zoekopdracht, niet op de website zelf)
   linkedin: https://www.linkedin.com/company/easy-plan-contract-catering
+  sources:
+    decision_maker: https://www.adagium.nl/easy-plan
+    size: https://www.adagium.nl/easy-plan
+    multi_location: https://www.easy-plan.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén centraal dashboard dat urenregistratie per locatie automatisch koppelt aan facturatie
     per klantcontract, zodat beheer over tientallen bedrijfsrestaurants niet meer los in Excel
@@ -828,8 +965,8 @@ leads:
     Objectbeveiliging, mobiele surveillance en evenementenbeveiliging, regio Gelderland/Brabant
     (Nijmegen, Venlo, Den Bosch, Eindhoven, Arnhem e.o.)
   size: >-
-    11-20 medewerkers volgens KVK/Company.info; 150+ klanten en 100+ projecten vermeld op de
-    site — aan de kleine kant van de ICP-range maar met duidelijke multi-locatie spreiding
+    circa 30 medewerkers (bron: interview Kijk op Arnhem-Nijmegen, sinds eind 2023 personeel
+    aangenomen); ruimer dan eerder vermelde 11-20
   tech_stack: Geen planningssoftware, klantportaal, ERP of CRM genoemd op de site
   relevant_vacancies: geen relevante vacatures gevonden (alleen objectbeveiligers)
   why_fit: >-
@@ -839,6 +976,11 @@ leads:
   decision_maker: Jimmy Berends (mogelijk eigenaar/directeur); ook Wesley Berends actief bij
     het bedrijf
   linkedin: https://www.linkedin.com/in/jimmy-berends-a7749395/
+  sources:
+    decision_maker: https://www.kijkoparnhem-nijmegen.nl/we-willen-graag-bijdragen-aan-een-veiligere-wereld/
+    size: https://www.kijkoparnhem-nijmegen.nl/we-willen-graag-bijdragen-aan-een-veiligere-wereld/
+    multi_location: https://www.berendsbeveiliging.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén werkende oplossing die uren per object automatisch koppelt aan facturatie per klantcontract,
     zodat administratie over 15+ gemeenten niet langer los in Excel loopt.
@@ -867,8 +1009,13 @@ leads:
     Breed dienstenpakket over uiteenlopende sectoren (zorg, evenementen, overheid, sport) betekent
     veel losse klantcontracten en locaties met eigen planning; site noemt coördinatie tussen
     vestigingen; geen aanwijzingen voor bestaande custom software.
-  decision_maker: Naam niet gevonden - target Owner/Directeur/Operations Manager
+  decision_maker: Thijs-Jan van Leeuwen, eigenaar
   linkedin: null
+  sources:
+    decision_maker: https://boeminwestland.nl/met-nieuwe-techniek-maakt-ew-security-westland-veiliger/
+    size: null
+    multi_location: https://ewsecurity.nl
+    relevant_vacancies: null
   value_proposition: >-
     Werkende software die uren per locatie/sector automatisch koppelt aan facturatie per klantcontract,
     zonder aparte Excel-lijsten per vestiging.
@@ -886,15 +1033,22 @@ leads:
   industry: >-
     Beveiligingsdienst (mobiele surveillance, objectbeveiliging, receptiebeveiliging) actief
     in heel Nederland, gevestigd in Barneveld
-  size: 1 vestiging (Barneveld), landelijk werkzaam bij klanten; fte niet vermeld op de site
+  size: >-
+    circa 20 medewerkers (bron: drimble.nl bedrijfsinfo), landelijk werkzaam vanuit 1 vestiging
+    Barneveld
   tech_stack: Geen klantportaal, planningssoftware of apps genoemd op de site
   relevant_vacancies: geen relevante vacatures gevonden (enkel surveillant/beveiliger-vacatures)
   why_fit: >-
     Totaalleverancier van beveiligingsdiensten met veel losse klantlocaties/objecten door heel
     NL, typisch decentraal planningsmodel per object/klantcontract; geen spoor van eigen software
     of ERP/CRM-vendor
-  decision_maker: Directeur/eigenaar (naam niet gevonden) — richt op Operations Manager of Directeur
+  decision_maker: 'Herman van Schaik, eigenaar/directeur (bron: websearch)'
   linkedin: https://nl.linkedin.com/company/bdg-beveiliging-b-v-
+  sources:
+    decision_maker: https://drimble.nl/bedrijf/barneveld/000027278328/bdg-beveiliging-bv.html
+    size: https://drimble.nl/bedrijf/barneveld/000027278328/bdg-beveiliging-bv.html
+    multi_location: https://www.bdgbeveiliging.nl/over-ons/
+    relevant_vacancies: null
   value_proposition: >-
     Eén centraal systeem om urenregistratie per object/locatie automatisch te koppelen aan facturatie
     per klantcontract
@@ -925,6 +1079,11 @@ leads:
     coördinatie-complexiteit; geen zichtbaar eigen ERP/CRM-systeem
   decision_maker: Directeur/Operations Manager van H&H Service/H&H Group (naam niet gevonden)
   linkedin: null
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: https://hh-service.nl
+    relevant_vacancies: null
   value_proposition: >-
     Eén systeem dat planning en urenregistratie per locatie koppelt aan facturatie per klantcontract,
     werkend over de verschillende H&H-onderdelen heen
@@ -954,6 +1113,11 @@ leads:
     van planning/facturatie; geen concrete trigger gevonden binnen budget.
   decision_maker: niet gevonden op de site; richten op Directeur/Operations Manager
   linkedin: https://nl.linkedin.com/company/h3-cleaning
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: https://www.h3-facility.nl
+    relevant_vacancies: null
   value_proposition: >-
     Eén overzicht voor planning en facturatie over 50+ klantlocaties, zonder handmatig werk
     per object.
@@ -983,6 +1147,12 @@ leads:
     80+ fte past goed binnen de doelgroep; geen concrete trigger gevonden.
   decision_maker: Raymond Kouwenberg, Directeur
   linkedin: https://nl.linkedin.com/company/schoonmaakbedrijf-klien-bv
+  sources:
+    decision_maker: >-
+      https://www.facto.nl/25171/raymond-kouwenberg-klien-pleit-voor-nieuw-werkgeverschap-werkgevers-moeten-meer-zichtbaar-worden
+    size: https://klien.nl/over-klien/
+    multi_location: https://klien.nl/over-klien/
+    relevant_vacancies: null
   value_proposition: >-
     Eén overzicht dat projectleiders per locatie/klantcontract hun uren laten registreren, direct
     gekoppeld aan facturatie per klant
@@ -1013,6 +1183,12 @@ leads:
   decision_maker: Directeur/eigenaar (naam niet gevonden op site) - richt op Directeur/Operations
     Manager
   linkedin: https://nl.linkedin.com/company/allgroen-b-v-
+  sources:
+    decision_maker: >-
+      https://companyinfo.nl/organisatieprofiel/onderhoud-van-tuinen-parken-en-plantsoenen/allgroen-b-v-dordrecht-23047258-000017637740
+    size: null
+    multi_location: https://allgroenbv.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Koppel projecturen per opdrachtgever/contract direct aan facturatie, zodat 500+ projecten
     per jaar niet los in Excel per klant bijgehouden hoeven worden
@@ -1047,6 +1223,11 @@ leads:
     zit in het koppelen van uren/facturatie die de eigen app niet dekt.
   decision_maker: Weshall van Liempt (operations) of Mike (co-founder), Eigenaren/Oprichters
   linkedin: null
+  sources:
+    decision_maker: https://www.olympusschoonmaak.nl/over-ons-schoonmaakbedrijf
+    size: null
+    multi_location: https://www.olympusschoonmaak.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Bouw voort op de bestaande Olympus Werkapp door urenregistratie per locatie te koppelen
     aan facturatie per klantcontract, zonder een volledig nieuw systeem te hoeven optuigen
@@ -1077,6 +1258,11 @@ leads:
     per contract is niet zichtbaar
   decision_maker: Directeur/Eigenaar (naam niet gevonden op de site of via zoekopdracht)
   linkedin: null
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: https://www.unischoonmaak.nl/diensten/bedrijfsschoonmaak
+    relevant_vacancies: null
   value_proposition: >-
     Eén systeem dat de bestaande digitale werkbonnen koppelt aan urenregistratie en facturatie
     per klantcontract over alle locaties heen
@@ -1105,8 +1291,13 @@ leads:
     Werkt op meerdere klantlocaties (food-productiebedrijven) met strikte kwaliteitsnormen (HACCP/ISO/IFS/BRC)
     per contract; 24/7 beschikbaarheid over 3 provincies wijst op decentrale planning; geen
     enkele software zichtbaar op de site, wat op lage digitalisering wijst
-  decision_maker: Directeur/Eigenaar (rol als target; naam niet met zekerheid bevestigd)
+  decision_maker: Jannes van den Bos, directeur/eigenaar
   linkedin: null
+  sources:
+    decision_maker: https://nl.linkedin.com/in/jannes-vd-bos-8928818b
+    size: null
+    multi_location: https://www.pro-aktiefservices.nl/diensten/facilitaire-schoonmaak/
+    relevant_vacancies: null
   value_proposition: >-
     Automatische koppeling van urenregistratie per klantlocatie/contract aan facturatie, met
     borging van kwaliteitsnormen per klant
@@ -1137,6 +1328,11 @@ leads:
     70 fte past in doelgroep; geen zichtbare software-tooling wat duidt op handmatige processen
   decision_maker: Eigenaar/Directeur (naam niet zichtbaar)
   linkedin: https://nl.linkedin.com/company/all-clean-schoonmaak--en-bedrijfsdiensten
+  sources:
+    decision_maker: null
+    size: https://www.allclean.nl/
+    multi_location: https://www.allclean.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén systeem voor planning per object/klantcontract i.p.v. handmatige coördinatie over de
     vele servicegebieden
@@ -1163,6 +1359,11 @@ leads:
     urenregistratie-facturatie; regionale speler zonder duidelijke in-house IT-afdeling
   decision_maker: Attie van Gog (operationeel manager, 27 jaar in dienst) — target ook Directeur/Eigenaar
   linkedin: https://nl.linkedin.com/company/hodal
+  sources:
+    decision_maker: https://hodal.nl/hodal-40-krachtige-jaren-in-almere/
+    size: null
+    multi_location: https://hodal.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén systeem dat urenregistratie per klantcontract automatisch koppelt aan facturatie, in
     plaats van los beheer per dienst/locatie
@@ -1193,6 +1394,11 @@ leads:
     dus urenregistratie-naar-facturatie waarschijnlijk nog handmatig.
   decision_maker: Geen naam gevonden — richt op Directeur / Operations Manager
   linkedin: null
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: null
+    relevant_vacancies: null
   value_proposition: >-
     Eén centraal dashboard dat urenregistratie per object automatisch koppelt aan facturatie
     per klantcontract, zonder los Excel-werk per locatie.
@@ -1219,9 +1425,14 @@ leads:
     Bedient meerdere bedrijventerreinen/objecten in de regio Utrecht tegelijk, wat wijst op
     aparte planning en facturatie per klantcontract; geen tekenen van bestaande custom software
     of geïntegreerd ERP/CRM.
-  decision_maker: >-
-    Erwin Hogervorst (contactpersoon op de site, functie niet vermeld) - target Owner/Directeur
+  decision_maker: Erwin Hogervorst, Managing Director (functie bevestigd, was eerder 'functie
+    niet vermeld')
   linkedin: https://nl.linkedin.com/company/guardian-security-bv
+  sources:
+    decision_maker: https://checks.nl/guardian-security/
+    size: https://checks.nl/guardian-security/
+    multi_location: https://guardiansecurity.nl
+    relevant_vacancies: null
   value_proposition: >-
     Eén centraal systeem om urenregistratie per object/bedrijventerrein te koppelen aan facturatie
     per klantcontract — direct werkende software.
@@ -1233,63 +1444,6 @@ leads:
     Hoe houden jullie nu de uren en facturatie per bedrijventerrein/object uit elkaar - via
     Excel of losse systemen?
   - 'Met meerdere objecten tegelijk: is opschalen van de administratie een knelpunt?'
-- name: MB-ALL
-  url: https://mball.nl
-  priority_score: 5/10
-  industry: >-
-    Detachering en advies op het gebied van veiligheid en leefbaarheid (BOA's, toezicht, handhaving)
-    voor gemeenten en publieke organisaties, Houten/landelijk
-  size: Niet vermeld; 200+ opdrachtgevers volgens de site; één vestigingsadres (Houten)
-  tech_stack: WordPress-website; geen planningssoftware, klantportaal of CRM/ERP vermeld
-  relevant_vacancies: geen relevante vacatures gevonden (werken-bij pagina niet bereikbaar binnen
-    budget)
-  why_fit: >-
-    Detacheert BOA's/toezichthouders bij tientallen opdrachtgevers tegelijk — vergelijkbare
-    pijn als multi-locatie facilitair: uren per plaatsing/klantcontract moeten gekoppeld worden
-    aan facturatie; geen zichtbare software die dit end-to-end dekt
-  decision_maker: Directeur / Algemeen Directeur (naam niet vastgesteld)
-  linkedin: https://nl.linkedin.com/company/mb-all
-  value_proposition: >-
-    Eén systeem dat uren per opdrachtgever/plaatsing koppelt aan facturatie, zonder handmatig
-    werk tussen losse bestanden per klant
-  outreach_strategy: >-
-    Korte mail over de complexiteit van 200+ klantrelaties en de administratieve last van uren-naar-factuur
-    per opdrachtgever; vrijblijvend intakegesprek
-  conversation_starters:
-  - >-
-    Hoe houden jullie nu uren per opdrachtgever/plaatsing bij en koppelen jullie dat aan de
-    facturatie?
-  - >-
-    Met 200+ klanten tegelijk — draait dat nu nog via Excel of losse systemen per opdrachtgever?
-- name: Clean Care Limburg
-  url: https://cleancarelimburg.nl
-  priority_score: 4/10
-  industry: >-
-    Zakelijke schoonmaak en glasbewassing voor bedrijven, horeca en vastgoed/VVE's, Zuid-Limburg
-  size: >-
-    niet vermeld op site; klein kantoor in Maastricht (Sibemaweg), geen vacaturepagina gevonden
-    - vermoedelijk klein bedrijf, fit met 20-200 fte onzeker
-  tech_stack: Geen klantportaal of planningssoftware vermeld op de website
-  relevant_vacancies: geen vacaturepagina gevonden op de site
-  why_fit: >-
-    Bedient klanten (bedrijven, horeca, vastgoed) verspreid over meerdere Zuid-Limburgse gemeenten
-    (Maastricht, Heerlen, Sittard-Geleen, Kerkrade e.o.) zonder zichtbaar systeem voor planning
-    of koppeling uren-facturatie; geen enkele software genoemd op de site.
-  decision_maker: 'Sjoerd Wiersma, Eigenaar (bron: LinkedIn)'
-  linkedin: https://nl.linkedin.com/in/sjoerd-wiersma-118760219
-  value_proposition: >-
-    Eén systeem dat uren per klantlocatie automatisch koppelt aan facturatie, zonder Excel of
-    losse tools.
-  outreach_strategy: >-
-    Korte persoonlijke e-mail naar Sjoerd Wiersma, verwijzend naar de spreiding van klanten
-    over meerdere Limburgse gemeenten.
-  conversation_starters:
-  - >-
-    Hoe koppelen jullie nu de uren per klantlocatie (Maastricht, Heerlen, Sittard-Geleen...)
-    aan de facturatie?
-  - >-
-    Met klanten in horeca, vastgoed en VVE's door heel Zuid-Limburg - werkt dat nog met Excel
-    of losse systemen per vestiging?
 - name: Rein Groep
   url: https://www.reingroep.nl
   priority_score: 4/10
@@ -1303,6 +1457,11 @@ leads:
     zichtbaar op de site wijst op handmatige (Excel-achtige) processen
   decision_maker: Directeur/Eigenaar (naam niet gevonden op de site of LinkedIn)
   linkedin: null
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: https://www.reingroep.nl/werkgebieden/
+    relevant_vacancies: null
   value_proposition: >-
     Eén centraal systeem dat planning per locatie koppelt aan urenregistratie en facturatie
     per klantcontract, zonder dikke rapporten
@@ -1333,6 +1492,11 @@ leads:
   decision_maker: >-
     René Zwinkels (Commercieel Directeur) — gevonden via LinkedIn, niet op de eigen site bevestigd
   linkedin: https://www.linkedin.com/in/ren%C3%A9-zwinkels-8514722b/
+  sources:
+    decision_maker: https://www.linkedin.com/in/ren%C3%A9-zwinkels-8514722b/
+    size: null
+    multi_location: https://www.multiclean.nl/
+    relevant_vacancies: null
   value_proposition: >-
     Eén team dat planning, urenregistratie en facturatie per klant/locatie koppelt zonder dat
     het een log ERP-traject wordt
@@ -1344,37 +1508,6 @@ leads:
   - >-
     Met klanten in zoveel verschillende sectoren, hoe voorkomen jullie dat planning per object
     in losse Excel-bestanden versnippert?
-- name: Van Duijnen Koffie
-  url: https://vanduijnen.nl/
-  priority_score: 4/10
-  industry: >-
-    Leverancier en onderhoud van koffiemachines/koffieoplossingen voor bedrijven, regio Almere/landelijk
-  size: >-
-    51-200 medewerkers (bron: webzoekresultaten/LinkedIn-schatting, niet op eigen site bevestigd)
-  tech_stack: Geen CMS/klantportaal/planningssoftware genoemd op de site
-  relevant_vacancies: >-
-    geen relevante vacatures gevonden (Servicemonteur en Facilitair Medewerker zijn uitvoerende/uitgesloten
-    functies)
-  why_fit: >-
-    Servicemonteurs werken op veel klantlocaties met onderhoudscontracten (vergelijkbaar patroon
-    van decentrale planning en uren-naar-facturatie), maar dit is geen klassieke facilitaire
-    dienstverlener met meerdere vestigingen/objecten per klant - de fit met het segment is indirect
-    en er is geen concrete trigger gevonden; twijfel over passendheid van de niche.
-  decision_maker: Paul Kragten, Directeur
-  linkedin: https://nl.linkedin.com/company/van-duijnen-koffie
-  value_proposition: >-
-    Koppel onderhoudsuren van servicemonteurs per klantcontract direct aan facturatie, in plaats
-    van losse registratie per regio
-  outreach_strategy: >-
-    Lagere prioriteit - alleen benaderen als de kernsegmenten binnen facility-management zijn
-    uitgeput; positioneer vanuit servicemonteurs die op veel klantlocaties werken met eigen
-    onderhoudscontract.
-  conversation_starters:
-  - >-
-    Met servicemonteurs die dagelijks bij veel verschillende klanten langsgaan - hoe worden
-    onderhoudsuren nu gekoppeld aan facturatie per contract?
-  - >-
-    Is er per regio (Ridderkerk/Dordrecht, Amsterdam) een apart systeem, of werkt dat centraal?
 - name: Zuivra Schoonmaak
   url: https://zuivra.nl
   priority_score: 4/10
@@ -1394,6 +1527,11 @@ leads:
   decision_maker: >-
     Eigenaar/directeur (naam niet gevonden op site of in zoekresultaten) - richt op Directeur/Eigenaar
   linkedin: null
+  sources:
+    decision_maker: null
+    size: null
+    multi_location: https://zuivra.nl/bedrijfsschoonmaak/
+    relevant_vacancies: null
   value_proposition: >-
     Overzicht van uren en facturatie per klantcontract, mocht Zuivra meerdere doorlopende bedrijfscontracten
     naast losse particuliere klussen beheren
