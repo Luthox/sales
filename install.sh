@@ -33,7 +33,7 @@ echo "Linking skills from $REPO_DIR into $SKILLS_DIR ..."
 # Discovery layer
 link "skills/icp-onboarding"          "icp-onboarding"
 link "skills/icp-segment-builder"     "icp-segment-builder"
-link "skills/icp-prompt-builder"      "icp-prompt-builder"
+link "skills/icp-list-qualifier"      "icp-list-qualifier"
 link "skills/lead-generator-assistant" "lead-generator-assistant"
 
 # Deep-dive layer — these replace any pre-installed, unmodified versions of the same

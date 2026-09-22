@@ -54,7 +54,7 @@ Read `references/segment-schema.md` before writing anything — it's the
 canonical definition of the segment file format, the naming convention, and
 exactly how a segment merges onto its base (scalar override vs. list
 append/replace/add-remove). Don't improvise a different shape; the same
-schema is what `lead-generator-assistant` and `icp-prompt-builder` expect
+schema is what `lead-generator-assistant` and `icp-list-qualifier` expect
 when they read a segment back.
 
 ## Steps
@@ -143,7 +143,7 @@ If the push is rejected (someone else pushed in the meantime), `git pull
 ### 7. Tell the user how to use it
 
 > "Segment saved. Next time you run `lead-generator-assistant` or
-> `icp-prompt-builder`, just say 'use the `<segment-slug>` segment' and
+> `icp-list-qualifier`, just say 'use the `<segment-slug>` segment' and
 > it'll apply this on top of the base ICP instead of the base alone. Leave
 > it unmentioned and you get the base ICP as before — this doesn't change
 > anything for anyone not using this segment."
@@ -170,7 +170,7 @@ If the push is rejected (someone else pushed in the meantime), `git pull
 
 With a segment saved, use it from either downstream skill by naming it:
 - `lead-generator-assistant` — "find leads for the `<segment-slug>` segment"
-- `icp-prompt-builder` — "tune a qualification prompt for the `<segment-slug>` segment"
+- `icp-list-qualifier` — "tune a qualification prompt for the `<segment-slug>` segment"
 
 ## Files
 

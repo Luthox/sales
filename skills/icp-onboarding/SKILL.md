@@ -193,7 +193,7 @@ git push
 If the push is rejected (someone else pushed in the meantime), `git pull
 --rebase` first, then push again. Tell the user this file is now live for
 every teammate who has this repo cloned — the next skill that reads it
-(`icp-prompt-builder`, or anything else) pulls the latest copy automatically
+(`icp-list-qualifier`, or anything else) pulls the latest copy automatically
 before reading, so no one needs to manually resync.
 
 ## Common gotchas

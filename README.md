@@ -66,17 +66,18 @@ target list" to "ready to dial," using the skills above:
    (`lead-generator-assistant`) — or *"find leads for the `<segment>`
    segment"* if you set one up. Run it repeatedly with different sector or
    region framings to keep surfacing candidates.
-3. *(Optional, only at real volume)* **Tune a qualification prompt**
-   (`icp-prompt-builder`) — think of it as training a junior assistant to
-   screen a huge stack of resumes for you. You write down what a good fit
-   looks like, test it on 10 companies, correct anything it got wrong,
-   retest on 10 more, and repeat until it gets two batches in a row
-   completely right — only then do you trust it to grade the rest of a
-   pile you could never review yourself. Skip this for a 10-20 company
-   shortlist — there's no "pile too big to check yourself" problem yet,
-   since you're already looking at each one directly via
-   `lead-generator-assistant`. It only earns its keep once a list-building
-   tool is dumping 50+ raw, unvetted companies on you at once.
+3. *(Optional, and rarely needed — see below)* **Tune a qualification
+   prompt** (`icp-list-qualifier`) — only for a big list of companies you
+   got from **outside** this repo (a purchased list, a trade-show export, a
+   KVK bulk export). You write down what a good fit looks like, test it on
+   10 companies, correct anything it got wrong, retest on 10 more, and
+   repeat until it gets two batches in a row completely right — only then
+   do you trust it to grade the rest of a pile you could never review
+   yourself. **Skip this if your shortlist came from `lead-generator-
+   assistant`** — that skill already applies the ICP/segment itself during
+   discovery and scores every lead before you ever see it, even at 50-70+
+   leads (see its large-batch pipeline below). This tool only earns its
+   keep on a list that never went through that skill in the first place.
 4. **Triage the shortlist.** `/sales quick <url>` on each candidate — a fast
    gut check to rank who's actually worth going deeper on before you invest
    more time. Since the saved batch file already carries lead-generator-
@@ -131,7 +132,7 @@ if you're maintaining it, not required reading to just use it day to day.
 
 ## Two layers, kept deliberately separate
 
-1. **Discovery** (`icp-onboarding`, `icp-prompt-builder`, `lead-generator-assistant`)
+1. **Discovery** (`icp-onboarding`, `icp-list-qualifier`, `lead-generator-assistant`)
    — find and grade a list of companies. **Zero paid third-party APIs** — runs
    on Claude's own reasoning plus built-in web-search/fetch.
 2. **Per-account deep dive** (everything under `sales/` and the `sales-*`
@@ -146,14 +147,16 @@ if you're maintaining it, not required reading to just use it day to day.
 |---|---|---|
 | `skills/icp-onboarding` | [growthenginenowoslawski/coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills) | Conversational ICP intake. Scrapes your own website for context, interviews you on target industries/size/geography/disqualifiers, splits **hard filters** (must match) from **soft preferences** (nice-to-have), saves a structured `client-profile.yaml`. |
 | `skills/icp-segment-builder` | this repo | *(Optional)* Layers a narrower or extended sub-ICP ("segment") on top of an existing `client-profile.yaml`, for one vertical or campaign push — without re-running the full interview. Writes `profiles/<slug>/segments/<segment-slug>.yaml` as a delta on the base; see [Segments](#segments-narrower-icps-without-re-onboarding) below. |
-| `skills/icp-prompt-builder` | [growthenginenowoslawski/coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills) | Builds and tunes an AI qualification prompt against a sample of companies, iterating with your corrections until 2 rounds in a row need none. Runs entirely as Claude Task sub-agents — no external API key, ever. Accepts an optional segment name to tune against instead of the base ICP. |
-| `skills/lead-generator-assistant` | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | The actual company *finder*. Given a product/ICP description, searches for and scores matching companies — including a tech stack read (CMS, portals, dashboards, automation visible on their site) as a standard part of research — with contact-strategy suggestions per lead. Accepts an optional segment name to search against instead of the base ICP. Saves each run as a batch file under `profiles/<slug>/leads/` with the full per-lead detail (score, industry, size, tech stack, decision maker, value prop, outreach strategy, conversation starters — not just name/URL) and pushes it for the team. |
+| `skills/icp-list-qualifier` | [growthenginenowoslawski/coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills) | **Rarely needed** — only for a list of companies from *outside* this repo (a purchased list, a trade-show export, a KVK bulk export). Builds and tunes an AI qualification prompt against a sample of them, iterating with your corrections until 2 rounds in a row need none. Runs entirely as Claude Task sub-agents — no external API key, ever. `lead-generator-assistant` already does its own version of this qualification during discovery, so a list that came from there doesn't need this too. |
+| `skills/lead-generator-assistant` | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | The actual company *finder*, and the one you'll use almost every time. Given a product/ICP description, searches for and scores matching companies — including a tech stack read (CMS, portals, dashboards, automation visible on their site) as a standard part of research — with contact-strategy suggestions per lead. Accepts an optional segment name to search against instead of the base ICP. Applies the ICP's hard filters and its own fit scoring itself, before you ever see a candidate — including at 50-70+ leads via its discover-then-enrich pipeline (see "Scaling to large batches" in the skill). Saves each run as a batch file under `profiles/<slug>/leads/` with the full per-lead detail (score, industry, size, tech stack, decision maker, value prop, outreach strategy, conversation starters — not just name/URL) and pushes it for the team. |
 
 **Flow:** `icp-onboarding` (define who you want, once) → optionally
 `icp-segment-builder` (narrow/extend for a specific vertical or push) →
 `lead-generator-assistant` (run repeatedly with different sector/region
-framings, or a segment, to surface candidates) → `icp-prompt-builder` (tune
-a qualification prompt on a sample, apply it to filter/rank the full pool).
+framings, or a segment, to surface candidates — this is normally the last
+step, since it already grades and scores everything itself). Reach for
+`icp-list-qualifier` only if you're grading a list `lead-generator-assistant`
+never touched.
 
 ### Segments: narrower ICPs without re-onboarding
 
@@ -172,7 +175,7 @@ rules (when a segment field replaces the base vs. adds to it) live in
 `skills/icp-segment-builder/references/segment-schema.md`.
 
 Segments are entirely optional: nothing changes for anyone who doesn't use
-one, and `lead-generator-assistant` / `icp-prompt-builder` both fall back to
+one, and `lead-generator-assistant` / `icp-list-qualifier` both fall back to
 the base ICP unless you explicitly name a segment.
 
 **Limitations:** `lead-generator-assistant` handles a single run up to
@@ -271,7 +274,7 @@ this (or `git pull` + re-copy) manually whenever you want the latest version:
 
 ```bash
 # Discovery layer
-cp -r skills/icp-onboarding skills/icp-prompt-builder skills/lead-generator-assistant ~/.claude/skills/
+cp -r skills/icp-onboarding skills/icp-list-qualifier skills/lead-generator-assistant ~/.claude/skills/
 
 # Per-account deep-dive layer (sales/ is a top-level folder, not under skills/)
 cp -r sales ~/.claude/skills/
@@ -291,7 +294,7 @@ Or copy into a project's `.claude/skills/` instead, to keep them project-scoped.
    `icp-onboarding`'s last step is `git add`/`commit`/`push` on the profile
    file. A local-only edit doesn't help the team, only a pushed one does.
 3. **Every skill pulls the latest repo before it does anything else** —
-   `sales/SKILL.md` (so every `/sales <command>`), `icp-prompt-builder`,
+   `sales/SKILL.md` (so every `/sales <command>`), `icp-list-qualifier`,
    `icp-segment-builder`, and `lead-generator-assistant` all run a silent
    `git pull` as their first step. If the pull fails (offline, etc.) it's
    silently skipped and the skill continues with whatever's on disk — never
@@ -310,7 +313,7 @@ change to how the skills themselves work.
 
 ## Attribution
 
-- `icp-onboarding`, `icp-prompt-builder`: from
+- `icp-onboarding`, `icp-list-qualifier`: from
   [growthenginenowoslawski/coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills)
   (see that repo for its license).
 - `icp-segment-builder`: written for this repo, not from an upstream source.

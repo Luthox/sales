@@ -1,9 +1,9 @@
 ---
-name: icp-prompt-builder
-description: Interactive loop that builds and tunes an AI prompt for evaluating whether a company fits a client's ICP. Run after any list-building skill (lead-generator-assistant) to qualify companies before scaling. Iterates batches of 10 companies with user feedback, stops when 2 consecutive rounds have zero corrections, saves the final prompt for reuse. Always uses Claude Code Task sub-agents — never an external API key.
+name: icp-list-qualifier
+description: Interactive loop that builds and tunes an AI prompt for evaluating whether a company fits a client's ICP, for scoring a large list of companies you already have from somewhere outside this repo (a purchased list, a trade-show export, a KVK bulk export). Not needed for lists produced by lead-generator-assistant — that skill already applies the ICP itself during discovery and scores every lead before you see it. Iterates batches of 10 companies with user feedback, stops when 2 consecutive rounds have zero corrections, saves the final prompt for reuse. Always uses Claude Code Task sub-agents — never an external API key.
 ---
 
-# ICP Prompt Builder
+# ICP List Qualifier
 
 Before you pay to pull 5,000 companies, tune a qualification prompt on 10-50 of them. This skill walks you through the iterative loop.
 
@@ -12,6 +12,18 @@ Before you pay to pull 5,000 companies, tune a qualification prompt on 10-50 of 
 List-builder skills (DiscoLike, Blitz, Prospeo, Google Maps) return COMPANIES, but they don't know whether those companies match your ICP. If your list-builder returns 5,000 companies and 80% are wrong fits, you'll waste money enriching them for emails that go nowhere.
 
 The fix: build an AI qualification prompt BEFORE scaling. Pull 10 companies, have the prompt score them, compare to your judgment, refine, repeat. Once the prompt agrees with you 2 rounds in a row with zero corrections, lock it in and apply it at scale.
+
+**Not needed for a list `lead-generator-assistant` produced itself** — that
+skill already applies the ICP/segment hard filters during its own discovery
+and dedup step, and scores every lead before it's ever shown to you or saved
+to a batch file (see its "Scaling to large batches" section). This skill is
+for a list you got from somewhere *else* — a purchased list, a trade-show
+export, a KVK bulk export, anything that didn't go through
+`lead-generator-assistant`'s own discovery — and want auto-scored against
+the ICP instead of eyeballing each row by hand. None of the paid
+list-builders named below (DiscoLike, Blitz, Prospeo, Google Maps) exist in
+this repo; this skill's core loop still works without them, on whatever
+list you already have.
 
 ## Always uses Task sub-agents (no API key)
 
@@ -41,7 +53,7 @@ If a `client-profile.yaml` might exist from `/icp-onboarding`, **pull the
 latest copy of this repo first**, silently, before reading it:
 
 ```bash
-git -C "$(dirname "$(readlink -f ~/.claude/skills/icp-prompt-builder/SKILL.md")")/.." pull
+git -C "$(dirname "$(readlink -f ~/.claude/skills/icp-list-qualifier/SKILL.md")")/.." pull
 ```
 
 (This skill is installed as a symlink into wherever the shared repo was
@@ -53,9 +65,9 @@ reading `client-profile.yaml` right after the pull, as its own fresh Read
 call, already picks up whatever that pull just brought in.
 
 The one thing the pull does *not* automatically refresh is this file's own
-instructions — you're still executing the copy of `icp-prompt-builder/SKILL.md`
+instructions — you're still executing the copy of `icp-list-qualifier/SKILL.md`
 you were handed before the pull ran. If someone changed how this skill itself
-works, re-read `icp-prompt-builder/SKILL.md` at the path resolved above right
+works, re-read `icp-list-qualifier/SKILL.md` at the path resolved above right
 after the pull, and if it differs from what you're reading now, follow that
 freshly-read version instead for the rest of this command.
 
@@ -173,7 +185,7 @@ icp_qualification_prompt:
 
 ```
 Prompt locked. To score your 5000 companies:
-  npx tsx ~/cold-email-ai-skills/skills/icp-prompt-builder/scripts/score-batch.ts \
+  npx tsx ~/cold-email-ai-skills/skills/icp-list-qualifier/scripts/score-batch.ts \
     --prompt-file=profiles/<slug>/icp-prompt.txt \
     --companies=path/to/companies.csv \
     --out=scored.csv
@@ -201,7 +213,7 @@ The script supports both. Default is Option A to keep everything inside Claude C
 
 1. `/icp-onboarding` → produce `client-profile.yaml`
 2. `/lead-generator-assistant` a few times → pull a sample of 10-20 companies
-3. `/icp-prompt-builder` → tune qualification prompt on that sample (3-5 rounds typical)
+3. `/icp-list-qualifier` → tune qualification prompt on that sample (3-5 rounds typical)
 4. Scale the list-builder to 50+ companies
 5. Apply the tuned prompt to the full list → only keep `qualified: true` with `confidence >= 0.6`
 6. `/lead-generator-assistant` on the qualified subset

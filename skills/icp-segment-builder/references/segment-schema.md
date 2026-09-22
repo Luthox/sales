@@ -2,7 +2,7 @@
 
 This is the canonical reference for how a **segment** relates to a **base
 profile**. `icp-segment-builder` writes these files; `lead-generator-assistant`
-and `icp-prompt-builder` read and merge them. All three skills point here
+and `icp-list-qualifier` read and merge them. All three skills point here
 instead of repeating the rules inline — if you're changing the rules, this
 is the one file to edit.
 
