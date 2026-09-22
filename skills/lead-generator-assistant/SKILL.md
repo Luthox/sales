@@ -186,17 +186,26 @@ that the segment ran dry at some smaller count.
    Overlap between angles is fine and expected here; a duplicate at this
    stage costs almost nothing. Size the total discovery target with a
    buffer over the requested count N: `discovery_target ≈ N / (1 -
-   expected_attrition)`, using ~25% as a default attrition estimate (dedup
+   expected_attrition)`, using ~35% as a default attrition estimate (dedup
    + disqualifiers + unverifiable candidates), higher for a narrow segment.
+   Most attrition only shows up *during enrichment* (a company turns out to
+   be 400 fte, a one-person shop, or not actually in the segment) — a real
+   facility-management run lost 20 of 76 candidates, most of them only
+   after their site was fetched. Budget for that up front rather than
+   discovering the shortfall afterwards.
 2. **Central dedupe and filter — done once, not per-agent.** Merge every
    discovery angle's output yourself, dedupe by name/domain, and drop
    anything that clearly fails the ICP hard filters. This is the only place
    "which companies get researched" is decided, which is what guarantees no
    company is ever verified twice.
 3. **Check the count against N.**
-   - If unique-qualified ≥ N: keep the top N (by whatever fit signal is
-     available from the discovery snippets) and drop the rest — no reason
-     to pay to enrich candidates that won't ship.
+   - If unique-qualified ≥ N: keep the top ~1.2×N (by whatever fit signal
+     is available from the discovery snippets) and send all of them into
+     the *same* enrichment wave — the extra ~20% are the reserves that
+     cover enrichment-stage disqualifications. Enriching them in the first
+     wave is far cheaper than a separate reserve or top-up round later,
+     because every extra round pays the per-agent fixed cost again (see
+     "Token budget" below). Keep the best N after enrichment; drop the rest.
    - If unique-qualified < N: run one more discovery round using *new*
      angles not yet tried, sized to the shortfall, then re-check. Repeat.
    - If after 2-3 top-up rounds the segment still can't produce N real
@@ -204,7 +213,7 @@ that the segment ran dry at some smaller count.
      matches, couldn't responsibly find 9 more without loosening the ICP —
      widen it, or take the 41?") instead of padding the list with weak fits.
 4. **Enrichment (expensive, but exactly-once and budgeted).** Split the
-   final N into batches of ~10-15 and enrich each batch in parallel — each
+   final list into batches of ~15-20 and enrich each batch in parallel — each
    enrichment pass gets an *assigned, fixed list* of companies (it cannot
    discover more) and does the full per-lead work from step 3 above (tech
    stack, vacancies, decision maker, LinkedIn) capped at roughly 2-3 tool
@@ -216,14 +225,54 @@ that the segment ran dry at some smaller count.
    a middleman agent whose only job is to launch other agents — that layer
    adds real token cost (a full agent invocation) and produces no research.
 
-Rough sizing by N:
+#### Token budget: agent count is the main cost driver
 
-| N | Discovery angles | Enrichment batching |
-|---|---|---|
-| ≤20 | 0 — single inline pass (step 3 as written) | inline |
-| 20-40 | 2-3 | 1-2 batches of ~15-20 |
-| 40-70 | 4-6 | 4-5 batches of ~10-15 |
-| 70+ | 6-8, buffer-sized per the formula above | batches of ~10-15, strict per-company tool-call cap |
+Every agent you launch pays a **fixed ~60-70k-token startup cost** (system
+prompt + tool definitions) before it does any research — even an agent
+that only makes 6 tool calls ends up at ~65-75k. So the number of agents
+matters far more than the number of tool calls per company. A real
+facility-management run (45 leads) used ~37 agents and ~2.5-3M tokens,
+versus ~930k for an earlier 9-agent run of 70 leads — the per-company
+tool-call cap worked, but the agent count exploded. The rules below exist
+to prevent that:
+
+- **Sub-agents must never spawn their own sub-agents.** Put this sentence
+  literally into every discovery and enrichment prompt you dispatch: *"Do
+  the research yourself directly — do NOT spawn sub-agents or use the
+  Agent/Task tool."* Without it, enrichment agents tend to split their
+  list into 3-4 child agents, which roughly doubles the total cost (in the
+  run above, ~20 of the 37 agents were unrequested children) and also
+  breaks result collection, because the children report to the parent,
+  not to you.
+- **Prefer fewer, larger batches.** Because the fixed cost is per agent,
+  2-3 discovery agents and 3 enrichment agents of ~15-20 companies each
+  beat 5+5 small ones. The per-company cap (2-3 tool calls) is what keeps
+  a large batch from bloating, not a small batch size.
+- **Write the shared instructions once to a brief file** in the scratchpad
+  (ICP, disqualifiers, per-company budget, output schema) and have each
+  agent read it, instead of repeating the full brief in every prompt.
+- **Agents write their YAML to a file in the scratchpad and reply with
+  only** `path, count, DISQUALIFIED: <name> — <reason>` lines. Never have
+  them paste full YAML into their reply — that inflates your own context,
+  which is re-read on every turn for the rest of the session.
+- **Don't nudge running agents to "assemble now" or "resend"** — each
+  nudge costs a full extra turn per agent. If an agent's result is already
+  in your context, just write the file yourself.
+- **No extra rounds by default.** The ~1.2×N reserves from step 3 should
+  cover attrition. Only run a top-up round if the shortfall is real, and
+  ask the user first ("found 44 — top up to 50, or take 44?"): a top-up
+  round costs as much as a whole extra agent wave.
+- **Report progress to the user only at milestones** (discovery done,
+  enrichment done, ready to review), not after every agent notification.
+
+Rough sizing by N (agent counts are totals — stay inside them):
+
+| N | Discovery agents | Enrichment agents | Total agents | Rough tokens |
+|---|---|---|---|---|
+| ≤20 | 0 — single inline pass (step 3 as written) | inline | 0 | ~100-300k |
+| 20-40 | 2 | 2 (batches of ~15-25) | 4 | ~350-500k |
+| 40-70 | 3 | 3-4 (batches of ~15-20) | 6-7 | ~600-900k |
+| 70+ | 4-5, buffer-sized per the formula above | 5-6 (batches of ~15-20), strict per-company cap | ≤11 | ~1-1.3M |
 
 4. **Prioritize and Score**
    - Create a fit score (1-10) for each lead
