@@ -213,7 +213,7 @@ that the segment ran dry at some smaller count.
      matches, couldn't responsibly find 9 more without loosening the ICP —
      widen it, or take the 41?") instead of padding the list with weak fits.
 4. **Enrichment (expensive, but exactly-once and budgeted).** Split the
-   final list into batches of ~15-20 and enrich each batch in parallel — each
+   final list into batches of ~10 and enrich each batch in parallel — each
    enrichment pass gets an *assigned, fixed list* of companies (it cannot
    discover more) and does the full per-lead work from step 3 above (tech
    stack, vacancies, decision maker, LinkedIn) capped at roughly 2-3 tool
@@ -221,7 +221,37 @@ that the segment ran dry at some smaller count.
    "not found on site" rather than continuing to dig — that's the same
    fallback the schema already expects, so the cap doesn't reduce what
    actually ships, only how long an agent searches before accepting a gap.
-5. **Do the dispatching and merging yourself** rather than delegating it to
+   Accuracy rules for every enrichment agent:
+   - **One company at a time:** finish a company, append its entry to the
+     output file, then start the next. An agent holding 15-20 companies'
+     fetched pages in context at once is where facts get mixed up between
+     companies (a name or headcount landing on the wrong lead); ~10 per
+     batch plus write-as-you-go keeps each company's context clean.
+   - **Source per hard fact:** record the URL each `decision_maker`,
+     `size` and `relevant_vacancies` claim came from in the lead's
+     `sources` map (see the batch schema in step 7). A claim with no source
+     is written as "niet geverifieerd", never as a plausible-sounding guess.
+   - **Headcount is soft when the profile says so.** If
+     `headcount_edge_tolerance: true`, 20-200 fte is a guideline: 15-19 or
+     ~220 is fine and only affects the score. Only drop a company for size
+     when it's clearly tiny (<10) or clearly a large concern (>300 / part of
+     a big group).
+5. **Verification pass (independent, before anything is shown to the
+   user).** Enrichment agents check their own work poorly, so after
+   enrichment run 2-3 *separate* checker agents (~15 leads each) that did
+   not write the leads. Per lead, at 2-3 tool calls (hard max 4), each
+   checker confirms against a real source: the decision maker's name and
+   role at *this* company, the size (soft, as above), evidence of
+   multiple locations/contracts, and any specific vacancies listed. Each
+   checker writes a verdict per lead — `bevestigd` / `aangepast` (with the
+   corrected values and source URLs) / `afvallen` (with the reason) — to a
+   scratchpad file. You then apply the corrections to the batch, drop the
+   `afvallen` leads, and fill each lead's `sources` from the checker's
+   URLs. This pass is the main accuracy gain: in the facility-management
+   run, about half the leads had an unnamed or unconfirmed decision maker
+   and several had no size at all — none of which a self-reviewing
+   enrichment agent flagged.
+6. **Do the dispatching and merging yourself** rather than delegating it to
    a middleman agent whose only job is to launch other agents — that layer
    adds real token cost (a full agent invocation) and produces no research.
 
@@ -244,10 +274,13 @@ to prevent that:
   run above, ~20 of the 37 agents were unrequested children) and also
   breaks result collection, because the children report to the parent,
   not to you.
-- **Prefer fewer, larger batches.** Because the fixed cost is per agent,
-  2-3 discovery agents and 3 enrichment agents of ~15-20 companies each
-  beat 5+5 small ones. The per-company cap (2-3 tool calls) is what keeps
-  a large batch from bloating, not a small batch size.
+- **Keep discovery wide and cheap; spend the tokens on accuracy.**
+  Because the fixed cost is per agent, discovery uses as few agents as
+  possible (2-3). Enrichment deliberately uses smaller batches (~10) and
+  there is a separate verification pass: those extra agents are worth it,
+  because lead accuracy matters more than token count. What the rules here
+  cut is *waste* (nested agents, duplicate research, re-sends), never
+  checks.
 - **Write the shared instructions once to a brief file** in the scratchpad
   (ICP, disqualifiers, per-company budget, output schema) and have each
   agent read it, instead of repeating the full brief in every prompt.
@@ -267,12 +300,12 @@ to prevent that:
 
 Rough sizing by N (agent counts are totals — stay inside them):
 
-| N | Discovery agents | Enrichment agents | Total agents | Rough tokens |
-|---|---|---|---|---|
-| ≤20 | 0 — single inline pass (step 3 as written) | inline | 0 | ~100-300k |
-| 20-40 | 2 | 2 (batches of ~15-25) | 4 | ~350-500k |
-| 40-70 | 3 | 3-4 (batches of ~15-20) | 6-7 | ~600-900k |
-| 70+ | 4-5, buffer-sized per the formula above | 5-6 (batches of ~15-20), strict per-company cap | ≤11 | ~1-1.3M |
+| N | Discovery agents | Enrichment agents | Verification agents | Total agents | Rough tokens |
+|---|---|---|---|---|---|
+| ≤20 | 0 — single inline pass (step 3 as written) | inline | 1 (or inline re-check) | 0-1 | ~150-350k |
+| 20-40 | 2 | 3-4 (batches of ~10) | 2 | 7-8 | ~600-900k |
+| 40-70 | 3 | 5-7 (batches of ~10) | 3 | 11-13 | ~1.0-1.4M |
+| 70+ | 4-5, buffer-sized per the formula above | 8-10 (batches of ~10), strict per-company cap | 4-5 | ≤20 | ~1.5-2M |
 
 4. **Prioritize and Score**
    - Create a fit score (1-10) for each lead
@@ -394,6 +427,11 @@ Rough sizing by N (agent counts are totals — stay inside them):
        why_fit: <Specific reasons based on their business>
        decision_maker: <Role/title to target>
        linkedin: <URL, or null if not found>
+       sources:                             # URL per hard fact, null if not verifiable
+         decision_maker: <URL or null>
+         size: <URL or null>
+         multi_location: <URL or null>
+         relevant_vacancies: <URL or null>
        value_proposition: <How the product solves their specific problem>
        outreach_strategy: <Personalized approach>
        conversation_starters:
@@ -409,6 +447,11 @@ Rough sizing by N (agent counts are totals — stay inside them):
        why_fit: <Specific reasons based on their business>
        decision_maker: <Role/title to target>
        linkedin: <URL, or null if not found>
+       sources:                             # URL per hard fact, null if not verifiable
+         decision_maker: <URL or null>
+         size: <URL or null>
+         multi_location: <URL or null>
+         relevant_vacancies: <URL or null>
        value_proposition: <How the product solves their specific problem>
        outreach_strategy: <Personalized approach>
        conversation_starters:
@@ -454,6 +497,12 @@ Rough sizing by N (agent counts are totals — stay inside them):
    - Offer to draft personalized outreach messages for top leads
 
 ## Common gotchas
+
+- **`sources` is provenance, not status.** The per-lead `sources` map
+  records where each hard fact came from so a caller can check a name or
+  headcount in one click before dialing. It is not a "verified/contacted"
+  flag and must not grow into CRM-style tracking (see "This is not a CRM"
+  below). Older batch files without `sources` are still valid.
 
 - **No automated dedupe, on purpose.** This skill does not compare new
   candidates against previous batch files. Doing that would mean re-reading
