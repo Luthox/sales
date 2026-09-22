@@ -1,0 +1,35 @@
+segment:
+  slug: facility-management
+  name: Facility Management (multi-locatie)
+  description: >
+    Narrows de industrie-agnostische basis-ICP naar facilitaire
+    dienstverleners in brede zin — schoonmaak, beveiliging, catering,
+    groenvoorziening, technisch gebouwbeheer/onderhoud en receptiediensten —
+    die op meerdere locaties/klantcontracten tegelijk werken. Kernprobleem:
+    decentrale planning per locatie en handmatige koppeling van
+    urenregistratie aan facturatie per klantcontract, nog vaak in Excel/losse
+    systemen per vestiging. Sluit direct aan op de bestaande
+    multi_location_expansion trigger in de basis-ICP.
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-09-22
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Facility Management Services
+      - Cleaning Services
+      - Security Services
+      - Catering Services
+      - Landscaping and Grounds Maintenance
+      - Building and Technical Maintenance
+      - Front-of-house and Reception Services
+  qualitative_disqualifiers:
+    - Werkt vanuit één vaste locatie met één klantcontract (geen
+      decentrale planning of meerdere klantcontracten om te beheren) — zelfs
+      als headcount de ondergrens haalt, is de backoffice-complexiteit dan
+      te laag om dit segment te rechtvaardigen
+
+icp_soft_preferences:
+  triggers:
+    - recent_won_tender_or_large_contract # net een aanbesteding of grote nieuwe opdracht gewonnen -> snel schalen over nieuwe locaties/contracten
+    - multiple_kvk_branch_locations # meerdere nevenvestigingen geregistreerd bij de KVK
