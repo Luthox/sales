@@ -175,10 +175,15 @@ Segments are entirely optional: nothing changes for anyone who doesn't use
 one, and `lead-generator-assistant` / `icp-prompt-builder` both fall back to
 the base ICP unless you explicitly name a segment.
 
-**Limitations:** modest scale (`lead-generator-assistant` is built for a
-10-20 company shortlist per run, not bulk volume — building a big list means
-running it many times and merging results yourself), no contact enrichment,
-and results aren't verified (spot-check anything found via web search
+**Limitations:** `lead-generator-assistant` handles a single run up to
+~20 leads as one straightforward pass. Above that, it switches to a
+discover-then-enrich pipeline (cheap, overlap-tolerant discovery across a
+few search angles, deduped centrally, then a budgeted enrichment pass on
+exactly the companies that will ship) so a 50-70 lead ask doesn't mean
+running it many times and merging results by hand — see "Scaling to large
+batches" in the skill itself for how that's sized. There's still no contact
+enrichment beyond what's publicly findable, and results aren't verified
+against authoritative sources (spot-check anything found via web search
 before acting on it at volume).
 
 ### Layer 2 — Per-account deep dive

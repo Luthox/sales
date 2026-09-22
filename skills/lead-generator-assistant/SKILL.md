@@ -158,6 +158,73 @@ When a user requests lead research:
      If a lead has zero relevant vacancies, say so plainly ("no relevant
      openings found") rather than omitting the check.
 
+### Scaling to large batches (20+ leads)
+
+For a small ask (up to ~20 leads), do step 3 as written above: discover and
+fully enrich each company in one pass. For anything larger, replace step 3
+with the pipeline below instead — doing full enrichment (site fetch +
+LinkedIn + decision-maker search + vacancy check) inline for every
+candidate across several parallel search angles causes two real problems at
+scale: the same company gets independently found *and* independently
+verified by more than one angle (wasted tool calls, and worse, two agents
+can guess two different names for the same decision-maker with nothing to
+reconcile them), and agents left open-ended tend to keep searching one
+company well past the point of diminishing returns instead of accepting
+"not found."
+
+**The number the user asked for is always the end-of-funnel count** — the
+number of real, deduplicated, ICP-qualified companies that end up in the
+saved batch, never the number of raw candidates found along the way. Don't
+silently deliver fewer than asked; either hit the number or say plainly
+that the segment ran dry at some smaller count.
+
+1. **Discovery (cheap, redundancy-tolerant).** Split the search into a
+   handful of angles (by sub-niche, region, or trigger signal — whatever
+   partitions the ICP sensibly). Each discovery pass does only 1-2 search
+   calls per candidate and outputs just `name + url + one-line reason` — no
+   site fetch, no LinkedIn, no decision-maker or vacancy lookup yet.
+   Overlap between angles is fine and expected here; a duplicate at this
+   stage costs almost nothing. Size the total discovery target with a
+   buffer over the requested count N: `discovery_target ≈ N / (1 -
+   expected_attrition)`, using ~25% as a default attrition estimate (dedup
+   + disqualifiers + unverifiable candidates), higher for a narrow segment.
+2. **Central dedupe and filter — done once, not per-agent.** Merge every
+   discovery angle's output yourself, dedupe by name/domain, and drop
+   anything that clearly fails the ICP hard filters. This is the only place
+   "which companies get researched" is decided, which is what guarantees no
+   company is ever verified twice.
+3. **Check the count against N.**
+   - If unique-qualified ≥ N: keep the top N (by whatever fit signal is
+     available from the discovery snippets) and drop the rest — no reason
+     to pay to enrich candidates that won't ship.
+   - If unique-qualified < N: run one more discovery round using *new*
+     angles not yet tried, sized to the shortfall, then re-check. Repeat.
+   - If after 2-3 top-up rounds the segment still can't produce N real
+     companies, stop and tell the user plainly (e.g. "found 41 solid
+     matches, couldn't responsibly find 9 more without loosening the ICP —
+     widen it, or take the 41?") instead of padding the list with weak fits.
+4. **Enrichment (expensive, but exactly-once and budgeted).** Split the
+   final N into batches of ~10-15 and enrich each batch in parallel — each
+   enrichment pass gets an *assigned, fixed list* of companies (it cannot
+   discover more) and does the full per-lead work from step 3 above (tech
+   stack, vacancies, decision maker, LinkedIn) capped at roughly 2-3 tool
+   calls per company. If a fact isn't found inside that budget, record it as
+   "not found on site" rather than continuing to dig — that's the same
+   fallback the schema already expects, so the cap doesn't reduce what
+   actually ships, only how long an agent searches before accepting a gap.
+5. **Do the dispatching and merging yourself** rather than delegating it to
+   a middleman agent whose only job is to launch other agents — that layer
+   adds real token cost (a full agent invocation) and produces no research.
+
+Rough sizing by N:
+
+| N | Discovery angles | Enrichment batching |
+|---|---|---|
+| ≤20 | 0 — single inline pass (step 3 as written) | inline |
+| 20-40 | 2-3 | 1-2 batches of ~15-20 |
+| 40-70 | 4-6 | 4-5 batches of ~10-15 |
+| 70+ | 6-8, buffer-sized per the formula above | batches of ~10-15, strict per-company tool-call cap |
+
 4. **Prioritize and Score**
    - Create a fit score (1-10) for each lead
    - Consider factors like:
