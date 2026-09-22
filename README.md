@@ -65,38 +65,56 @@ target list" to "ready to dial," using the skills above:
 2. **Build a shortlist.** *"Find me leads that fit our ICP"*
    (`lead-generator-assistant`) — or *"find leads for the `<segment>`
    segment"* if you set one up. Run it repeatedly with different sector or
-   region framings to keep surfacing candidates.
-3. *(Optional, and rarely needed — see below)* **Tune a qualification
-   prompt** (`icp-list-qualifier`) — only for a big list of companies you
-   got from **outside** this repo (a purchased list, a trade-show export, a
-   KVK bulk export). You write down what a good fit looks like, test it on
-   10 companies, correct anything it got wrong, retest on 10 more, and
-   repeat until it gets two batches in a row completely right — only then
-   do you trust it to grade the rest of a pile you could never review
-   yourself. **Skip this if your shortlist came from `lead-generator-
-   assistant`** — that skill already applies the ICP/segment itself during
-   discovery and scores every lead before you ever see it, even at 50-70+
-   leads (see its large-batch pipeline below). This tool only earns its
-   keep on a list that never went through that skill in the first place.
-4. **Triage the shortlist.** `/sales quick <url>` on each candidate — a fast
+   region framings to keep surfacing candidates. This already scores and
+   filters every lead against your ICP itself, even at 50-70+ leads — no
+   extra qualification step needed before the next step.
+3. **Triage the shortlist.** `/sales quick <url>` on each candidate — a fast
    gut check to rank who's actually worth going deeper on before you invest
    more time. Since the saved batch file already carries lead-generator-
    assistant's full read on each company (score, tech stack, decision
    maker, etc.), this step matters most when you want a fresh look at a
    lead that may have changed since the batch was generated.
-5. **Go deep on your top few**, using whichever of these actually answers
+4. **Go deep on your top few**, using whichever of these actually answers
    the question you have — you don't need all of them for every prospect:
    - `/sales research <url>` — company background & firmographics
    - `/sales contacts <url>` — who to actually ask for
    - `/sales qualify <url>` — is this lead worth chasing (BANT/MEDDIC)
    - `/sales competitors <url>` — what they're already using
-6. **Prep for pushback.** `/sales objections <topic/industry>` right before
+5. **Prep for pushback.** `/sales objections <topic/industry>` right before
    the call, so responses are ready instead of improvised live.
-7. **Call.**
+6. **Call.**
 
 `/sales prospect <url>` (the full 4-in-1 report) isn't part of this flow —
 it's a heavier deliverable for when you want a written report to hand off
 or reference later, not something you need on the way to a cold call.
+
+> **Got a list from somewhere other than `lead-generator-assistant`?** (a
+> purchased list, a trade-show export, a KVK bulk export) — that's the one
+> case this flow doesn't cover, since those companies were never scored
+> against your ICP. See [Qualifying a list you got elsewhere](#qualifying-a-list-you-got-elsewhere)
+> below.
+
+---
+
+## 📋 Qualifying a list you got elsewhere
+
+Skip this section unless you have a list of companies that came from
+**outside** `lead-generator-assistant` — a purchased list, a trade-show
+export, a KVK bulk export, anything nobody here scored against your ICP
+yet.
+
+Say *"tune a qualification prompt for this list"* (`icp-list-qualifier`).
+Think of it as training a junior assistant to screen a huge stack of
+resumes: you write down what a good fit looks like, test it on 10
+companies, correct anything it got wrong, retest on 10 more, and repeat
+until it gets two batches in a row completely right — only then do you
+trust it to grade the rest of a pile you could never review by hand
+yourself.
+
+You will **not** need this after `lead-generator-assistant` — that skill
+already applies your ICP (or segment) itself while it searches, and scores
+every lead before it's ever shown to you, even at 50-70+ leads. This tool
+only earns its keep on a list that never went through that skill.
 
 ---
 
