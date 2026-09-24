@@ -1,0 +1,67 @@
+segment:
+  slug: installateurs-monteurs
+  name: Installateurs met monteurs op locatie (3-25 mw)
+  description: >
+    Beperkt de industrie-agnostische basis-ICP tot kleine en middelgrote
+    technische dienstverleners met monteurs in loondienst die bij klanten
+    op locatie werken: loodgietersbedrijven (W-installatie), elektrotechnische
+    installatiebedrijven (E-installatie) en onderhoudsbedrijven voor
+    cv-ketels en installaties. Het probleem: werkbonnen, uren, materiaal en
+    keurings- of onderhoudsrapporten (bijv. NEN 3140) worden eerst op papier
+    ingevuld en daarna nog eens overgetypt. Dat kost tijd, levert fouten op
+    en laat vervolgwerk liggen. De oplossing: de monteur spreekt op locatie
+    in wat hij gedaan en gezien heeft, en de software maakt daar
+    automatisch de werkbon, urenstaat, materialenlijst en het keurings- of
+    onderhoudsrapport van. Het aanbod wijkt af van de basis: geen
+    intakegesprek voor maatwerk, maar een co-development-partnerschap. Het
+    bedrijf krijgt vroeg toegang en praat mee over de features, Luthox krijgt
+    feedback uit de praktijk. Outreach voor dit segment moet dat aanbod
+    gebruiken in plaats van de CTA uit de basis.
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-09-24
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Plumbing (loodgietersbedrijven / W-installatie)
+      - Electrical Installation (elektrotechnische installatiebedrijven / E-installatie)
+      - Heating and Boiler Maintenance (cv-ketel- en installatieonderhoud)
+  headcount_min: 3
+  headcount_max: 25
+  job_titles:
+    - Directeur-eigenaar
+    - Bedrijfsleider
+    - Servicemanager
+    - Hoofd service
+    - Werkvoorbereider
+    - Planner
+  qualitative_disqualifiers:
+    add:
+      - Minder dan 3 medewerkers — de ondergrens is hard (geen
+        edge-tolerance), alleen de bovengrens van 25 is flexibel
+      - Geen monteurs in loondienst die op locatie werken (bijv. een
+        eenmanszaak of zzp-collectief, of alleen winkel-, showroom- of
+        groothandelsverkoop zonder buitendienst)
+    remove:
+      # Voor kleine installateurs is 'veel monteurs op veel klantadressen'
+      # juist de complexiteit, ook met één vestiging en één dienst.
+      - Low operational complexity (single location, single service line, low client/transaction volume) — even if headcount clears the floor, not enough backoffice complexity to justify custom software
+
+icp_soft_preferences:
+  triggers:
+    - job_postings_for_monteurs                # vacatures voor monteurs/servicetechnici -> groei, meer werkbonnen
+    - job_postings_for_office_admin_or_planner # vacature administratief medewerker/planner -> kantoor loopt vast op verwerking
+    - inspection_certification_with_reporting  # NEN 3140/SCIOS, InstallQ, F-gassen/STEK -> verplichte keurings- of onderhoudsrapporten
+    - maintenance_contracts_or_storingsdienst  # onderhoudscontracten of 24/7 storingsdienst in het aanbod -> veel rapporten en vervolgwerk
+    - visible_paper_werkbon_process            # papieren werkbon/doordrukformulier zichtbaar op de site, in reviews of vacatureteksten
+  partial_competitor_overlap_note: >
+    Heeft het bedrijf al een digitale werkbon- of field-service-app (bijv.
+    Gripp, Tradecount, Simpro, Mobiel Werkbon)? Dan is dat GEEN reden om het
+    over te slaan. Monteurs typen daarin nog steeds op een telefoon of
+    tablet. Inspreken met automatisch ingevulde documenten is juist het
+    verschil. Noteer de app als aandachtspunt voor de outreach, niet als
+    uitsluiting.
+  personas_to_prioritize:
+    set:
+      - Directeur-eigenaar
+      - Bedrijfsleider / Servicemanager
