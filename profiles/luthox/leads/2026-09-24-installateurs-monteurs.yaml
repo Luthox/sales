@@ -1,0 +1,1008 @@
+business: luthox
+segment: installateurs-monteurs
+generated_at: '2026-09-24'
+description: Kleine installateurs (3-25 mw, monteurs in loondienst op locatie) in heel Nederland, verdeeld over W-installatie, E-installatie en cv-/installatieonderhoud. Discovery via 3 invalshoeken per vakgebied plus een reserveronde, verrijking per bedrijf, daarna onafhankelijke verificatie. Outreach met het co-development-aanbod. Bol/Vermeulen (samen ca. 40 mw) op verzoek opgenomen.
+leads:
+- name: HVE Elektrotechniek B.V.
+  url: https://hve-elektro.nl/
+  priority_score: 9/10
+  industry: E-installatie
+  size: ca. 18 medewerkers volgens teampagina, waarvan ~10 in de buitendienst (senior/elektromonteurs, leidinggevend monteur, service- en beveiligingsmonteur, 2 leerlingen) + werkvoorbereider en 3 administratief
+  tech_stack: Website met aparte pagina's voor diensten en vacatures; geen klantportaal, storingsformulier of werkbon-app genoemd. Drie administratieve medewerkers op ca. 18 man wijst op veel handwerk op kantoor
+  relevant_vacancies: Elektromonteur, Servicemonteur, Beveiligingsmonteur, Leidinggevend monteur, Keurmeester, Service beveiligingsmonteur (vacaturepagina)
+  why_fit: E-installateur in Oisterwijk (elektra, domotica, beveiliging) met service & onderhoud en storingsdienst; ca. 18 medewerkers, 6 open vacatures (sterke groei), waaronder keurmeester — dus keuringsrapportages (NEN 3140-type). Eigenaar direct bereikbaar via LinkedIn.
+  decision_maker: Henry van Eijndhoven — eigenaar/algemeen directeur
+  linkedin: https://www.linkedin.com/in/henry-van-eijndhoven-b1247126/
+  sources:
+    decision_maker: https://www.regio-business.nl/magazines/archief/editie-midden-brabant/juli-augustus-2014/hve-elektrotechniek-schakel-tussen-twee-werelden/
+    size: https://hve-elektro.nl/wie-zijn-wij/
+    multi_location: https://hve-elektro.nl/
+    relevant_vacancies: https://hve-elektro.nl/vacatures/
+  value_proposition: Monteurs en de nieuwe keurmeester spreken op locatie in wat ze deden en zagen; werkbon, urenstaat, materiaallijst en keuringsrapport (NEN 3140) worden automatisch gemaakt — ontlast de 3 administratieve krachten en de werkvoorbereider terwijl het team groeit.
+  outreach_strategy: 'LinkedIn-bericht aan Henry van Eijndhoven, opvolgen via 013 522 09 92. Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; haak in op de keurmeester-vacature en zes open vacatures.'
+  conversation_starters:
+  - 'Jullie zoeken een keurmeester — hoe worden keuringsrapportages nu opgesteld: op locatie of achteraf op kantoor?'
+  - Met zes vacatures open groeit het team snel; hoe houd je de werkbonnen van service- en beveiligingsmonteurs bij zonder extra administratie?
+- name: Rudon Service (Rudon B.V.)
+  url: https://www.rudonservice.nl
+  priority_score: 8/10
+  industry: combinatie
+  size: ca. 20-25 medewerkers (eigen sites noemen zowel 'team van 20' als 'team van 25'); zelfstandig, geen groep
+  tech_stack: Eigen website met online serviceaanvraag- en sollicitatieformulier, aparte pagina voor particuliere onderhoudscontracten; geen klantportaal of werkbon-app zichtbaar. Tweede site rudonijsselstein.nl voor installatietak. Beperkt gedigitaliseerde buitendienst vermoedelijk.
+  relevant_vacancies: Servicemonteur cv-ketels (actief); Loodgieter en Servicemonteur (aangekondigd, details nog niet gepubliceerd)
+  why_fit: Cv-/installatieonderhoud met eigen storingslijn, onderhoudsabonnementen en verbrandingsmetingen/keuringen van gastoestellen in heel regio Utrecht; ATAG Select-/GreenDealer; ~25 man en groeiend (3 vacatures buitendienst) — veel werkbonnen en onderhoudsrapporten per dag.
+  decision_maker: R. Breedijk — algemeen directeur Rudon B.V. (alleen via KVK-aggregator Kompass, zwakke bron); ContactOut noemt daarnaast Ferdinand Alink (eigenaar) en Herman Meilink (mede-eigenaar) — tegenstrijdig, telefonisch bevestigen
+  linkedin: null
+  sources:
+    decision_maker: https://gb.kompass.com/c/rudon-b-v/nl477108/
+    size: https://www.rudonijsselstein.nl/
+    multi_location: https://www.rudonservice.nl
+    relevant_vacancies: https://www.rudonservice.nl/contact/vacatures/
+  value_proposition: Monteurs spreken na elk onderhoud of storing in wat ze deden en zagen; werkbon, urenstaat, materiaallijst en onderhouds-/verbrandingsrapport staan direct klaar voor de administratie en het onderhoudscontract.
+  outreach_strategy: 'Directeur-eigenaar bellen via 030 6868 200 (Rudon B.V.) en naam opvragen; daarna mail met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: 3 openstaande monteursvacatures = nieuwe monteurs snel productief zonder papierwerk.'
+  conversation_starters:
+  - Jullie zoeken drie nieuwe monteurs — hoe zorgen jullie dat nieuwe mensen hun werkbonnen en onderhoudsrapporten meteen goed invullen?
+  - Bij onderhoudsabonnementen hoort per bezoek een rapport met verbrandingsmeting — hoe komt dat nu van de bus naar kantoor?
+- name: Gertenbach Elektro B.V.
+  url: https://www.gertenbach-elektro.nl/
+  priority_score: 8/10
+  industry: E-installatie
+  size: 20 medewerkers (jobsonline bedrijfsprofiel, band 11-25)
+  tech_stack: Eigen website met contactformulier, aparte storingslijn (078-6188840) buiten kantoortijd; geen klantportaal, online storingsmelding of werkbon-app zichtbaar. Actief op Facebook, Instagram, YouTube. Waarschuwing op site dat echte Gertenbach-facturen altijd na reparatie volgen — facturatie loopt via kantoor.
+  relevant_vacancies: none found
+  why_fit: Erkend en gecertificeerd E-installatiebedrijf sinds 1934 (Dordrecht) met ~20 man, eigen opleiding van personeel, onderhoud van bestaande installaties en storingsdienst; werkt voor gemeenten, aannemers, bedrijven en particulieren in regio Rotterdam–Gorinchem–Breda. Directeur is zelf van stagiair doorgegroeid — goed aanspreekbaar.
+  decision_maker: Ron Dubbelman — DGA (ook DGA zusterbedrijf Prent Aandrijftechniek; enig directeur na uitkoop partner)
+  linkedin: https://nl.linkedin.com/in/ron-dubbelman-36836340
+  sources:
+    decision_maker: https://nl.linkedin.com/in/ron-dubbelman-36836340
+    size: https://www.jobsonline.nl/bedrijfspresentatie/gertenbach/
+    multi_location: https://www.gertenbach-elektro.nl/
+    relevant_vacancies: https://www.jobsonline.nl/bedrijfspresentatie/gertenbach/
+  value_proposition: Monteurs spreken na onderhoud, storing of keuring in wat ze deden; werkbon, urenstaat, materiaallijst en (NEN 3140-)onderhoudsrapport staan direct klaar zodat de factuur sneller de deur uit gaat.
+  outreach_strategy: 'Ron Dubbelman persoonlijk mailen/bellen (078-6512555) met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Aanhaken op zijn verhaal over eigen opleiding van personeel — spraak-werkbon helpt jonge monteurs complete rapporten te maken.'
+  conversation_starters:
+  - U bent zelf als stagiair bij Gertenbach begonnen — hoe leren jullie jonge monteurs nu een goede werkbon en onderhoudsrapport in te vullen?
+  - 'Na een storing buiten kantoortijd: hoe komt het verhaal van de monteur bij de administratie terecht voor de factuur?'
+- name: Veldkamp Installatietechniek
+  url: https://www.vi-assen.nl/
+  priority_score: 8/10
+  industry: combinatie
+  size: 9 medewerkers volgens eigen site; aantal monteurs niet geverifieerd
+  tech_stack: Eigen website met contactformulier en vacaturepagina, actief op Facebook; geen klantportaal, online storingsmelding, webshop of werkbon-app zichtbaar — digitalisering buitendienst lijkt beperkt.
+  relevant_vacancies: Installatiemonteur; Installatiemonteur E-installaties; Installatiemonteur (service) W-installaties — drie openstaande vacatures zonder verdere details
+  why_fit: Totaalinstallateur (E, W, cv, gas, zonnepanelen) sinds 1978 in Assen met 9 man, cv-onderhoud en storingsdienst incl. weekend met uitgeruste servicebussen; lid Techniek Nederland, erkend; klanten particulier, zakelijk, overheid, stichtingen. Drie monteursvacatures = sterke groei ten opzichte van huidige omvang.
+  decision_maker: 'niet geverifieerd — naam eigenaar niet gevonden op site, LinkedIn of aggregators; bedrijf is VOF (ontstaan uit maatschap 1978). Doel: vennoot/eigenaar, telefonisch opvragen via 0592-345773'
+  linkedin: https://nl.linkedin.com/company/veldkamp-installatie-techniek-bv
+  sources:
+    decision_maker: null
+    size: https://www.vi-assen.nl/
+    multi_location: https://www.vi-assen.nl/
+    relevant_vacancies: https://www.vi-assen.nl/vacatures
+  value_proposition: Monteurs spreken na onderhoud, storing of installatie in wat ze deden; werkbon, urenstaat, materiaallijst en onderhoudsrapport worden automatisch gemaakt — zodat groei van 9 naar 12 man geen extra kantoorkracht vraagt.
+  outreach_strategy: 'Bellen naar 0592-345773 en naar de eigenaar vragen (naam via telefoon/KVK achterhalen), daarna korte mail met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: drie open monteursvacatures.'
+  conversation_starters:
+  - Jullie zoeken drie monteurs tegelijk — hoe houden jullie de administratie bij als het team zo hard groeit?
+  - 'Bij het cv-onderhoud en de weekenddienst: hoe komen werkbon en uren van de monteur nu bij kantoor?'
+- name: Technisch Bureau W. Janssen B.V.
+  url: https://wjanssen.nl/
+  priority_score: 8/10
+  industry: W-installatie
+  size: ca. 28 personen op teampagina (Thierry, 3 kantoor, 2 werkvoorbereiders, ~11 monteurs/tankinstallateurs, 7 assistent-monteurs); site zegt '20 professionals' — bovengrens ICP
+  tech_stack: WordPress-achtige website met contactformulier, vacaturepagina en teampagina; actief op Instagram, Facebook, LinkedIn, YouTube; geen klantportaal, online storingsmelding of werkbon-app zichtbaar. ISO 9001 en BRL-certificeringen impliceren veel verplichte vastlegging/rapportage.
+  relevant_vacancies: Allround Loodgieter (28-07-2026); Tankinstallateur (20-07-2026); Servicemonteur m/v (16-07-2026); Loodgieter m/v (15-07-2026); 'Van zzp'er naar loondienst' (02-07-2026); Dakdekker (01-07-2026)
+  why_fit: Familiebedrijf (4e generatie, sinds 1937) voor loodgieters-, cv-, gas-, riolerings-, dak- en tankinstallatiewerk in Den Haag e.o.; ISO 9001, VCA, BRL-SIKB 7800/K902/K25000, NEN 3140 — rapportageplicht; eigen werkvoorbereider en 3 kantoormedewerkers; zes open vacatures voor buitendienst.
+  decision_maker: Thierry Staallekker — directeur-eigenaar (nam het bedrijf per 24 mei officieel over van André Staallekker; 4e generatie familiebedrijf)
+  linkedin: https://nl.linkedin.com/in/thierry-staallekker-8a072a2b
+  sources:
+    decision_maker: https://wjanssen.nl/w-janssen-bv-is-overgenomen-door-thierry-staallekker/
+    size: https://wjanssen.nl/over-ons/
+    multi_location: https://wjanssen.nl/
+    relevant_vacancies: https://wjanssen.nl/vacatures/
+  value_proposition: Monteurs en tankinstallateurs spreken op locatie in wat ze deden; werkbon, urenstaat, materiaallijst en BRL-/keuringsrapport worden automatisch opgesteld — minder overtypen voor administratie en werkvoorbereider, ISO-vastlegging automatisch compleet.
+  outreach_strategy: 'Thierry via LinkedIn benaderen of bellen (070-346 12 80) met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: zes vacatures + ISO/BRL-rapportagedruk; werkvoorbereider Rick als tweede ingang.'
+  conversation_starters:
+  - 'Met zes open vacatures en BRL-certificeringen: hoe zorgen jullie dat nieuwe monteurs meteen complete werkbonnen en rapporten opleveren?'
+  - Hoeveel tijd gaat er bij Janita, Patricia en Rick op aan het uitwerken van werkbonnen en uren van de buitendienst?
+- name: Van Looy Installateurs
+  url: https://www.vanlooy.nl/
+  priority_score: 8/10
+  industry: W-installatie
+  size: ruim 20 medewerkers (volgens regionale ondernemerspagina); na overname Installatiebedrijf Van Hal (per 1 januari, incl. personeel en servicecontracten) mogelijk iets meer — exact aantal niet geverifieerd
+  tech_stack: Eigen website met vacaturepagina en sollicitatie via mail, Instagram/Facebook; geen klantportaal, online storingsmelding of werkbon-app zichtbaar.
+  relevant_vacancies: Onderhouds- & servicemonteur (open sollicitatie via info@vanlooy.nl)
+  why_fit: W-installateur (sanitair, cv, water, riolering, dak/zink, woningaanpassingen) in IJzendijke/Zeeuws-Vlaanderen, 80+ jaar, voor particulieren, bedrijven en woningcorporaties; storings- en ontstoppingsdienst, KIWA BRL 6000-25, CO-vrij, erkend leerbedrijf. Recent Van Hal overgenomen incl. servicecontracten — meer onderhoudsbezoeken en werkbonnen, processen samenvoegen = goed moment.
+  decision_maker: Orson Jongman — eigenaar (samen met Petra Jongman sinds 1 januari 2010)
+  linkedin: null
+  sources:
+    decision_maker: https://www.vanlooy.nl/over-ons/
+    size: https://www.ondernemersverenigingijzendijke.nl/installatiebedrijf-van-looy/
+    multi_location: https://www.vanlooy.nl/over-ons/
+    relevant_vacancies: https://www.vanlooy.nl/vacatures/
+  value_proposition: Monteurs spreken na onderhoud of storing in wat ze deden; werkbon, urenstaat, materiaallijst en onderhoudsrapport voor de (overgenomen) servicecontracten ontstaan automatisch — één uniforme werkwijze voor het samengevoegde team.
+  outreach_strategy: 'Orson (en Petra) Jongman persoonlijk mailen/bellen (0117-301397) met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: overname Van Hal en integratie van servicecontracten en monteurs.'
+  conversation_starters:
+  - Met de overname van Van Hal kwamen er servicecontracten en monteurs bij — werken die inmiddels op dezelfde manier met werkbonnen als jullie eigen team?
+  - 'Voor de woningcorporaties: hoe leveren jullie monteurs de rapportage van storingen en onderhoud nu aan?'
+- name: Kadiks Installatiebedrijf B.V.
+  url: https://www.kadiksbv.nl/
+  priority_score: 8/10
+  industry: combinatie
+  size: ca. 13 medewerkers op teampagina (eigenaar, teamleider, 2 projectleiders, werkvoorbereider/service, meerdere E- en W-monteurs, magazijn/chauffeur)
+  tech_stack: Bedrijfssite met dienstenpagina's en contactformulier; InstallQ en 'Uw Duurzame Installateur' vermeld; geen klantportaal of werkbon-app zichtbaar, ook niet in vacatures
+  relevant_vacancies: Servicemonteur cv/warmtepompen/loodgieter (vanaf €3.500); werkvoorbereider E; allround elektricien woningbouw & kleine utiliteit; allround loodgieter; stage
+  why_fit: Allround W+E-installateur (loodgieter, cv, warmtepomp, airco, elektra, NEN-keuringen) met servicecontracten, onderhoud en storingslijn binnen ca. 1 uur rijden rond Moerkapelle; InstallQ- en Techniek Nederland-lid; familiebedrijf (Hoogendoorn) dat actief werft voor zowel monteurs als werkvoorbereider — sterk signaal
+  decision_maker: Jacques Hoogendoorn — directeur-eigenaar (3e generatie, nam in 2014 over van vader Jaco)
+  linkedin: https://nl.linkedin.com/company/kadiks-installatiebedrijf-b.v.
+  sources:
+    decision_maker: https://www.kadiksbv.nl/over-ons/
+    size: https://www.kadiksbv.nl/over-ons/
+    multi_location: https://www.kadiksbv.nl/over-ons/
+    relevant_vacancies: https://www.kadiksbv.nl/vacatures/
+  value_proposition: Een werkvoorbereider erbij zoeken betekent dat de administratie achter de monteurs knelt; met Luthox spreken monteurs werkbon, uren en materialen in op locatie en genereren ze direct het NEN-keuringsrapport, zodat kantoor en de nieuwe werkvoorbereider niet meer hoeven over te typen.
+  outreach_strategy: 'Direct aan Jacques Hoogendoorn (telefoon 079-593 2524 of LinkedIn): we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; aanhaken op de vier openstaande vacatures en de combinatie W+E+keuringen.'
+  conversation_starters:
+  - Jullie zoeken tegelijk een werkvoorbereider E en meerdere monteurs — waar zit nu de meeste administratietijd per klus?
+  - 'Jullie doen ook NEN-keuringen naast service en onderhoud: hoe komen de bevindingen van de monteur nu in het rapport?'
+- name: Gascontrol Haarlem B.V.
+  url: https://www.gascontrolhaarlem.nl
+  priority_score: 8/10
+  industry: combinatie
+  size: 16 vaste medewerkers (volgens over-ons pagina)
+  tech_stack: WordPress-website met offerteformulier; geen klantportaal of werkbon-app zichtbaar — waarschijnlijk nog handmatige/papieren werkbonverwerking
+  relevant_vacancies: Ervaren servicemonteurs en montagemonteurs (vacaturepagina)
+  why_fit: 'Loodgieters-/installatiebedrijf (cv, warmtepompen, zwembadtechniek, dakwerk) met 16 medewerkers in Haarlem; servicecontracten voor corporaties, VvE''s en particulieren; aparte storingslijn; CO-gecertificeerd, KIWA F-gassen, BRL6000-25, VCA; lid Techniek Nederland. Werkgebied West- en Midden-Nederland. Actief op zoek naar monteurs. Na verificatie: Aanvulling: zelfde eigenaar/adres voert ook merk Loodgietersbedrijf H. van Baak & Zn. (overgenomen 2015, Kennemerland, woningcorporaties) — één gesprek dekt beide; 16 vaste medewerkers, 24-uurs storingslijn'
+  decision_maker: Dick Pieters — directeur-eigenaar (oprichter 1993)
+  linkedin: null
+  sources:
+    decision_maker: https://www.gascontrolhaarlem.nl/over-ons/
+    size: https://www.gascontrolhaarlem.nl/over-ons/
+    multi_location: https://loodgietervanbaakbloemendaal.nl/
+    relevant_vacancies: https://www.gascontrolhaarlem.nl/vacature/
+  value_proposition: CO-certificering en F-gassen vragen vastlegging per onderhoudsbeurt; monteurs spreken ter plekke in wat ze deden en de werkbon, urenstaat en onderhoudsrapport liggen direct klaar — minder overtypen op kantoor bij servicecontracten voor corporaties.
+  outreach_strategy: 'Direct naar Dick Pieters (mail/telefoon 023-526 48 86). Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; haak in op CO-certificering en de vacature voor servicemonteurs.'
+  conversation_starters:
+  - 'Sinds de CO-certificering verplicht is: hoe leggen jullie monteurs de metingen en bevindingen per ketel nu vast?'
+  - Van een garage in Aerdenhout naar 16 man — hoe loopt de werkbon nu van monteur naar facturatie?
+- name: Tension Elektrotechniek
+  url: https://www.tensionelektrotechniek.nl/
+  priority_score: 8/10
+  industry: E-installatie
+  size: ca. 20 elektrotechnische vakmensen (over-ons pagina)
+  tech_stack: WordPress-website; geen klantportaal, storingsformulier of werkbon-app genoemd (ook niet in vacatures) — werkbonproces vermoedelijk handmatig of met los pakket
+  relevant_vacancies: Monteur Elektrotechniek Woningbouw, Service en Onderhoud; Elektromonteur; Projectleider (plannen, projectadministratie, BRL 6000-01/02)
+  why_fit: Elektrotechnisch installatiebedrijf in Hoofddorp (sinds 2007) met ca. 20 vakmensen; ontwerp, aanleg en onderhoud voor zakelijk en particulier, incl. laadpalen en LED; projecten door Randstad (Amsterdam, Scheveningen, Leimuiden). BRL 6000 (Bureau Veritas), lid Uneto-VNI/Techniek Nederland. Drie open vacatures = groei; eigenaar direct aanspreekbaar.
+  decision_maker: Mike Holla — eigenaar/directeur (oprichter 2007)
+  linkedin: null
+  sources:
+    decision_maker: https://www.tensionelektrotechniek.nl/over-tension/
+    size: https://www.tensionelektrotechniek.nl/over-tension/
+    multi_location: https://www.tensionelektrotechniek.nl/
+    relevant_vacancies: https://www.tensionelektrotechniek.nl/vacatures/
+  value_proposition: Elektromonteurs in service en onderhoud spreken ter plekke in wat ze deden en zagen; werkbon, urenstaat, materialenlijst en keuringsrapport (NEN 3140-achtig) staan direct klaar — minder administratie voor de projectleider en Mike zelf.
+  outreach_strategy: 'Direct naar Mike Holla (info@tensionelektrotechniek.nl / 023-565 30 09). Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; haak in op de nieuwe projectleider-vacature (projectadministratie) en groei in service/onderhoud.'
+  conversation_starters:
+  - Jullie zoeken een projectleider die ook de projectadministratie doet — hoeveel daarvan is nu werkbonnen en uren van monteurs overtypen?
+  - 'Bij service en onderhoud in woningbouw: hoe leggen jullie monteurs nu vast wat ze aantroffen en welk materiaal ze gebruikten?'
+- name: Installatieburo Jongsma
+  url: https://jongsma-assen.nl
+  priority_score: 8/10
+  industry: combinatie
+  size: ca. 13 medewerkers op de teampagina (eigenaar, installatie- en elektromonteurs, leerlingen, administratie)
+  tech_stack: WordPress-achtige site; online 'plan onderhoud'-functie en contactformulier; geen klantportaal of webshop; geen werkbon-app genoemd in vacatures
+  relevant_vacancies: Installateur warmtepompen (38 u), Onderhoudsmonteur cv-ketels en warmtepompen fulltime (38 u) en parttime (24 u)
+  why_fit: Ideale omvang (~13) met monteurs in loondienst die dagelijks onderhoud doen bij particulieren in Assen e.o.; drie open monteursvacatures = groei en capaciteitsdruk; breed pakket (cv, warmtepomp, elektra, sanitair) = veel verschillende werkbonnen/onderhoudsrapporten. Familiebedrijf sinds 1991, eigenaar Robert Jongsma sinds 2013.
+  decision_maker: Robert Jongsma — eigenaar (sinds 2013)
+  linkedin: https://www.linkedin.com/in/robert-jongsma-6234a380/
+  sources:
+    decision_maker: https://jongsma-assen.nl/ons-team/
+    size: https://jongsma-assen.nl/ons-team/
+    multi_location: https://jongsma-assen.nl
+    relevant_vacancies: https://jongsma-assen.nl/vacatures/
+  value_proposition: Nieuwe onderhoudsmonteurs zijn sneller productief als ze na elke beurt alleen hoeven in te spreken wat ze deden en zagen; werkbon, materialenlijst en onderhoudsrapport rollen er automatisch uit voor de administratie.
+  outreach_strategy: 'Robert Jongsma direct via LinkedIn en info@jongsma-assen.nl; haak in op de drie openstaande onderhoudsmonteur-vacatures. Co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''.'
+  conversation_starters:
+  - Jullie zoeken drie onderhoudsmonteurs tegelijk — hoe borgen jullie dat werkbonnen van nieuwe mensen compleet binnenkomen?
+  - Klanten plannen onderhoud online; hoe komt het verslag van die beurt daarna bij de administratie?
+  - Werken de monteurs voor cv, warmtepomp en elektra met dezelfde werkbon, of verschilt dat per vak?
+- name: J. van Dommelen Elektrotechniek B.V.
+  url: https://dommelen.nl/
+  priority_score: 8/10
+  industry: E-installatie
+  size: ruim twintig ervaren professionals (eigen site); monteurs bezoeken particuliere en zakelijke klanten
+  tech_stack: WordPress-site zonder klantportaal of online storingsformulier; sollicitaties per e-mail. Werkt met kwaliteitshandboek (systematische processen). Geen werkbon-app zichtbaar. Monteurs krijgen mobiele telefoon — past bij spraak-invoer.
+  relevant_vacancies: Beveiligingsmonteur (incl. onderhoud, storingen en storingsdienst) op werken-bij pagina; datum onbekend
+  why_fit: 'Rotterdams familiebedrijf (sinds 1957) in elektrotechniek, telematica en beveiliging met ~20+ vakmensen, NEN 3140-keuringen, onderhoud en storingsdienst. Certificeringen met rapportageplicht: InstallQ, BORG, BRL6000, VCA, lid Techniek Nederland. Keuringsrapporten (NEN 3140, BMI/noodverlichting) sluiten direct aan op Luthox.'
+  decision_maker: John van Dommelen — directeur-eigenaar (tweede generatie, nam bedrijf over van vader)
+  linkedin: https://nl.linkedin.com/in/john-van-dommelen-2b914019
+  sources:
+    decision_maker: https://dommelen.nl/over-ons/
+    size: https://dommelen.nl/over-ons/
+    multi_location: https://dommelen.nl/werken-bij/
+    relevant_vacancies: https://dommelen.nl/werken-bij/
+  value_proposition: Monteurs spreken na een NEN 3140-keuring, BMI-onderhoud of storing in wat ze aantroffen; keuringsrapport, werkbon, urenstaat en materiaallijst rollen er automatisch uit — conform het kwaliteitshandboek en BORG/InstallQ-eisen, zonder overtikken op kantoor.
+  outreach_strategy: 'LinkedIn-bericht aan John van Dommelen + mail info@dommelen.nl / bellen 010-262 22 02. Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features — met NEN 3140- en brandmeldrapportage als concrete use case.'
+  conversation_starters:
+  - Jullie doen NEN 3140-keuringen en BMI/noodverlichtingsonderhoud onder BORG en InstallQ — hoe komen de bevindingen van de monteur nu in het rapport?
+  - In het kwaliteitshandboek staan jullie processen strak beschreven; waar zit nog handwerk tussen de klus op locatie en de factuur?
+- name: Verhees en van Dijk Installatietechniek B.V.
+  url: https://www.verheesenvandijk.nl/
+  priority_score: 8/10
+  industry: combinatie
+  size: '9 medewerkers (teamfoto/teampagina): 2 leidinggevenden die meewerken, 4 installatiemonteurs, 2 servicemonteurs, 1 werkvoorbereider/tekenaar, 1 secretaresse'
+  tech_stack: Eenvoudig eigen CMS-site met contactformulier en downloads; sollicitatie per e-mail. Werkvoorbereider doet 2D/3D-tekenwerk. Geen werkbon-app, klantportaal of online afspraakplanner zichtbaar; één secretaresse doet alle administratie.
+  relevant_vacancies: Service- en onderhoudsmonteur (cv-ketels, warmtepompen, airco; inspecties en storingen) op homepage; stagemarkt toont ook plek werkvoorbereider installaties
+  why_fit: 'Klein erkend installatiebedrijf in Deurne (W + duurzame energie) met eigen service-/onderhoudsmonteurs voor cv, warmtepompen en airco. Certificeringen met rapportageplicht: CO-certificering (BRL 6000-25), F-gassen/BRL100, InstallQ/De Echte Installateur, lid Techniek Nederland. Groeit (vacature servicemonteur) en administratie rust op één secretaresse.'
+  decision_maker: Laurens van Dijk — eigenaar/directeur (sinds 2002), dagelijkse leiding samen met Rick Rongen
+  linkedin: https://nl.linkedin.com/in/laurens-van-dijk-38a10735
+  sources:
+    decision_maker: https://www.verheesenvandijk.nl/ervaren-vakmensen
+    size: https://www.verheesenvandijk.nl/ervaren-vakmensen
+    multi_location: https://www.verheesenvandijk.nl/
+    relevant_vacancies: https://www.verheesenvandijk.nl/
+  value_proposition: Servicemonteurs spreken na een cv-, warmtepomp- of airco-onderhoud in wat ze gedaan en gemeten hebben; werkbon, urenstaat, materiaallijst en onderhouds-/F-gassenlogboek worden automatisch opgesteld — ontlast de secretaresse en de meewerkende eigenaar die 's avonds nog bonnen verwerkt.
+  outreach_strategy: 'Direct naar Laurens van Dijk: laurens@verheesenvandijk.nl of 0493-341634, plus LinkedIn. Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features — past bij hun ''vooruitstrevende installateur''-profiel en warmtepomp-focus.'
+  conversation_starters:
+  - Jullie zoeken een extra service- en onderhoudsmonteur voor warmtepompen en airco — hoe komen de onderhoudsbevindingen nu bij Hilda op kantoor terecht?
+  - Met CO- en F-gassencertificering moet elk onderhoud goed gedocumenteerd worden; doen jullie dat nog op papier of in een app?
+- name: Lommers Installatiebedrijf B.V.
+  url: https://lommersbv.nl
+  priority_score: 8/10
+  industry: W-installatie
+  size: 'ca. 7-8 medewerkers: 6 monteurs + 1 administratief medewerker (volgens eigen site); groeit'
+  tech_stack: Eenvoudige website, geen online storingsformulier, klantportaal of webshop; contact via e-mail/telefoon. Geen werkbon-app zichtbaar — wijst op lage digitalisering.
+  relevant_vacancies: Financieel-administratief medewerker (24-40 uur) en allround cv-monteur (fulltime)
+  why_fit: Familiebedrijf sinds 1971 (tweede generatie) in Wassenaar met 6 monteurs op locatie bij particulieren; onderhoudsabonnementen voor cv-ketels en warmtepompen, storingsdienst; InstallQ-gecertificeerd, lid Techniek Nederland. Zoekt zowel monteur als administratieve kracht — administratie is kennelijk een knelpunt.
+  decision_maker: Marcel Lommers — directeur-eigenaar (nam bedrijf in 2008 over van vader Hans)
+  linkedin: null
+  sources:
+    decision_maker: https://lommersbv.nl/
+    size: https://lommersbv.nl/
+    multi_location: https://lommersbv.nl/
+    relevant_vacancies: https://lommersbv.nl/
+  value_proposition: Monteurs spreken na een onderhoudsbeurt in wat ze gedaan hebben; werkbon, urenstaat en materiaallijst staan direct klaar voor facturatie — minder overtypwerk voor de (nog te vinden) administratieve medewerker.
+  outreach_strategy: 'Direct naar Marcel Lommers via info@lommersbv.nl of telefoon 070-517 93 82; aanhaken op de openstaande vacature administratief medewerker. CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Jullie zoeken een financieel-administratief medewerker — hoeveel tijd gaat er nu zitten in het uitwerken van werkbonnen van de monteurs?
+  - Hoe leggen jullie monteurs bij een onderhoudsabonnement vast wat er aan een ketel of warmtepomp is gedaan?
+- name: J&J Techniek
+  url: https://jenjtechniek.nl
+  priority_score: 8/10
+  industry: combinatie
+  size: 'ca. 22-23 medewerkers (eigen projectartikel: groei van 8 naar 22 medewerkers); overwegend monteurs'
+  tech_stack: Eigen website met projecten/nieuws, contact via telefoon en WhatsApp; geen klantportaal, online storingsformulier of werkbon-app zichtbaar; Viessmann Service Partner.
+  relevant_vacancies: Servicemonteur (cv-onderhoud, warmtepompen, storingen), W-monteur, elektromonteur utiliteit, leerling-monteur elektra
+  why_fit: Familiebedrijf (1996) in Almelo, sinds overname door Mark Niemeijer snel gegroeid naar ruim 20 man; cv-onderhoudscontracten, 24-uurs storingsdienst, W- én E-werk, airco/warmtepompen. InstallQ, SGS BRL 100, NVKL, Techniek Nederland. Vier openstaande monteursvacatures = groeiend aantal werkbonnen.
+  decision_maker: Mark Niemeijer — eigenaar/directeur (nam bedrijf over van vader Johan)
+  linkedin: https://www.linkedin.com/in/markniemeijer/
+  sources:
+    decision_maker: https://jenjtechniek.nl/over-ons
+    size: https://jenjtechniek.nl/project/44-door-ziekte-van-zijn-vader-kreeg-mark-eerder-de-regie-dan-verwacht
+    multi_location: https://jenjtechniek.nl/over-ons
+    relevant_vacancies: https://jenjtechniek.nl/vacatures
+  value_proposition: 'Bij snelle groei met veel nieuwe monteurs: gesproken werkbon en onderhoudsrapport (incl. F-gassen/warmtepomp-gegevens) per klus, zodat kantoor niet meeschaalt met het aantal monteurs.'
+  outreach_strategy: 'Mark Niemeijer via LinkedIn en telefoon 0546-492161; groei-verhaal en vacatures als haakje. CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Jullie zijn van 8 naar ruim 20 man gegroeid en zoeken nog vier monteurs — hoe houden jullie de werkbonnen en urenregistratie bij die groei bij?
+  - Hoe leggen servicemonteurs nu vast wat ze bij een cv- of warmtepomponderhoud hebben gedaan en gemeten?
+- name: Van der Steen Elektrotechniek B.V.
+  url: https://www.vandersteenelektro.nl/
+  priority_score: 8/10
+  industry: E-installatie
+  size: ruim 20 vaste medewerkers plus flexkrachten (eigen vacaturepagina); recent gefuseerd met Ceelen Security (klein beveiligingsbedrijf, geen installatiegroep) — omvang mogelijk iets hoger, bovengrens in de gaten houden
+  tech_stack: Moderne website met referenties en vacaturepagina; geen klantportaal, online storingsformulier of werkbon-app zichtbaar. Breed portfolio incl. domotica/smart building, laadpalen, batterijopslag en data.
+  relevant_vacancies: Servicemonteur, leidinggevend elektromonteur, elektromonteur, leerling-monteur (allemaal buitendienst)
+  why_fit: 'Familiebedrijf sinds 1932 in Budel (vierde generatie), E-installaties voor zakelijk en particulier, inclusief inspecties en brandmeldinstallaties; werkgebied Eindhoven-Helmond-Weert. Groeit en werft vier monteurs tegelijk. Let op: gevestigd in Budel, niet Weert.'
+  decision_maker: Barry van der Steen — directeur (vierde generatie; bestuurder via Barry van der Steen Beheer B.V. sinds 2016)
+  linkedin: https://nl.linkedin.com/company/van-der-steen-elektrotechniek-bv
+  sources:
+    decision_maker: https://www.vandersteenelektro.nl/vacatures/
+    size: https://www.vandersteenelektro.nl/vacatures/
+    multi_location: https://www.vandersteenelektro.nl/
+    relevant_vacancies: https://www.vandersteenelektro.nl/vacatures/
+  value_proposition: 'Met 20+ monteurs op wisselende locaties: ingesproken werkbon, urenstaat en inspectierapport (NEN 3140/NEN 1010) per klus, zodat nieuwe monteurs direct goed rapporteren en kantoor niet hoeft over te typen.'
+  outreach_strategy: 'Barry van der Steen direct mailen (barry@vandersteenelektro.nl) of bellen 0495-491246; haakje groei en vier openstaande monteursvacatures. CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Jullie werven vier monteurs tegelijk — hoe zorgen jullie dat werkbonnen en uren van nieuwe mensen meteen compleet binnenkomen?
+  - Hoe worden inspectierapporten nu opgesteld na een keuring bij een zakelijke klant?
+- name: Van Gerven Installaties
+  url: https://vangerven-installaties.nl/
+  priority_score: 8/10
+  industry: W-installatie
+  size: 6 medewerkers (eigen vacaturepagina, 'klein, gerenommeerd installatiebedrijf'); aggregator Re:Shark noemt 11-20 (zwakker); groeit door meer projecten
+  tech_stack: Eenvoudige website met vacaturepagina, contact via telefoon/e-mail; geen klantportaal, storingsformulier of werkbon-app zichtbaar — waarschijnlijk papier of simpele administratie.
+  relevant_vacancies: Ervaren loodgieter/cv-monteur, ervaren onderhouds- en servicemonteur, hulpmonteur
+  why_fit: 'Erkend installatie-/loodgietersbedrijf sinds 1994 in Esbeek: cv, warmtepompen (bodem/lucht-water, hybride), ventilatie/WTW, sanitair, gas/water/riool, dak- en zinkwerk; InstallQ, CO-vrij, ATAG GreenDealer, Alpha Innotec-partner. Recente generatiewissel (zoon Rik neemt het over) en drie monteursvacatures. Let op: juiste URL is vangerven-installaties.nl.'
+  decision_maker: Rik van Gerven — eigenaar/leiding (tweede generatie, nam over van oprichters Gerrit en Ellen van Gerven)
+  linkedin: null
+  sources:
+    decision_maker: https://vangerven-installaties.nl/
+    size: https://vangerven-installaties.nl/vacatures/
+    multi_location: https://vangerven-installaties.nl/
+    relevant_vacancies: https://vangerven-installaties.nl/vacatures/
+  value_proposition: 'Nieuwe eigenaar die groeit: monteurs spreken hun werkbon en onderhoudsrapport in, uren en materiaal komen automatisch binnen — administratie groeit niet mee met het aantal monteurs.'
+  outreach_strategy: 'Rik van Gerven direct bellen (06 12 12 07 85, staat bij de vacatures) of mailen via info@vangerven-installaties.nl; haakje overname en groei. CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Je hebt het bedrijf van je ouders overgenomen en zoekt drie nieuwe monteurs — ga je de werkbonnen en uren op dezelfde manier blijven doen?
+  - Hoe leggen jullie bij warmtepomp- en cv-onderhoud nu vast wat er gemeten en vervangen is?
+- name: W Techniek Brabant (WTB)
+  url: https://wtechniekbrabant.nl/
+  priority_score: 8/10
+  industry: W-installatie
+  size: ca. 15-25 medewerkers (winnaar Installatiebedrijf van het Jaar 2024, categorie t/m 25 medewerkers); team met projectmanagers, werkvoorbereider/planner, office manager en monteurs + leerlingen
+  tech_stack: WordPress-site met contactformulier; geen klantportaal of werkbon-app zichtbaar; eigen ontwerp/berekening/tekenwerk in huis (engineering, geen softwareontwikkeling)
+  relevant_vacancies: Installatie Monteur, Assistent Installatie Monteur en Projectmanager (werken-bij-menu op site, sept 2026)
+  why_fit: Groeiend W-installatiebedrijf in Son en Breugel (Ekkersrijt) met warmtepompen, verwarming, koeling, water, riolering en Totaal Beheer (onderhoud); 891 projecten en 784 warmtepompen aangesloten; aparte werkvoorbereider/planner = werkbonstroom via kantoor; actief werven van monteurs.
+  decision_maker: Nick van de Werken — eigenaar/oprichter (via zoekresultaten/award-artikel; weaker source)
+  linkedin: https://nl.linkedin.com/company/w-techniek-brabant
+  sources:
+    decision_maker: https://wtechniekbrabant.nl/
+    size: https://wtechniekbrabant.nl/
+    multi_location: https://wtechniekbrabant.nl/
+    relevant_vacancies: https://wtechniekbrabant.nl/installatie-monteur/
+  value_proposition: Monteurs spreken na elke klus in wat ze gedaan en gemonteerd hebben; werkbon, urenstaat en materialenlijst liggen direct bij werkvoorbereider Ron en office manager Meike, ook voor Totaal Beheer-onderhoudsrapporten.
+  outreach_strategy: 'Mail/LinkedIn naar Nick van de Werken, haak in op de award en groei; CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features. Tweede lijn: werkvoorbereider/planner Ron.'
+  conversation_starters:
+  - Gefeliciteerd met Installatiebedrijf van het Jaar — hoe houden jullie de administratie bij met zoveel warmtepompprojecten?
+  - Hoe komen de werkbonnen en materiaalverbruik van jullie monteurs nu bij Ron en Meike terecht?
+- name: Groenebeek Installatietechniek B.V.
+  url: https://www.groenebeek.nl/
+  priority_score: 8/10
+  industry: combinatie
+  size: ca. 19 werknemers volgens KVK-aggregator (zwakkere bron); bestuurder is eigen holding Groenebeek Groep B.V. (geen installatieconcern); kantoorstaf o.a. operationeel manager en administratief medewerkers zichtbaar op RocketReach
+  tech_stack: Eigen website met online afspraakformulier (cv-onderhoud), offerteformulier en uitgebreide dienstpagina's (SEO-gericht); geen klantportaal of werkbon-app zichtbaar. Losse storingsdienstlijn 0180-201234.
+  relevant_vacancies: none found — vacaturepagina bestaat maar toont geen concrete openstaande functies (alleen algemene oproep)
+  why_fit: Allround totaalinstallateur in Ridderkerk, Rijnmond en Drechtsteden (cv, gas, water, elektra, riolering, dakwerk, ventilatie) voor woningcorporaties, overheden, aannemers, bedrijven en particulieren; preventief onderhoud en storingsdienst ('s avonds en in het weekend). Erkend Installateur (InstallQ), Kiwa BRL 6000-25 (CO), zegelrecht, erkend inspectiebedrijf (IBER), lid Techniek Nederland — veel keurings- en onderhoudsrapportage. ~19 man = midden in de ICP.
+  decision_maker: Michel van Beek — algemeen directeur (LinkedIn-titel "Directeur Groenebeek", RocketReach "Algemeen Directeur"); aandeelhouder/bestuurder is Groenebeek Groep B.V.
+  linkedin: https://nl.linkedin.com/in/michel-van-beek-b668065a
+  sources:
+    decision_maker: https://nl.linkedin.com/in/michel-van-beek-b668065a
+    size: https://drimble.nl/bedrijf/ridderkerk/47014784/groenebeek-installatietechniek-bv.html
+    multi_location: https://www.groenebeek.nl/
+    relevant_vacancies: https://www.groenebeek.nl/vacatures/
+  value_proposition: Monteurs spreken na storing, onderhoud of IBER-inspectie in wat ze deden en zagen; werkbon, urenstaat, materiaallijst en inspectie-/onderhoudsrapport voor corporatie of particulier staan direct klaar, zonder overtypen door de administratie.
+  outreach_strategy: 'LinkedIn-connectie met Michel van Beek met korte notitie, parallel bellen via 0180-201234 om zijn rol te bevestigen; daarna mail met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: woningcorporatie-opdrachten en IBER-inspecties vragen strakke rapportage.'
+  conversation_starters:
+  - Voor woningcorporaties moet elke storing en onderhoudsbeurt netjes teruggerapporteerd worden — hoe komen die werkbonnen nu bij jullie administratie?
+  - Jullie zijn erkend IBER-inspectiebedrijf — hoeveel tijd kost het uitwerken van een inspectierapport na het bezoek?
+- name: Dijkstra Klimaattechniek B.V.
+  url: https://dijkstra-klimaattechniek.nl
+  priority_score: 8/10
+  industry: cv-/installatieonderhoud
+  size: '8 medewerkers op teampagina: eigenaar Marcel, werkvoorbereider & planner (Wim), elektricien (René), 4 airco-/cv-monteurs (Keano, Jason, Ricardo, Marco) en planning/administratie/marketing (Marina); vestiging Marknesse (Noordoostpolder), niet Emmeloord'
+  tech_stack: WordPress-site (webdesign Sightkick) met online onderhoudsaanvraag- en offerteformulier, Trustindex-reviews. Vacature noemt 'eigen telefoon en tablet van de zaak voor de digitale afhandeling van werkbonnen' — gebruikt dus al een (niet bij naam genoemde) werkbon-app; ISO 9001-gecertificeerd.
+  relevant_vacancies: Allround Installatiemonteur (regio Noordoostpolder; installatie, service & onderhoud, storingen aan cv, hybride, warmtepompen, airco)
+  why_fit: 'Klimaat-/cv-installateur (airco, cv-ketels, warmtepompen, boilers, koeling) voor particulier en zakelijk, 24/7 bereikbaar voor service en onderhoud aan alle merken. Certificeringen met rapportageplicht: F-gassen, BRL 6000-25 deelgebied 1 (CO), ISO 9001, VCA. Opgericht okt. 2018 door Marcel Dijkstra, gegroeid naar 8 man met eigen planner en groeiend (monteursvacature). Heeft al digitale werkbonnen: gesprek draait om spraak i.p.v. typen op de tablet en automatische F-gassen-/onderhoudsrapporten.'
+  decision_maker: Marcel Dijkstra — eigenaar (oprichter 2018)
+  linkedin: https://nl.linkedin.com/in/dijkstra-klimaattechniek-bbb39b355
+  sources:
+    decision_maker: https://dijkstra-klimaattechniek.nl/over-dijkstra-klimaattechniek/
+    size: https://dijkstra-klimaattechniek.nl/over-dijkstra-klimaattechniek/
+    multi_location: https://dijkstra-klimaattechniek.nl/service-en-onderhoud/
+    relevant_vacancies: https://dijkstra-klimaattechniek.nl/vacature-allround-installatiemonteur/
+  value_proposition: Monteurs typen hun werkbon nu op een tablet; met Luthox spreken ze na een onderhoud of storing gewoon in wat ze deden en zagen, en werkbon, urenstaat, materiaallijst en F-gassen-/onderhoudsrapport worden automatisch gevuld — minder typwerk voor de monteur, minder nabewerking voor Wim en Marina.
+  outreach_strategy: 'Marcel Dijkstra direct bellen via 0527-745475 of mailen naar info@dijkstra-klimaattechniek.nl, met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: ze werken al digitaal met werkbonnen op tablets, dus open voor verbetering; Marcel was zelf werkvoorbereider/planner en kent de pijn van nabewerking.'
+  conversation_starters:
+  - Jullie monteurs handelen werkbonnen al af op een tablet — hoeveel tijd kost het invullen per klus, en hoe compleet zijn de bonnen als ze bij Wim binnenkomen?
+  - Voor F-gassen en CO-onderhoud moet je elk bezoek registreren — wordt dat rapport nu door de monteur zelf ingevuld of achteraf op kantoor?
+- name: Noordeloos Elektro B.V.
+  url: https://www.noordelooselektro.nl/
+  priority_score: 7/10
+  industry: E-installatie
+  size: ca. 30 medewerkers volgens eigen site (bovengrens ICP); aantal monteurs niet geverifieerd
+  tech_stack: Eigen website (diensten o.a. elektrotechniek, inspectie en service, datanetwerken, laadpalen, zonnepanelen); contact via telefoon/mail, geen klantportaal, online storingsformulier of werkbon-app zichtbaar. Aangesloten bij uwduurzameinstallateur.nl.
+  relevant_vacancies: Elektromonteur (38 uur, Alkmaar); (Junior) Werkvoorbereider (38 uur, Alkmaar)
+  why_fit: E-installateur sinds 1986 voor utiliteit, MKB en particulier met eigen monteurs, afdeling Inspectie en Service (keuringsrapportage) en 24/7 service-/storingsdienst; zoekt zowel een elektromonteur als een werkvoorbereider — precies de rollen die met werkbonnen en rapporten werken. Omvang ~30 = aan bovengrens, daarom iets lager gescoord.
+  decision_maker: Jack Moeijes — directeur (via RocketReach org chart, zwakke bron; niet op eigen site bevestigd)
+  linkedin: null
+  sources:
+    decision_maker: https://rocketreach.co/noordeloos-elektro-management_b450db39fc7fcccd
+    size: https://www.noordelooselektro.nl/
+    multi_location: https://www.noordelooselektro.nl/
+    relevant_vacancies: https://www.noordelooselektro.nl/
+  value_proposition: Monteurs en keurmeesters spreken op locatie in wat ze deden en vonden; werkbon, urenstaat, materiaallijst en NEN 3140-/inspectierapport worden automatisch gemaakt, zodat de nieuwe werkvoorbereider niet hoeft over te typen.
+  outreach_strategy: 'Algemeen nummer 072-5713821 bellen om naam directeur-eigenaar te krijgen, dan korte mail met co-development CTA (''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''). Haakje: vacature werkvoorbereider + inspectie & service-afdeling.'
+  conversation_starters:
+  - Jullie zoeken een (junior) werkvoorbereider — hoeveel van die functie gaat nu op aan uitwerken van werkbonnen en uren van monteurs?
+  - Hoe leveren jullie monteurs na een inspectie of storingsdienst het rapport aan — op papier, in een app of achteraf op kantoor?
+- name: Snip Elektrotechniek B.V.
+  url: https://snip-elektrotechniek.nl/
+  priority_score: 7/10
+  industry: E-installatie
+  size: 11-25 medewerkers (jobsonline bedrijfsprofiel); veel medewerkers begonnen als leerling
+  tech_stack: Eenvoudige bedrijfssite met projectenportfolio en contactgegevens; geen klantportaal, online storingsformulier of werkbon-app zichtbaar; vermeld in CCV-register (inbraak/brandbeveiliging)
+  relevant_vacancies: Hoofdmonteur elektrotechniek; leerling elektromonteur (beide Schagen, contact Bart Koedam)
+  why_fit: Zakelijk E-installatiebedrijf (elektra, brandmeld-, inbraak- en data-installaties) met service & onderhoud, storingsdienst voor vaste klanten en onderhoudscontracten voor elektra, noodverlichting en brandmelding — jaarlijkse keuringen met rapportageplicht; groeit (2 monteursvacatures); eigenaar zelf aanspreekpunt
+  decision_maker: Bart Koedam — directeur-eigenaar
+  linkedin: https://nl.linkedin.com/in/bart-koedam-45a25267
+  sources:
+    decision_maker: https://nl.linkedin.com/in/bart-koedam-45a25267
+    size: https://www.jobsonline.nl/bedrijfspresentatie/snip-elektrotechniek-b-v-/
+    multi_location: https://snip-elektrotechniek.nl/
+    relevant_vacancies: https://snip-elektrotechniek.nl/vacatures/
+  value_proposition: Onderhoudscontracten voor elektra, noodverlichting en brandmelding betekenen veel keurings- en onderhoudsrapporten; met Luthox spreekt de monteur ter plekke zijn bevindingen in en staat het rapport (bijv. NEN 3140) plus werkbon en uren direct klaar, zonder overtypen op kantoor.
+  outreach_strategy: 'Persoonlijk bericht aan Bart Koedam (LinkedIn of bart@snip-elektrotechniek.nl, die hij zelf in vacatures noemt): we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; aanhaken op de onderhoudscontracten en de uitbreiding van het team.'
+  conversation_starters:
+  - Jullie zoeken een hoofdmonteur én een leerling — hoe houden jullie nu per project de uren en werkbonnen bij?
+  - 'Bij jaarlijkse controles van noodverlichting en brandmelding: hoeveel tijd gaat er zitten in het uitwerken van de rapporten?'
+- name: Installatiebedrijf Groosman B.V.
+  url: https://www.groosmanbv.nl
+  priority_score: 7/10
+  industry: W-installatie
+  size: ruim 20 vaste vakmensen (eigen site) tot ca. 30 vaste medewerkers (aggregator) — bovengrens ICP
+  tech_stack: Eenvoudige website met online sollicitatieformulier; geen klantportaal, storingsformulier of werkbon-app zichtbaar — digitalisering buitendienst lijkt beperkt
+  relevant_vacancies: Installatiemonteur W (fulltime, particulier en utiliteit); ook dakdekker (minder relevant)
+  why_fit: W-installateur sinds 1928 in Westdorpe met ruim 20 vakmensen die door heel Zeeuws-Vlaanderen/Zeeland bij klanten werken; 24/7 storingsdienst en onderhoudsabonnementen; KvINL/InstallQ-erkend, BRL 6000-25, F-gassen/STEK, VCA — veel rapportageplicht per onderhoudsbeurt.
+  decision_maker: Marc de Bakker — DGA / algemeen directeur (LinkedIn); mede-bestuurders via holdings E. Samijn Beheer en P. Groosman Beheer
+  linkedin: https://nl.linkedin.com/in/marc-de-bakker-b451021ba
+  sources:
+    decision_maker: https://nl.linkedin.com/in/marc-de-bakker-b451021ba
+    size: https://www.groosmanbv.nl
+    multi_location: https://www.groosmanbv.nl
+    relevant_vacancies: https://www.groosmanbv.nl/vacatures
+  value_proposition: Bij onderhoudsabonnementen en storingen onder BRL 6000-25/F-gassen moet elke beurt worden vastgelegd; monteurs spreken in wat ze deden en werkbon, urenstaat, materiaallijst en onderhoudsrapport rollen er automatisch uit — geen nabewerking op kantoor.
+  outreach_strategy: 'Bellen naar 0115 451 510 en vragen naar de directeur (verifiëren of M. de Bakker het is), daarna mail naar info@. Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; haak in op storingsdienst + onderhoudsabonnementen in een groot werkgebied.'
+  conversation_starters:
+  - 'Met een storingsdienst door heel Zeeuws-Vlaanderen: hoe komt de werkbon van een nachtelijke storing nu bij de administratie terecht?'
+  - Jullie werven installatiemonteurs — hoeveel tijd gaat er bij een nieuwe monteur zitten in het leren invullen van werkbonnen en BRL-rapportages?
+- name: Loodgietersbedrijf Van Gelder Utrecht B.V.
+  url: https://www.vangelder-utrecht.nl/
+  priority_score: 7/10
+  industry: W-installatie
+  size: LinkedIn-band 11-50 medewerkers (6 op LinkedIn); exact aantal niet geverifieerd
+  tech_stack: WordPress-website (Roax Design); geen klantportaal, storingsformulier of werkbon-app genoemd
+  relevant_vacancies: Allround loodgieter/monteur; Projectuitvoerder; Junior calculator/werkvoorbereider
+  why_fit: 'Landelijk erkend loodgieter (Houten, bijna 50 jaar) gespecialiseerd in renovatie en grootschalig onderhoud in utiliteitsbouw binnen ca. 80 km rond Utrecht; 24/7 storingsdienst (365 dagen); klanten in onderwijs, justitie en overheid — veel rapportage richting opdrachtgevers. Zusterbedrijf aannemer Versteeg Utrecht (geen grote keten). Na verificatie: Zusterbedrijf van aannemersbedrijf Versteeg Utrecht (geen installatiegroep); 24-uurs service onderhoud, werkgebied ca. 80 km rond Utrecht, gevestigd Peppelkade 1 Houten; Landelijk Erkend Installateur'
+  decision_maker: T.A.J. Schuurman — bedrijfsleider (contactpersoon alle vacatures, eigen site); algemeen directeur S.Z. Abdoelhafiezkhan alleen via Kompass (zwakke bron)
+  linkedin: https://nl.linkedin.com/company/loodgietersbedrijf-van-gelder
+  sources:
+    decision_maker: https://www.vangelder-utrecht.nl/vacatures/
+    size: https://nl.linkedin.com/company/loodgietersbedrijf-van-gelder
+    multi_location: https://www.vangelder-utrecht.nl/wie-en-wat-is-van-gelder/
+    relevant_vacancies: https://www.vangelder-utrecht.nl/vacatures/
+  value_proposition: Voor onderhoud bij scholen, justitie- en overheidsgebouwen moeten werkbonnen en onderhoudsrapporten netjes naar de opdrachtgever; monteurs spreken in wat ze deden en zagen en de rapportage staat direct klaar — ook bij nachtelijke storingen.
+  outreach_strategy: 'Bellen naar 030-2808060 en naar de directeur vragen (naam verifiëren), dan mail naar info@. Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; haak in op utiliteitsonderhoud met rapportageplicht richting overheidsklanten.'
+  conversation_starters:
+  - 'Bij onderhoud voor onderwijs en overheid: hoeveel tijd kost het om werkbonnen om te zetten naar de rapportage die de opdrachtgever wil zien?'
+  - Jullie storingsdienst belooft binnen 30 minuten reactie — hoe wordt de werkbon van zo'n spoedklus daarna vastgelegd?
+- name: Van Rijn Installatie
+  url: https://vanrijninstallatie.nl
+  priority_score: 7/10
+  industry: combinatie
+  size: 14 monteurs (10 loodgieters, 4 elektriciëns) plus binnendienst — schatting totaal ca. 16-20; 2 vestigingen (Axel, Oostburg)
+  tech_stack: Eenvoudige bedrijfssite met contactgegevens; geen klantportaal, webshop of online storingsformulier gezien; geen software genoemd — digitalisering lijkt beperkt
+  relevant_vacancies: 'none found (vacaturepagina: ''Op dit moment zijn er geen vacatures'')'
+  why_fit: Allround installateur (E, W, cv, dak/zink) in heel Zeeuws-Vlaanderen met eigen service- en onderhoudsafdeling en 24/7 storingslijn; werkt voor woningcorporaties en verzekeraars — die vragen om nette rapportage per klus. Erkend leerbedrijf, lid Techniek Nederland. Goede omvang.
+  decision_maker: Coen Dobbeleir — vermoedelijk directeur-eigenaar via Dobbeleir Beheer B.V. (directeur sinds 2014); zijn LinkedIn noemt Van Rijn Installatie B.V., huidige titel Directeur Ramero B.V. — rol te bevestigen
+  linkedin: https://www.linkedin.com/in/cdobbeleir/
+  sources:
+    decision_maker: https://www.linkedin.com/in/cdobbeleir/
+    size: https://vanrijninstallatie.nl/over-ons/
+    multi_location: https://vanrijninstallatie.nl/over-ons/
+    relevant_vacancies: https://vanrijninstallatie.nl/vacatures/
+  value_proposition: 'Voor reparaties in opdracht van corporaties en verzekeraars: monteur spreekt ter plekke in wat hij aantrof en deed, en het rapport met uren en materialen ligt direct klaar om te factureren en door te sturen.'
+  outreach_strategy: 'Bellen naar 0115-561717 om de directeur (Dobbeleir) te achterhalen, daarna persoonlijke mail. Co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''.'
+  conversation_starters:
+  - 'Bij schade- en reparatieklussen voor verzekeraars en corporaties: hoe leveren jullie het verslag van de monteur aan?'
+  - 'Met twee vestigingen en 14 monteurs: hoe lopen de werkbonnen van Oostburg en Axel samen bij de administratie?'
+- name: Hek Installateurs
+  url: https://hekinstallateurs.nl/
+  priority_score: 7/10
+  industry: combinatie
+  size: 'ca. 25 medewerkers (incl. Hek Badkamers: tegelzetters, elektriciens, loodgieters, installateurs, adviseurs) — aan de bovengrens'
+  tech_stack: WordPress-site; online afspraak- en contactformulieren; aparte badkamershowroom-site (hekbadkamers.nl); geen klantportaal of webshop; geen werkbon-app genoemd in vacatures
+  relevant_vacancies: Servicemonteur, Allround loodgieter, Elektromonteur, Projectleider/werkvoorbereider W (alle fulltime)
+  why_fit: Familiebedrijf sinds 1974, in 2020 overgenomen door zoon Robert Hek (generatiewissel, 'frisse blik op techniek'); nieuw pand; E + W + service & onderhoud met storingsdienst in Woudenberg e.o.; vier vacatures waaronder servicemonteur en werkvoorbereider = groei en adminstratiedruk. Showroom is aanvullend, er is duidelijk buitendienst.
+  decision_maker: Robert Hek — directeur-eigenaar (sinds 2020)
+  linkedin: null
+  sources:
+    decision_maker: https://www.hekinstallateurs.nl/over-ons/
+    size: https://www.hekinstallateurs.nl/over-ons/
+    multi_location: https://hekinstallateurs.nl/
+    relevant_vacancies: https://hekinstallateurs.nl/vacatures/
+  value_proposition: 'Met een nieuwe servicemonteur, elektromonteur en werkvoorbereider erbij: monteurs spreken per klus in wat ze deden, en de werkvoorbereider krijgt werkbon, uren en materialen direct binnen — minder uitzoekwerk, sneller factureren.'
+  outreach_strategy: 'Robert Hek persoonlijk aanschrijven (info@hekwoudenberg.nl / 033-286 3002), inhaken op de overname in 2020 en zijn focus op vernieuwing. Co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''.'
+  conversation_starters:
+  - U nam in 2020 het bedrijf van uw vader over met een frisse blik op techniek — is de werkbon daar al in meegegaan?
+  - 'Jullie zoeken een projectleider/werkvoorbereider W: hoeveel van diens tijd gaat straks op aan het verwerken van werkbonnen?'
+  - Hoe verschilt de rapportage van een servicebeurt tussen jullie E- en W-monteurs?
+- name: Installatiebedrijf A. Zijlstra
+  url: https://www.zijlstrasiddeburen.nl/
+  priority_score: 7/10
+  industry: combinatie
+  size: vast team van ca. 7 medewerkers (tjuchem.net); aggregators (zwakke bron) noemen 2-5 voor de BV
+  tech_stack: Eenvoudige site met contact- en offerteformulier; geen klantportaal, webshop of werkbon-app genoemd — laag digitaliseringsniveau
+  relevant_vacancies: Elektromonteur, Allround loodgieter/cv-monteur, Allround servicemonteur (gastoestellen, storingen)
+  why_fit: Erkend loodgieters- en installatiebedrijf sinds 1984 (Sterkin gas/elektra, KvINL water, VCA) met monteurs die in heel Groningen en Drenthe bij klanten werken; drie monteursvacatures tegelijk bij een team van ~7 = sterke groei. Klein team zonder uitgebreide binnendienst — administratie ligt waarschijnlijk bij de eigenaar.
+  decision_maker: Eric Zijlstra — vennoot/eigenaar
+  linkedin: null
+  sources:
+    decision_maker: https://www.zijlstrasiddeburen.nl/
+    size: https://www.tjuchem.net/sponsoren/installatiebedrijf-v-o-f-a-zijlstra/
+    multi_location: https://www.zijlstrasiddeburen.nl/
+    relevant_vacancies: https://www.zijlstrasiddeburen.nl/vacatures/
+  value_proposition: 'Voor een klein team dat hard groeit: monteurs spreken na elke klus in wat ze deden en welke materialen ze gebruikten; de werkbon en urenstaat staan klaar zonder dat de eigenaar ''s avonds papier hoeft over te tikken.'
+  outreach_strategy: 'Eric Zijlstra direct bellen (0598-43 26 26) of mailen (info@zijlstratjuchem.nl), inhaken op de drie vacatures. Co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''.'
+  conversation_starters:
+  - Met drie nieuwe monteurs erbij verdubbelt bijna het aantal werkbonnen — wie verwerkt die nu?
+  - 'Jullie rijden tot Emmen en Hoogeveen: hoe komen uren en materialen van verre klussen bij u terecht?'
+- name: Aktie Totaalinstallateurs B.V.
+  url: https://www.aktiebv.nl
+  priority_score: 7/10
+  industry: combinatie
+  size: niet geverifieerd op eigen site; aggregators noemen ca. 6-10 medewerkers (zwakke bron); werkt met eigen monteurs + kantoorbezetting
+  tech_stack: WordPress (SalesWizard-thema, Gravity Forms, LiteSpeed), webshop/offertemodule met productcategorieën, online onderhoudsafspraak-planner; geen werkbon-app zichtbaar. Klant noemt een 'installatie app' (waarschijnlijk van leverancier zonnepanelen/warmtepomp). Front-end gedigitaliseerd, buitendienst-administratie onbekend.
+  relevant_vacancies: 'Geen actuele gevonden; eerder (ca. 2023-2024) op LinkedIn: installatiemonteur, cv-onderhoudsmonteur (met opleiding warmtepomp), elektricien/warmtepompmonteur'
+  why_fit: Totaalinstallateur (cv-ketels, loodgieter, elektrotechniek, warmtepompen, airco) met eigen monteurs, cv-/warmtepomponderhoud, 24/7 storingsdienst en werkgebied regio Rotterdam (Delft, Gouda, Zoetermeer, Schiedam e.a.). Veel onderhoudsbezoeken = veel werkbonnen en onderhoudsrapporten.
+  decision_maker: Kees van Bloois — directeur-eigenaar
+  linkedin: https://nl.linkedin.com/in/kees-van-bloois-570b8abb
+  sources:
+    decision_maker: https://nl.linkedin.com/in/kees-van-bloois-570b8abb
+    size: https://drimble.nl/bedrijf/capelle-aan-den-ijssel/17369835/aktie-totaalinstallateurs-bv.html
+    multi_location: https://www.aktiebv.nl/over-ons/
+    relevant_vacancies: https://nl.linkedin.com/jobs/view/cv-onderhoudsmonteur-die-een-interne-opleiding-tot-warmtepompmonteur-wil-volgen-capelle-aan-den-ijssel-at-aktie-totaalinstallateurs-3790767832
+  value_proposition: Monteurs spreken na elk cv-/warmtepomponderhoud of storingsklus in wat ze deden en zagen; werkbon, urenstaat, materiaallijst en onderhoudsrapport staan direct klaar voor kantoor. Past bij de breedte van diensten (van cv tot zonnepanelen) waar elke klus een andere bon vraagt.
+  outreach_strategy: 'Direct naar Kees van Bloois via LinkedIn en info@aktiebv.nl / (010) 451 74 71. Insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features — Aktie als totaalinstallateur met onderhoud + storingsdienst is ideaal testbed voor meerdere klustypes.'
+  conversation_starters:
+  - Jullie doen van cv-onderhoud tot zonnepanelen en een 24/7 storingsdienst — hoe komt een werkbon van een spoedklus nu bij kantoor terecht?
+  - Klanten plannen onderhoud zelf online; hoe verloopt het vastleggen van bevindingen en materialen na dat bezoek?
+- name: SW Elektrotechniek
+  url: https://swelektrotechniek.nl/
+  priority_score: 7/10
+  industry: E-installatie
+  size: 7 vaste medewerkers plus inhuur, gemiddeld ~12 man op projecten (Daadkracht, sept. 2023); LinkedIn-band 11-50 met 7 profielen
+  tech_stack: WordPress-achtige website met werken-bij-pagina; geen klantportaal of werkbon-app zichtbaar; vacatures via Indeed.
+  relevant_vacancies: Chef monteur, elektromonteur, starter/zij-instromer en paneelbouwer (alle 40 uur, Oud-Beijerland; eigen werken-bij-pagina, datum onbekend)
+  why_fit: 'Zakelijke E-installateur (utiliteit/industrie) met NEN 3140- en NEN 1010-keuringen inclusief herstel van gebreken, onderhoud en beheer van installaties; VCA, lid Techniek Nederland. Keuringsrapportage + actieve werving van monteurs past precies bij Luthox. Na verificatie: Gevestigd in Oud-Beijerland (Spykerlaan 9), niet Barendrecht. NEN 1010/NEN 3140-keuringen, elektrotechnisch beheer en onderhoud, noodverlichting; vooral utiliteit/industrie.'
+  decision_maker: Simon Fritzsch — eigenaar
+  linkedin: https://nl.linkedin.com/company/sw-elektrotechniek
+  sources:
+    decision_maker: https://daadkracht-september2023.inzine.nl/betrokkenheid/
+    size: https://nl.linkedin.com/company/sw-elektrotechniek
+    multi_location: https://swelektrotechniek.nl/
+    relevant_vacancies: https://swelektrotechniek.nl/werken-bij/
+  value_proposition: Monteur spreekt tijdens een NEN 3140-inspectie bevindingen in; keuringsrapport, werkbon en materiaallijst voor het herstel worden automatisch opgesteld.
+  outreach_strategy: 'Simon Fritzsch direct (eigenaar) bellen/mailen via info@swelektrotechniek.nl of 0186-796096; haakje NEN 3140-rapportage en vier openstaande vacatures. CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Hoe maken jullie nu de NEN 3140-rapporten na een inspectie — ter plekke of 's avonds achter de laptop?
+  - Jullie zoeken een elektromonteur én een chef-monteur; hoeveel administratie hangt er aan die rollen?
+- name: Buijsse Loodgieters en Installatiebedrijf B.V.
+  url: https://www.buijsseloodgieters.nl/
+  priority_score: 7/10
+  industry: W-installatie
+  size: 'ca. 5 personen: eigenaar Gino Buijsse + vast team van 4 loodgieters/installatiemonteurs (eigen site en vacaturetekst)'
+  tech_stack: Eenvoudige website (werken-bij-pagina), contact via telefoon/app/e-mail; geen klantportaal, online storingsformulier of werkbon-app zichtbaar.
+  relevant_vacancies: Loodgieter/allround installatiemonteur (eigen site) en servicemonteur met storingsdienst (gepubliceerd okt. 2024, actualiteit niet bevestigd); SBB-leerplaats eerste monteur woning
+  why_fit: 'Loodgieters- en installatiebedrijf in Hulst (25+ jaar, BV sinds 2014) met 4 monteurs in Oost Zeeuws-Vlaanderen: cv-ketels, onderhoud en reparatie, warmtepompen, sanitair, dakwerk; 7-dagen storingslijn voor vaste klanten. Nefit Premium Partner, InstallQ, Techniek Nederland, SBB-leerbedrijf. Klein en eigenaar direct bereikbaar.'
+  decision_maker: Gino Buijsse — oprichter/directeur-eigenaar
+  linkedin: null
+  sources:
+    decision_maker: https://www.buijsseloodgieters.nl/
+    size: https://www.buijsseloodgieters.nl/
+    multi_location: https://www.buijsseloodgieters.nl/
+    relevant_vacancies: https://drimble.nl/vacature/hulst/104351338/buijsse-loodgieters-en-installatiebedrijf.html
+  value_proposition: 'Eigenaar die zelf meewerkt: monteurs spreken de werkbon in bij de klant, factuurklare werkbon en urenstaat staan klaar — geen avonden meer bonnen uittypen.'
+  outreach_strategy: 'Gino Buijsse direct bellen/appen (06 30 98 11 15) of mailen info@buijsseloodgieters.nl; kort en persoonlijk. CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Met vier monteurs en een storingsdienst zeven dagen per week — wie werkt bij jullie de werkbonnen uit, en wanneer?
+  - Hoe leggen jullie bij cv-onderhoud (Nefit Premium Partner) vast wat er is gecontroleerd en vervangen?
+- name: Bol B.V. Installatietechniek / Vermeulen B.V. Loodgietersbedrijf
+  url: https://www.bol-vermeulen.nl/
+  priority_score: 7/10
+  industry: combinatie
+  size: Bol B.V. ca. 20 en Vermeulen B.V. ca. 20 medewerkers ('en groeiende') — samen ca. 40, boven de ICP-bovengrens; per BV binnen ICP. Op verzoek toch opgenomen.
+  tech_stack: WordPress-website met online afspraak plannen en online aanvraagformulier voor onderhoudsabonnementen; storingslijn 0182-541041. Geen werkbon-app zichtbaar; jubileumartikel noemt dat 'computers en digitalisering nu een grote rol spelen'.
+  relevant_vacancies: Senior monteur installatietechniek, werkvoorbereider, loodgieter, service- en onderhoudsmonteur
+  why_fit: 'Gouds familiebedrijf (50 jaar, drie generaties betrokken) voor cv, ventilatie, gas/water, riolering en dakwerk; vijf onderhoudsabonnementen (cv, ventilatie, WTW), 35 jaar storingsdienst voor alle ketelmerken. Recente leiderschapswissel: mede-eigenaar John van Treijen stopte april 2024. Werving van monteurs én werkvoorbereider = sterk signaal.'
+  decision_maker: Tom Everling — mede-eigenaar/directeur
+  linkedin: null
+  sources:
+    decision_maker: https://www.bol-vermeulen.nl/vijftig-jaar-vakmanschap-en-familiegevoel-bij-bol-vermeulen-installatietechniek/
+    size: https://www.bol-vermeulen.nl/service/over-ons/
+    multi_location: https://www.bol-vermeulen.nl/
+    relevant_vacancies: https://www.bol-vermeulen.nl/vijftig-jaar-vakmanschap-en-familiegevoel-bij-bol-vermeulen-installatietechniek/
+  value_proposition: Onderhoudsmonteurs spreken bij een abonnementsbeurt in wat ze deden en zagen; onderhoudsrapport, werkbon en materiaallijst gaan direct naar de werkvoorbereider — minder druk op een rol die ze nu niet ingevuld krijgen.
+  outreach_strategy: 'Tom Everling via telefoon/contactformulier, haakje 50-jarig jubileum, overdracht na vertrek John van Treijen en de vacature werkvoorbereider. CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - In jullie jubileumartikel zeggen jullie dat digitalisering een grote rol speelt — hoe komen werkbonnen van de monteurs nu bij kantoor?
+  - Jullie zoeken een werkvoorbereider; hoeveel van dat werk is eigenlijk het uitwerken van bonnen en onderhoudsrapporten?
+- name: Aspers Installatietechniek B.V.
+  url: https://www.aspersinstallatietechniek.nl/
+  priority_score: 7/10
+  industry: cv-/installatieonderhoud
+  size: 'ca. 5-10 medewerkers (LinkedIn 6 gekoppeld; aggregator 2-5 voor alleen de B.V.); twee entiteiten: Aspers Installatietechniek B.V. (KvK 70307636) en Aspers Duurzaam, onderhoud & service B.V. (KvK 71604685)'
+  tech_stack: Eigen website met online afspraakformulier en offerteformulier, pagina's voor onderhoudscontracten (cv, warmtepomp, hybride) en cv-ketel-huurovereenkomst; vacature als PDF. Geen klantportaal of werkbon-app zichtbaar; afspraken lopen via kantoor (ma-vr 8:30-17:00).
+  relevant_vacancies: Ervaren servicemonteur installatietechniek ('vanwege de groei', servicewerk bij particulieren en bedrijven, eigen bus, STEK gewenst); Monteur koeltechnische installaties
+  why_fit: Allround W-/cv-installateur sinds 2011 in Weert e.o. (Nederweert, Stramproy, Budel, Ospel) met service- en onderhoudswerk aan cv-ketels, warmtepompen en airco (STEK/F-gassen), onderhoudscontracten en huurketels; eigen kantoor dat afspraken plant; groeit en zoekt twee monteurs. Veel korte servicebezoeken = veel werkbonnen en onderhoudsrapporten.
+  decision_maker: Sjoerd Aspers — eigenaar/oprichter, samen met Sandra (Aspers) (foto "Sjoerd en Sandra" op over-ons-pagina; exacte rolverdeling niet vermeld)
+  linkedin: https://nl.linkedin.com/company/aspers-installatietechniek
+  sources:
+    decision_maker: https://www.aspersinstallatietechniek.nl/over-ons/
+    size: https://nl.linkedin.com/company/aspers-installatietechniek
+    multi_location: https://www.aspersinstallatietechniek.nl/
+    relevant_vacancies: https://www.aspersinstallatietechniek.nl/over-ons/
+  value_proposition: Servicemonteurs spreken na elk onderhoud of storing in wat ze deden, gemeten en gebruikt hebben; werkbon, urenstaat, materiaallijst en onderhoudsrapport (incl. F-gassen-/STEK-registratie bij airco en warmtepomp) staan direct klaar voor kantoor — minder overtypen voor de kantoormedewerkers en sneller factureren.
+  outreach_strategy: 'Kantoor bellen (0495-587364) en vragen naar de eigenaar (naam bevestigen, vermoedelijk Sjoerd Aspers); daarna mail naar info@aspersinstallatietechniek.nl of LinkedIn-bericht met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: groei + twee openstaande monteursvacatures.'
+  conversation_starters:
+  - Jullie zoeken een servicemonteur vanwege de groei — hoe houden jullie de werkbonnen en onderhoudsrapporten bij als er straks meer bussen op de weg zijn?
+  - Bij airco- en warmtepomponderhoud moet ook de F-gassen-registratie kloppen — hoe komt die nu van de monteur bij kantoor?
+- name: Van Linde Installatietechniek B.V.
+  url: https://www.vanlindeinstallatie.nl/
+  priority_score: 7/10
+  industry: combinatie
+  size: 'klein familiebedrijf, exacte omvang niet geverifieerd: KVK-aggregator toont 4 werknemers bij de oude vof (Beetsterzwaag, zwakkere bron); site spreekt van ''enthousiaste collega''s en monteurs'' en zoekt wegens groei 3 extra krachten — waarschijnlijk ca. 5-10 medewerkers'
+  tech_stack: WordPress-site (bureau Eigenwijze), contactformulier; geen online storingsmelding, klantportaal of werkbon-app zichtbaar. Weinig zichtbare digitalisering van de buitendienst.
+  relevant_vacancies: Monteur (Drachten, klussen in Friesland/Groningen/Drenthe); Service Monteur (Drachten); Werkvoorbereider / Calculator (Drachten); stagiaires/BBL doorlopend
+  why_fit: 'Erkend allround installatiebedrijf (cv, sanitair, gas, warmtepompen, elektra, zonnepanelen, thuisbatterijen) opgericht in 1996 door Germ van Linde, gegroeid van eenmanszaak tot familiebedrijf met eigen monteurs, nu gevestigd in Drachten en actief in heel Noord-Nederland. Certificeringen met registratieplicht: Kiwa BRL 6000-25 (CO-vrij) en BRL 100 F-gassen. Zoekt tegelijk servicemonteur én werkvoorbereider wegens groei — precies het moment waarop papieren werkbonnen gaan knellen.'
+  decision_maker: Germ van Linde — oprichter (huidige rol als directeur-eigenaar niet geverifieerd)
+  linkedin: null
+  sources:
+    decision_maker: https://www.vanlindeinstallatie.nl/over-ons/
+    size: https://drimble.nl/bedrijf/drachten/8794014/van-linde-installatietechniek-bv.html
+    multi_location: https://www.vanlindeinstallatie.nl/
+    relevant_vacancies: https://www.vanlindeinstallatie.nl/vacatures/
+  value_proposition: Monteurs spreken na elke klus of onderhoudsbeurt in wat ze deden en zagen; werkbon, urenstaat, materiaallijst en CO-/F-gassenregistratie komen automatisch klaar, zodat de nieuwe werkvoorbereider/calculator niet hoeft over te typen.
+  outreach_strategy: 'Bellen naar 0512-382632 en vragen naar Germ van Linde (of wie nu de leiding heeft); daarna korte mail naar info@vanlindeinstallatie.nl met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: groei + drie openstaande vacatures.'
+  conversation_starters:
+  - Jullie groeien en zoeken een servicemonteur én een werkvoorbereider — hoe komen de werkbonnen van de monteurs nu bij kantoor terecht?
+  - Sinds BRL 6000-25/CO-vrij moet elk onderhoud aan gastoestellen goed vastgelegd worden — hoeveel extra papierwerk heeft dat opgeleverd?
+- name: Installatiebedrijf E. Kleijer (Kleijer Elektra)
+  url: https://kleijerelektra.nl/
+  priority_score: 6/10
+  industry: combinatie
+  size: 'ca. 5 personen: Eric en Annet Kleijer plus drie medewerkers (volgens over-ons; actuele aantal niet geverifieerd)'
+  tech_stack: Eenvoudige WordPress-achtige website met contactgegevens en sectie 'Werken en leren'; geen klantportaal, online storingsformulier of werkbon-app zichtbaar — vermoedelijk papieren of eenvoudige administratie door Annet.
+  relevant_vacancies: none found (wel sectie 'Werken en leren' op site; geen concrete vacature zichtbaar)
+  why_fit: Klein E- en W-installatiebedrijf (sinds 1998) met jaarlijks onderhoud, noodverlichting, groepenkasten, keuren van apparaten en groepenkasten en storingsservice; eigenaar-echtpaar doet zelf kantoor, dus elke bespaarde overtypstap telt. Klein (~5) maar boven ondergrens.
+  decision_maker: Eric Kleijer — eigenaar (runt het bedrijf samen met Annet Kleijer)
+  linkedin: null
+  sources:
+    decision_maker: https://kleijerelektra.nl/over-ons/
+    size: https://kleijerelektra.nl/over-ons/
+    multi_location: https://kleijerelektra.nl/over-ons/
+    relevant_vacancies: null
+  value_proposition: Monteur spreekt na een klus of keuring in wat hij deed; werkbon, urenstaat, materiaallijst en keuringsrapport van groepenkast/noodverlichting staan klaar voor Annet — geen avonden meer overtypen.
+  outreach_strategy: Eric Kleijer direct bellen (0341-357478) of mailen naar info@; persoonlijk en laagdrempelig met co-development CTA ('we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features'). Nadruk op tijdwinst voor het kleine kantoor.
+  conversation_starters:
+  - Wie werkt bij jullie de werkbonnen uit na een dag — Annet op kantoor of de monteurs 's avonds zelf?
+  - Bij keuringen van groepenkasten en noodverlichting hoort een rapport — hoe maken jullie dat nu?
+- name: The Plumbers Installatietechniek
+  url: https://www.plumbers.nl/
+  priority_score: 6/10
+  industry: W-installatie
+  size: ca. 11 werknemers volgens Drimble (zwakke bron); KvK 33150512, The Plumbers Bij de Handte Loodgieters B.V., Diemen, sinds 1977
+  tech_stack: WordPress-website (juiste domein is plumbers.nl; theplumbers.nl heeft verlopen certificaat); geen klantportaal, online afspraak of werkbon-app genoemd
+  relevant_vacancies: Installatiemonteur, Assistent monteur, Rioolreiniging monteur staan op de homepage onder 'Werken bij'; vacatureoverzichtspagina geeft 404 — actualiteit niet hard bevestigd
+  why_fit: Familiebedrijf in Diemen, specialist in onderhoud en service binnen 50 km rond Diemen sinds 1977; storingsdienst, onderhoud, installatie, zakelijk en rioolreiniging. InstallQ, Kiwa BRL 6000, VCA, lid Techniek Nederland. Veel korte serviceklussen bij klanten = veel werkbonnen.
+  decision_maker: Hans (Johannes) Vreeken — directeur
+  linkedin: null
+  sources:
+    decision_maker: https://www.installatie.nl/nieuws/hoe-the-plumbers-zich-staande-houdt/
+    size: https://drimble.nl/bedrijf/diemen/16220706/the-plumbers-bij-de-handte-loodgieters-bv.html
+    multi_location: https://www.plumbers.nl/
+    relevant_vacancies: https://www.plumbers.nl/
+  value_proposition: Storings- en rioolmonteurs doen veel korte klussen per dag; door in te spreken wat ze deden ontstaan werkbon, urenstaat en materiaallijst automatisch — sneller factureren en geen overtypwerk op kantoor.
+  outreach_strategy: 'Bellen naar 020 480 1084 en vragen naar de eigenaar (checken of J. Vreeken familie-eigenaar is). Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; haak in op storingsdienst en de mix van service en riool.'
+  conversation_starters:
+  - 'Bij een storingsdienst met veel korte klussen: hoe snel is een werkbon nu verwerkt tot factuur?'
+  - Jullie werken sinds 1977 in de regio rond Diemen — hoe worden de werkbonnen van de rioolreiniging en de installatiemonteurs nu samengebracht?
+- name: dK Elektra (De Kever Installaties)
+  url: https://www.dkelektra.nl/
+  priority_score: 6/10
+  industry: E-installatie
+  size: bijna 20 medewerkers (eigen nieuwsbericht 25-jarig jubileum, 2019); Indeed-band 11-50
+  tech_stack: Bedrijfssite met offerte- en contactformulier; geen klantportaal of webshop; geen werkbon-app genoemd
+  relevant_vacancies: Elektromonteur Extern Voltijd
+  why_fit: 'E-installateur (familiebedrijf sinds 1994) voor retail: tankstations (Shell, BP, Avia, OK, TotalEnergies), Albert Heijn, onderwijs; onderhoud/beheer, keuringen en 24/7 storingsdienst landelijk — veel losse locaties = veel werkbonnen en keuringsrapporten. Risico: omvang kan boven 25 liggen (te verifiëren). Na verificatie: Niels Dirven (nielsdirven@dkelektra.nl) als contactpersoon vermeld — rol onbekend'
+  decision_maker: Peter de Kever — directeur (zoon van oprichter André de Kever, 1994); Dave Knaap-profiel hoort bij ander bedrijf
+  linkedin: https://nl.linkedin.com/company/de-kever-installaties
+  sources:
+    decision_maker: https://dkelektra.nl/nl/nieuws/de-kever-installaties-25-jaar
+    size: https://dkelektra.nl/nl/nieuws/de-kever-installaties-25-jaar
+    multi_location: https://www.dkelektra.nl/
+    relevant_vacancies: https://www.dkelektra.nl/vacatures/
+  value_proposition: Monteurs die landelijk bij tankstations en winkels storingen en keuringen doen, spreken hun bevindingen in; werkbon, uren, materialen en keuringsrapport (NEN 3140) gaan direct naar kantoor en naar de retailklant.
+  outreach_strategy: 'Via het algemene nummer (+31 499 476 777) of LinkedIn-bedrijfspagina de eigenaar/directeur achterhalen; daarna persoonlijke mail met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''.'
+  conversation_starters:
+  - 'Bij een storing op een tankstation ''s nachts: hoe komt het verslag van de monteur bij de klant en bij jullie facturatie?'
+  - Retailketens vragen vaak om uniforme rapportage per locatie — hoe regelen jullie dat nu?
+- name: Lanting Technische Installaties
+  url: https://www.lanting-it.nl
+  priority_score: 6/10
+  industry: combinatie
+  size: niet geverifieerd (site spreekt van 'medewerkers die breed zijn opgeleid' en servicemonteurs; geen aantal gevonden)
+  tech_stack: Verouderde WordPress-site met alleen contactformulieren; onderhoudscontract aanvragen 'via de post'. Site bevat ingevoegde casino-/gokspam (lijkt gehackt) — duidt op weinig aandacht voor digitalisering. Geen werkbon-app of klantportaal zichtbaar.
+  relevant_vacancies: All-round installatiemonteurs (full-time, cv-, elektra- en loodgieterswerk) op eigen vacaturepagina; datum onbekend
+  why_fit: Familiebedrijf (sinds 1937, lid Techniek Nederland) in Groningen met onderhoudscontracten voor periodiek onderhoud en inspectie van gastoestellen, cv-ketels, luchtverwarming en elektrische installaties, plus keuringen/inspectie en storingsdienst bij particulieren, zorg, verhuur en overheid in Noord-Nederland. Veel onderhouds-/keuringsrapportage, lage digitale volwassenheid.
+  decision_maker: Erwin (Cristian) Lanting — leidt het familiebedrijf (3e generatie), bijgestaan door zus Cisca Lanting
+  linkedin: null
+  sources:
+    decision_maker: https://www.lanting-it.nl/over-ons/
+    size: null
+    multi_location: https://www.lanting-it.nl/onderhoud-service/
+    relevant_vacancies: https://www.lanting-it.nl/vacatures/
+  value_proposition: Monteurs spreken na elk onderhoud, storing of keuring in wat ze deden en zagen; het onderhouds-/keuringsrapport, de werkbon en de materiaallijst worden automatisch gemaakt — geen papieren bonnen meer overtikken voor de vele onderhoudscontracten.
+  outreach_strategy: 'Bellen naar 050-5344065 en vragen naar Erwin Lanting, of mail info@lanting-it.nl. Insteek co-development: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features. Eventueel (tactvol) wijzen op de spam op hun website als teken dat we meedenken.'
+  conversation_starters:
+  - Jullie doen periodiek onderhoud en inspectie van gastoestellen en elektrische installaties onder contract — hoe leggen de monteurs die bevindingen nu vast?
+  - 'Met all-round monteurs die cv, elektra en loodgieterswerk doen: hoeveel tijd kost het uitwerken van werkbonnen op kantoor?'
+- name: BNI Installaties B.V.
+  url: https://bni-installaties.nl/
+  priority_score: 6/10
+  industry: E-installatie
+  size: KVK-band 21-50 medewerkers (oozo, zwakke bron); ~20 op vestiging volgens bedrijvenopdekaart — bovenkant ICP
+  tech_stack: Eenvoudige WordPress-site (Divi-achtig, copyright 2022), alleen contactformulier; geen klantportaal, storingsformulier of werkbon-app zichtbaar. Weinig digitale signalen.
+  relevant_vacancies: Elektrotechnisch monteur Alkmaar (eigen site, nog online, datum onbekend)
+  why_fit: 'Elektrotechnisch aannemer in Alkmaar met eigen elektromonteurs die op locatie werken (renovatie monumentale/grachtenpanden in Alkmaar, Haarlem, Amsterdam) en ''controles'' voor bestaande relaties. Meer project- dan servicegericht, dus werkbonnen/urenstaten per project i.p.v. veel onderhoudsrapporten. Na verificatie: Opgericht 1999 door fusie van Inco en Boerlage (niet 1989). Heette 2009-2015 ''Parallel Groep BNI Installaties B.V.'' — oude naam, geen overname door installatiegroep. Eigen site toont geen onderhouds-/storingsdienst, vooral renovatieprojecten.'
+  decision_maker: A. Jonker — algemeen directeur; Rob Boerlage — mede-directeur (beide via aggregator/zoekresultaten, niet op eigen site)
+  linkedin: https://nl.linkedin.com/company/bni-installaties-b.v.
+  sources:
+    decision_maker: https://bedrijvenopdekaart.nl/alkmaar-nh/bouwinstallatie/bni-installaties-bv-52790.html
+    size: https://www.oozo.nl/bedrijven/alkmaar/oudorp/schermereiland-en-omval/391570/parallel-groep-bni-installaties-b-v
+    multi_location: https://bni-installaties.nl/
+    relevant_vacancies: https://bni-installaties.nl/
+  value_proposition: Elektromonteurs spreken aan het eind van de dag in wat ze in het pand gedaan en aangetroffen hebben; urenstaat per project, materiaallijst en eventueel NEN 3140-/opleverrapport worden automatisch opgesteld — handig bij renovaties met veel meerwerk en onverwachte vondsten in oude installaties.
+  outreach_strategy: 'Bellen 072 589 6888 en vragen naar dhr. Jonker, of mail info@bni-installaties.nl; LinkedIn-bedrijfspagina volgen voor naam directie. Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Bij monumentale panden kom je vaak verrassingen tegen in de oude installatie — hoe leggen jullie monteurs meerwerk en bevindingen nu vast?
+  - Jullie zoeken elektromonteurs; hoeveel tijd kwijt een monteur nu aan urenstaten en bonnen invullen?
+- name: Bekkema Installatietechniek B.V.
+  url: https://www.bekkema.nl/
+  priority_score: 6/10
+  industry: combinatie
+  size: niet geverifieerd — opgericht 1955, twee vestigingen (Warns, Harlingen), vijf openstaande monteursvacatures; bovengrens (35) nog checken
+  tech_stack: Joomla-website (index.php-structuur), storingsnummer en WhatsApp-service tijdens kantooruren; geen klantportaal of werkbon-app zichtbaar.
+  relevant_vacancies: Ervaren monteur, monteur E-installaties, monteur W-installaties, servicemonteur, warmtepompspecialist
+  why_fit: Multidisciplinair installatiebedrijf (elektro, werktuigbouw, meet- en regeltechniek, warmtepompen, PV, propaan) met NEN 3140-keuringen, service en onderhoud en storingslijn; vestigingen in Warns en Harlingen, werkt landelijk. Samenwerkingsverband 'Team 5' met lokale bouw-/schildersbedrijven (geen overname door groep). Vijf openstaande monteursvacatures.
+  decision_maker: Menno Bekkema — eigenaar / algemeen directeur
+  linkedin: https://nl.linkedin.com/in/menno-bekkema-2a87b920
+  sources:
+    decision_maker: https://nl.linkedin.com/in/menno-bekkema-2a87b920
+    size: null
+    multi_location: https://www.bekkema.nl/
+    relevant_vacancies: https://www.bekkema.nl/
+  value_proposition: E- en W-monteurs spreken per klus in wat ze deden; werkbon, urenstaat, materiaallijst en NEN 3140-keuringsrapport worden automatisch gemaakt — één werkwijze voor alle disciplines en beide vestigingen.
+  outreach_strategy: 'Bellen naar 0514-681700 en naar de directeur vragen (naam eerst via KVK/LinkedIn bevestigen); haakje vijf vacatures en NEN 3140-keuringen. CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Jullie zoeken vijf monteurs verspreid over E, W en warmtepompen — hoe houden jullie de werkbonnen van al die disciplines op één lijn?
+  - 'Hoe worden de NEN 3140-keuringsrapporten nu opgesteld: op locatie of achteraf op kantoor?'
+- name: ACN Techniek Emmeloord B.V.
+  url: https://www.acngroepbv.nl/
+  priority_score: 6/10
+  industry: combinatie
+  size: 28 werknemers per 1 januari 2024 volgens eigen site (20 in 2021) — boven 25, binnen zachte bovengrens; groeiend. Zelfstandig (in 2005 verzelfstandigd uit techniekafdeling landbouwcoöperatie 'Conop'); geen aanwijzing voor overname door een installatiegroep.
+  tech_stack: WordPress-achtige site (gebouwd door daar-om.nl) met contactformulier, cv-ketelkiezer, apart servicemailadres (service@acngroepbv.nl) en onderhoudscontracten; dealer van Sercom procescomputers (klimaatregeling agrarische bewaarcellen). Geen klantportaal of werkbon-app zichtbaar.
+  relevant_vacancies: Installatiemonteur (m/v), fulltime 40 uur, Emmeloord
+  why_fit: Installateur voor elektra, cv-ketels, warmtepompen, propaan, noodverlichting en agrarische klimaattechniek (bloembollen/akkerbouw bewaarcellen) bij particulieren, bedrijven en boeren in de Noordoostpolder; 24-uurs servicedienst, service- en onderhoudsabonnementen, GLK-/TloKB-certificering (kwaliteitsborging = rapportageplicht). Gegroeid van 20 naar 28 man, nieuw pand sinds 2024 en actief werven — veel monteurs met werkbonnen en onderhoudsrapporten, maar aan bovengrens ICP dus iets lager gescoord.
+  decision_maker: 'Peter Boonen — algemeen directeur (volgens artikel AGF/Bloembollen; eigendomsstructuur niet geverifieerd). Tweede ingang: Marc — Manager Werktuigkunde (achternaam niet geverifieerd).'
+  linkedin: https://nl.linkedin.com/company/acn-techniek
+  sources:
+    decision_maker: https://agfl.nl/bollen/acn-techniek-de-vele-kennis-maakt-ons-sterk
+    size: https://www.acngroepbv.nl/over-ons/
+    multi_location: https://www.acngroepbv.nl/
+    relevant_vacancies: https://www.acngroepbv.nl/vacatures/
+  value_proposition: Monteurs spreken na een storing of onderhoudsbeurt (cv, warmtepomp, bewaarcel, noodverlichting) in wat ze deden en zagen; werkbon, urenstaat, materiaallijst en onderhouds-/keuringsrapport worden automatisch gemaakt — minder uitzoekwerk voor de servicebinnendienst bij 28 man en groeiend.
+  outreach_strategy: 'Peter Boonen via LinkedIn of via 0527-614081 benaderen; mail naar info@acngroepbv.nl met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: groei naar 28 man, nieuw pand, 24-uurs servicedienst en de agrarische niche (servicerapporten voor bewaarcellen).'
+  conversation_starters:
+  - Jullie zijn in een paar jaar van 20 naar 28 mensen gegroeid en zitten in een nieuw pand — groeit de administratie rond werkbonnen en servicerapporten net zo hard mee?
+  - 'Bij een storing aan een bewaarcel of cv-installatie via de 24-uursdienst: hoe komt het verslag van de monteur nu bij de binnendienst en in de factuur?'
+- name: Wijbenga Installaties (Loodgieters- en Electrotechnischbedrijf P. Wijbenga B.V.)
+  url: https://www.wijbengainstallaties.nl
+  priority_score: 6/10
+  industry: combinatie
+  size: 5-9 werkzame personen (KvK-klasse via aggregator, zwakke bron); B.V. sinds 2018 (KvK 71484051), voortzetting van familiebedrijf opgericht 1909
+  tech_stack: Eenvoudige izicontent-site met contactpagina; Nefit-offertetool (welkombijnefit) gelinkt; geen online storingsformulier, klantportaal of werkbon-app zichtbaar — beperkte digitalisering
+  relevant_vacancies: none found
+  why_fit: Loodgieter- en E-installatiebedrijf in Leeuwarden met cv-ketels, onderhoud, warmtepompen, zonnepanelen, elektra en dakbedekking; werkt bij klanten in Leeuwarden, Dokkum, Franeker, Stiens, Drachten en Sneek; lid Techniek Nederland, erkend leerbedrijf, VCA. Geen aanwijzing voor overname door installatiegroep.
+  decision_maker: 'niet geverifieerd — doel: directeur-eigenaar (familie Wijbenga, naam ''P. Wijbenga'' in handelsnaam)'
+  linkedin: null
+  sources:
+    decision_maker: https://www.wijbengainstallaties.nl
+    size: https://www.de10beste.nl/elektriciens/leeuwarden/loodgieters-en-electrotechnischbedrijf-p-wijbenga-b-v/
+    multi_location: https://www.wijbengainstallaties.nl
+    relevant_vacancies: null
+  value_proposition: Monteurs door heel Friesland spreken na de klus hun werk in; werkbon, urenstaat, materialenlijst en cv-onderhoudsrapport worden automatisch gemaakt, zodat het kleine kantoor niets meer hoeft over te typen.
+  outreach_strategy: 'Bellen (058-2125334) om naam directeur te achterhalen, daarna persoonlijke mail; haak in op 115+ jaar familiebedrijf dat met modernere technieken werkt; CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Jullie combineren loodgieterswerk, cv, elektra en dakwerk — hoe houden de monteurs uren en materiaal per klus bij?
+  - 'Hoe verwerken jullie de cv-onderhoudsbeurten richting de klant: papieren bon of al digitaal?'
+- name: Interfit B.V.
+  url: https://www.interfit.nu/
+  priority_score: 6/10
+  industry: combinatie
+  size: ca. 15 werknemers volgens KVK-aggregator (zwakkere bron; LinkedIn-band 11-50); aantal monteurs niet geverifieerd
+  tech_stack: Website gebouwd door NC Websites; 'Inloggen'-link in footer (mogelijk klant-/medewerkersportaal); geen online storingsformulier of werkbon-app zichtbaar. ISO 9001/14001-gecertificeerd, dus procesmatig vastleggen is al gewoonte. Zustermaatschappijen in de Interwinngroep doen ICT/documentoplossingen (DIGIBORD-ICT, Interoffice Document Solutions), geen eigen softwareontwikkeling zichtbaar.
+  relevant_vacancies: none found (vacaturepagina bestaat maar toont geen openstaande functies)
+  why_fit: 'Allround E- en W-installateur (sinds 1980) in Groningen, Friesland en Drenthe voor particulier en utiliteit (zorg, scholen, laboratoria); biedt onderhoudscontracten, keuringen en storingshulp. Certificeringen met rapportageplicht: SGS BRL 100 F-gassen, CO-certificering, ISO 9001/14001, VCA, lid Techniek Nederland. Let op: werkmaatschappij van de Interwinngroep (familieholding met o.a. Interfurn laboratoriuminrichting), geen installatieconcern — daarom iets lager gescoord.'
+  decision_maker: Thijs Helmers — algemeen directeur Interwinngroep B.V. (bestuurder van Interfit sinds 2001; nam de groep in 2009 over met zijn twee broers). Directeur/bedrijfsleider van Interfit zelf niet geverifieerd — telefonisch navragen via 0597-414214.
+  linkedin: https://www.linkedin.com/company/interfit-bv/
+  sources:
+    decision_maker: https://groningerondernemingsprijs.nl/genomineerden/2025/interwinngroep/
+    size: https://drimble.nl/bedrijf/winschoten/000016920023/interfit.html
+    multi_location: https://www.interfit.nu/over-interfit/
+    relevant_vacancies: https://www.interfit.nu/over-interfit/vacatures/
+  value_proposition: Monteurs spreken na onderhoud, keuring of storing in wat ze deden en zagen; werkbon, urenstaat, materiaallijst en F-gassen-/keuringsrapport komen automatisch klaar, passend in het ISO 9001-kwaliteitssysteem zonder overtypen op kantoor.
+  outreach_strategy: 'Bellen naar 0597-414214 om naam van de directeur/bedrijfsleider van Interfit te krijgen, daarna mail of LinkedIn-bericht met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: ISO 9001 + BRL 100-registratieplicht bij onderhoudscontracten.'
+  conversation_starters:
+  - Met ISO 9001 en BRL 100 F-gassen moet elk onderhoudsbezoek goed vastgelegd worden — hoe komt dat nu van de monteur naar het dossier?
+  - Jullie werken van Delfzijl tot Friesland — hoeveel tijd kost het jullie kantoor om werkbonnen en uren van de monteurs te verwerken?
+- name: ElektroMakers B.V.
+  url: https://elektromakers.nl/
+  priority_score: 5/10
+  industry: E-installatie
+  size: '2-10 medewerkers (LinkedIn-band, zwakke bron); zustermerk WarmteMakers (warmtepompen/airco) onder zelfde eigenaar — LET OP: ondergrens van 3 niet hard bevestigd, eerst telefonisch checken'
+  tech_stack: Bedrijfssite met productpagina's en contactformulier, nieuwspagina; zustersite warmtemakers.nl; geen klantportaal of werkbon-app zichtbaar
+  relevant_vacancies: Zonnepanelen monteur (Walcheren/De Bevelanden); adviseur duurzame energie; stage online ondernemen — geen klassieke elektromonteur- of planner-vacature gevonden
+  why_fit: 'InstallQ-erkend installateur (REI) en erkend inspectiebedrijf (IBER) in Zeeland dat installeert, onderhoudt en keurt (NEN 1010, NEN 3140, PV, thermografie) — keuringsrapporten zijn kernwerk; monteurs op pad bij klanten in heel Zeeland; eigenaar-oprichter nog aan het roer. Minpunt: focus op zon/duurzaam, omvang onbekend'
+  decision_maker: Michel van Loon — eigenaar/oprichter
+  linkedin: https://nl.linkedin.com/company/elektromakers
+  sources:
+    decision_maker: https://www.jongambon.com/nieuws/elektromakers-bv-voor-drie-jaar-nieuwe-hoofdsponsor-sv-jong-ambon
+    size: https://nl.linkedin.com/company/elektromakers
+    multi_location: https://elektromakers.nl/over-ons/werken-bij/
+    relevant_vacancies: https://elektromakers.nl/over-ons/werken-bij/
+  value_proposition: Voor een erkend inspectiebedrijf zijn NEN 3140/NEN 1010- en PV-keuringsrapporten veel handwerk; met Luthox spreekt de inspecteur of monteur zijn bevindingen in en rolt het keuringsrapport plus werkbon en materiaallijst er automatisch uit.
+  outreach_strategy: 'Persoonlijk aan Michel van Loon (michel@elektromakers.nl of LinkedIn): we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features — specifiek voor keuringsrapportage (NEN 3140/PV); aanhaken op de IBER-erkenning.'
+  conversation_starters:
+  - Als erkend inspectiebedrijf doen jullie NEN 3140- en PV-keuringen — hoe komen de bevindingen van de installatie nu in het rapport?
+  - Jullie werven zonnepanelenmonteurs voor Walcheren en de Bevelanden — hoe krijgen jullie na een installatiedag de uren en materialen binnen?
+- name: HanVos Installaties
+  url: https://www.hanvosinstallaties.nl
+  priority_score: 5/10
+  industry: cv-/installatieonderhoud
+  size: '''meer dan 25 vakmonteurs'' plus binnendienst, 3 vestigingen (Alblasserdam, Den Haag, Breda); aggregator noemt ca. 20 voor Hanvos Warmtetechniek B.V. — totaal vermoedelijk ca. 30-35, bovengrens (lagere score). ''HanVos Groep'' niet teruggevonden; wel merkennetwerk (HanVos Elektra, Airco, Warmtepomp e.d.), geen overname door installatiegroep'
+  tech_stack: Website door Digitaleweg; webshop, contactformulier met bestandsupload, WhatsApp-contact; samenwerking met Paraat-platform/Paraatservice (Gawalo-database met 5.300 storingscodes) — wijst op digitaal ingestelde organisatie, mogelijk eigen tooling (te checken); geen werkbon-app genoemd in vacatures
+  relevant_vacancies: STEK Monteur (fulltime), Hulpmonteur (instap), Technisch medewerker binnendienst (team van Sven)
+  why_fit: 'Erkend installateur sinds 2002 (InstallQ, Techniek Nederland, CO-gecertificeerd, STEK); 15.000+ onderhoudscontracten en storingsdienst 7 dagen per week — enorm volume werkbonnen/onderhoudsrapporten. Risico: omvang (30+) en groepsstructuur, plus Paraat/Gawalo-samenwerking kan duiden op eigen software.'
+  decision_maker: Bart van der Ark — DGA/eigenaar (HanVos Groep Installatietechniek)
+  linkedin: https://nl.linkedin.com/in/%F0%9F%94%98-bart-van-der-ark-314784bb
+  sources:
+    decision_maker: https://www.hanvosinstallaties.nl/over-hanvos
+    size: https://www.hanvosinstallaties.nl/over-hanvos
+    multi_location: https://www.hanvosinstallaties.nl/contact
+    relevant_vacancies: https://www.hanvosinstallaties.nl/vacatures
+  value_proposition: 'Bij 15.000+ onderhoudscontracten scheelt elke minuut per onderhoudsbeurt: monteur spreekt bevindingen in, onderhoudsrapport en werkbon staan direct klaar voor de binnendienst — minder druk op het binnendienstteam dat nu versterking zoekt.'
+  outreach_strategy: 'Direct naar Bart van der Ark (LinkedIn + mail), inhaken op groei naar groep en de binnendienstvacature; co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Eerst checken of Paraat/Gawalo al een werkbon-/rapportagetool voor hen is.'
+  conversation_starters:
+  - 'Met 15.000+ onderhoudscontracten: hoe komen de bevindingen van een onderhoudsbeurt nu bij de binnendienst terecht?'
+  - Jullie zoeken een technisch medewerker binnendienst — hoeveel tijd gaat daar naar het uitwerken van werkbonnen?
+  - Hoe past de Gawalo-storingscodedatabase in het werk van de monteur op locatie?
+- name: Dijk Installatietechniek B.V.
+  url: https://www.dijk-installatietechniek.nl/
+  priority_score: 5/10
+  industry: combinatie
+  size: 'ca. 4-5 medewerkers volgens KVK-aggregators (drimble: 4 werknemers; andere bron 5) — onderkant ICP; aantal monteurs niet geverifieerd'
+  tech_stack: Eenvoudige eigen website met contactformulier en pagina onderhoudscontracten cv; geen online storingsformulier, klantportaal, webshop of werkbon-app zichtbaar. Weinig gedigitaliseerd.
+  relevant_vacancies: none found
+  why_fit: Allround installateur (gas/water, sanitair, cv, elektra, zinkwerk, warmtepompen, zonnepanelen) sinds 1993 in Alteveer, werkt bij klanten in Stadskanaal, Pekela, Winschoten, Veendam, Groningen e.o.; biedt cv-onderhoudscontracten. In 2023 omgezet naar B.V. met twee holdings (Henk Dijk en Roy Dijk) als bestuurder — duidt op generatiewissel vader/zoon, een natuurlijk moment om werkbonnen te digitaliseren. Klein team, dus lagere score.
+  decision_maker: Henk Dijk en Roy Dijk — bestuurders (via Henk Dijk Holding B.V. en Roy Dijk Holding B.V., per 29-6-2023; bron KVK-aggregator, zwakkere bron)
+  linkedin: null
+  sources:
+    decision_maker: https://drimble.nl/bedrijf/alteveer-gr/15340589/dijk-installatietechniek.html
+    size: https://trustoo.nl/groningen/alteveer-gr/loodgieter/dijk-installatietechniek/
+    multi_location: https://www.dijk-installatietechniek.nl/
+    relevant_vacancies: null
+  value_proposition: 'Met een klein team telt elk uur: de monteur spreekt na de klus in wat hij deed, en werkbon, urenstaat, materiaallijst en onderhoudsrapport cv staan klaar voor de factuur, zonder ''s avonds papier over te typen.'
+  outreach_strategy: 'Bellen naar 0599-331805 en vragen naar Roy Dijk (vermoedelijk de opvolgende generatie); daarna korte mail naar info@dijk-installatietechniek.nl met co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''. Haakje: generatiewissel/B.V.-omzetting 2023.'
+  conversation_starters:
+  - Sinds 2023 staan jullie als B.V. met twee holdings ingeschreven — is dat ook het moment geweest om de administratie rond werkbonnen anders aan te pakken?
+  - Jullie doen cv-onderhoudscontracten in de hele regio Stadskanaal/Pekela — hoe komt het onderhoudsrapport van de ketel nu bij de klant en in de administratie?
+- name: A. Ordelman B.V.
+  url: https://www.ordelmanbv.nl/
+  priority_score: 4/10
+  industry: combinatie
+  size: 10-19 medewerkers volgens KVK-aggregator (zwakke bron); eigen site noemt 'middelgroot' met regio's Noord/Oost/Midden/Zuid, multidisciplinair (ook bouw, dak, riolering, timmerwerk) — geen bewijs voor >35
+  tech_stack: Monteurs krijgen planning en opdrachten digitaal op tablet en registreren werk daarin (vacaturetekst) — al digitale werkbon-app
+  relevant_vacancies: Installatiemonteurs (vast, werkt met werkbonnen op tablet); Servicetechnicus E/W (NEN 3140-certificaat vereist, incl. administratieve taken); Servicemonteur Riolering (incl. storingsdiensten); Timmermannen (digitale werkbonnen)
+  why_fit: 'Installatie- en onderhoudsbedrijf (~50 jaar, Arnhem) voor woningcorporaties, VvE''s, vastgoedbeheerders en particulieren met 24/7 storingsdienst, NEN 3140-onderhoud en veel monteurs in de buitendienst; vier open vacatures. Minpunten: omvang waarschijnlijk boven ICP en al digitale werkbonnen.'
+  decision_maker: Antonia Berdina van 't Sant-Ordelman — gevolmachtigd directeur (volgens KVK-aggregator, zwakke bron); Patrick (achternaam onbekend) is contactpersoon vacatures
+  linkedin: null
+  sources:
+    decision_maker: https://drimble.nl/bedrijf/arnhem/11101989/ordelman-holding-bv.html
+    size: https://drimble.nl/bedrijf/arnhem/11101989/ordelman-holding-bv.html
+    multi_location: https://www.ordelmanbv.nl/ordelmanbv/
+    relevant_vacancies: https://www.ordelmanbv.nl/vacatures/
+  value_proposition: 'Bovenop de bestaande tablet-werkbon: monteur spreekt in wat hij deed en zag en de werkbon, urenstaat, materiaallijst en NEN 3140-/onderhoudsrapport worden automatisch ingevuld — minder typen op de tablet, completere rapporten richting corporaties.'
+  outreach_strategy: 'Eerst omvang checken (LinkedIn/telefoon). Indien binnen ICP: bellen 088-5017800 en naar directie/servicemanager vragen; co-development CTA ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features'', gepositioneerd als spraaklaag op hun huidige tablet-werkbon.'
+  conversation_starters:
+  - Jullie monteurs werken al met werkbonnen op de tablet — hoeveel tijd kost het invullen per klus, en hoe compleet zijn die voor de corporaties?
+  - De servicetechnicus E/W heeft ook administratieve taken — hoe leggen jullie NEN 3140-bevindingen nu vast?
+- name: Installatieservice van der Veen B.V.
+  url: https://installatieservicevanderveen.nl
+  priority_score: 4/10
+  industry: combinatie
+  size: '2-5 (oozo) resp. 2-10 (LinkedIn) medewerkers — zwakke bronnen; site spreekt van ''ervaren installateurs'' (meervoud) + vacature helper-monteur; ondergrens 3 waarschijnlijk maar niet hard bevestigd — telefonisch checken — LET OP: ondergrens van 3 niet hard bevestigd, eerst telefonisch checken'
+  tech_stack: WordPress-achtige site, contact via WhatsApp en formulier, eigen sanitair-webshop (sanitairvanderveen.nl), zusterbedrijf Installatiebedrijf Friesland; geen werkbon-app of klantportaal zichtbaar — waarschijnlijk papier/WhatsApp-gedreven administratie
+  relevant_vacancies: Helper monteur / loodgieter (fulltime, regio Midden-Friesland)
+  why_fit: Allround installateur (loodgieter, cv, elektra, warmtepomp, airco) met 24/7 storingsdienst en onderhoudsabonnementen voor cv, ventilatie en warmtepompen in regio Leeuwarden/Sneek/Drachten/Heerenveen; groeit (werft helper-monteur) en heeft zusterbedrijf — maar omvang aan de onderkant van ICP
+  decision_maker: Johan van der Veen — eigenaar
+  linkedin: null
+  sources:
+    decision_maker: https://www.actiefonline.nl/nieuws/algemeen/56911/al-het-installatiewerk-in-vertrouwde-handen-bij-installatiese
+    size: https://nl.linkedin.com/company/installatieservicevanderveen
+    multi_location: https://installatieservicevanderveen.nl/
+    relevant_vacancies: https://installatieservicevanderveen.nl/vacatures/
+  value_proposition: Bij een klein team met veel storingen en onderhoudsbeurten doet de eigenaar vaak zelf 's avonds de werkbonnen en facturen; met Luthox spreekt de monteur na de klus in wat hij deed en gebruikte, en staan werkbon, uren en materialen direct klaar voor facturatie.
+  outreach_strategy: 'Direct naar Johan van der Veen (telefoon 058 8811800 of mail), kort en persoonlijk: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; aanhaken op de groei (nieuwe helper-monteur) en de 24/7 storingsdienst.'
+  conversation_starters:
+  - Jullie werven een helper-monteur — hoe regelen jullie nu de werkbonnen en uren als er meer mensen tegelijk op pad zijn?
+  - 'Met onderhoudsabonnementen voor cv, ventilatie én warmtepompen: hoe leggen jullie per klant vast wat er bij een beurt is gedaan?'
+- name: CHC Installatietechniek B.V.
+  url: https://chctechniek.nl/
+  priority_score: 4/10
+  industry: 'E-installatie (energietransitie: laadpalen, zonnepanelen, thuisbatterijen, warmtepompen)'
+  size: 'ca. 3 medewerkers volgens aggregator elektriciensgids (zwakke bron); jonge organisatie opgericht dec. 2020 — ondergrens krap, eerst bevestigen — LET OP: ondergrens van 3 niet hard bevestigd, eerst telefonisch checken'
+  tech_stack: WordPress-achtige site met veel SEO-landingspagina's per dienst/regio (homepage gaf 404); service@-mailbox; geen klantportaal of werkbon-app genoemd
+  relevant_vacancies: Laadpaalmonteur (regio Amsterdam, Utrecht, Flevoland; gecertificeerd of bereid te certificeren)
+  why_fit: Jong E-installatiebedrijf (Almere; site noemt ook Baronstraat Amsterdam) voor laadpalen, verlichting/krachtstroom, beveiliging, domotica, warmtepompen en energiemanagement; biedt servicecontracten en werkt verspreid over Amsterdam/Utrecht/Flevoland. Groeit en werft monteurs. Omvang en ≥3 medewerkers nog te bevestigen.
+  decision_maker: 'Ludwig (achternaam niet geverifieerd) — eigenaar volgens klantreviews; doel: directeur-eigenaar'
+  linkedin: null
+  sources:
+    decision_maker: https://elektriciensgids.nl/amsterdam/chc-installatietechniek-b-v/
+    size: https://elektriciensgids.nl/amsterdam/chc-installatietechniek-b-v/
+    multi_location: https://chctechniek.nl/laadpaal-installatie-regios/
+    relevant_vacancies: https://chctechniek.nl/vacatures/laadpaal-monteur/
+  value_proposition: Laadpaalmonteurs die per dag meerdere installaties plaatsen spreken per adres in wat ze deden; werkbon, urenstaat, materiaallijst en opleverrapport liggen direct klaar — schaalbaar bij snelle groei zonder extra kantoorpersoneel.
+  outreach_strategy: 'Eerst via 085-369 5239 of service@chctechniek.nl vragen wie de eigenaar is en hoe groot het team is. Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features; haak in op veel losse laadpaalinstallaties per dag.'
+  conversation_starters:
+  - 'Als een monteur meerdere laadpalen per dag plaatst: hoe komen opleverdocumenten en uren nu bij kantoor?'
+  - Jullie groeien snel in drie regio's — wat is nu het grootste administratieve knelpunt bij nieuwe monteurs?
+- name: E.C.A.I. Installatie & Elektrotechniek
+  url: https://www.ecai.nl/
+  priority_score: 4/10
+  industry: E-installatie
+  size: 'ca. 4 medewerkers (Trustoo/Stagemarkt, zwakke bron); opgericht 2 mei 2019, KVK 74730673 — onderkant ICP — LET OP: ondergrens van 3 niet hard bevestigd, eerst telefonisch checken'
+  tech_stack: Moderne Next.js-site met online offerteformulier incl. foto-upload, WhatsApp-knop en Instagram; na inspectie ontvangt klant 'een helder rapport en NEN-certificaat'. Geen werkbon-app of klantportaal genoemd. Digitaal ingestelde jonge ondernemer.
+  relevant_vacancies: none found
+  why_fit: Elektrotechnisch installatiebedrijf voor Reuver/Venlo/Roermond met 24/7 storingsdienst (aanrijtijd <2 uur), onderhoud en periodieke NEN 1010/NEN 3140-inspecties met rapport, plus meterkasten, laadpalen, beveiliging en VvE-projecten. Sterke rapportage-use case, maar klein team.
+  decision_maker: Ugur Yilmaz — vermoedelijk eigenaar (Instagram-account ecai.installatie op zijn naam; contactpersoon/praktijkopleider op Stagemarkt); eigenaarschap niet via KVK bevestigd
+  linkedin: null
+  sources:
+    decision_maker: https://www.instagram.com/ecai.installatie/
+    size: https://trustoo.nl/limburg/reuver/elektricien/ecai/
+    multi_location: https://www.ecai.nl/
+    relevant_vacancies: https://www.ecai.nl/
+  value_proposition: Monteur spreekt tijdens/na een NEN 3140-inspectie of storing zijn metingen en bevindingen in; het inspectierapport, de werkbon en de urenstaat worden automatisch opgesteld — scheelt de eigenaar avonden administratie in een klein team met 24/7 storingsdienst.
+  outreach_strategy: 'WhatsApp (06-15180788 via site) of info@ecai.nl, eigenaar persoonlijk aanspreken; digitaal ingesteld dus laagdrempelig. Co-development insteek: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features — past bij een jonge, groeiende zaak.'
+  conversation_starters:
+  - Jullie beloven na elke inspectie een helder rapport en NEN-certificaat — hoeveel tijd kost het opmaken daarvan nu?
+  - 'Met een 24/7 storingsdienst en een klein team: wanneer worden de werkbonnen van nachtelijke storingen uitgewerkt?'
+- name: ITWB Service B.V. (Installatietechniek West-Brabant)
+  url: https://www.itwestbrabant.nl
+  priority_score: 3/10
+  industry: cv-/installatieonderhoud
+  size: 'niet geverifieerd — Oozo meldt 1 werknemer (zwakke bron), company.info toont geen aantal; ondergrens 3 onbevestigd, eerst checken vóór outreach — LET OP: ondergrens van 3 niet hard bevestigd, eerst telefonisch checken'
+  tech_stack: Website op izicontent-CMS; geen klantportaal, webshop of online storingsformulier gezien; sollicitatie per e-mail; geen werkbon-app genoemd — laag digitaliseringsniveau
+  relevant_vacancies: Zelfstandig monteur installatietechniek regio Roosendaal (cv-ketels vervangen/onderhoud, WTW, warmtepompen, gas, sanitair; MBO 3)
+  why_fit: 'Cv-installateur met onderhoudscontracten (Basis/All-in), storingsdienst en werkgebied in heel West-Brabant (Roosendaal t/m Breda en Moerdijk); CO-vrij-certificering (TloKB-register). Laag gedigitaliseerd en werft monteurs. Grootste risico: mogelijk te klein (<3).'
+  decision_maker: Ad Smulders — eigenaar (Installatie Techniek West Brabant sinds 2011; directeur ITWB Services B.V. via A.H. Smulders Beheer B.V. sinds 2020)
+  linkedin: null
+  sources:
+    decision_maker: https://companyinfo.nl/organisatieprofiel/activiteiten-van-ingenieurs-en-overig-technisch-ontwerp-en-advies/itwb-services-b-v-roosendaal-80144500-000046515054
+    size: https://www.oozo.nl/bedrijven/roosendaal/2079942/itwb-services-b-v
+    multi_location: https://www.itwestbrabant.nl
+    relevant_vacancies: https://www.itwestbrabant.nl/contact/vacatures/
+  value_proposition: 'Voor een klein team zonder binnendienst: monteur spreekt na een onderhoudsbeurt of storing in wat hij deed, werkbon, materialenlijst en onderhoudsrapport zijn meteen klaar — geen avondwerk aan administratie.'
+  outreach_strategy: 'Bellen of mailen naar Ad Smulders (info@itwestbrabant.nl / 0165-708394); eerst teamgrootte polsen. Co-development CTA: ''we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features''.'
+  conversation_starters:
+  - Wie werkt bij jullie de werkbonnen van onderhoudsbeurten en storingen uit — de monteur zelf of u 's avonds?
+  - 'Nu jullie een extra monteur zoeken: hoe houdt u overzicht over wat er bij onderhoudscontract-klanten is gedaan?'
+- name: Installatiebedrijf Kohnken (V.O.F. Installatiebureau Kohnken)
+  url: http://www.kohnken.nl/
+  priority_score: 3/10
+  industry: combinatie
+  size: 'RISICO: 2-4 werknemers (bedrijvenopdekaart) resp. 2-5 (Oozo) volgens aggregators — eerdere "ca. 10" niet bevestigd; V.O.F., mogelijk alleen vennoten + 1-2 monteurs. Eerst telefonisch checken of er ≥3 mensen werken.'
+  tech_stack: Verouderde WordPress-site (twentyten-thema, verwijst nog naar UNETO-VNI); alleen telefoon/contactpagina, geen online storings- of afspraakformulier, geen klantportaal — lage digitalisering, waarschijnlijk papieren werkbonnen
+  relevant_vacancies: none found
+  why_fit: Loodgieter/installateur in Emmen voor cv, onderhoud cv-ketel (onderhoudscontracten), sanitair, gas/water, dakbedekking en riolering; werkt in heel Nederland en Nedersaksen (erkend installateur in Duitsland sinds 1996) en in utiliteitsbouw. Oprichter-eigenaar heeft 40+ jaar ervaring — mogelijk opvolgingsvraag.
+  decision_maker: 'niet geverifieerd — doel: oprichter/eigenaar (vennoot V.O.F.; site noemt alleen "de oprichter en eigenaar" met 40+ jaar ervaring, geen naam gevonden)'
+  linkedin: null
+  sources:
+    decision_maker: http://www.kohnken.nl/
+    size: https://bedrijvenopdekaart.nl/wijk-50-barger-oosterveld-emmen-dr/loodgieters-en-fitterswerk-installatie-van-sanitair/vof-installatiebureau-kohnken-54375.html
+    multi_location: http://www.kohnken.nl/
+    relevant_vacancies: null
+  value_proposition: Monteurs op projecten verspreid over NL en Duitsland spreken hun werk in; werkbon, urenstaat en materialenlijst komen direct binnen zonder papier terug naar Emmen te brengen; ook onderhoudsrapport cv-ketel automatisch.
+  outreach_strategy: 'Telefonisch (0591-620768) of brief/mail naar de eigenaar, verwijs naar 35+ jaar vakmanschap en projecten tot in Duitsland; CTA: we zoeken een paar installateurs die vroeg toegang krijgen en meebouwen aan de features.'
+  conversation_starters:
+  - Jullie monteurs werken tot in Nedersaksen — hoe komen werkbonnen en uren van die projecten bij jullie op kantoor?
+  - Hoe leggen jullie de cv-onderhoudsbeurten onder contract nu vast voor de klant?
