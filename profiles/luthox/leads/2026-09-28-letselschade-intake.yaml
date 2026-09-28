@@ -1,0 +1,350 @@
+---
+business: luthox
+segment: letselschade-intake
+generated_at: '2026-09-28'
+description: Cold-call segmenttest (belonderzoek, ~10 gesprekken per segment). Letselschadebureaus en letselschade-advocatenkantoren aan slachtofferkant (5-75 mw) in heel NL. Discovery via 2 agents, verrijking per bedrijf (telefoon, beslisser, grootte, tech, vacatures), daarna onafhankelijke verificatie; veld verification geeft het oordeel van de checker.
+leads:
+- name: Brugman Letselschade Advocaten (incl. merk Letselschade Kompas)
+  url: https://www.brugmanletselschadeadvocaten.nl
+  phone: '0800 278 4626'
+  city: Zwaag/Wognum (hoofdkantoor) + spreeklocaties o.a. Hoorn, Amsterdam, Almere, Eindhoven, Enschede, Arnhem, Groningen, Den Haag, Utrecht, Rotterdam
+  priority_score: 9/10
+  industry: Letselschade-advocatenkantoor, uitsluitend slachtoffers (letsel- en overlijdensschade); tweede label Letselschade Kompas (letselschadekompas.nl, zelfde nummer en directie)
+  size: "~50+ mw (teampagina: ~6 senior advocaten, 20+ advocaten/juristen, ~15 ondersteunend + incasso/financieel/receptie)"
+  tech_stack: Gratis claimcheck via Typeform-formulier; tweede leadgen-merk (Letselschade Kompas, 7 dagen per week bereikbaar, 12 afspraaklocaties); geen dossiersoftware zichtbaar. Wijst op sterk marketing-gedreven instroom met handmatige opvolging.
+  relevant_vacancies: letselschade jurist (starter) en ervaren letselschade jurist, 32-40 uur
+  why_fit: 7.500+ geholpen cliënten en twee leadgen-merken = hoog volume nieuwe melders om te screenen; groot team juristen/juridisch medewerkers die ongevalsgegevens en medische stukken verzamelen; structureel werven van juristen wijst op capaciteitsdruk.
+  decision_maker: mr. Friso W. Brugman — kantooreigenaar / senior letselschade advocaat (Gertjan Pranger — directie, advocaat, bij Letselschade Kompas)
+  linkedin: https://www.linkedin.com/in/friso-brugman-35931122/
+  sources:
+    decision_maker: https://www.brugmanletselschadeadvocaten.nl/team/
+    size: https://www.brugmanletselschadeadvocaten.nl/team/
+    phone: https://www.brugmanletselschadeadvocaten.nl
+    multi_location: https://www.brugmanletselschadeadvocaten.nl
+    relevant_vacancies: https://www.brugmanletselschadeadvocaten.nl/vacatures/
+  value_proposition: AI-voorscreening van Typeform-claimchecks uit beide merken (kansrijk/niet, aansprakelijkheid, type letsel), automatische uitvraag van ongevalsgegevens bij de melder en gegenereerde opvraagverzoeken medische informatie, zodat juristen pas instappen bij kansrijke dossiers.
+  outreach_strategy: 'Bel 0800-nummer, vraag naar Friso Brugman (vacaturetekst noemt zelf "bel en vraag naar Friso Brugman"). Haakje: twee merken + 7.500 cliënten, hoe wordt de instroom gescreend. Onderzoeksgesprek.'
+  conversation_starters:
+  - Via Brugman en Letselschade Kompas komen er veel checks binnen; wie beoordeelt die en hoeveel tijd kost de eerste screening per melder?
+  - Jullie werven continu juristen; waar gaat de meeste tijd van een startende jurist naartoe in de eerste weken van een dossier?
+  - Hoe verloopt het opvragen van medische stukken bij huisartsen en ziekenhuizen, en hoe vaak moet daar achteraan gebeld worden?
+  verification: bevestigd — 0800-nummer staat op site (gratis nummer, geen 06; vast alternatief Alkmaar 072 820 0261 in site-schema). Friso Brugman = kantooreigenaar volgens teampagina; ~40-50 mw; vacatures letselschade jurist (starter/ervaren) staan online.
+- name: Drost Letselschade
+  url: https://www.drost.nl
+  phone: '0800 249 03 00 (gratis); vast hoofdkantoor Hengelo: 074 249 0300'
+  city: Hengelo (hoofdkantoor) + afspraaklocaties Groningen, Nijmegen, Rotterdam
+  priority_score: 9/10
+  industry: Letselschadebureau (belangenbehartiger slachtoffers) sinds 1988, NIVRE-experts personenschade; Keurmerk Letselschade, NIVRE, NIS, NLE, NVRA
+  size: 25 mw volgens teampagina
+  tech_stack: Website met gratis advies (kosteloos advies), aparte marketingmedewerker, landelijke SEO-locatiepagina's; geen dossiersoftware zichtbaar
+  relevant_vacancies: Personenschadebehandelaar / schadecorrespondent (20-40 u); Expert personenschade (24-40 u)
+  why_fit: 20.000+ geholpen cliënten en landelijke SEO-instroom = hoog volume nieuwe melders; vacature schadebehandelaar/schadecorrespondent is precies de rol die medische stukken en gegevens najaagt; aparte schadebehandelaars-laag wijst op procesmatige dossierflow.
+  decision_maker: Yme Drost — directeur/oprichter (samen met Koen Venema — directeur)
+  linkedin: 
+  sources:
+    decision_maker: https://www.drost.nl/contact/ons-team/
+    size: https://www.drost.nl/contact/ons-team/
+    phone: https://www.drost.nl/contact/ons-team/
+    multi_location: https://www.drost.nl
+    relevant_vacancies: https://www.drost.nl/vacatures/
+  value_proposition: AI-voorscreening van aanmeldingen (kansrijkheid, uitgesloten zaken zoals geweld/niet-erkende medische fouten automatisch filteren), automatische uitvraag ongevalsgegevens en geautomatiseerd opvragen/rappelleren van medische stukken, zodat schadecorrespondenten meer dossiers aankunnen zonder extra fte.
+  outreach_strategy: 'Bel 0800-nummer, vraag naar Koen Venema of Yme Drost. Haakje: openstaande vacature schadecorrespondent — welk werk moet die persoon vooral doen. Onderzoeksgesprek.'
+  conversation_starters:
+  - Jullie zoeken een schadecorrespondent; hoeveel van diens tijd gaat naar het opvragen en rappelleren van medische informatie?
+  - Veel aanmeldingen vallen af (geweld, niet-erkende medische fouten); wie filtert die er nu uit en hoeveel tijd kost dat?
+  - Hoe verloopt de overdracht van een nieuwe melder van receptie naar expert?
+  verification: aangepast — 0800 249 03 00 staat op site; vaste nummers ook aanwezig (hoofdkantoor Hengelo 074 249 0300). Yme Drost en Koen Venema beide directeur. 25 teamleden. Vacatures personenschadebehandelaar/schadecorrespondent en expert personenschade staan nog online.
+- name: Pennino Advocaten
+  url: https://pennino.nl
+  phone: 045 563 93 03
+  city: Kerkrade (hoofdkantoor), Maastricht (+ Weert genoemd in externe bron)
+  priority_score: 9/10
+  industry: Letselschade-advocatenkantoor slachtofferzijde (letselschade, overlijdensschade, slachtofferzaken, gezondheidsrecht)
+  size: 19 mw volgens teampagina (6 advocaten, 7 letselschadejuristen, 4 secretaresses/financieel, 1 facilitair)
+  tech_stack: Geen klantportaal of dossiersoftware zichtbaar op site; gratis eerste gesprek via contact/telefoon; werkt met externe rekenbureaus en medisch adviseurs.
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Letselschade is hoofdpraktijk en team bestaat voor ruim de helft uit letselschadejuristen — veel dossiers en intake. 4 secretaresses wijst op veel handmatig opvragen/verwerken van medische stukken. Twee vestigingen met apart nummer = versnipperde intake.
+  decision_maker: Nino (mr. A.F.G.) Pennino — oprichter / advocaat
+  linkedin: https://nl.linkedin.com/company/pennino-advocaten-letselschade
+  sources:
+    decision_maker: https://pennino.nl/en/our-practice/our-history/
+    size: https://pennino.nl/team/
+    phone: https://pennino.nl/contact/
+    multi_location: https://pennino.nl/contact/
+    relevant_vacancies: 
+  value_proposition: Geautomatiseerde intake-screening van nieuwe melders en een workflow die medische machtigingen en opvraagbrieven genereert, verstuurt en rappelleert, zodat juristen en secretariaat minder tijd kwijt zijn aan verzamelen.
+  outreach_strategy: 'Bel Kerkrade (045 563 93 03), vraag naar Nino Pennino of de secretaresse die intake doet. Onderzoeksgesprek; haakje: 7 letselschadejuristen + 4 secretaresses — hoe verdelen zij intake en stukken opvragen.'
+  conversation_starters:
+  - Met zeven letselschadejuristen komen er vast veel nieuwe meldingen binnen — wie doet bij u de eerste screening en hoe lang kost dat per melder?
+  - Hoeveel van het werk van het secretariaat gaat naar het opvragen en rappelleren van medische informatie bij ziekenhuizen en huisartsen?
+  verification: bevestigd — 045 563 93 03 (Kerkrade) staat op contactpagina, daarnaast 043 325 01 09 (Maastricht). Nino Pennino richtte het kantoor in 2004 op (met Belinda Zeijen en Meyke Spauwen). Teampagina ~19 personen, slachtofferzaken als kernpraktijk.
+- name: Beer advocaten
+  url: https://www.beeradvocaten.com
+  phone: 020 673 21 99
+  city: Amsterdam (Prinsengracht 515)
+  priority_score: 8/10
+  industry: Letselschade- en aansprakelijkheidsadvocatuur, uitsluitend slachtoffers en nabestaanden; ook massaschade (WAMCA)
+  size: 25 mw volgens teampagina (±15 advocaten incl. 3 partners, NIVRE-expert, secretariaat/intake, management-assistent, financiële administratie, office director)
+  tech_stack: Aparte contactformulieren voor letselschade en massaschade (oproep o.a. gezondheidsschade pesticiden); eigen medisch adviesteam; geen klantportaal of dossiersoftware zichtbaar. WordPress-site.
+  relevant_vacancies: geen relevante vacatures gevonden (alleen ervaren letselschade-advocaat en massaschade-advocaat — inhoudelijke rollen)
+  why_fit: Sinds 1982 alleen slachtoffers; twee secretaresses hebben expliciet de rol 'employee intakes' — intake is dus handmatig belegd. Massaschade-oproepen genereren pieken aan melders die gescreend moeten worden. Eigen medisch team = veel medische stukken opvragen en ordenen.
+  decision_maker: 'Paul Paasschens — office director (partners: Bojan Dekker, Mirella Hartman, Christa Wijnakker)'
+  linkedin: 
+  sources:
+    decision_maker: https://www.beeradvocaten.com/people/
+    size: https://www.beeradvocaten.com/people/
+    phone: https://www.beeradvocaten.com
+    multi_location: 
+    relevant_vacancies: https://www.beeradvocaten.com/work-at/
+  value_proposition: Automatische voorscreening en structurering van meldingen (individueel en massaschade-oproepen) zodat de intake-secretaresses alleen kansrijke zaken nabellen, plus workflow voor opvragen/rappelleren van medische dossiers voor het medisch adviesteam.
+  outreach_strategy: 'Bel 020 673 21 99, vraag naar office director Paul Paasschens. Onderzoeksgesprek; haakje: intake ligt bij secretariaat + massaschade-oproepen (pesticiden) die veel melders opleveren.'
+  conversation_starters:
+  - Bij u doen twee secretaresses de intakes — hoeveel meldingen per week verwerken zij, en hoeveel daarvan worden een zaak?
+  - 'Bij een massaschade-oproep zoals die over pesticiden: hoe screent u honderden melders en verzamelt u hun medische gegevens?'
+  verification: 'bevestigd — +31 20 67 32 199 (= 020 673 21 99) staat op site. Teampagina: Paul Paasschens office director; partners Bojan Dekker, Mirella Hartman, Christa Wijnakker; ~25 personen incl. secretariaat/management-assistent. Slachtofferkant.'
+- name: Dolderman Letselschade Advocaten (DLSA)
+  url: https://dlsa.nl
+  phone: '085 024 00 41'
+  city: Utrecht (landelijk, huisbezoeken)
+  priority_score: 8/10
+  industry: Letselschade-advocatenkantoor, uitsluitend slachtoffers (verkeer, arbeidsongevallen, beroepsziekten, PTSS; niche militairen/politie/brandweer); Keurmerk Letselschade, LSA, WAA, ASP
+  size: "~24 teamleden op site (advocaten, juristen, ondersteuning)"
+  tech_stack: Website met gratis claimbeoordeling en vacaturepagina; geen dossiersoftware zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden (alleen advocaat letselschade, open sollicitatie WO, stages)
+  why_fit: 3.400+ cliënten en landelijke instroom via gratis claimcheck = veel melders screenen; front office + juristen verzamelen ongevals- en medische gegevens; groei (werving advocaat) wijst op capaciteitsdruk.
+  decision_maker: mr. Vincent Dolderman — eigenaar/oprichter; mr. Julian Staal — hoofd bedrijfsvoering
+  linkedin: https://nl.linkedin.com/in/vincentdolderman
+  sources:
+    decision_maker: https://dlsa.nl/mr-vincent-dolderman/
+    size: https://dlsa.nl/vacature-letselschade/
+    phone: https://dlsa.nl
+    multi_location: 
+    relevant_vacancies: https://dlsa.nl/vacature-letselschade/
+  value_proposition: Automatische voorscreening van claimcheck-aanvragen (incl. specifieke PTSS/uniformberoepen-vragen), gestructureerde uitvraag van ongevalsgegevens en automatisch opvragen/rappelleren van medische stukken, zodat front office en juristen minder handmatig najagen.
+  outreach_strategy: 'Bel 085-024 00 41, vraag naar Vincent Dolderman. Haakje: specialisatie in PTSS/uniformberoepen (complexe medische dossiers) en groei van het team. Onderzoeksgesprek.'
+  conversation_starters:
+  - 'Hoeveel nieuwe aanmeldingen krijgen jullie per week en wie doet de eerste beoordeling: front office of een jurist?'
+  - Bij PTSS- en beroepsziektezaken is medische informatie lastig; hoe lang zijn jullie bezig om alle stukken binnen te krijgen?
+  - Wat laten jullie stagiairs en startende juristen in de intakefase vooral doen?
+  verification: 'aangepast — Telefoon 085 024 00 41 staat talloze keren op site. Vincent Dolderman = eigenaar/oprichter (eigen kantoor sinds 1-1-2017). ~24 teamleden. Toevoeging: mr. Julian Staal is hoofd bedrijfsvoering — goed aanspreekpunt voor intakeproces. Vacatures zijn inhoudelijk (advocaat) + stages, geen backoffice-rol.'
+- name: JBL&G (Juridisch Bureau Letselschade & Gezondheidsrecht)
+  url: https://www.juridischbureauletselschade.nl
+  phone: 020 214 99 00
+  city: Amsterdam (hoofdkantoor), Groningen, Deventer, Rotterdam, Den Haag, Den Bosch
+  priority_score: 7/10
+  industry: Letselschadebureau (belangenbehartiger), uitsluitend slachtofferzijde, NKL-keurmerk
+  size: 70+ medewerkers volgens werken-bij-pagina ('van 1 naar ruim 70 medewerkers') — bovenkant ICP; investeerder Antea Participaties betrokken
+  tech_stack: Online intakeformulier (type ongeval, omschrijving, datum, contactgegevens), gratis eerste gesprek; geen portaal of dossiersoftware zichtbaar. 1.500+ reviews = hoog klantvolume.
+  relevant_vacancies: Juridisch administratief medewerker (Amsterdam/Groningen); Letselschadejurist; Ervaren letselschadejurist; Turks-/Poolssprekende letselschadejurist (alle vestigingen)
+  why_fit: Zes vestigingen, 1.500+ reviews en continue werving van letselschadejuristen = zeer groot intake- en dossiervolume. Vacature juridisch administratief medewerker wijst direct op backofficedruk (stukken opvragen/verwerken). Gestructureerd online intakeformulier is ideale ingang voor automatische screening.
+  decision_maker: mr. Frederik Lieben — algemeen directeur; Stefanie du Maine — oprichter/eigenaar
+  linkedin: https://www.linkedin.com/in/frederik-lieben-511ba225/
+  sources:
+    decision_maker: https://www.juridischbureauletselschade.nl/jblg/onze-mensen/mr-frederik-lieben/
+    size: https://www.juridischbureauletselschade.nl/jblg/werken-bij-jblg/
+    phone: https://www.juridischbureauletselschade.nl
+    multi_location: https://www.juridischbureauletselschade.nl
+    relevant_vacancies: https://www.juridischbureauletselschade.nl/jblg/werken-bij-jblg/
+  value_proposition: AI-voorscreening van online meldingen (aansprakelijkheid, letselernst, verjaring) met automatische routering naar vestiging/jurist, meertalige intake (Turks/Pools), en geautomatiseerde opvraag- en rappelflow voor medische stukken die de administratieve medewerkers ontlast.
+  outreach_strategy: 'Bel hoofdnummer 020 214 99 00, vraag naar Frederik Lieben of de operationeel/teamleider intake. Onderzoeksgesprek; haakje: groei naar 70+ mw en vacature juridisch administratief medewerker — hoe schaalt intake mee.'
+  conversation_starters:
+  - 'U zoekt Turks- en Poolssprekende juristen en een juridisch administratief medewerker — waar zit bij de groei de grootste bottleneck: de eerste screening of het verzamelen van stukken?'
+  - 'Met zes vestigingen en 1.500+ reviews: hoeveel nieuwe meldingen komen er per week binnen via het formulier, en hoeveel tijd kost het beoordelen daarvan?'
+  verification: 'aangepast — 020 214 99 00 staat op site (plus vestigingsnummers Rotterdam, Den Haag, Groningen). Werken-bij: ''van 1 naar meer dan 70 medewerkers'', 6 vestigingen — bovenkant ICP. Vacatures (juridisch administratief medewerker, letselschadejurist, ervaren/Turks-/Poolssprekende jurist) staan online. Frederik Lieben algemeen directeur (eigen profielpagina); oprichter/eigenaar heet volgens eigen site Stefanie (niet Steffy Roos) du Maine.'
+- name: VictimFirst Advocaten
+  url: https://victimfirstadvocaten.nl
+  phone: '088 055 07 70'
+  city: Weesp (landelijk werkend)
+  priority_score: 7/10
+  industry: Letselschade-advocatenkantoor, uitsluitend slachtoffers; alle 8 advocaten LSA (incl. sportletsel-specialist)
+  size: "~8-10 mw (8 LSA-advocaten op site; ondersteunend personeel niet vermeld)"
+  tech_stack: Website met gratis eerste consult; hybride werken (60% thuis) wijst op digitaal dossierbeheer, pakket niet zichtbaar
+  relevant_vacancies: Juridisch medewerker / letselschadejurist (min. 5 jaar ervaring, hybride)
+  why_fit: Kantoor profileert zich met "advocaten, geen paralegals, behandelen zaken" — dus dure advocaat-uren gaan naar intake en stukken verzamelen; werving juridisch medewerker wijst op behoefte aan ondersteuning; landelijke instroom.
+  decision_maker: mr. Veeru Mewa — oprichter, LSA-advocaat (mede-oprichter mr. Joran Wildeboer)
+  linkedin: https://www.linkedin.com/in/joranwildeboer/
+  sources:
+    decision_maker: https://www.letselschade.nu/persoonlijk/veeru-mewa-en-joran-wildeboer-starten-victimfirst-advocaten/
+    size: https://victimfirstadvocaten.nl/ons-team/
+    phone: https://victimfirstadvocaten.nl
+    multi_location: 
+    relevant_vacancies: https://victimfirstadvocaten.nl/vacatures/
+  value_proposition: Automatische voorscreening en gegevensuitvraag bij nieuwe melders plus geautomatiseerd opvragen/rappelleren van medische stukken, zodat advocaten hun uren aan inhoud besteden in plaats van intake-admin.
+  outreach_strategy: 'Bel 088-nummer, vraag naar Veeru Mewa (contactpersoon vacatures). Haakje: hun belofte dat advocaten zelf alles doen, en de vacature juridisch medewerker. Onderzoeksgesprek.'
+  conversation_starters:
+  - Jullie benadrukken dat advocaten zelf de zaken doen; geldt dat ook voor de eerste intake en het opvragen van medische stukken?
+  - Welke taken moet de nieuwe juridisch medewerker vooral van de advocaten overnemen?
+  - 'Hoe werkt de intake nu jullie grotendeels hybride werken: telefoon, formulier, of huisbezoek?'
+  verification: bevestigd — 088 055 07 70 staat op site. Opgericht 1-10-2020 door Veeru Mewa en Joran Wildeboer (Hoofddorp), uitsluitend slachtoffers. Vacature juridisch medewerker/letselschadejurist (min. 5 jr) staat nog online. Omvang ~8-10 blijft schatting.
+- name: VYVRE Letselschade Advocaten
+  url: https://vyvre.nl
+  phone: 050 211 08 36
+  city: Groningen (+ Drachten, 0512 212 420)
+  priority_score: 7/10
+  industry: Letselschade-advocatenkantoor Noord-NL, uitsluitend slachtoffers (incl. slachtofferrecht/strafzaken); LSA + Keurmerk Letselschade
+  size: "~13 mw (teampagina: 8 advocaten, 4 juristen, 1 secretaresse)"
+  tech_stack: Website met gratis eerste beoordeling / "direct advies"-formulier; geen dossiersoftware of klantportaal zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Snel gegroeid kantoor (opgericht 2019, nu ~13 mw en 2 vestigingen) met slechts 1 secretaresse, dus advocaten/juristen doen intake en stukken opvragen grotendeels zelf; gratis eerste beoordeling trekt ongescreende melders.
+  decision_maker: mr. Marcel Schreijer — eigenaar/oprichter, LSA-letselschadeadvocaat
+  linkedin: https://www.linkedin.com/in/marcelschreijer/
+  sources:
+    decision_maker: https://vyvre.nl/marcel-schreijer/
+    size: https://vyvre.nl/wiezijnwij/
+    phone: https://vyvre.nl
+    multi_location: https://vyvre.nl
+    relevant_vacancies: 
+  value_proposition: Geautomatiseerde intake via het direct-advies-formulier (kansrijkheid, aansprakelijkheid, benodigde stukken) en automatische opvraag- en rappelflow voor medische informatie, zodat advocaten met weinig secretariële ondersteuning minder admin hebben.
+  outreach_strategy: 'Bel 050-nummer, vraag naar Marcel Schreijer. Haakje: groei sinds 2019 met een lean ondersteunend team. Onderzoeksgesprek.'
+  conversation_starters:
+  - 'Met één secretaresse op dertien mensen: wie doet bij jullie de eerste screening van een nieuwe melder?'
+  - Hoeveel tijd kost het gemiddeld om een dossier compleet te krijgen qua medische stukken?
+  - Wat is er sinds de oprichting in 2019 veranderd in hoe jullie nieuwe zaken binnenhalen en beoordelen?
+  verification: 'bevestigd — 050 211 0836 staat op site (daarnaast 0512 212 420, waarschijnlijk Friese vestiging). Teampagina: 8 advocaten, 4 juristen, 1 secretaresse = 13. Marcel Schreijer eigenaar VYVRE Letselschade Advocaten B.V.; kantoor oorspronkelijk opgericht door Maaike de Vries (eind 2020).'
+- name: Letseldirect
+  url: https://www.letseldirect.nl
+  phone: '085 060 69 99'
+  city: Heerlen (hoofdkantoor); spreekplekken Sittard, Roermond, Maastricht, Venlo, Venray (op afspraak)
+  priority_score: 7/10
+  industry: Letselschade-advocatenkantoor, uitsluitend slachtofferzijde
+  size: 11-50 mw volgens LinkedIn (15 gekoppelde profielen); min. 7 advocaten in NOvA-register Heerlen
+  tech_stack: Online contactformulier en letselschade-rekentool (/letselschade-berekenen/) op site; vacaturemodule met filters. Geen klantportaal of dossiersoftware zichtbaar — intake via formulier/telefoon/huisbezoek.
+  relevant_vacancies: geen relevante vacatures gevonden (vacaturepagina toont 0 vacatures)
+  why_fit: Kantoor doet uitsluitend letselschade voor slachtoffers, dus intake/screening van melders is kernproces. Veel spreekplekken in Zuid-Limburg/Noord-Limburg + huisbezoeken wijst op hoog intakevolume en veel handmatig verzamelen van ongevals- en medische gegevens. Online rekentool = digitaal leadkanaal dat screening vergt.
+  decision_maker: niet geverifieerd — vraag naar eigenaar/kantoormanager (advocaten Heerlen o.a. mr. E.H.J.M. Dohmen, mr. R.J.R. Geurts)
+  linkedin: https://nl.linkedin.com/company/letseldirect-advocaten
+  sources:
+    decision_maker: https://zoekeenadvocaat.advocatenorde.nl/kantoren/heerlen/letseldirect-advocaten/21477097149
+    size: https://nl.linkedin.com/company/letseldirect-advocaten
+    phone: https://www.letseldirect.nl
+    multi_location: https://www.letseldirect.nl
+    relevant_vacancies: https://www.letseldirect.nl/vacatures/
+  value_proposition: AI-intake die online meldingen en rekentool-aanvragen automatisch voorscreent (aansprakelijkheid, ernst, termijnen), ongevalsgegevens gestructureerd uitvraagt en machtigingen/verzoeken voor medische stukken bij huisarts/ziekenhuis automatisch klaarzet en nabelt.
+  outreach_strategy: 'Bel 085-nummer, vraag naar kantoormanager of de advocaat die intake coördineert. Onderzoeksinsteek: ''ik verkoop niets, ik onderzoek hoe letselschadekantoren nieuwe melders screenen en medische stukken verzamelen''. Haakje: veel spreekplekken + huisbezoeken.'
+  conversation_starters:
+  - U werkt met zes spreekplekken en huisbezoeken — hoeveel tijd kost het screenen van een nieuwe melder voordat u besluit een zaak aan te nemen?
+  - Hoe lang duurt het gemiddeld voordat medische stukken van huisarts of ziekenhuis binnen zijn, en wie zit daar achteraan?
+  verification: 'aangepast — 085 060 69 99 staat op site. Slachtofferkant bevestigd, vestigingen Heerlen (hoofd), Maastricht, Rotterdam. Beslisser niet gevonden. LinkedIn: 11-50 mw, 15 profielen gekoppeld.'
+- name: Haartsen Letselschade
+  url: https://haartsenletselschade.nl
+  phone: '085 006 46 22'
+  city: Breda, Den Bosch, Eindhoven, Nijmegen, Tilburg, Venlo, Weert
+  priority_score: 7/10
+  industry: Letselschadebureau (slachtofferkant), franchiseorganisatie van NIVRE-experts personenschade; Keurmerk Letselschade, NLE, NIVRE, NIS
+  size: "~8-10 mw (8 personen op site); franchisemodel, experts werken als franchise-ondernemer per regio"
+  tech_stack: Eigen website met gratis kennismaking, 613 reviews (4,8 ster); geen dossiersoftware zichtbaar. Franchisemodel betekent dat processen centraal door franchisegever worden ingericht.
+  relevant_vacancies: Expert personenschade / franchise-ondernemer (regio Weert en Brabant/Limburg)
+  why_fit: 7 regio's en 600+ reviews wijzen op flinke instroom van melders; experts behandelen max. 75 dossiers per fte, dus elke uur minder intake/opvragen = meer capaciteit; als franchisegever wil Sander Haartsen gestandaardiseerde intake voor alle vestigingen.
+  decision_maker: Sander Haartsen — directeur Haartsen Letselschade B.V. (leidt franchiseorganisatie); Désirée Haartsen — oprichter
+  linkedin: https://www.linkedin.com/in/sanderhaartsen/
+  sources:
+    decision_maker: https://haartsenletselschade.nl/over-ons/sander-haartsen/
+    size: https://haartsenletselschade.nl/over-ons/sander-haartsen/
+    phone: https://haartsenletselschade.nl
+    multi_location: https://haartsenletselschade.nl
+    relevant_vacancies: https://haartsenletselschade.nl/over-ons/werken-bij/vacature-expert-personenschade-franchise-ondernemer-brabant-limburg/
+  value_proposition: 'Centrale, gestandaardiseerde intake-straat voor alle franchisevestigingen: melders automatisch screenen en ongevalsgegevens uitvragen, medische machtigingen en opvraagbrieven automatisch klaarzetten, zodat franchise-experts direct inhoudelijk aan de slag kunnen.'
+  outreach_strategy: 'Bel 085-nummer en vraag naar Sander Haartsen. Haakje: franchisemodel en het max. 75 dossiers-principe; hoe houden ze intake uniform over 7 vestigingen. Onderzoeksgesprek.'
+  conversation_starters:
+  - 'Hoe verloopt de intake van een nieuwe melder: centraal via jullie, of doet elke franchise-expert dat zelf?'
+  - Met maximaal 75 dossiers per expert, hoeveel van die tijd gaat op aan medische stukken opvragen en gegevens verzamelen?
+  - Wat moet een nieuwe franchise-ondernemer aan processen/tools van jullie overnemen?
+  verification: 'aangepast — Telefoon 085 006 46 22 staat op site. Sander Haartsen is directeur (site noemt hem niet expliciet eigenaar); Désirée Haartsen is oprichter (2019). Slachtofferkant bevestigd. Let op: franchisemodel, 8 personen op site deels franchise-ondernemers — echte loondienst-omvang onderkant ICP.'
+- name: Arslan & Arslan Advocaten
+  url: https://arslan.nl
+  phone: 070 450 0300 (hoofdnummer Den Haag); Amsterdam 020 747 00 55
+  city: Amsterdam, Den Haag, Rotterdam, Utrecht, Eindhoven, Tilburg
+  priority_score: 7/10
+  industry: Letselschade-advocatenkantoor slachtofferzijde (merknaam "Arslan & Arslan Advocaten - Letselschade BV"), uitgebreid met arbeids-, huur-, familie-, vreemdelingenrecht
+  size: 28 advocaten/juristen volgens site; 45-53 mw volgens RocketReach — bovenkant van ICP
+  tech_stack: Online claimformulier 'Wat is er gebeurd?' op homepage met upload tot 5 bestanden; geen klantportaal of dossiersoftware zichtbaar. Digitale intake aan voorkant, verwerking vermoedelijk handmatig.
+  relevant_vacancies: Advocaat Letselschade; NIVRE-register expert Letselschade (plus advocaten vreemdelingen-/civiel/familierecht, niet relevant)
+  why_fit: 'Letselschade is hoofdmerk en naamgevend (BV heet ''... Letselschade''), met online claimformulier en 6 vestigingen = groot intakevolume. Vacatures voor letselschade-advocaat en NIVRE-expert wijzen op groeiende dossierdruk. Let op: kantoor verbreedt naar andere rechtsgebieden — check aandeel letselschade in gesprek.'
+  decision_maker: Onur Arslan — oprichter, advocaat en NIVRE-register expert letselschade
+  linkedin: https://www.linkedin.com/in/onurarslan01/
+  sources:
+    decision_maker: https://arslan.nl/team-arslan/onur-arslan/
+    size: https://arslan.nl
+    phone: https://arslan.nl
+    multi_location: https://arslan.nl
+    relevant_vacancies: https://arslan.nl/vacatures/
+  value_proposition: AI die inzendingen van het claimformulier (inclusief geüploade documenten) automatisch leest, voorscreent en routeert naar de juiste vestiging/behandelaar, plus automatische opvraag- en rappelflow voor medische stukken.
+  outreach_strategy: 'Bel Amsterdam (020 747 00 55), vraag naar Onur Arslan of de kantoormanager. Onderzoeksgesprek; haakje: online claimformulier + zes vestigingen + openstaande vacatures letselschade.'
+  conversation_starters:
+  - Via uw claimformulier kunnen mensen direct documenten uploaden — wat gebeurt er daarna en wie beoordeelt of een zaak kansrijk is?
+  - U zoekt een letselschade-advocaat en een NIVRE-expert — is de werkdruk vooral intake en stukken verzamelen, of de inhoudelijke behandeling?
+  verification: 'aangepast — Hoofdnummer op site is 070 450 0300 (Den Haag, ook in schema.org); 020 747 00 55 is het Amsterdamse vestigingsnummer. Onur Arslan is oprichter (NIVRE-expert). Let op segment-fit: kantoor profileert zich inmiddels als full-service (letselschade, arbeids-, huur-, familie-, strafrecht), letselschade blijft wel het merk/de kernpraktijk — grensgeval.'
+- name: Ridder Letselschade
+  url: https://www.ridder-letselschade.nl
+  phone: 036 522 0342
+  city: Zeewolde (landelijk werkend)
+  priority_score: 6/10
+  industry: Letselschadebureau (belangenbehartiger slachtoffers), Keurmerk Letselschade + NLE
+  size: "~10 mw (Zeewolde); sinds 5-6-2025 onderdeel van Flyct Letselschade, grootte Flyct niet geverifieerd"
+  tech_stack: WordPress-site met online "Letselschadetest" (gratis claimcheck); geen dossiersoftware zichtbaar
+  relevant_vacancies: vacaturepagina aanwezig (https://www.ridder-letselschade.nl/letselschadebureau/vacatures), inhoud niet geverifieerd; recent aangenomen letselschade jurist (nov 2025) en juridisch assistent (okt 2025)
+  why_fit: Online letselschadetest levert stroom nieuwe melders die gescreend moeten worden; team met schadecorrespondent, secretaresses en juridisch assistent wijst op veel handmatige intake/correspondentie (medische stukken opvragen); recente groei.
+  decision_maker: niet geverifieerd — Tjip en Jessica Ridder vertrokken 31-7-2026; vraag naar leidinggevende/kantoormanager (beslissing mogelijk bij Flyct-directie)
+  linkedin: 
+  sources:
+    decision_maker: https://www.letselschade.nu/letselschadebranche/tjip-en-jessica-ridder-nemen-na-ruim-twintig-jaar-afscheid-van-ridder-letselschade/
+    size: https://www.letselschade.nu/letselschadebranche/flyct-zet-groeistrategie-kracht-bij-met-overname-ridder-letselschade/
+    phone: https://www.ridder-letselschade.nl
+    multi_location: 
+    relevant_vacancies: https://www.ridder-letselschade.nl/medewerkers
+  value_proposition: Automatische voorscreening van letselschadetest-inzendingen en gestructureerd uitvragen van ongevalsgegevens, plus geautomatiseerde machtigingen/opvraagbrieven voor medische informatie zodat secretariaat en schadecorrespondent minder handwerk hebben.
+  outreach_strategy: Bel algemeen nummer, vraag naar Tjip Ridder; haakje is de overgang naar Flyct (verandert er iets aan de intakeprocessen?) en de online letselschadetest. Onderzoeksgesprek, niets verkopen.
+  conversation_starters:
+  - Hoeveel meldingen komen er via jullie online letselschadetest binnen en hoeveel daarvan blijken kansrijk?
+  - Hoe lang duurt het gemiddeld voordat jullie medische stukken van huisarts/ziekenhuis binnen hebben, en wie jaagt daarop?
+  - Verandert de aansluiting bij Flyct iets aan hoe jullie nieuwe dossiers intaken?
+  verification: aangepast — Telefoon klopt; oprichters Tjip en Jessica Ridder zijn per 31-7-2026 vertrokken, sinds juni 2025 onderdeel van Flyct (werkt onder eigen naam vanuit Zeewolde, ~10 mw). Nieuwe beslisser niet gevonden.
+- name: Sterk Letselschade
+  url: https://sterkletselschade.nl
+  phone: 020 369 01 65
+  city: Amsterdam (Postjesweg 170), Utrecht (Winthontlaan 200)
+  priority_score: 5/10
+  industry: Letselschadebureau (belangenbehartiger), uitsluitend slachtofferzijde
+  size: niet geverifieerd — minimaal 3 personen bekend (directeur, office management, letselschadejurist); zachte onderkant ICP
+  tech_stack: Online letselschadescan-aanvraag (/letselschadescan-aanvragen/), communicatie ook via WhatsApp; geen portaal of dossiersoftware zichtbaar.
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: 'Uitsluitend slachtoffers, letselschadescan als intakekanaal en WhatsApp-contact = veel ongestructureerde meldingen. Twee vestigingen. Nadeel: omvang onbekend en mogelijk verweven met VSHZ Advocaten (Utrecht/Amsterdam).'
+  decision_maker: Chafik Haddouzi — directeur/eigenaar (Saida Haddouzi — office management)
+  linkedin: https://nl.linkedin.com/in/chafik-haddouzi-682304120
+  sources:
+    decision_maker: https://nl.linkedin.com/in/chafik-haddouzi-682304120
+    size: https://rocketreach.co/sterk-letselschade-management_b41cbb15ff68a8b9
+    phone: https://sterkletselschade.nl
+    multi_location: https://sterkletselschade.nl
+    relevant_vacancies: 
+  value_proposition: Gestructureerde AI-intake voor letselschadescan- en WhatsApp-meldingen (ongevalsgegevens, aansprakelijke partij, letsel) en automatische opvraag van medische stukken, zodat een klein team meer dossiers aankan.
+  outreach_strategy: 'Bel 020 369 01 65, vraag naar Chafik Haddouzi. Onderzoeksgesprek; eerst checken hoeveel mensen er werken en hoe Sterk zich verhoudt tot VSHZ. Haakje: WhatsApp als meldkanaal.'
+  conversation_starters:
+  - U bent ook via WhatsApp bereikbaar — hoe houdt u overzicht over alle informatie die melders zo aanleveren?
+  - Hoeveel letselschadescans komen er per maand binnen, en hoeveel daarvan worden een dossier?
+  verification: 'aangepast — 020 369 01 65 staat op site. Chafik Haddouzi directeur/eigenaar (LinkedIn), ook partner VSHZ Advocaten. Omvang onduidelijk: minimaal 3 personen bekend (Chafik Haddouzi, Saida Haddouzi office management, Younes Yaakoubi letselschadejurist) — onderkant ICP, lager scoren.'
+- name: Bewust Letselschade Advocaten (Bewust LSA)
+  url: https://www.bewustlsa.nl
+  phone: 040 369 01 69
+  city: Eindhoven (werkgebied Eindhoven, Tilburg, Breda, Den Bosch)
+  priority_score: 4/10
+  industry: Letselschade-advocatenkantoor, uitsluitend slachtoffers en nabestaanden; LSA + ASP
+  size: 3 advocaten (NOvA-register) + onbekende ondersteuning, ~3-5 mw — onderkant ICP
+  tech_stack: Eenvoudige website met gratis vrijblijvend intakegesprek; geen online claimformulier-tool, dossiersoftware of portaal zichtbaar
+  relevant_vacancies: geen relevante vacatures geverifieerd op eigen site
+  why_fit: Klein kantoor waar advocaten intake en stukken opvragen grotendeels zelf doen; werving juridisch secretaresse zou op admin-druk wijzen; werkgebied over vier Brabantse steden.
+  decision_maker: mr. Jikke Stappaerts-Zijlmans, mr. Lisette van den Muyzenberg-van Zoelen en mr. Daan Andries — oprichters/eigenaren (sinds 1-1-2020)
+  linkedin: https://nl.linkedin.com/company/bewustlsa
+  sources:
+    decision_maker: https://www.letselschade.nu/advocatuur/van-den-muyzenberg-andries-en-stappaerts-starten-bewust-letselschade-advocaten/
+    size: https://zoekeenadvocaat.advocatenorde.nl/kantoren/eindhoven/bewust-letselschade-advocaten/16637464916
+    phone: https://zoekeenadvocaat.advocatenorde.nl/kantoren/eindhoven/bewust-letselschade-advocaten/16637464916
+    multi_location: 
+    relevant_vacancies: 
+  value_proposition: Lichte geautomatiseerde intake (vooraf ongevalsgegevens en aansprakelijkheid uitvragen) en automatische opvraagbrieven/rappels voor medische stukken, zodat drie advocaten zonder groot secretariaat minder admin doen.
+  outreach_strategy: 'Bel 040-nummer, vraag wie het kantoor leidt/eigenaar is. Haakje: klein team dat heel Brabant bedient. Onderzoeksgesprek, kort houden.'
+  conversation_starters:
+  - 'Met drie advocaten voor vier steden: wie doet bij jullie het eerste telefoontje of de intake met een nieuwe melder?'
+  - Hoeveel tijd per dossier gaat er zitten in het opvragen en rappelleren van medische informatie?
+  - Zoeken jullie extra ondersteuning op het secretariaat, en welke taken zou die vooral overnemen?
+  verification: 'aangepast — 040 369 01 69 staat op site en in NOvA-register. Beslissers gevonden: kantoor opgericht 1-1-2020 door de drie advocaten (ex-Claassen Advocaten). Omvang: 3 advocaten in NOvA-register, ondersteuning onbekend — zachte onderkant ICP (3-5), lager scoren. Vacature juridisch secretaresse niet op eigen site bevestigd.'

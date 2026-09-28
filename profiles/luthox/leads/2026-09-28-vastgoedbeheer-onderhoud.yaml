@@ -1,0 +1,392 @@
+---
+business: luthox
+segment: vastgoedbeheer-onderhoud
+generated_at: '2026-09-28'
+description: Cold-call segmenttest (belonderzoek, ~10 gesprekken per segment). Vastgoed- en VvE-beheerders (5-100 mw) in heel NL met eigen beheerportefeuille. Discovery via 2 agents, verrijking per bedrijf (telefoon, beslisser, grootte, tech, vacatures), daarna onafhankelijke verificatie; veld verification geeft het oordeel van de checker.
+leads:
+- name: PropertyView B.V. Vastgoedmanagement
+  url: https://propertyview.nl
+  phone: 073 523 12 82 (Rosmalen, technisch beheer + spoed); 023 553 11 90 (Haarlem, administratie)
+  city: Rosmalen, Haarlem
+  priority_score: 8/10
+  industry: Technisch en administratief beheer bedrijfsvastgoed (kantoren, retail, bedrijfsruimte, horeca) en sociale huur, landelijk
+  size: ca. 45–50 op teampagina Rosmalen (directie, management, servicedesk 12+, bedrijfsbureau, vastgoedbeheer) plus team Haarlem — naar schatting 60–80 totaal; valt binnen vastgoedbeheer-grens van 100
+  tech_stack: Storing-melden-formulier (popup) + spoedlijn + mail op de site; eigen Manager ICT in dienst (geen softwarebedrijf); beheerpakket niet zichtbaar op site
+  relevant_vacancies: niet geverifieerd op eigen site — jobboards noemen recent technisch secretaresse/servicedeskmedewerker, (junior) technisch manager, portfolio-administrateur en junior bedrijfsbureau Rosmalen
+  why_fit: Aparte servicedesk van 12+ mensen onder een teammanager servicedesk wijst op zeer hoog storings-/meldingsvolume; storingen komen binnen via telefoon, formulier en mail die handmatig getrieerd moeten worden; landelijke portefeuille (ca. 3,3 mln m2 volgens batchlijst) met externe vakmensen.
+  decision_maker: Antoine van der Steen — algemeen directeur (sinds okt 2023, eerder technisch/operations manager); operationeel aanspreekpunt Jan van Haren — teammanager servicedesk/bedrijfsbureau
+  linkedin: https://www.linkedin.com/in/antoine-van-der-steen-62b6a7a6/
+  sources:
+    decision_maker: https://www.linkedin.com/in/antoine-van-der-steen-62b6a7a6/
+    size: https://www.jobbird.com/nl/werken-bij/propertyview-vastgoedmanagement-b-v
+    phone: https://propertyview.nl/contact/
+    multi_location: https://propertyview.nl/contact/
+    relevant_vacancies: https://www.jobbird.com/nl/werken-bij/propertyview-vastgoedmanagement-b-v ; https://nl.indeed.com/cmp/Propertyview-B.v.-2
+  value_proposition: Automatische intake en triage van storingsmeldingen (formulier/mail/telefoon-transcriptie) die object, contract en urgentie herkent, een vakman voorstelt en huurder/eigenaar automatisch op de hoogte houdt — ontlast de 12-koppige servicedesk.
+  outreach_strategy: Bel Rosmalen en vraag naar Jan van Haren (teammanager servicedesk); tweede optie Antoine van der Steen. Onderzoeksgesprek over hoe de servicedesk storingsmeldingen verwerkt; haakje is hun omvang van de servicedesk en het storingsformulier.
+  conversation_starters:
+  - Jullie hebben een servicedesk van ruim tien mensen — hoeveel storingsmeldingen verwerken jullie per dag, en hoeveel daarvan komen nog telefonisch of per mail binnen in plaats van via het formulier?
+  - Hoe verloopt het van een melding tot de monteur die op pad gaat, en hoe houden jullie huurders en eigenaren tussendoor op de hoogte?
+  verification: 'aangepast — 073 523 12 82 (vast, Rosmalen, ook spoed) en 023 553 11 90 (Haarlem) bevestigd op contactpagina; er is ook een vestiging Groningen (zelfde nummer). Antoine van der Steen algemeen directeur sinds 1-10-2023 bevestigd (LinkedIn/RocketReach). ~50 professionals in Rosmalen; totaal met Haarlem/Groningen waarschijnlijk 60–90, binnen vastgoedgrens 100. Vacatures: jobboards (Jobbird/Indeed) noemen servicedesk-/technisch secretaresse-, technisch manager- en portfolio-administrateur-rollen, maar actualiteit niet op eigen site bevestigd.'
+- name: VP&A Groep
+  url: https://www.vpagroep.nl
+  phone: 0162 44 77 00 (Oosterhout, hoofd); Capelle 010 442 00 33; Eindhoven 040 291 12 10; Utrecht 030 600 4000
+  city: Oosterhout (HQ), Nieuwegein, Capelle a/d IJssel, Eindhoven (Tilburg genoemd in zoekresultaat)
+  priority_score: 8/10
+  industry: VvE-beheer (ca. 850 VvE's, ook voor corporaties en institutionele beleggers) + vastgoedbeheer BOG en bedrijfsmakelaardij
+  size: ca. 45 mw volgens Vastgoedjournaal-bedrijfsprofiel (zoekresultaat noemt 50)
+  tech_stack: Twinq-portaal (vpagroep.twinq.nl) voor VvE's en Bloxs (vpa.bloxs.com) voor vastgoedbeheer — gestandaardiseerde pakketten, meldingen via portaal + servicebureau
+  relevant_vacancies: Service Bureau Medewerker Oosterhout (eerste aanspreekpunt technische vragen en reparaties), Service Manager Oosterhout, VvE Manager Utrecht, VvE Manager Capelle a/d IJssel
+  why_fit: Ca. 850 VvE's = zeer hoog meldingsvolume; vacature servicebureau-medewerker specifiek voor technische vragen en reparaties laat zien dat meldingstriage handwerk en capaciteitsknelpunt is; 4 vestigingen, dus afstemming meldingen/vakmensen over regio's.
+  decision_maker: Maarten Poels — CEO/algemeen directeur VP&A Groep; Björn Voogt (directeur volgens VP&A-medewerkerspagina, maar LinkedIn toont eigen bedrijf Voogt Bedrijfshuisvesting — vraag wie over servicebureau/meldingen gaat)
+  linkedin: https://www.linkedin.com/in/maartenpoels/
+  sources:
+    decision_maker: https://www.linkedin.com/in/maartenpoels/ ; https://nl.linkedin.com/in/bj%C3%B6rn-voogt-mre-rm-rt-ba15941
+    size: https://vastgoedjournaal.nl/bedrijfsprofielen/508/vpanda
+    phone: https://www.vpagroep.nl/contact
+    multi_location: https://www.vpagroep.nl/contact
+    relevant_vacancies: https://www.vpagroep.nl/onze-vacatures/
+  value_proposition: AI-intake op het servicebureau die technische meldingen van bewoners (mail/telefoon/WhatsApp/Twinq) uitvraagt, urgentie bepaalt, VvE en onderhoudscontract koppelt en een vakman voorstelt, met automatische statusberichten — minder belasting op het servicebureau dat nu wordt uitgebreid.
+  outreach_strategy: Vraag naar de service manager of het hoofd servicebureau in Oosterhout; anders Björn Voogt. Haakje is de openstaande vacature Service Bureau Medewerker voor technische vragen en reparaties — onderzoeksgesprek over hoe ze meldingen voor ~850 VvE's verwerken.
+  conversation_starters:
+  - Ik zag dat jullie een servicebureau-medewerker zoeken voor technische vragen en reparaties — hoeveel meldingen komen er per week binnen en via welke kanalen?
+  - Met ca. 850 VvE's over vier vestigingen: hoe verloopt het van melding in Twinq of per telefoon tot vakman ingeschakeld en bewoner geïnformeerd?
+  verification: 'aangepast — 0162 44 77 00 (vast, Oosterhout servicekantoor) bevestigd op contactpagina, plus vestigingsnummers Capelle/Eindhoven/Utrecht. Beslisser gecorrigeerd: Maarten Poels staat op LinkedIn als CEO VP&A Groep (en volgens zoekresultaat KvK-directeur sinds 2025); Björn Voogt''s LinkedIn toont nu Voogt Bedrijfshuisvesting B.V. — mogelijk niet meer eindverantwoordelijk. Grootte ~45–50 niet opnieuw geverifieerd; vacatures niet opnieuw gecontroleerd.'
+- name: BeheerGoed
+  url: https://beheergoed.nl
+  phone: 010 307 23 63
+  city: Capelle aan den IJssel (Rivium 2e straat 42a); werkgebied Rotterdam en Capelle
+  priority_score: 8/10
+  industry: VvE-beheer (administratief, financieel en technisch) incl. MJOP en 24/7 bereikbaarheid bij storingen
+  size: 8 medewerkers — "een team van acht professionals" op teampagina
+  tech_stack: Twinq (eigenarenportaal + leveranciersportaal via beheergoed.twinq.nl) — gangbaar VvE-pakket; meldingen deels via portaal, spoed via 24/7-lijn
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Technisch VvE-beheer met 24/7 bereikbaarheid voor lekkages en defecte installaties → spoedmeldingen triëren en vakman inschakelen buiten kantoortijd is kernproces; klein team (8) dat volgens eigen tekst werkt met "duidelijke processen" en niet afhankelijk wil zijn van één persoon; eigenaar heeft complexen tot 400+ appartementsrechten beheerd
+  decision_maker: Brandon Katgerman — eigenaar en directeur
+  linkedin: 
+  sources:
+    decision_maker: https://beheergoed.nl/ons-team/
+    size: https://beheergoed.nl/ons-team/
+    phone: https://beheergoed.nl
+    multi_location: 
+    relevant_vacancies: https://beheergoed.nl/ons-team/
+  value_proposition: AI-intake voor storings- en lekkagemeldingen (ook 's nachts) — urgentie bepalen, juiste Twinq-leverancier inschakelen, bewoners en bestuur automatisch op de hoogte houden — minder nachtelijke telefoontjes voor het 8-koppige team
+  outreach_strategy: Bel 010 307 23 63, vraag naar Brandon Katgerman; onderzoeksgesprek over hoe de 24/7-bereikbaarheid in de praktijk werkt met 8 mensen; haakje hun eigen focus op processen en kennisdeling
+  conversation_starters:
+  - Jullie zijn 24/7 bereikbaar voor lekkages — wie neemt 's nachts de telefoon op en hoe bepaalt diegene of er direct een loodgieter moet komen?
+  - Hoeveel van de meldingen komt via het Twinq-portaal binnen versus telefoon of mail, en hoeveel tijd kost het om bewoners en bestuur bij te praten?
+  verification: bevestigd — 010 307 23 63 (vast) op eigen site; Brandon Katgerman — eigenaar en directeur en 'team van acht professionals' bevestigd op teampagina; puur VvE-beheer Rotterdam/Capelle.
+- name: Regio Vastgoedbeheer
+  url: https://regiovastgoedbeheer.nl
+  phone: '085 200 63 32'
+  city: Utrecht (Overvliet 9); portefeuille in Den Haag, Amsterdam, Arnhem, Almere, Amersfoort, Den Bosch, Leiden, Diemen, Bilthoven
+  priority_score: 8/10
+  industry: Vastgoedbeheer woningen, mixed-use en bedrijfspanden voor particuliere beleggers
+  size: 6 medewerkers — "team van zes mensen" volgens oprichter op over-ons-pagina (opgericht 2021); 1.200+ objecten in beheer
+  tech_stack: Realite (vastgoedbeheerplatform met portaal voor huurders/eigenaren, reparatieverzoeken en communicatie) — digitaal ingericht, maar met 6 mensen voor 1.200 objecten en "dag en nacht" eerste aanspreekpunt veel handwerk in triage
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Zeer hoge ratio objecten per medewerker (~200 per fte) en belofte "eerste aanspreekpunt voor jouw huurders, dag en nacht" → meldingen triëren en vakmensen inschakelen is kernpijn; verspreide portefeuille over 9 regio's maakt inzet van lokale vakmensen complex; snelgroeiend (4 jaar tot 1.200 objecten)
+  decision_maker: Max van Santen — oprichter/eigenaar en vastgoedmanager
+  linkedin: 
+  sources:
+    decision_maker: https://regiovastgoedbeheer.nl/over-ons
+    size: https://regiovastgoedbeheer.nl/over-ons
+    phone: https://regiovastgoedbeheer.nl/over-ons
+    multi_location: https://regiovastgoedbeheer.nl
+    relevant_vacancies: https://regiovastgoedbeheer.nl/over-ons/
+  value_proposition: AI-triage van reparatieverzoeken (Realite, mail, telefoon, WhatsApp) met urgentiebepaling, automatische toewijzing aan regionale vakman en statusupdates naar huurder — zodat 6 mensen verder kunnen groeien zonder extra beheerders
+  outreach_strategy: Bel algemeen nummer, vraag naar Max van Santen; onderzoeksgesprek over hoe een klein team 1.200 objecten in 9 regio's technisch bedient; haakje de snelle groei en de dag-en-nacht-belofte
+  conversation_starters:
+  - Met zes mensen en ruim 1.200 objecten — hoeveel reparatiemeldingen komen er per week binnen en wie doet de eerste beoordeling?
+  - Hoe regelen jullie vakmensen in regio's als Arnhem of Leiden waar jullie geen kantoor hebben, en hoe blijft de huurder op de hoogte?
+  verification: bevestigd — 085 200 63 32 op eigen site (085 = vast/VoIP, geen 06); Max van Santen — Vastgoedmanager & Owner bevestigd; team van 6 met namen; 1.200+ objecten in beheer.
+- name: 365Beheer
+  url: https://365beheer.nl
+  phone: '088 123 50 00 (ma–vr 9:00–17:00)'
+  city: Utrecht (Euclideslaan 64, hoofdkantoor); Rotterdam en Amsterdam op afspraak; werkgebied o.a. Utrecht, Noord-/Zuid-Holland, Noord-Brabant, Gelderland, Flevoland
+  priority_score: 8/10
+  industry: Vastgoedmanagement (woningen + bedrijfspanden) voor beleggers, met taxatie (365Taxaties) en makelaardij ernaast
+  size: ca. 23–26 medewerkers — teampagina (23 namen uitgelezen, pagina telt 26); waarvan 3 servicedesk, 4 technisch managers, 3 financieel vastgoedmanagers
+  tech_stack: Bloxs (vastgoedbeheersoftware) met online reparatieverzoek-portaal (365beheer.bloxs.com) — digitaal meldkanaal aanwezig, maar met aparte servicedesk van 3 mensen nog veel handmatige afhandeling; geen storingsnummer op contactpagina
+  relevant_vacancies: Medewerker Technische Servicedesk (huurdersvragen en onderhoudsverzoeken verwerken); Vastgoedmanager (financieel en administratief); (Junior) Technisch Manager Vastgoed — alle Utrecht, 32–40 u
+  why_fit: Heeft een eigen servicedesk vastgoedmanagement (3 fte) en 4 technisch managers → onderhoudsverzoeken van huurders triëren en vakmensen inschakelen is een expliciet, arbeidsintensief proces; portefeuille verspreid over 6 provincies; telefonisch alleen kantooruren bereikbaar
+  decision_maker: Nathan Selbach — oprichter & directeur; Sander Stalenhoef — operationeel manager & partner
+  linkedin: https://www.linkedin.com/in/nathan-selbach-1572a029/
+  sources:
+    decision_maker: https://www.linkedin.com/in/nathan-selbach-1572a029/
+    size: https://365beheer.nl/team/
+    phone: https://365beheer.nl/contact/
+    multi_location: https://365beheer.nl/contact/
+    relevant_vacancies: https://365beheer.nl/vacatures/
+  value_proposition: AI-laag bovenop Bloxs die reparatieverzoeken (portaal, mail, telefoon) automatisch classificeert, doorvraagt naar foto's/details, de juiste vakman in de regio voorstelt en huurders statusupdates stuurt — zodat de servicedesk kan meegroeien zonder extra fte
+  outreach_strategy: Bel 088 123 50 00, vraag naar Sander Stalenhoef (operationeel) of Nathan Selbach; onderzoeksgesprek over hoe de servicedesk en technisch managers reparatieverzoeken verdelen; haakje het Bloxs-meldportaal
+  conversation_starters:
+  - Jullie hebben een reparatieverzoek-portaal in Bloxs én een servicedesk van drie mensen — welk deel van de meldingen komt nog via telefoon of mail binnen?
+  - Hoe bepaalt de servicedesk welke technisch manager en welke vakman een melding krijgt, met panden verspreid van Brabant tot Flevoland?
+  verification: 'aangepast — 088 123 50 00 (bedrijfsnummer, geen 06) op contactpagina; Nathan Selbach — Founder & Director bevestigd via LinkedIn/Vastiva. Vacaturepagina nu wel bekeken: 3 relevante vacatures in Utrecht (o.a. medewerker technische servicedesk — precies de meldingenpijn). Vestigingen Utrecht (HQ), Rotterdam, Amsterdam.'
+- name: Exclusief Vastgoedbeheer
+  url: https://exclusiefvastgoedbeheer.nl
+  phone: 050 744 03 06 (ook 24/7 storingen)
+  city: Groningen (Moermanskweg 2-3) + Hoogezand; zoekresultaat noemt ook Bovenstreek 9 Groningen
+  priority_score: 7/10
+  industry: VvE-beheer en vastgoedbeheer Noord-NL (Groningen, Friesland, Drenthe; ook Noord-Holland, Flevoland, Overijssel)
+  size: ca. 10 mw — LinkedIn 11-50, vacatureteksten noemen team van 10
+  tech_stack: Site niet bereikbaar voor controle (403); vaste aanspreekpunten per VvE (VvE-beheerder, technisch en financieel beheerder); portaal/pakket niet geverifieerd; zustersite exclusiefvastgoedmanagement.nl bestaat
+  relevant_vacancies: niet geverifieerd — LinkedIn verwijst naar vacatureteksten en een nieuwe medewerker (jan 2026), geen actuele vacature gecontroleerd
+  why_fit: 24/7 storingsnummer dat op hetzelfde algemene nummer draait betekent dat meldingen telefonisch binnenkomen en handmatig getrieerd worden; grote complexen (bv. VvE Meerpaal met 119 appartementen) geven veel meldingen; klein team van ca. 10 bedient een groot werkgebied over 6 provincies.
+  decision_maker: Paul Hooghiem — oprichter/eigenaar en financieel manager; technisch beheerder Marco de Graaf
+  linkedin: https://www.linkedin.com/in/paul-hooghiem-3b638221/
+  sources:
+    decision_maker: https://exclusiefvastgoedbeheer.nl/team-showcase/paul-hooghiem/ ; https://www.fcgroningen.nl/nieuws/elftal-vragen-aan-paul-hooghiem-van-exclusief-vastgoedbeheer/
+    size: https://nl.linkedin.com/company/exclusief-vastgoedbeheer
+    phone: https://exclusiefvastgoedbeheer.nl/over-ons/
+    multi_location: https://nl.linkedin.com/company/exclusief-vastgoedbeheer
+    relevant_vacancies: 
+  value_proposition: Een AI-intake die telefonische en schriftelijke storingsmeldingen van VvE-bewoners 24/7 uitvraagt (foto, locatie, urgentie), koppelt aan VvE en onderhoudscontract en de technisch beheerder een kant-en-klare werkbon geeft, met automatische statusupdates naar bewoners en bestuur.
+  outreach_strategy: Vraag naar Paul Hooghiem; voor het proces Marco de Graaf (technisch beheerder). Onderzoeksgesprek; haakje is het 24/7 storingsnummer met een team van ca. 10 over zes provincies.
+  conversation_starters:
+  - Jullie 24/7 storingen lopen via hetzelfde nummer — wie neemt 's avonds en in het weekend op, en hoe beslis je of iets echt spoed is?
+  - Bij een complex als VvE Meerpaal met 119 appartementen: hoeveel meldingen krijgen jullie per maand, en hoe houden jullie bewoners én bestuur op de hoogte van de voortgang?
+  verification: aangepast — 050 744 03 06 (vast), Bovenstreek 9 Groningen — bevestigd via zoekresultaat van eigen site (site zelf gaf 403 bij ophalen). Paul Hooghiem is oprichter en financieel manager/eigenaar (eigen teampagina + FC Groningen-interview 2022, LinkedIn); rol 'directeur' aangescherpt. Grootte ~10 (LinkedIn 11-50) niet opnieuw bevestigd; vacatures blijven ongeverifieerd.
+- name: Vervane Beheer
+  url: https://vervane.nl
+  phone: 070 356 06 90
+  city: Den Haag (Regulusweg 11)
+  priority_score: 7/10
+  industry: VvE-beheer (administratief/financieel, dagelijks onderhoud, technisch beheer) sinds 1976; onderdeel van de Haagse Atrium Groep (o.a. Atrium Vastgoedmanagement)
+  size: 10–50 medewerkers volgens bedrijfsprofiel (bandbreedte, niet exact geverifieerd); team bestaat uit servicedesk, accountmanagers, technisch beheerders en financieel medewerkers; Atrium Groep is regionale groep van vastgoedlabels, geen landelijk concern
+  tech_stack: Twinq (vervane.twinq.nl) plus eigen VvE-dossierportaal (vvedossier.vervane.nl); aparte servicedesk en 24/7 noodnummer — meldingsproces bestaat maar is personeelsintensief
+  relevant_vacancies: geen relevante vacatures gevonden (link "Kom bij ons werken" zonder concrete vacature)
+  why_fit: Heeft een eigen servicedesk voor meldingen plus 24/7 noodnummer → meldingen triëren is een expliciet ingericht, arbeidsintensief proces; referentieprojecten van 6 tot 347 appartementen; technisch beheer en vakmaninzet in huis
+  decision_maker: Patrick G.M. Schoenmakers — directeur
+  linkedin: https://nl.linkedin.com/in/patrick-g-m-schoenmakers-0007761b
+  sources:
+    decision_maker: https://vervane.nl/over-vervane/
+    size: https://www.linkedin.com/company/vervane-beheer-bv
+    phone: https://vervane.nl/
+    multi_location: https://atrium-vgm.nl/
+    relevant_vacancies: https://vervane.nl/over-vervane/
+    linkedin: https://nl.linkedin.com/in/patrick-g-m-schoenmakers-0007761b
+  value_proposition: AI-ondersteuning voor de servicedesk — meldingen via mail/telefoon/WhatsApp automatisch classificeren, spoed scheiden van regulier, in Twinq als opdracht klaarzetten voor de technisch beheerder en bewoners automatische statusupdates sturen
+  outreach_strategy: Bel 070 356 06 90, vraag naar Patrick Schoenmakers (of het hoofd servicedesk/technisch beheer); onderzoeksgesprek over hoe de servicedesk meldingen verwerkt; haakje de combinatie servicedesk + 24/7 noodnummer
+  conversation_starters:
+  - Jullie hebben een aparte servicedesk en een 24/7 noodnummer — hoeveel meldingen verwerkt de servicedesk per week en hoeveel daarvan zijn echt spoed?
+  - Hoe gaat een melding van een bewoner van de servicedesk naar de technisch beheerder en de vakman — en hoe weet de bewoner hoe het ervoor staat?
+  verification: bevestigd — 070 356 06 90 (vast) op homepage; Patrick G.M. Schoenmakers directeur (sinds 2007) bevestigd op site en LinkedIn; onderdeel regionale Atrium Groep (samen ~12.000 appartementsrechten), geen landelijk concern. 24/7 servicedesk + Twinq-portaal. Eerdere vacature financieel administratief medewerker is offline (404).
+- name: T&T Vastgoed en VvE Beheer
+  url: https://www.tentvvebeheer.nl
+  phone: 010 223 81 33
+  city: Bergschenhoek (Leeuwenhoekweg 20 B); werkgebied Noordwest-, Midden- en Zuidwest-Nederland (Rotterdam/Den Haag e.o.)
+  priority_score: 7/10
+  industry: VvE-beheer (administratief, financieel, technisch) en vastgoedbeheer; handelsnaam ook Fortemente Vastgoed & VvE Beheer
+  size: ca. 16 medewerkers — telling teampagina (2 eigenaren, 11 VvE-beheerders, 2 financieel, 1 stagiair)
+  tech_stack: Informant (VvE-beheersoftware met digitale toegang voor eigenaren) — standaardpakket; geen online storingsmelder of storingsnummer gevonden op site
+  relevant_vacancies: VvE-beheerder (centraal aanspreekpunt VvE/leden/bestuur, incl. technische ondersteuning); financieel medewerker (vermeld op homepage)
+  why_fit: 11 VvE-beheerders die elk "centraal aanspreekpunt" zijn voor leden en bestuur → reparatie- en lekkagemeldingen komen versnipperd per beheerder binnen; actief werven van extra beheerders wijst op groeiende werkdruk; geen zichtbaar meldkanaal dus waarschijnlijk telefoon/mail
+  decision_maker: Martijn van Tienhoven en Jeroen van Tienhoven — eigenaren
+  linkedin: 
+  sources:
+    decision_maker: https://www.tentvvebeheer.nl/wie-zijn-wij/
+    size: https://www.apollo.io/people/Jeroen/Tienhoven/54aa80157468690630b4be07
+    phone: https://www.tentvvebeheer.nl/
+    multi_location: 
+    relevant_vacancies: https://www.tentvvebeheer.nl/werken-bij-tt/ ; https://www.tentvvebeheer.nl/werken-bij-tt-financieel-medewerker/
+  value_proposition: Centrale AI-intake voor meldingen van VvE-leden (mail/telefoon/WhatsApp) die melding classificeert, koppelt aan het juiste complex in Informant, vakman voorstelt en bewoners automatisch informeert — ontlast de individuele beheerders zodat minder extra beheerders nodig zijn
+  outreach_strategy: Bel 010 223 81 33, vraag naar Martijn of Jeroen van Tienhoven; onderzoeksgesprek over hoe meldingen over 11 beheerders verdeeld worden; haakje de openstaande vacature VvE-beheerder
+  conversation_starters:
+  - Elk van jullie beheerders is centraal aanspreekpunt — komen lekkage- en reparatiemeldingen rechtstreeks bij de beheerder binnen, of is er een centrale plek?
+  - Jullie zoeken een extra VvE-beheerder — hoeveel van de dag van een beheerder gaat nu op aan technische meldingen versus vergaderingen en financiën?
+  verification: bevestigd — 010 223 81 33 (vast) op homepage; Jeroen en Martijn van Tienhoven als grondleggers/eigenaren bevestigd (wie-zijn-wij + Apollo 'Beheerder & Eigenaar'); vacatures VvE-beheerder/stagiair en financieel medewerker staan nog online. Grootte ca. 9–16 (Apollo 9, teampagina-telling ~16) — binnen range.
+- name: Covers Housing Vastgoedbeheer
+  url: https://covershousing.nl
+  phone: 030 229 42 40
+  city: Utrecht (Nieuwegracht 26); verhuur ook in Amsterdam
+  priority_score: 6/10
+  industry: Beheer en verhuur (gemeubileerde) vrije-sector huurwoningen voor particuliere eigenaren/beleggers
+  size: niet geverifieerd — familiebedrijf (sinds 1973, Covers Housing sinds 2001) met zusterbedrijf Covers Wonen Makelaars; vacatures medewerker vastgoedbeheer + eigen klusjesman wijzen op klein team (schatting 5–15, niet bevestigd)
+  tech_stack: Vastgoedbeheersoftware van Rently; storingsmeldingen via apart portaal covers.support/incident — al gedeeltelijk gedigitaliseerde meldingsintake
+  relevant_vacancies: Medewerker vastgoedbeheer (24–40 u); daarnaast technische medewerker/klusjesman (niet backoffice)
+  why_fit: Dagelijkse onderhoudsmeldingen van huurders van gemeubileerde woningen (expats, korte huur) → veel meldingen en veel wisselende huurders; eigen klusjesman + externe vakmensen inplannen; vacature medewerker vastgoedbeheer wijst op procesdruk in backoffice
+  decision_maker: Arthur Covers — eigenaar/oprichter Covers Housing (sinds 2001)
+  linkedin: https://www.linkedin.com/in/arthur-covers-6a614520/
+  sources:
+    decision_maker: https://covershousing.nl/en/contact/about-covers
+    size: 
+    phone: https://covershousing.nl/contact
+    multi_location: 
+    relevant_vacancies: https://covershousing.nl/contact/vacatures
+  value_proposition: Automatische triage van meldingen uit het incidentportaal, mail en WhatsApp (urgentie, type, foto's), direct doorzetten naar eigen klusjesman of vakman en automatische statusupdates naar (vaak Engelstalige) huurders
+  outreach_strategy: Bel algemeen nummer, vraag naar Arthur Covers; onderzoeksgesprek over hoe meldingen van huurders binnenkomen naast het covers.support-portaal en hoeveel tijd het inplannen van de klusjesman kost; haakje de openstaande vacature medewerker vastgoedbeheer
+  conversation_starters:
+  - Jullie hebben een apart meldportaal voor storingen — komt het merendeel daar binnen, of bellen en appen huurders toch nog vaak?
+  - Met een eigen klusjesman én externe vakmensen — hoe bepalen jullie wie een melding oppakt en hoe houden jullie de huurder op de hoogte?
+  verification: bevestigd — Telefoon 030 229 42 40 (vast) op contactpagina; Arthur Covers als oprichter bevestigd op over-ons; vacatures medewerker vastgoedbeheer en klusjesman staan nog online. Grootte blijft ongeverifieerd (klein team).
+- name: VvE Diensten Nederland Rotterdam B.V.
+  url: https://vvenederland.nl/beheer-rotterdam/
+  phone: 010 224 55 77 (kantoor Rotterdam, ma–vr ochtend)
+  city: Rotterdam; onderdeel van netwerk VvE Nederland met kantoren in Arnhem, Breda, Den Haag (Rijswijk), Eindhoven en Rotterdam
+  priority_score: 6/10
+  industry: VvE-beheer (financieel, administratief, technisch, bouwkundig) voor appartementen, winkelcentra en bedrijfsverzamelgebouwen
+  size: 7 medewerkers op teampagina Rotterdam (directeur, 3 VvE-managers, 2 technisch managers, secretaresse); ~150 VvE's in beheer; zelfstandige BV in landelijk netwerk VvE Diensten Nederland
+  tech_stack: Digitale VvE-omgeving voor inzage in stukken (pakket niet genoemd); storingsdienst "dag en nacht bereikbaar"; BVVB-gecertificeerd
+  relevant_vacancies: 'geen relevante vacatures gevonden (Rotterdam: alleen open sollicitatie)'
+  why_fit: 150+ VvE's met technisch en bouwkundig beheer (NEN2767-inspecteurs) en 24/7 storingsdienst → veel storings- en lekkagemeldingen van bewoners; telefoon Rotterdam slechts 's ochtends bemand, dus meldingen buiten die tijd lopen via storingslijn/mail; zelfstandige regionale BV = lokale beslisser
+  decision_maker: Maurice Ramerman — directeur VvE Diensten Nederland Rotterdam B.V. (direct 010 224 55 80)
+  linkedin: https://nl.linkedin.com/company/vve-diensten-nederland-rotterdam-b.v.
+  sources:
+    decision_maker: https://vvenederland.nl/beheer-rotterdam/team/
+    size: https://vvenederland.nl/beheer-rotterdam/team/
+    phone: https://vvenederland.nl/beheer-rotterdam/
+    multi_location: https://vvenederland.nl/
+    relevant_vacancies: https://vvenederland.nl/vacatures/
+  value_proposition: AI-intake die storings- en reparatiemeldingen ook buiten de korte telefoonuren opvangt, classificeert, de juiste vakman/technisch beheerder inschakelt en bewoners en VvE-bestuur automatisch informeert
+  outreach_strategy: Bel 010 224 55 77 in de ochtend, vraag naar de directeur/vestigingsmanager Rotterdam; onderzoeksgesprek over hoe meldingen van 150+ VvE's binnenkomen en worden verdeeld; haakje de beperkte telefonische bereikbaarheid versus 24/7 storingsdienst
+  conversation_starters:
+  - Jullie kantoor is telefonisch vooral 's ochtends bereikbaar — hoe komen reparatiemeldingen de rest van de dag binnen en wie beoordeelt ze?
+  - Met ruim 150 VvE's, van appartementen tot winkelcentra — hoe houden jullie bewoners en besturen op de hoogte van de voortgang van een melding?
+  verification: 'aangepast — Algemeen nummer 010 224 55 77 (vast, ma–vr ochtend) bevestigd. Beslisser gevonden: Maurice Ramerman — directeur Rotterdam-BV (teampagina, direct 010 224 55 80). Team Rotterdam = 7 personen op teampagina, ~150 VvE''s. Zelfstandige regionale BV binnen netwerk; vacaturepagina toont voor Rotterdam alleen open sollicitatie.'
+- name: Vastgoedbeheer Gelderland B.V.
+  url: https://www.vastgoedbeheergelderland.nl
+  phone: '0481 700 202'
+  city: Elst (Overbetuwe)
+  priority_score: 6/10
+  industry: Vastgoedbeheer voor particuliere/institutionele beleggers en families, VvE-beheer en verhuurmakelaardij (woningen, kamers, BOG) in Gelderland
+  size: niet geverifieerd — site spreekt van "enthousiaste medewerkers", eigen technische afdeling en erkend leerbedrijf (SBB); geen aantal gevonden
+  tech_stack: Eigen "online vastgoeddossier" voor eigenaren genoemd op over-ons; geen pakketnaam zichtbaar; 24-uurs storingsdienst met eigen technische afdeling
+  relevant_vacancies: VvE Accountmanager
+  why_fit: 24-uurs storingsdienst en eigen technische afdeling betekenen dat zij zelf meldingen van huurders en VvE-bewoners ontvangen en triëren; combinatie van huurbeheer (kamers/appartementen) en VvE's geeft veel kleine reparatieverzoeken; groeit (vacature VvE-accountmanager, nieuw kantoor sept 2024 volgens zoekresultaat).
+  decision_maker: Marcel Sanders — oprichter/eigenaar (mede-eigenaar Ewoud, achternaam niet geverifieerd)
+  linkedin: https://www.linkedin.com/in/marcel-sanders/
+  sources:
+    decision_maker: https://vastgoedbeheergelderland.nl/over-ons/ ; https://www.linkedin.com/in/marcel-sanders/
+    size: 
+    phone: https://www.vastgoedbeheergelderland.nl
+    multi_location: 
+    relevant_vacancies: https://www.vastgoedbeheergelderland.nl/vacatures/
+  value_proposition: Meldingsintake voor de 24-uursdienst die huurders/bewoners via WhatsApp of formulier uitvraagt (foto, urgentie, object), direct inplant bij eigen technici of externe vakman en automatisch statusupdates stuurt — minder bellen buiten kantoortijd.
+  outreach_strategy: Vraag naar Marcel Sanders (of Ewoud). Onderzoeksgesprek; haakje is de eigen 24-uurs storingsdienst en technische afdeling — hoe wordt een melding van huurder tot oplossing georganiseerd?
+  conversation_starters:
+  - Jullie hebben een eigen technische afdeling en een 24-uurs storingsdienst — hoe komen meldingen van huurders en VvE-bewoners binnen, en wie beslist wat er eerst gebeurt?
+  - Hoeveel tijd gaat er zitten in huurders en eigenaren op de hoogte houden van de voortgang van een reparatie, en loopt dat via jullie online vastgoeddossier?
+  verification: bevestigd — 0481 700 202 (vast) op homepage (Peppelenbos 5-D, Elst); Marcel & Ewoud als oprichters/eigenaren op site, Marcel Sanders via LinkedIn; vacature VvE Accountmanager staat nog open. Grootte blijft ongeverifieerd (erkend leerbedrijf, 'enthousiaste medewerkers').
+- name: Park Concepts B.V.
+  url: https://www.parkconcepts.com
+  phone: 010 269 60 69
+  city: Rotterdam (let op — niet Oost-NL zoals in batchlijst; werkt landelijk)
+  priority_score: 6/10
+  industry: Integraal vastgoedbeheer, VvE-beheer en parkmanagement (bedrijventerreinen), incl. calamiteiten en meldingen
+  size: niet geverifieerd — registerbron (zoekresultaat) meldt 1 medewerker, wat onwaarschijnlijk lijkt gezien gelijktijdige vacatures voor technisch beheerder, VvE-beheerder en backoffice; vraag naar teamgrootte
+  tech_stack: Twinq (inlog voor VvE's) + "vastgoedbeheersystemen" en MS-Office genoemd in vacature; site noemt "calamiteiten en meldingen" als dienst
+  relevant_vacancies: Technisch beheerder vastgoed en VvE-beheerder op eigen site (geen datum, actualiteit onzeker); administratief medewerker backoffice niet teruggevonden
+  why_fit: Vacature technisch beheerder expliciet vanwege groei van de portefeuille met storingsdiensten volgens rooster; combinatie van VvE's, vastgoed en bedrijventerreinen geeft veel en diverse meldingen; backoffice-vacature wijst op administratieve druk.
+  decision_maker: Alex Limburg — contactpersoon vacatures (directeursrol niet bevestigd; vraag naar eigenaar/directeur)
+  linkedin: https://nl.linkedin.com/company/park-concepts
+  sources:
+    decision_maker: https://www.parkconcepts.com/actueel/technisch-vastgoedbeheer-vacature
+    size: 
+    phone: https://www.parkconcepts.com
+    multi_location: 
+    relevant_vacancies: https://www.parkconcepts.com/actueel/technisch-vastgoedbeheer-vacature ; https://www.parkconcepts.com/actueel/vacature-vve-beheerder-87
+  value_proposition: Een meldingsintake die storingen en reparatieverzoeken van VvE-bewoners, huurders en parkgebruikers automatisch uitvraagt, prioriteert en doorzet naar de beheerder met storingsdienst of een vakman, met automatische terugkoppeling — schaalt mee met de groeiende portefeuille zonder extra backoffice.
+  outreach_strategy: Vraag naar Alex Limburg. Onderzoeksgesprek; haakje is de vacature technisch beheerder wegens portefeuillegroei en de roosterdienst voor storingen.
+  conversation_starters:
+  - Jullie zoeken een technisch beheerder omdat de portefeuille groeit — hoe komen storingsmeldingen nu binnen, en wat gebeurt er buiten kantoortijd?
+  - Bij VvE's, vastgoed en bedrijventerreinen door elkaar: hoe bepalen jullie welke melding naar welke beheerder of vakman gaat, en hoe houden jullie de melder op de hoogte?
+  verification: aangepast — 010 269 60 69 (vast) bevestigd op homepage (Jan Leentvaarlaan 30, Rotterdam); Twinq-portaal zichtbaar. Alex Limburg staat als contactpersoon op vacature technisch beheerder, maar zonder functietitel — directeursrol niet bevestigd. Vacatures technisch beheerder en VvE-beheerder staan op eigen site maar zonder datum; backoffice-vacature niet teruggevonden. Grootte blijft ongeverifieerd.
+- name: TechnoVast B.V.
+  url: https://technovast.nl
+  phone: 074 250 17 50 (ook 24/7 storingslijn)
+  city: Hengelo (werkgebied Twente, Salland, Achterhoek)
+  priority_score: 5/10
+  industry: Volledig, technisch, financieel en commercieel beheer van bedrijfsvastgoed (multi-tenant kantoren, retail, logistiek) met eigen technische dienst
+  size: niet geverifieerd — site noemt teams technische dienst, vastgoedbeheer en administratie maar geen aantallen; eigenaar volgens Company.info TechnoVast Beheer B.V. (holding), personeelsaantal achter paywall
+  tech_stack: Realtime dashboards voor eigenaren en huurders (financieel + technisch, pakketnaam niet genoemd), huurderdashboard voor meldingen; NEN 2767-inspecties, VCA — redelijk gedigitaliseerd
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: 24/7 storingslijn met belofte "binnen 2 uur ter plaatse" betekent dat meldingen snel getrieerd en ingepland moeten worden; eigen technische dienst plus multi-tenant objecten geeft veel huurdersmeldingen; meldingen via zowel telefoon als dashboard.
+  decision_maker: niet geverifieerd — vraag naar eigenaar/directeur
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://companyinfo.nl/organisatieprofiel/organisatie-adviesbureaus/technovast-b-v-hengelo-81056834-000047380926
+    phone: https://technovast.nl
+    multi_location: 
+    relevant_vacancies: 
+  value_proposition: Automatische triage van telefonische en dashboardmeldingen (urgentie, object, huurder) en planning naar de eigen technische dienst, met automatische statusupdates aan huurder en eigenaar — helpt de 2-uursbelofte waar te maken zonder dat een beheerder alles handmatig verdeelt.
+  outreach_strategy: Bel het algemene nummer en vraag naar de eigenaar of het hoofd technische dienst. Onderzoeksgesprek; haakje is hun 24/7-belofte van binnen 2 uur ter plaatse.
+  conversation_starters:
+  - Jullie beloven bij spoed binnen 2 uur ter plaatse — hoe loopt een melding van het moment dat een huurder belt tot een monteur onderweg is?
+  - Welk deel van de meldingen komt via het huurdersdashboard en welk deel nog via telefoon of mail, en wie zet ze om in werkbonnen?
+  verification: bevestigd — 074 250 17 50 (vast, ook 24/7) op homepage (Jan Tinbergenstraat 202, Hengelo); echt beheer bedrijfsvastgoed met eigen technische dienst. Beslisser en grootte ook na extra zoekactie niet te vinden (over-ons noemt geen namen; eigenaar TechnoVast Beheer B.V.) — blijft 'vraag naar eigenaar/directeur'.
+- name: Van Werkhoven Vastgoedmanagers / Makelaars
+  url: https://www.vanwerkhoven.com
+  phone: 074 243 08 55 (vast); mobiel 06 40 70 44 38
+  city: Hengelo (werkgebied Twente)
+  priority_score: 5/10
+  industry: Commercieel, technisch en financieel beheer van woningen en bedrijfsvastgoed in Twente, gecombineerd met makelaardij
+  size: ca. 3–4 actieve medewerkers — Petra van Werkhoven (eigenaar), Laura Pronk (financiële administratie/backoffice), Ineke Webber (officemanager/klantcontact), Jacques van Werkhoven (semi-gepensioneerd); Frank Segerink is externe adviseur
+  tech_stack: Geen portaal of meldingssysteem zichtbaar; calamiteitennummer alleen via voicemail van het kantoornummer of de contactpagina — weinig gedigitaliseerd
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Meldingen lopen via telefoon/voicemail zonder portaal, dus alle triage is handwerk; klein team waarin de eigenaar zowel makelaardij als beheer doet, dus reparatieverzoeken concurreren met verkoopwerk; kantoormanager doet klantcontact.
+  decision_maker: Petra van Werkhoven — eigenaar en VBO-makelaar (beheer ook bij haar)
+  linkedin: 
+  sources:
+    decision_maker: https://www.vanwerkhoven.com/het-team/
+    size: https://www.vanwerkhoven.com/het-team/
+    phone: https://www.vanwerkhoven.com
+    multi_location: 
+    relevant_vacancies: 
+  value_proposition: Een eenvoudige meldingsintake (WhatsApp/formulier) die huurders zelf laat melden met foto en urgentie, automatisch de juiste vakman voorstelt en huurders statusupdates stuurt — minder telefoontjes en voicemails voor Petra en Ineke.
+  outreach_strategy: Vraag naar Petra van Werkhoven (of kantoormanager Ineke Webber voor het proces). Onderzoeksgesprek; haakje is de combinatie makelaardij + beheer met een klein team en het calamiteitennummer via voicemail.
+  conversation_starters:
+  - Jullie doen naast makelaardij ook het technisch beheer — hoe komen reparatieverzoeken van huurders binnen, en hoeveel tijd kost het afhandelen per week?
+  - Als er buiten kantoortijd iets lekt verwijzen jullie via de voicemail naar een calamiteitennummer — wie pakt dat op en hoe regelen jullie daarna de vakman en terugkoppeling?
+  verification: aangepast — 074 243 08 55 (vast) op homepage (daarnaast mobiel 06-40704438); Petra van Werkhoven eigenaar bevestigd op teampagina. Kerntaak is makelaardij, beheer secundair; effectief ~3–4 mensen (Jacques semi-gepensioneerd, Frank Segerink extern adviseur via Finzie) — zachte ondergrens, lage prioriteit.
+- name: Gooi en Beheer o.z. (nu Hil Vastgoed Beheer)
+  url: https://hilbeheer.nl
+  phone: 035 647 25 76
+  city: Hilversum (Mozartlaan 25); werkgebied Het Gooi, Amsterdam, Utrecht, Almere, Amersfoort e.o.
+  priority_score: 4/10
+  industry: Vastgoedbeheer woningen, studio's, winkels, kantoren en bedrijfsruimte voor beleggers
+  size: niet geverifieerd — geen teamgegevens of aantallen op site (gooienbeheer.nl, hilbeheer.nl)
+  tech_stack: Online huurdersportaal (portal.gooienbeheer.nl) voor huurovereenkomsten; noemt "de nieuwste software in vastgoedbeheer" zonder pakketnaam; geen storingsdienst of online meldformulier gevonden
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: 25+ jaar actief met gemengde portefeuille (woningen + commercieel) over brede regio → onderhoudsmeldingen van diverse huurders; geen zichtbaar meldkanaal voor reparaties, dus waarschijnlijk telefoon/mail; lopende rebranding naar Hil Vastgoed Beheer kan moment zijn om processen te herzien
+  decision_maker: niet geverifieerd — vraag naar eigenaar
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: 
+    phone: https://hilbeheer.nl/wie-zijn-wij/
+    multi_location: 
+    relevant_vacancies: https://hilbeheer.nl
+    url: https://www.gooienbeheer.nl
+  value_proposition: Eén centraal meldkanaal (mail/telefoon/WhatsApp) met automatische triage en doorzetting naar vakman plus statusupdates aan huurders, gekoppeld aan het bestaande portaal
+  outreach_strategy: Bel algemeen nummer, vraag naar de eigenaar/directeur; onderzoeksgesprek over hoe reparatieverzoeken binnenkomen nu de site geen meldformulier heeft; haakje de overgang naar Hil Vastgoed Beheer
+  conversation_starters:
+  - Ik zie dat Gooi en Beheer overgaat naar Hil Vastgoed Beheer — verandert daarmee ook iets in hoe jullie huurdermeldingen afhandelen?
+  - Hoe komen reparatieverzoeken van huurders nu binnen — telefonisch, per mail of via het portaal — en wie beoordeelt ze?
+  verification: aangepast — Telefoon 035 647 25 76 (vast) bevestigd op beide sites; Gooi en Beheer is per januari overgegaan naar Hil Vastgoed Beheer (zelfde KvK 32113494, zelfde adres Mozartlaan 25 Hilversum), dus actuele site is hilbeheer.nl. Beslisser en grootte nergens op site of in zoekresultaten te vinden — risico dat het een zeer klein kantoor is; vraag naar eigenaar.
+- name: Van Aken Vastgoedbeheer
+  url: https://vanakenvastgoedbeheer.nl
+  phone: 040 369 00 29
+  city: Oisterwijk (werkgebied Tilburg / Breda / Eindhoven)
+  priority_score: 4/10
+  industry: Commercieel, technisch en administratief beheer van woningen en BOG (winkelcentra, bedrijfspanden) + VvE-beheer
+  size: ca. 3 mw — LinkedIn bedrijfspagina 2-10, 3 gekoppelde medewerkers (Stan van Aken, Erwin Jacobs, Bart Trieling); klein team, scoort lager
+  tech_stack: Bloxs (huurbeheer) en Twinq (VvE-beheer) gelinkt op de site; site bevat nog template-placeholders (Lorem ipsum testimonials) — beperkte digitale volwassenheid
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Doet expliciet klachtafhandeling en reparaties voor huurders plus technische coördinatie; met ~3 mensen komt alle meldingstriage bij de eigenaar zelf terecht; VvE-tak groeit (nieuwe mede-eigenaar okt 2025, volgens zoekresultaat) dus meer meldingen op een klein team.
+  decision_maker: Stan van Aken — oprichter/eigenaar en vastgoedbeheerder
+  linkedin: https://nl.linkedin.com/in/stanvanaken
+  sources:
+    decision_maker: https://vanakenvastgoedbeheer.nl/over-ons
+    size: https://nl.linkedin.com/company/van-aken-vastgoedbeheer
+    phone: https://vanakenvastgoedbeheer.nl
+    multi_location: 
+    relevant_vacancies: 
+  value_proposition: Een meldingsintake (WhatsApp/mail/formulier) die reparatieverzoeken van huurders automatisch uitvraagt (foto, locatie, urgentie), aan het juiste object koppelt en de juiste vakman voorstelt, met automatische statusupdates naar de huurder — zodat Stan niet zelf elke melding hoeft na te bellen.
+  outreach_strategy: Vraag naar Stan van Aken. Onderzoeksgesprek; haakje is dat hij met een klein team zowel winkelcentra als woningen en VvE's beheert — hoe komen reparatiemeldingen binnen en wie handelt ze af?
+  conversation_starters:
+  - Jullie beheren zowel winkelcentra en bedrijfspanden als woningen en VvE's — hoe komen reparatiemeldingen van huurders nu bij jullie binnen, en wie pakt ze op?
+  - Nu de VvE-tak groeit met een nieuwe mede-eigenaar: merk je dat het aantal meldingen en het bijhouden van de status richting bewoners meer tijd gaat kosten?
+  verification: bevestigd — 040 369 00 29 (vast) op homepage (kantoor Burgemeester Verwielstraat 13, Oisterwijk); Stan van Aken als eigenaar bevestigd (over-ons + LinkedIn). Klein team (~3, LinkedIn 2-10) — zachte ondergrens, scoort lager; 24/7 storingsdienst en VvE-beheer passen bij segment.
