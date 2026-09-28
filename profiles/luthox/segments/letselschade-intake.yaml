@@ -1,0 +1,47 @@
+segment:
+  slug: letselschade-intake
+  name: Letselschadebureaus en -advocaten — intake en medische dossiers (belonderzoek)
+  description: >
+    Cold-call segmenttest (±10 onderzoeksgesprekken). Beperkt de
+    industrie-agnostische basis-ICP tot letselschadebureaus,
+    letselschade-advocatenkantoren en belangenbehartigers. Het probleem:
+    medewerkers besteden uren aan het screenen van nieuwe melders, het
+    verzamelen van ongevalsgegevens en het opvragen van medische informatie
+    bij ziekenhuizen, huisartsen en verzekeraars. De oplossing: intakeformulier
+    -> automatische dossiersamenvatting -> automatisch opgestelde
+    machtigingen en opvraagbrieven. De eerste insteek is een
+    onderzoeksgesprek, geen intake; de openingsvraag is: "Hoeveel van de
+    week van jullie juristen/schadebehandelaars gaat op aan intake en achter
+    medische stukken aanzitten?"
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-09-28
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Letselschadebureaus / belangenbehartigers
+      - Advocatenkantoren met letselschade als hoofdpraktijk
+  headcount_min: 5
+  headcount_max: 75
+  job_titles:
+    - Eigenaar / directeur
+    - Managing partner
+    - Kantoormanager
+    - Teamleider intake / schadebehandeling
+  qualitative_disqualifiers:
+    - Letselschade is slechts één van vele praktijkgebieden van een groot full-service kantoor
+    - Werkt aan verzekeraarskant (schaderegelingsbureau namens verzekeraar), niet voor slachtoffers
+
+icp_soft_preferences:
+  triggers:
+    - veel_intake_via_site_of_telefoon    # "gratis letselschadecheck"/online claimformulier prominent
+    - job_postings_for_schadebehandelaar_or_intake
+    - meerdere_vestigingen
+  partial_competitor_overlap_note: >
+    Gebruikt het kantoor al dossiersoftware (bijv. Basenet, Legalsense,
+    Kleos, Clio)? Geen uitsluiting: de vraag is of intake-samenvatting en
+    opvraagbrieven daar al automatisch gaan. Noteer het als aandachtspunt.
+  personas_to_prioritize:
+    set:
+      - Eigenaar / directeur
+      - Kantoormanager

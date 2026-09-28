@@ -1,0 +1,48 @@
+segment:
+  slug: vastgoedbeheer-onderhoud
+  name: Vastgoed- en VvE-beheerders — onderhoudsverzoeken (belonderzoek)
+  description: >
+    Cold-call segmenttest (±10 onderzoeksgesprekken). Beperkt de
+    industrie-agnostische basis-ICP tot vastgoedbeheerders (huurwoningen en
+    bedrijfsvastgoed) en VvE-beheerders. Het probleem: huurders en bewoners
+    melden lekkages en storingen op alle tijden via telefoon, mail en
+    WhatsApp; iemand moet triëren, de juiste aannemer inschakelen en de
+    melder op de hoogte houden. De oplossing: meldingen automatisch
+    categoriseren, naar de juiste vakman routeren en automatische
+    statusupdates naar de huurder. De eerste insteek is een
+    onderzoeksgesprek, geen intake; de openingsvraag is: "Hoeveel
+    reparatieverzoeken handelen jullie per week af, en wie doet dat?"
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-09-28
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Vastgoedbeheer (residentieel en commercieel)
+      - VvE-beheer
+  headcount_min: 5
+  headcount_max: 100
+  job_titles:
+    - Eigenaar / directeur
+    - Manager technisch beheer
+    - Hoofd vastgoedbeheer
+    - Teamleider klantcontact / servicedesk
+  qualitative_disqualifiers:
+    - Woningcorporaties (eigen grote IT-afdeling en aanbestedingen)
+    - Alleen makelaardij/verkoop zonder beheerportefeuille
+
+icp_soft_preferences:
+  triggers:
+    - grote_beheerportefeuille           # honderden+ eenheden of veel VvE's genoemd op de site
+    - storingsdienst_of_24_7_meldlijn    # meldlijn buiten kantoortijd -> veel ongestructureerde meldingen
+    - job_postings_for_technisch_beheer  # vacature (technisch) beheerder / klantcontact
+    - meldingen_via_mail_of_telefoon     # geen online meldformulier of huurdersapp
+  partial_competitor_overlap_note: >
+    Gebruikt de beheerder al een pakket als Twinq, Rentvisie, Yardi,
+    Ubiqu of Planon met huurdersportaal? Geen uitsluiting: de vraag is of
+    triëren, routeren en terugkoppelen daar echt geautomatiseerd is.
+    Noteer het pakket als aandachtspunt.
+  personas_to_prioritize:
+    set:
+      - Eigenaar / directeur
+      - Manager technisch beheer

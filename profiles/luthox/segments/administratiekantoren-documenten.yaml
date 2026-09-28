@@ -1,0 +1,50 @@
+segment:
+  slug: administratiekantoren-documenten
+  name: Administratiekantoren — achter klantdocumenten aan (belonderzoek)
+  description: >
+    Cold-call segmenttest (±10 onderzoeksgesprekken). Beperkt de
+    industrie-agnostische basis-ICP tot administratie- en accountantskantoren
+    die IB-aangiftes en jaarrekeningen voor veel MKB- en particuliere klanten
+    doen. Het probleem: elk aangifteseizoen (feb–mei) en bij de jaarafsluiting
+    zijn medewerkers weken bezig klanten te mailen en te bellen voor
+    ontbrekende jaaropgaven, bankafschriften, WOZ-beschikkingen en bonnetjes.
+    De oplossing: per klant een automatische documentenchecklist met
+    herinneringen die stoppen zodra een document is geüpload. De eerste
+    insteek is een onderzoeksgesprek ("ik verkoop niets, ik onderzoek hoe
+    kantoren dit aanpakken"), geen intake; de openingsvraag is: "Hoeveel tijd
+    gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?"
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-09-28
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Administratiekantoren
+      - Accountantskantoren (MKB-gericht, geen Big Four / grote netwerken)
+      - Belastingadvieskantoren met aangifteservice voor particulieren/MKB
+  headcount_min: 5
+  headcount_max: 75
+  job_titles:
+    - Eigenaar
+    - Directeur / managing partner
+    - Kantoormanager
+    - Teamleider aangiftes / fiscaal
+  qualitative_disqualifiers:
+    - Onderdeel van een groot landelijk netwerk of franchise met centraal opgelegde software en processen (bijv. grote accountantsketens)
+    - Eenmanszaak of zzp-boekhouder zonder medewerkers
+
+icp_soft_preferences:
+  triggers:
+    - veel_particuliere_ib_aangiftes          # aangifteservice voor particulieren/DGA's op de site -> veel documenten per klant
+    - job_postings_for_assistent_or_backoffice # vacature administratief/fiscaal medewerker -> seizoenspiek loopt vast
+    - klantportaal_ontbreekt_of_mail_upload    # "stuur uw stukken per mail" op de site
+  partial_competitor_overlap_note: >
+    Gebruikt het kantoor al een klantportaal (bijv. Silverfin, Nmbrs,
+    Basecone, Fiscaal Gemak, Visionplanner)? Dat is geen uitsluiting: de
+    vraag is of het achter documenten aanzitten daar al automatisch gaat.
+    Noteer het als aandachtspunt voor het gesprek.
+  personas_to_prioritize:
+    set:
+      - Eigenaar / directeur
+      - Kantoormanager
