@@ -216,7 +216,8 @@ that the segment ran dry at some smaller count.
    final list into batches of ~10 and enrich each batch in parallel — each
    enrichment pass gets an *assigned, fixed list* of companies (it cannot
    discover more) and does the full per-lead work from step 3 above (tech
-   stack, vacancies, decision maker, LinkedIn) capped at roughly 2-3 tool
+   stack, vacancies, size, phone; plus decision maker and LinkedIn only when
+   `contact_lookup: true` — see "Contact lookup is opt-in") capped at roughly 2-3 tool
    calls per company. If a fact isn't found inside that budget, record it as
    "not found on site" rather than continuing to dig — that's the same
    fallback the schema already expects, so the cap doesn't reduce what
@@ -227,8 +228,8 @@ that the segment ran dry at some smaller count.
      fetched pages in context at once is where facts get mixed up between
      companies (a name or headcount landing on the wrong lead); ~10 per
      batch plus write-as-you-go keeps each company's context clean.
-   - **Source per hard fact:** record the URL each `decision_maker`,
-     `size` and `relevant_vacancies` claim came from in the lead's
+   - **Source per hard fact:** record the URL each `size`,
+     `relevant_vacancies` (and, if contact lookup is on, `decision_maker`) claim came from in the lead's
      `sources` map (see the batch schema in step 7). A claim with no source
      is written as "niet geverifieerd", never as a plausible-sounding guess.
    - **Headcount is soft when the profile says so.** If
@@ -240,8 +241,11 @@ that the segment ran dry at some smaller count.
    user).** Enrichment agents check their own work poorly, so after
    enrichment run 2-3 *separate* checker agents (~15 leads each) that did
    not write the leads. Per lead, at 2-3 tool calls (hard max 4), each
-   checker confirms against a real source: the decision maker's name and
-   role at *this* company, the size (soft, as above), evidence of
+   checker confirms against a real source: the size (soft, as above), that the
+   company really exists and is active (KvK/site), that it is not a
+   one-person business, that the phone number is right, that it fits the
+   segment, and — only when `contact_lookup: true` — the decision maker's
+   name and role at *this* company, evidence of
    multiple locations/contracts, and any specific vacancies listed. Each
    checker writes a verdict per lead — `bevestigd` / `aangepast` (with the
    corrected values and source URLs) / `afvallen` (with the reason) — to a
@@ -254,6 +258,30 @@ that the segment ran dry at some smaller count.
 6. **Do the dispatching and merging yourself** rather than delegating it to
    a middleman agent whose only job is to launch other agents — that layer
    adds real token cost (a full agent invocation) and produces no research.
+
+#### Contact lookup is opt-in
+
+By default the pipeline does **not** search for a named decision maker or a
+LinkedIn profile: the sales tactic is to call the company and ask for the
+right person, so a name is not needed. `decision_maker` is then just the
+role/title to ask for (taken from the segment's `personas_to_prioritize`),
+`linkedin` is `null`, and `sources.decision_maker` is `null`. Only when the
+profile or segment sets `contact_lookup: true` do enrichment and
+verification search for and confirm a named person and LinkedIn URL.
+`tech_stack` is always gathered.
+
+#### Model per step
+
+Set the model explicitly on every agent instead of inheriting the session
+model. Do not use Haiku for any step.
+
+| Step | Model | Why |
+|---|---|---|
+| Discovery | Sonnet | Well-scoped searches; duplicates are cheap |
+| Enrichment | Sonnet | Fixed list, capped tool calls, checkable output |
+| Verification pass | **Opus** | The step that decides which leads ship; catches wrong sizes, one-person shops and wrong-segment companies |
+| Ambiguous scoring/ICP calls | Opus | Judgment calls; leads with borderline fit |
+| Central dedupe, merging | Main session / script | No agent needed |
 
 #### Token budget: agent count is the main cost driver
 
@@ -328,11 +356,11 @@ Rough sizing by N (agent counts are totals — stay inside them):
    - **Relevant Vacancies**: Open roles signaling relevant pain (planning,
      operations, supply chain, QHSE/quality, coordination) — never driver/
      warehouse/execution roles — or "none found"
-   - **Decision Maker**: Role/title to target (e.g., "VP of Engineering")
+   - **Decision Maker**: Role/title to ask for (e.g., "VP of Engineering"); a named person only when `contact_lookup: true`
    - **Contact Strategy**: Personalized approach suggestions
    - **Value Proposition**: How your product solves their specific problem
    - **Conversation Starters**: Specific points to mention in outreach
-   - **LinkedIn URL**: If available, for easy connection
+   - **LinkedIn URL**: Only when `contact_lookup: true`; otherwise null
 
 6. **Format the Output**
 
@@ -362,7 +390,7 @@ Rough sizing by N (agent counts are totals — stay inside them):
    [2-3 specific reasons based on their business]
    
    **Target Decision Maker**: [Role/Title]
-   **LinkedIn**: [URL if available]
+   **LinkedIn**: [URL only when `contact_lookup: true`, else omit]
    
    **Value Proposition for Them**:
    [Specific benefit for this company]
@@ -426,7 +454,7 @@ Rough sizing by N (agent counts are totals — stay inside them):
        relevant_vacancies: <Open planning/operations/supply-chain/QHSE/coordination roles found, or "none found" — never driver/warehouse/execution roles>
        why_fit: <Specific reasons based on their business>
        decision_maker: <Role/title to target>
-       linkedin: <URL, or null if not found>
+       linkedin: <URL if contact_lookup is on, else null>
        sources:                             # URL per hard fact, null if not verifiable
          decision_maker: <URL or null>
          size: <URL or null>
@@ -446,7 +474,7 @@ Rough sizing by N (agent counts are totals — stay inside them):
        relevant_vacancies: <Open planning/operations/supply-chain/QHSE/coordination roles found, or "none found" — never driver/warehouse/execution roles>
        why_fit: <Specific reasons based on their business>
        decision_maker: <Role/title to target>
-       linkedin: <URL, or null if not found>
+       linkedin: <URL if contact_lookup is on, else null>
        sources:                             # URL per hard fact, null if not verifiable
          decision_maker: <URL or null>
          size: <URL or null>
