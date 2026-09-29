@@ -1,0 +1,984 @@
+---
+business: luthox
+segment: aannemers-renovatie-offertes
+generated_at: '2026-09-29'
+description: 'Tweede batch voor het cold-call belonderzoek (aannemers/renovatie/dak/badkamer,
+  5-75 mw, heel NL), aanvullend op de batch van 2026-09-28; 17 eerdere bedrijven overgeslagen.
+  Discovery via 3 agents (dak, badkamer/aanbouw, verbouw regionaal), verrijking in
+  7 batches, daarna onafhankelijke verificatie (KvK/site/LinkedIn); 17 bedrijven vielen
+  af (o.a. eenmanszaken). Alleen leads met score 5 of hoger opgenomen (24 van 40;
+  16 leads met score 4 weggelaten). Let op: bij veel leads is de grootte niet te verifieren;
+  zie veld verification.'
+leads:
+- name: Aannemersbedrijf Timmer Ugchelen B.V.
+  url: https://timmerugchelen.nl
+  phone: 055-5419795
+  city: Ugchelen (Apeldoorn)
+  priority_score: 9/10
+  industry: Aannemer bestaande bouw en nieuwbouw, renovatie, keuken/badkamer, dakkapel,
+    aanbouw (particulier + zakelijk)
+  size: 22 medewerkers (vast team)
+  tech_stack: offertevraagformulier op site; YouTube-bedrijfsfilm; geen calculatiesoftware
+    zichtbaar; Bouwend Nederland, VCA, BouwGarant, erkend leerbedrijf
+  relevant_vacancies: Vacature werkvoorbereider (timmerugchelen.nl/vacatures/); timmerman
+    niet relevant
+  why_fit: 22+ mw, brede renovatie/verbouw voor particulieren (keuken, badkamer, dakkapel,
+    aanbouw), opvallend veel kleinere opnames, actieve vacature werkvoorbereider,
+    eigenaar bereikbaar.
+  decision_maker: Niels Timmer, eigenaar (bevestigd)
+  linkedin: https://nl.linkedin.com/in/niels-timmer-3aa70278 (persoonlijk, Niels Timmer);
+    bedrijfspagina niet geverifieerd
+  sources:
+    decision_maker: https://nl.linkedin.com/in/niels-timmer-3aa70278 ; https://timmerugchelen.nl/geschiedenis-aannemersbedrijf-timmer-ugchelen-bv/
+    size: https://timmerugchelen.nl/vacatures/
+    phone: timmerugchelen.nl homepage/contact
+    multi_location: een locatie Wilmersdorf 26 Apeldoorn
+    relevant_vacancies: https://timmerugchelen.nl/vacatures/ (werkvoorbereider)
+  value_proposition: Werkvoorbereider of Niels zelf besteedt minder avonduren aan
+    offertes door opname als spraakmemo plus foto's om te zetten in een conceptofferte
+    op basis van eigen prijzen.
+  outreach_strategy: 'Bel 055-5419795, vraag naar Niels Timmer (eigenaar). Onderzoeksinsteek:
+    hoe lang duurt het van opname naar verstuurde offerte? Haakje: vacature werkvoorbereider,
+    dus offertes/voorbereiding kosten nu vermoedelijk veel tijd.'
+  conversation_starters: '["Jullie zoeken een werkvoorbereider: wie maakt nu de offertes
+    en calculaties, en hoeveel tijd gaat daar per week in zitten?", "Jullie doen van
+    dakkapel tot badkamer: hoe snel krijgt een klant na de opname zijn offerte?"]'
+  verification: bevestigd — Alles bevestigd; sterkste lead uit deze set.
+- name: Holtkamp Bouw
+  url: https://holtkampbouw.nl
+  phone: 0546-540890 (bevestigd)
+  city: Almelo (Oosterhof 14)
+  priority_score: 8/10
+  industry: Aannemer nieuwbouw, renovatie en verduurzaming (particulier + zakelijk),
+    Twente
+  size: 30 medewerkers (bevestigd)
+  tech_stack: WordPress; offerte-/contactformulier op homepage; geen calculatiesoftware
+    zichtbaar
+  relevant_vacancies: Allrounder werkvoorbereider/calculator (32-40 uur) op holtkampbouw.nl/vacature/
+  why_fit: 30 mw, gratis adviesgesprek en offerteproces prominent (4 stappen), actieve
+    vacature werkvoorbereider/calculator (signaal van offertedruk), klantscore 8,6/10,
+    ook renovatie particulier. Deel van het werk is nieuwbouw/zakelijk.
+  decision_maker: niet gevonden; KvK-bestuurder is Gebr. Holtkamp Onroerend Goed B.V.
+    sinds 2004 (rechtspersoon)
+  linkedin: bedrijfspagina genoemd op site (LinkedIn-icoon), URL niet geverifieerd
+  sources:
+    decision_maker: https://companyinfo.nl/organisatieprofiel/projectontwikkeling/holtkamp-bouw-b-v-almelo-06086273-000019605714
+    size: https://holtkampbouw.nl/ ; https://bouwnu.nl/aannemer/holtkamp-bouw-bv-almelo
+    phone: https://www.goudengids.nl/nl/bedrijf/Almelo/L145831143/Aannemersbedrijf+Holtkamp+Bouw/
+    multi_location: een vestiging Almelo; site heeft plaatslandingspagina's (Hengelo,
+      Borne, Haaksbergen) maar geen extra kantoren gevonden
+    relevant_vacancies: https://holtkampbouw.nl/vacature/ (werkvoorbereider/calculator,
+      eerder gevonden)
+  value_proposition: Opname bij klant inspreken met foto's en direct een conceptofferte
+    op basis van eigen prijslijst, zodat de nieuwe werkvoorbereider/calculator minder
+    avonduren aan offertes kwijt is.
+  outreach_strategy: 'Bel 0546-540890, vraag naar de calculator/werkvoorbereider of
+    directie (naam niet bekend). Onderzoeksinsteek: hoe lang duurt het bij jullie
+    van opname tot verstuurde offerte? Haakje: openstaande vacature allrounder werkvoorbereider/calculator.'
+  conversation_starters: '["Jullie zoeken een allrounder werkvoorbereider/calculator:
+    hoeveel offertes lopen er nu per week en wie maakt ze?", "Jullie beloven een gratis
+    adviesgesprek met voorstel op maat: hoeveel tijd zit er tussen dat gesprek en
+    de verstuurde offerte?"]'
+  verification: aangepast — Grootte en telefoon bevestigd, persoon-beslisser nog onbekend
+    (bel calculator/werkvoorbereider).
+- name: Rozendaal Bouwbedrijf (Gebr. Rozendaal Timmer- en Bouwbedrijf B.V.)
+  url: https://rozendaalbouwbedrijf.nl/
+  phone: '0184 682056 (bevestigd, Lekdijk 240, 2957 CK Nieuw-Lekkerland)'
+  city: Nieuw-Lekkerland
+  priority_score: 8/10
+  industry: Aanbouw/uitbouw, dakkapellen, nokverhoging, renovatie particulieren
+  size: 15 vaste medewerkers (bevestigd; LinkedIn 11-50)
+  tech_stack: CMS met offerteformulier (site door WebNL); geen calculatiesoftware
+    zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Particuliere aanbouw/dakkapel-projecten met opname bij klant, gratis offerte,
+    900+ klanten, BouwGarant, 15 mw; ideale grootte.
+  decision_maker: Johan en Eysbrand Rozendaal (oprichters 1989); Eric Rozendaal staat
+    als commercieel medewerker vermeld
+  linkedin: https://nl.linkedin.com/company/gebr-rozendaal-timmer--en-bouwbedrijf-b-v-
+  sources:
+    decision_maker: https://rozendaalbouwbedrijf.nl/over-ons
+    size: https://rozendaalbouwbedrijf.nl/over-ons
+    phone: https://bouwnu.nl/aannemer/gebr-rozendaal-timmer-en-bouwbedrijf-bv-nieuw-lekkerland
+    multi_location: niet gevonden op site (1 vestiging; werkgebied Alblasserdam-Rotterdam)
+    relevant_vacancies: niet gevonden op site
+    linkedin: https://nl.linkedin.com/company/gebr-rozendaal-timmer--en-bouwbedrijf-b-v-
+  value_proposition: Na een opname bij een klant met dakkapel/aanbouw-wens direct
+    een conceptofferte uit spraakmemo en foto's op basis van de eigen prijslijst,
+    in plaats van uren 's avonds calculeren.
+  outreach_strategy: Bel 0184 682 056, vraag naar Johan of Eysbrand Rozendaal; onderzoeksinsteek
+    "hoe lang duurt het van opname tot verstuurde offerte?"; haakje 900+ klanten en
+    gratis offerte-belofte, dus veel offertes.
+  conversation_starters: '["Bij 900+ klanten en gratis offertes: hoeveel opnames doen
+    jullie per week en wie maakt daarna de offerte?", "Hoe lang zit er gemiddeld tussen
+    opname bij een aanbouw/dakkapel en de verstuurde offerte?"]'
+  verification: bevestigd — Echt BV met 15 vaste mw, particuliere aanbouw/dakkapel;
+    ICP-match, huidige rolverdeling oprichters blijft onbevestigd.
+- name: John Koster Bouw- & Aannemersbedrijf
+  url: https://www.jkbouw.nl
+  phone: '0528 340 966'
+  city: Hollandscheveld (Hollandscheveldse Opgaande 75)
+  priority_score: 7/10
+  industry: Nieuwbouw, verbouw, utiliteitsbouw, renovatie, onderhoud, dakkapellen;
+    BouwGarant en Bouwend Nederland
+  size: circa 10 medewerkers (BouwGarant/bedrijfsprofiel); KvK-vestiging noemt 2,
+    dus 10 niet hard bevestigd
+  tech_stack: Webflow; contactformulier; geen calculatiesoftware zichtbaar
+  relevant_vacancies: 'geen relevante vacatures gevonden (enige vacature: all-round
+    timmerman, uitvoerend)'
+  why_fit: Middelgroot bedrijf in de kerndoelgroep (ca. 10 mw), particulier + utiliteit,
+    BouwGarant-certificering en dakkapel/verbouw met veel opnames.
+  decision_maker: John Koster (eigenaar, naam in bedrijfsnaam; rol niet expliciet
+    bevestigd)
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: niet geverifieerd
+    size: https://www.bouwgarant.nl/aannemers/hollandscheveld/bouw-en-aannemersbedrijf-john-koster-bv
+      ; https://bouwnu.nl/aannemer/bouw-en-aannemingsbedrijf-john-koster-vof-hollandscheveld
+    phone: https://www.jkbouw.nl/vacatures
+    multi_location: niet gevonden op site
+    relevant_vacancies: https://www.jkbouw.nl/vacatures
+  value_proposition: Meerdere werksoorten (dakkapel, verbouw, renovatie) betekent
+    veel offertes; Luthox zet opnames direct om in conceptoffertes uit eigen prijslijst.
+  outreach_strategy: Bel 0528 340 966, vraag naar John Koster (of de calculator);
+    onderzoeksinsteek "hoe lang duurt het van opname naar verstuurde offerte?"; haakje
+    - BouwGarant-kwaliteit vraagt om nette, complete offertes.
+  conversation_starters:
+  - Bij dakkapellen en verbouw zijn de opnames vaak kort maar de offerte lang; hoe
+    pakken jullie dat aan?
+  - Wie bij jullie maakt de offertes, jijzelf of een calculator?
+  verification: aangepast — Vacature is uitvoerend (timmerman), grootte 2 vs 10 tegenstrijdig;
+    lead blijft staan.
+- name: AKC Bouw
+  url: https://akcbouw.nl
+  phone: 046 411 08 67
+  city: Beek (Stationstraat 132)
+  priority_score: 7/10
+  industry: BouwGarant-aannemer verbouw en renovatie, 45 jaar ervaring, huiseigenaren
+  size: 12 medewerkers
+  tech_stack: Contactformulier ("Neem contact op"); CMS niet zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden (Werken bij AKC-pagina aanwezig)
+  why_fit: Verbouw/renovatie voor particulieren, 10+ klantreviews, BouwGarant; opnames
+    bij huiseigenaren waarschijnlijk.
+  decision_maker: Renzo Roumen, directeur (overname van Cor Cornelissen in 2022)
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://akcbouw.nl/over-ons
+    size: https://akcbouw.nl/over-ons
+    phone: akcbouw.nl homepage
+    multi_location: akcbouw.nl (Stationstraat 132 Beek)
+    relevant_vacancies: akcbouw.nl (alleen werken-bij-link)
+    city: https://akcbouw.nl/contact
+  value_proposition: Conceptofferte direct uit opname-memo en foto's op basis van
+    eigen prijslijst, minder avondwerk voor de eigenaar/calculator.
+  outreach_strategy: Bel 046 411 08 67, vraag naar Renzo (of de eigenaar); onderzoeksinsteek
+    "hoe lang duurt het van opname naar verstuurde offerte?"; haakje 45 jaar ervaring
+    en BouwGarant-kwaliteit die ook in offertes moet doorklinken.
+  conversation_starters: '["Na een opname bij een huiseigenaar, hoe snel gaat de offerte
+    er bij jullie uit?", "Wie doet bij jullie de calculatie, jijzelf of een werkvoorbereider?"]'
+  verification: aangepast — Beslisser en grootte nu bevestigd; Renzo was eerder projectleider,
+    dus kent offertewerk.
+- name: Aannemersbedrijf Gebr. Meijerink B.V.
+  url: https://www.aannemer-meijerink.nl
+  phone: 053-435 58 64
+  city: Lonneker (Meijerinksweg 40, Enschede)
+  priority_score: 7/10
+  industry: Aannemer nieuwbouw, verbouw, onderhoud en renovatie (particulier + zakelijk),
+    familiebedrijf sinds 1806
+  size: 10-15 medewerkers
+  tech_stack: PerfectManage CMS; brochureformulier (woningbrochure); geen calculatiesoftware
+    zichtbaar; BouwGarant, Bouwend Nederland
+  relevant_vacancies: geen relevante vacatures gevonden (alleen metselaar)
+  why_fit: Vast team van ca. 15, particulier + zakelijk, verbouw/renovatie, eigen
+    timmerwerkplaats, directeur nog operationeel betrokken. Geen offerte-signalen
+    als reviews of gratis-opname-nadruk.
+  decision_maker: Peter Meijerink, directeur (bevestigd)
+  linkedin: https://nl.linkedin.com/company/aannemersbedrijf-gebr--meijerink-b-v-
+  sources:
+    decision_maker: https://aannemer-meijerink.nl/2237/0/news/peter-meijerink-40-jaar-in-dienst-24-7-2025
+      ; https://nl.linkedin.com/in/peter-meijerink-07166533
+    size: https://www.aannemer-meijerink.nl/2237/0/over-ons ; https://nl.linkedin.com/company/aannemersbedrijf-gebr--meijerink-b-v-
+    phone: aannemer-meijerink.nl homepage
+    multi_location: een locatie Lonneker
+    relevant_vacancies: aannemer-meijerink.nl homepage (metselaar)
+    city: https://www.yelp.com/biz/aannemersbedrijf-gebr-meijerink-lonneker-2
+  value_proposition: 'Directeur hoeft na opnames niet ''s avonds offertes uit te typen:
+    spraakmemo plus foto''s worden een conceptofferte in eigen sjabloon.'
+  outreach_strategy: 'Bel 053-435 58 64, vraag naar Peter Meijerink. Onderzoeksinsteek:
+    hoe lang duurt het van opname naar verstuurde offerte? Haakje: 200+ jaar familiebedrijf
+    met een compact team waarin de directeur zelf meedraait.'
+  conversation_starters: '["Bij een team van ongeveer vijftien man: wie maakt bij
+    jullie de offertes voor verbouw en renovatie?", "Hoeveel opnames bij particulieren
+    doen jullie in een gewone week naast de zakelijke projecten?"]'
+  verification: bevestigd — Beslisser en grootte bevestigd; opvolging is al geregeld
+    (mogelijk tweede beslisser).
+- name: BouwMaat.net
+  url: https://bouwmaat.net/
+  phone: 030-2721406 (bevestigd)
+  city: Utrecht (Wittevrouwensingel 95A)
+  priority_score: 7/10
+  industry: Duurzame aannemer, renovatie, aanbouw en interieurbouw op maat (particulier)
+  size: collectief van 13 partners-eigenaren (V.O.F. De Bouwmaat Aannemers, sinds
+    1994)
+  tech_stack: WordPress; geen offerteformulier op homepage gezien
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Particuliere renovaties en maatwerk met opnames en offertes; vast nummer
+    beschikbaar. Grootte en beslisser niet vastgesteld.
+  decision_maker: 'Paul en Rutger (kantoor: planning, coordinatie, aanname van klussen,
+    begrotingen); achternamen niet gevonden'
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://bouwmaat.net/aannemers-utrecht/
+    size: https://bouwmaat.net/aannemers-utrecht/
+    phone: https://bouwmaat.net/contact/
+    multi_location: een adres Wittevrouwensingel 95A Utrecht
+    relevant_vacancies: site, geen vacatures
+  value_proposition: Maatwerkprojecten vragen uitgebreide opnames; Luthox zet spraakmemo
+    en foto's om in een conceptofferte met eigen prijslijst.
+  outreach_strategy: 'Bel 030-272 14 06, vraag naar de eigenaar/calculator (naam niet
+    geverifieerd). Onderzoeksinsteek: hoe lang duurt het van opname naar verstuurde
+    offerte? Haakje: maatwerk en duurzaam bouwen vraagt gedetailleerde offertes.'
+  conversation_starters: '["Bij maatwerk en duurzame renovaties zijn offertes ingewikkeld;
+    hoeveel uur kost dat per offerte?", "Wie maakt bij jullie de offertes: de eigenaar
+    of een calculator?"]'
+  verification: aangepast — 13 gelijkwaardige partners met twee kantoormensen die
+    begroten en plannen, dus goede ICP-match en duidelijke gesprekspartner.
+- name: InHuiz
+  url: https://inhuiz.nl/
+  phone: 035-2340414 (uit eerdere batch; niet opnieuw bevestigd)
+  city: Blaricum (Deltazijde 30E, 1261 ZM; bevestigd)
+  priority_score: 7/10
+  industry: 'Verbouwexpert ''t Gooi: complete verbouwing, keuken, badkamer, afbouw,
+    interieuradvies'
+  size: niet geverifieerd; kernteam van 4 (manager, 2 interieurontwerpers, planner/werkvoorbereider)
+    plus timmerlieden en ZZP'ers
+  tech_stack: WordPress; contactformulier en afspraakplanning, Verbouwscan tool; Exact-kennis
+    gevraagd in vacature (Exact-software in gebruik); showroom
+  relevant_vacancies: op /over nu alleen timmerman en stagiair marketing; Technisch
+    Commercieel Talent niet meer bevestigd
+  why_fit: Groeiend verbouwbedrijf met sales/technisch-commercieel team, Verbouwscan
+    als leadstroom, 48 Google reviews (9.8/10). Sterke ICP-match; Exact reeds in gebruik.
+  decision_maker: Richard Stomphorst, commercieel en technisch manager (medeoprichter
+    met Pam Verschuur, sinds 2019); Daan den Hollander, planner en werkvoorbereider
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://inhuiz.nl/over/
+    size: https://inhuiz.nl/over/
+    phone: https://inhuiz.nl/
+    multi_location: een locatie Deltazijde 30E Blaricum met inspiratiecentrum
+    relevant_vacancies: https://inhuiz.nl/over/
+    founders: https://nl.linkedin.com/company/inhuiz (niet geraadpleegd) / https://nhgooi.nl/gemist/fragment/1292307/gooische-business-verschuur-huiz-levert-turn-huizen
+  value_proposition: Technisch commercieel team en projectmanagers besteden minder
+    tijd aan het uitwerken van verbouwofferten; conceptofferte direct na opname.
+  outreach_strategy: 'Bel 035-2340414, vraag naar Richard Stomphorst. Onderzoeksinsteek:
+    hoe lang duurt het van opname naar verstuurde offerte? Haakje: openstaande vacature
+    Technisch Commercieel Talent en Verbouwscan.'
+  conversation_starters: '["Jullie zoeken een technisch commercieel talent; is offertewerk
+    daar een groot deel van?", "Na een Verbouwscan of opname, hoe lang duurt het tot
+    de offerte klaar is?"]'
+  verification: aangepast — Sterke ICP-match met eigen werkvoorbereider en Verbouwscan,
+    maar relevante vacature niet meer bevestigd en score van 8 naar 7.
+- name: OBM Bouw, Verbouw en Onderhoud
+  url: https://www.obm-bv.nl
+  phone: 0162 44 79 45
+  city: Waspik (Dwarsweg 16)
+  priority_score: 7/10
+  industry: Aannemer verbouw, aanbouw, onderhoud en nieuwbouw (woning- en utiliteitsbouw),
+    BouwGarant
+  size: 15 medewerkers, 12 buiten (bevestigd)
+  tech_stack: Geen CMS/offerteformulier/software zichtbaar; eigen werkplaats (kozijnen,
+    trappen, prefab)
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: 15 mw, particulier + zakelijk verbouw/aanbouw, directeur doet waarschijnlijk
+    zelf opnames en offertes; BouwGarant.
+  decision_maker: Wout van den Broek, directeur (bevestigd)
+  linkedin: niet gevonden op site (alleen Facebook)
+  sources:
+    decision_maker: https://www.obm-bv.nl/ ; https://stagemarkt.nl/bedrijven/profiel/obm-verbouw-en-onderhoud-bv/obm-verbouw-en-onderhoud-bv/profiel-7827b83f-aca0-4cb1-b6bb-708005fc6dd1
+    size: https://www.obm-bv.nl/
+    phone: https://us.kompass.com/c/obm-verbouw-en-onderhoud-b-v/nl484577/
+    multi_location: obm-bv.nl (één locatie Dwarsweg 16 Waspik)
+    relevant_vacancies: obm-bv.nl (geen vacatures vermeld)
+  value_proposition: Spraakmemo + foto's van de opname worden direct een conceptofferte
+    op basis van eigen prijslijst; directeur bespaart avonduren per offerte.
+  outreach_strategy: Bel 0162 - 44 79 45, vraag naar Wout van den Broek; onderzoeksinsteek
+    "hoe lang duurt het bij jullie van opname tot verstuurde offerte?"; haakje mix
+    verbouw/aanbouw particulier naast utiliteit en 12 man buiten, dus weinig kantoortijd.
+  conversation_starters: '["Met 12 man buiten en 3 binnen, wie maakt bij jullie de
+    offertes na een opname?", "Hoe verdeel je offertewerk tussen woningverbouw en
+    utiliteitsprojecten?"]'
+  verification: bevestigd — Naam, grootte en telefoon bevestigd via meerdere bronnen.
+- name: Boers & Breuer Totaalbouw
+  url: https://boersbreuer.nl
+  phone: 06-15689230 (mobiel)
+  city: Waalwijk (Professor Zeemanweg 6-166)
+  priority_score: 7/10
+  industry: Aannemer verbouw/renovatie, aanbouw, dakopbouw/dakkapel, badkamer/keuken,
+    dakwerk, gevel (particulier), Noord-Brabant
+  size: 7 vaste medewerkers (bevestigd)
+  tech_stack: interactieve 3D-kostencalculator voor aanbouw/dakopbouw; WhatsApp; gratis
+    opname; CO-keur, STEK, VCA, NEN 1010, GPI
+  relevant_vacancies: niet geverifieerd (site noemt Werken-bij-pagina, geen functietitel
+    planning/projectleiding bevestigd)
+  why_fit: 7 mw, gratis opname en renovatieplan prominent, 1000+ projecten in 22 jaar,
+    breed particulier renovatiewerk, werving voor planning/projectleiding. Bestaande
+    3D-kostencalculator, dus offertebewustzijn hoog.
+  decision_maker: Joeri Boers, oprichter/directeur (bevestigd)
+  linkedin: niet gevonden op site (wel Instagram @boersbreuer)
+  sources:
+    decision_maker: https://nl.linkedin.com/in/joeri-boers-0b5b181b1 ; https://boersbreuer.nl/
+    size: https://boersbreuer.nl/
+    phone: https://boersbreuer.nl/
+    multi_location: een adres Waalwijk; werkgebied 20+ gemeenten
+    relevant_vacancies: https://boersbreuer.nl/ (geen specifieke vacature gevonden)
+  value_proposition: Bij 1000+ projecten en gratis opnames bespaart Joeri avonduren
+    door spraakmemo plus foto's om te zetten in conceptoffertes, naast de 3D-calculator
+    voor standaard aanbouw.
+  outreach_strategy: 'Bel 06-15689230, vraag naar Joeri Boers. Onderzoeksinsteek:
+    hoe lang duurt het van opname naar verstuurde offerte? Haakje: gratis opname en
+    vacature planning/projectleiding.'
+  conversation_starters: '["Jullie doen gratis opnames en hebben een 3D-calculator:
+    hoe gaat het bij maatwerk dat daar niet in past?", "Jullie zoeken versterking
+    in planning/projectleiding: wie maakt op dit moment de offertes?"]'
+  verification: aangepast — Grootte en beslisser bevestigd, vacature planning/projectleiding
+    niet te onderbouwen dus score 8 naar 7.
+- name: Dakdekkersbedrijf J. Brouwer
+  url: https://dak-brouwer.nl
+  phone: 070 260 0062
+  city: Den Haag (Henricuskade 181; tweede kantoor Rotterdam, Weena 690)
+  priority_score: 7/10
+  industry: Dakdekker (renovatie, particulier en zakelijk), Zuid-Holland
+  size: niet geverifieerd; familiebedrijf sinds 1992, 2 locaties, erkend leerbedrijf;
+    KvK 96336897
+  tech_stack: WordPress; offerteformulier ("Vrijblijvende offerte"); geen calculatiesoftware
+    zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: 34 jaar actief, veel projecten (2.650+), 4,7/5 op Google+Trustpilot met
+    110+ reviews, prominente vrijblijvende offerte, kantoren Den Haag en Rotterdam;
+    veel opnames bij particulieren
+  decision_maker: Johan Brouwer, oprichter en directeur (bevestigd op Wie zijn wij)
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://dak-brouwer.nl/wie-zijn-wij
+    size: niet geverifieerd
+    phone: dak-brouwer.nl
+    multi_location: dak-brouwer.nl (Den Haag hoofdkantoor, Rotterdam)
+    relevant_vacancies: dak-brouwer.nl (geen vacatures gezien)
+    phone_address: https://dak-brouwer.nl/contact
+  value_proposition: Luthox zet spraakmemo en foto's van de dakopname om in een conceptofferte
+    op basis van hun eigen prijslijst, zodat bij 2.650+ projecten de offerte sneller
+    de deur uit gaat.
+  outreach_strategy: Bel 070 260 0062, vraag naar Johan Brouwer; onderzoeksinsteek
+    "hoe lang duurt het bij jullie van opname naar verstuurde offerte?"; haakje 34
+    jaar en 110+ reviews, veel offerteaanvragen via "Vrijblijvende offerte".
+  conversation_starters: '["Jullie werken in 16 regio''s in Zuid-Holland; hoeveel
+    opnames doet een dakdekker per week en wie maakt daarna de offerte?", "Bij 110+
+    reviews komen er vast veel aanvragen binnen; hoe houden jullie de doorlooptijd
+    van offerte kort?"]'
+  verification: bevestigd — Directeur bevestigd (eerder alleen uit review), telefoon
+    en adres kloppen; grootte onvindbaar.
+- name: Bamab Bouw
+  url: https://www.bouwbedrijfbamab.nl/
+  phone: '085-8000322 / 020-2445955 (bevestigd)'
+  city: Amsterdam (Tijnmuiden 59, 1046 AK volgens site); KvK-adres Van Amstellaan
+    10 Loenen aan de Vecht
+  priority_score: 6/10
+  industry: Afbouw en renovatie woningen/winkels/kantoren, particulier en zakelijk
+  size: 15 vaste medewerkers plus ZZP'ers (eigen site)
+  tech_stack: WordPress; offerteformulier op homepage en /formulier/
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Offerteformulier prominent, particulier + zakelijk, werkgebied NH/Utrecht/Flevoland,
+    5.0 Google (14 reviews). Grootte onbekend, KvK 89102215 (jong bedrijf).
+  decision_maker: Boris (achternaam onbekend, klantreviews); Milvest Holding B.V.
+    is sinds 2023 bestuurder van Bamab B.V.; persoon achter Milvest niet gevonden
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://www.transfirm.nl/nl/organisatie/89102215-000054912563-bamab-b.v.
+    size: https://www.bouwbedrijfbamab.nl/over-bamab/
+    phone: https://www.bouwbedrijfbamab.nl/over-bamab/
+    multi_location: een adres Tijnmuiden 59 Amsterdam gevonden; werkgebied meerdere
+      regio's
+    relevant_vacancies: site, geen vacatures
+  value_proposition: Meer opnames in een breed werkgebied zonder avonden offertes
+    typen; conceptofferte uit spraakmemo en foto's.
+  outreach_strategy: 'Bel 085-8000322, vraag naar Boris. Onderzoeksinsteek: hoe lang
+    duurt het van opname naar verstuurde offerte? Haakje: offerteformulier op de homepage
+    levert waarschijnlijk veel aanvragen op.'
+  conversation_starters: '["Via het formulier komen aanvragen binnen; hoe lang duurt
+    het gemiddeld voordat er een offerte uit is?", "Jullie werken in drie provincies;
+    hoeveel tijd zit er in reizen naar opnames?"]'
+  verification: aangepast — Echt BV met 15 vaste mw, in ICP-range; beslisser nog steeds
+    alleen voornaam.
+- name: Heidstra Bouw
+  url: https://heidstrabouw.nl
+  phone: 06 36 54 97 07 (mobiel; geen vast nummer)
+  city: Buitenpost (Voorstraat 70)
+  priority_score: 6/10
+  industry: Verbouw/renovatie, badkamers, verduurzaming (particulier), Friesland-Groningen-Drenthe
+  size: niet geverifieerd (meerdere timmerlieden, aantal onvindbaar)
+  tech_stack: Next.js website; contact-/offerteformulier via /contact; geen calculatiesoftware
+    zichtbaar
+  relevant_vacancies: 'geen relevante vacatures gevonden (wel uitvoerend: ervaren
+    timmerman, niet relevant)'
+  why_fit: Particuliere verbouw/badkamer/aanbouw in drie provincies (veel opnames
+    op locatie), actieve werving, eigenaar-gedreven; grootte nog te bevestigen.
+  decision_maker: Jorrit Heidstra, eigenaar en bouwspecialist (bevestigd)
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://heidstrabouw.nl/over-ons
+    size: https://companyinfo.nl/organisatieprofiel/burgerlijke-en-utiliteitsbouw/heidstra-bouw-buitenpost-92161227-000057800669
+      (geen aantal)
+    phone: https://heidstrabouw.nl/over-ons
+    multi_location: heidstrabouw.nl (een vestiging Voorstraat 70, werkgebied 3 provincies)
+    relevant_vacancies: https://heidstrabouw.nl/vacatures/ervaren-timmerman (alleen
+      uitvoerend)
+  value_proposition: Jorrit hoeft na een opname op locatie de offerte niet 's avonds
+    uit te typen; spraakmemo+foto's worden een conceptofferte op basis van zijn eigen
+    prijzen.
+  outreach_strategy: Bel 06-36549707 (mobiel, geen vast nummer gevonden), vraag naar
+    Jorrit Heidstra; onderzoeksinsteek "hoe lang duurt het bij jullie van opname naar
+    verstuurde offerte?"; haakje - groeiend team (timmerman gezocht) en werkgebied
+    over drie provincies betekent veel reistijd tussen opnames.
+  conversation_starters:
+  - Jullie werken in Friesland, Groningen en Drenthe; hoeveel opnames doe je per week
+    en wanneer komt de offerte er dan aan toe?
+  - Je zoekt een timmerman; blijft het offertewerk bij jou terwijl het team groeit?
+  verification: aangepast — Echt bedrijf met eigenaar bevestigd, maar teamgrootte
+    na poging niet te vinden; lead blijft staan.
+- name: Rebo Dakwerken
+  url: https://rebodakwerken.nl
+  phone: '029 971 43 52'
+  city: Purmerend (werkgebied Noord-Holland)
+  priority_score: 6/10
+  industry: Plat-/plaatdak renovatie
+  size: niet geverifieerd; 1.850+ projecten, VCA/ISO 9001/14001, 4,7 Google (site);
+    KvK 93439954
+  tech_stack: WordPress; offerteformulier zichtbaar; geen calculatiesoftware zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Vaste teams en breed werkgebied; offerte-aanvraag prominent.
+  decision_maker: René (achternaam niet gevonden), leider team volgens klantreviews;
+    rol niet bevestigd
+  linkedin: niet gevonden
+  sources:
+    decision_maker: homepage rebodakwerken.nl
+    size: niet geverifieerd
+    phone: homepage rebodakwerken.nl
+    multi_location: 'Ja: werkgebied Purmerend, Alkmaar, Haarlem, Zaandam, Amstelveen
+      (een adres genoemd: Baanstee, Purmerend) (homepage)'
+    relevant_vacancies: homepage/vacaturepagina's rebodakwerken.nl
+    site: https://rebodakwerken.nl/ons/
+    search: https://rebodakwerken.nl/
+  value_proposition: Opname bij de klant inspreken en foto's maken; Luthox maakt hiervan
+    een conceptofferte op basis van de eigen prijslijst, zodat de avonduren voor offertes
+    wegvallen.
+  outreach_strategy: 'Bel 029 971 43 52, vraag naar René; onderzoeksinsteek: hoe lang
+    duurt het van opname naar verstuurde offerte?; haakje: offerte-aanvraag/inspectie
+    prominent op de site.'
+  conversation_starters: '["Hoeveel offertes schrijft u per week en wanneer doet u
+    dat?", "Hoe snel gaat een offerte de deur uit na de dakinspectie?"]'
+  verification: aangepast — ISO-certificering en volume passen bij middelgroot bedrijf;
+    beslisser alleen voornaam.
+- name: Totaal Dakservice
+  url: https://www.totaaldakservice.nl
+  phone: 023 230 2058 (mobiel 06 17582370)
+  city: Haarlem (Kennemerplein 6)
+  priority_score: 6/10
+  industry: Dakrenovatie bestaande woningen, spoedservice
+  size: niet geverifieerd; meerdere bestelbussen/ploegen (site)
+  tech_stack: WordPress; offerteformulier zichtbaar; geen calculatiesoftware zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: 'BV met directeur die zelf inspecties doet: opnames door de eigenaar zelf,
+    precies het probleem.'
+  decision_maker: Leo (achternaam niet gevonden), oprichter/directeur; site noemt
+    directeur zonder naam
+  linkedin: niet gevonden
+  sources:
+    decision_maker: homepage totaaldakservice.nl
+    size: niet geverifieerd
+    phone: homepage totaaldakservice.nl
+    multi_location: 'Nee: Kennemerplein 6, Haarlem (homepage)'
+    relevant_vacancies: homepage/vacaturepagina's totaaldakservice.nl
+    site: https://www.totaaldakservice.nl/over-ons/
+    reviews: https://trustoo.nl/noord-holland/haarlem/dakdekker/totaaldakservice/
+  value_proposition: Opname bij de klant inspreken en foto's maken; Luthox maakt hiervan
+    een conceptofferte op basis van de eigen prijslijst, zodat de avonduren voor offertes
+    wegvallen.
+  outreach_strategy: 'Bel 023 230 2058, vraag naar Leo; onderzoeksinsteek: hoe lang
+    duurt het van opname naar verstuurde offerte?; haakje: offerte-aanvraag/inspectie
+    prominent op de site.'
+  conversation_starters: '["Hoeveel offertes schrijft u per week en wanneer doet u
+    dat?", "Hoe snel gaat een offerte de deur uit na de dakinspectie?"]'
+  verification: aangepast — Directeur bevestigd als oprichter met 24 jaar ervaring
+    en zelf actief; naam en grootte onbekend.
+- name: Gelders Dakrenovatie
+  url: https://www.geldersdakrenovatie.nl
+  phone: "+31 481 23 10 85"
+  city: Elst (Nijverheidsweg 35)
+  priority_score: 6/10
+  industry: Dakrenovatie en dakisolatie
+  size: 11-50 medewerkers (bedrijfsdirectory-snippet, niet bevestigd op site); onderdeel
+    van Gelders Bouwgroep B.V. / Gelders Dakgroep met meerdere vestigingen, groepsgrootte
+    niet geverifieerd
+  tech_stack: Offerte-/contactformulier zichtbaar; CMS en calculatiesoftware niet
+    zichtbaar
+  relevant_vacancies: niet gevonden op site; LinkedIn toont wel commercieel manager
+    en werkvoorbereiding binnen Gelders Dakgroep
+  why_fit: Snelofferte-formulier prominent; dakrenovatie en isolatie. Grootte onbekend.
+  decision_maker: Jan Burhenne, eigenaar (Gelders Dakherstel/Dakrenovatie)
+  linkedin: niet gevonden
+  sources:
+    decision_maker: https://www.linkedin.com/in/jan-burhenne-7376a8133/
+    size: https://nl.linkedin.com/company/gelders-dakrenovatie
+    phone: homepage geldersdakrenovatie.nl
+    multi_location: 'Nee: Nijverheidsweg 35, Elst (homepage)'
+    relevant_vacancies: homepage/vacaturepagina's geldersdakrenovatie.nl
+    address_group: https://companyinfo.nl/organisatieprofiel/dakdekken-en-bouwen-van-dakconstructies/gelders-dakrenovatie-b-v-elst-77674316-000006728839
+  value_proposition: Opname bij de klant inspreken en foto's maken; Luthox maakt hiervan
+    een conceptofferte op basis van de eigen prijslijst, zodat de avonduren voor offertes
+    wegvallen.
+  outreach_strategy: 'Bel +31 481 23 10 85, vraag naar de eigenaar; onderzoeksinsteek:
+    hoe lang duurt het van opname naar verstuurde offerte?; haakje: offerte-aanvraag/inspectie
+    prominent op de site.'
+  conversation_starters: '["Hoeveel offertes schrijft u per week en wanneer doet u
+    dat?", "Hoe snel gaat een offerte de deur uit na de dakinspectie?"]'
+  verification: aangepast — Eigenaar en grootte-indicatie (11-50) gevonden; zit in
+    groep, dus werkvoorbereider/calculator in de groep is een kans.
+- name: Bouwbedrijf Goedbloed
+  url: https://www.bouwbedrijfgoedbloed.nl
+  phone: '0118 50 21 86'
+  city: Middelburg (President Kennedylaan 12)
+  priority_score: 5/10
+  industry: Aannemer renovatie, verbouw en uitbouw, derde generatie familiebedrijf
+    (sinds 2008), Walcheren
+  size: niet geverifieerd (omschreven als klein bouwbedrijf met vaste ploeg)
+  tech_stack: WordPress (uit URL-structuur); offerte-aanvraagformulier op site
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Renovaties/uitbouw voor particulieren + enkele zakelijke; eigenaar persoonlijk
+    aanspreekpunt, offerte-aanvraagformulier. Grootte onbekend (risico <5 mw).
+  decision_maker: Willem Goedbloed, eigenaar (derde generatie, bevestigd)
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://www.bouwbedrijfgoedbloed.nl/wie-zijn-wij/
+    size: https://trustoo.nl/zeeland/middelburg/aannemer/bouwbedrijf-goedbloed/ (geen
+      aantal)
+    phone: bouwbedrijfgoedbloed.nl homepage
+    multi_location: bouwbedrijfgoedbloed.nl (President Kennedylaan 12 Middelburg)
+    relevant_vacancies: bouwbedrijfgoedbloed.nl (geen vacatures)
+    city: https://www.bouwbedrijfgoedbloed.nl/contact/
+  value_proposition: 'Willem hoeft na de opname ''s avonds niet meer te typen: spraakmemo
+    + foto''s worden een conceptofferte in eigen stijl en prijzen.'
+  outreach_strategy: Bel 0118 50 21 86, vraag naar Willem Goedbloed; onderzoeksinsteek
+    "hoe lang duurt het van opname naar verstuurde offerte?"; haakje persoonlijke
+    begeleiding "van begin tot eind" en offerteformulier op de site.
+  conversation_starters: '["Klanten waarderen dat ze van begin tot eind bij jou terecht
+    kunnen, blijft daar tijd voor over naast het offertes schrijven?", "Hoeveel offerteaanvragen
+    komen er per week binnen via het formulier?"]'
+  verification: aangepast — Eigenaar bevestigd, aantal medewerkers onvindbaar en site
+    noemt zichzelf klein.
+- name: Kuipers Daksolutions
+  url: https://kuipers-daksolutions.nl
+  phone: 036 230 27 87
+  city: Almere (werkgebied Flevoland, Gelderland, Noord-Holland, Utrecht)
+  priority_score: 5/10
+  industry: Dakonderhoud, isolatie, complete renovaties
+  size: niet geverifieerd
+  tech_stack: Offerte-/contactformulier zichtbaar; CMS en calculatiesoftware niet
+    zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Groot werkgebied wijst op meerdere teams; contactformulier met foto-upload
+    sluit aan bij foto-gedreven offerte.
+  decision_maker: niet geverifieerd (site noemt 'Kobus Kuipers Daksolution' als oprichter,
+    geen rol/persoon bevestigd)
+  linkedin: niet gevonden
+  sources:
+    decision_maker: homepage kuipers-daksolutions.nl
+    size: niet geverifieerd
+    phone: homepage kuipers-daksolutions.nl
+    multi_location: 'Nee: een servicegebied, groot werkgebied (homepage)'
+    relevant_vacancies: homepage/vacaturepagina's kuipers-daksolutions.nl
+    phone_about: https://kuipers-daksolutions.nl/over-ons/
+    owner_hint: https://kuipers-daksolutions.nl/dakdekker-almere/
+  value_proposition: Opname bij de klant inspreken en foto's maken; Luthox maakt hiervan
+    een conceptofferte op basis van de eigen prijslijst, zodat de avonduren voor offertes
+    wegvallen.
+  outreach_strategy: 'Bel 036 230 27 87, vraag naar de eigenaar; onderzoeksinsteek:
+    hoe lang duurt het van opname naar verstuurde offerte?; haakje: offerte-aanvraag/inspectie
+    prominent op de site.'
+  conversation_starters: '["Hoeveel offertes schrijft u per week en wanneer doet u
+    dat?", "Hoe snel gaat een offerte de deur uit na de dakinspectie?"]'
+  verification: aangepast — Telefoon bevestigd, particulier/zakelijk en 20+ jaar bevestigd;
+    beslisser en grootte niet te vinden.
+- name: Noord Holland Dakwerken
+  url: https://nh-dakwerken.nl
+  phone: 072 234 29 12
+  city: Alkmaar (Otterkoog 16B)
+  priority_score: 5/10
+  industry: Dakrenovatie
+  size: circa 6 personen volgens teampagina (eigenaar, projectmanager, dakdekker,
+    2 leerlingen, kantoor); rand van ICP (5+)
+  tech_stack: Offerte-/contactformulier zichtbaar; CMS en calculatiesoftware niet
+    zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Aanvraagformulier en lekkage-meldformulier; 10 jaar garantie.
+  decision_maker: Ramon Eringaard, eigenaar; Max Keizer, projectmanager (beide bevestigd
+    op contactpagina)
+  linkedin: niet gevonden
+  sources:
+    decision_maker: homepage nh-dakwerken.nl
+    size: niet geverifieerd
+    phone: homepage nh-dakwerken.nl
+    multi_location: 'Nee: een locatie, werkgebied heel Noord-Holland (homepage)'
+    relevant_vacancies: homepage/vacaturepagina's nh-dakwerken.nl
+    team_phone_address: https://nh-dakwerken.nl/contact
+    search: https://nh-dakwerken.nl/
+  value_proposition: Opname bij de klant inspreken en foto's maken; Luthox maakt hiervan
+    een conceptofferte op basis van de eigen prijslijst, zodat de avonduren voor offertes
+    wegvallen.
+  outreach_strategy: 'Bel niet gevonden op site, vraag naar Ramon; onderzoeksinsteek:
+    hoe lang duurt het van opname naar verstuurde offerte?; haakje: offerte-aanvraag/inspectie
+    prominent op de site.'
+  conversation_starters: '["Hoeveel offertes schrijft u per week en wanneer doet u
+    dat?", "Hoe snel gaat een offerte de deur uit na de dakinspectie?"]'
+  verification: aangepast — Plaats gecorrigeerd naar Alkmaar; telefoon nu bekend;
+    projectmanager Max Keizer is extra contact voor offertes.
+- name: Spits Dakwerken B.V.
+  url: https://spitsdakwerken.nl
+  phone: 010 381 0421
+  city: Maassluis (Govert van Wijnkade 39F)
+  priority_score: 5/10
+  industry: Dakdekker (platte en hellende daken, renovatie/onderhoud), Zuid-Holland
+  size: 'klein team (site: ''jong, energiek team'', 10+ jaar gezamenlijke ervaring);
+    exacte grootte niet geverifieerd'
+  tech_stack: WordPress; uitgebreid meerstaps offerteformulier met foto-upload (type,
+    m2, materiaal); geen calculatiesoftware zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: offerteformulier vraagt m2 en foto's, wat aansluit op offerteproces; VCA,
+    10-15 jaar garantie op renovaties; eigen team, particulier/zakelijk
+  decision_maker: Mohammed ('Mo'), directeur/eigenaar volgens site-tekst 'Mohammed
+    and his team'; achternaam onbekend
+  linkedin: niet gevonden op site (link in menu inactief)
+  sources:
+    decision_maker: spitsdakwerken.nl (klantreviews)
+    size: niet geverifieerd
+    phone: spitsdakwerken.nl
+    multi_location: spitsdakwerken.nl (één adres Maassluis, 50+ gemeenten werkgebied)
+    relevant_vacancies: spitsdakwerken.nl (geen vacatures gezien)
+    site: https://spitsdakwerken.nl/
+    directory: https://drimble.nl/bedrijf/maassluis/61568139/spits-dakwerken-bv.html
+  value_proposition: 'Luthox automatiseert wat hun formulier al opvraagt (m2, materiaal,
+    foto''s) voor de eigen opnames: memo plus foto''s wordt een conceptofferte in
+    hun prijsstructuur.'
+  outreach_strategy: Bel 010 381 0421, vraag naar de eigenaar/offerteverantwoordelijke
+    (naam niet bekend; Mohammed indien gepast); onderzoeksinsteek "hoe lang duurt
+    het van opname naar verstuurde offerte?"; haakje het gedetailleerde offerteformulier
+    met foto-upload.
+  conversation_starters: '["Jullie formulier vraagt al m2 en foto''s; hoe vaak moet
+    er daarna nog iemand op locatie voor een definitieve prijs?", "Met 53+ reviews
+    en 4,9 stelt de klant zeker snelheid op prijs; hoe snel hebben jullie meestal
+    een offerte?"]'
+  verification: aangepast — Beslisser Mohammed nu op site herleid; team lijkt klein,
+    ICP-rand.
+- name: Smits Dakwerken
+  url: https://www.smitsdakwerken.nl
+  phone: '085 004 5490'
+  city: Rotterdam (geen adres op site; landelijk netwerk van partners)
+  priority_score: 5/10
+  industry: Dakdekker (renovatie, onderhoud), landelijk werkgebied, sinds 2014 zelfstandig
+  size: niet geverifieerd; site noemt 'landelijk netwerk van partners' (mogelijk leadgen/netwerkmodel),
+    eerder genoemde 15 dakspecialisten niet opnieuw bevestigd; 8,8 score op 132 reviews
+  tech_stack: WordPress; meerstaps offerteformulier (adres, categorie, omschrijving);
+    geen calculatiesoftware zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: 15 dakspecialisten en ~40 opdrachten per week binnen ICP-grootte; gratis
+    dakinspectie en daarna offerte; hoog volume aan opnames en offertes
+  decision_maker: niet gevonden
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: niet gevonden op site
+    size: smitsdakwerken.nl (15 dakspecialisten)
+    phone: smitsdakwerken.nl
+    multi_location: smitsdakwerken.nl (werkgebied 20+ steden, landelijk)
+    relevant_vacancies: smitsdakwerken.nl (geen vacatures gezien)
+    site: https://www.smitsdakwerken.nl/ons-bedrijf/
+    contact: https://www.smitsdakwerken.nl/contact/
+  value_proposition: Bij ~40 opdrachten per week telt elk uur offertewerk; Luthox
+    maakt van spraakmemo en foto's een conceptofferte op basis van hun eigen prijslijst.
+  outreach_strategy: Bel 085 004 5490, vraag naar de eigenaar of wie de offertes maakt
+    (naam onbekend); onderzoeksinsteek "hoe lang duurt het van opname naar verstuurde
+    offerte?"; haakje gratis dakinspectie dan offerte en 40 opdrachten per week.
+  conversation_starters: '["Jullie noemen 40 opdrachten per week in Midden-Nederland;
+    wie maakt na de inspectie de offerte?", "Hoe lang duurt het gemiddeld van gratis
+    inspectie tot verstuurde offerte?"]'
+  verification: aangepast — Site spreekt van netwerk van partners, dus risico leadplatform/netwerk;
+    score verlaagd van 8 naar 5.
+- name: Eigenhuis Dakdekker
+  url: https://eigenhuis-dakdekker.nl
+  phone: '085 303 42 12'
+  city: 'Tilburg klopt niet als hoofdkantoor: kantoren in Eindhoven, Utrecht, Eerbeek,
+    Weert, Ridderkerk, Zaandam (Eindhoven eerstgenoemd)'
+  priority_score: 5/10
+  industry: Dakdekker (dakrenovatie, inspectie), 7 provincies
+  size: niet geverifieerd; Eigenhuis Dakspecialist B.V. (KvK 86825410) met 6 kantoren
+    in 7 provincies en 197 Google reviews, risico >75 mw
+  tech_stack: WordPress; meerstaps offerteformulier met foto-upload; geen calculatiesoftware
+    zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: veel reviews (197), Top Pro 2026 (Trustoo), gratis inspectie voor offerte,
+    foto-upload in formulier, particuliere markt (RTL 4 vermeldingen); werkgebied
+    7 provincies suggereert flink volume
+  decision_maker: Mike (aanspreekpunt, achternaam/rol niet bevestigd)
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: eigenhuis-dakdekker.nl (contactpersoon)
+    size: niet geverifieerd
+    phone: eigenhuis-dakdekker.nl
+    multi_location: eigenhuis-dakdekker.nl (7 provincies, geen vestigingslijst)
+    relevant_vacancies: eigenhuis-dakdekker.nl (geen vacatures gezien)
+    site: https://eigenhuis-dakdekker.nl/contact/
+    directory: https://dakdekkersgids.nl/rosmalen/eigenhuis-dakspecialist-b-v/
+  value_proposition: Bij 7 provincies aan werkgebied wint Luthox tijd door van opname-memo
+    en foto's direct een conceptofferte te maken in hun prijssjabloon.
+  outreach_strategy: Bel 085 303 42 12, vraag naar Mike; onderzoeksinsteek "hoe lang
+    duurt het van opname naar verstuurde offerte?"; haakje 197 reviews en Top Pro
+    2026.
+  conversation_starters: '["Jullie werken in zeven provincies; hoe organiseren jullie
+    opnames en offertes daarbij?", "Na de gratis inspectie: hoeveel uur zit er gemiddeld
+    in een offerte?"]'
+  verification: aangepast — Schaalbedrijf met zes vestigingen, grootte bovenkant of
+    erboven ICP; score verlaagd van 7 naar 5.
+- name: C.L. de Boer & Zn Aannemers B.V.
+  url: https://www.cldeboer.nl/
+  phone: 0172-589174 (bevestigd)
+  city: Hazerswoude-Dorp
+  priority_score: 5/10
+  industry: 'Aannemer: verbouw, aanbouw, dakkapel, badkamer, daarnaast nieuwbouw/utiliteit'
+  size: niet geverifieerd (site noemt alleen een vast team; geen aantal gevonden)
+  tech_stack: niet zichtbaar; lid Bouwgarant en Bouwend Nederland
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Familiebedrijf sinds 1945 met verbouw/aanbouw voor particulieren; deel
+    nieuwbouw/utiliteit en grootte onbekend, dus twijfel.
+  decision_maker: L. de Boer Holding B.V. als algemeen directeur sinds 2021; persoon
+    niet gevonden
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://companyinfo.nl/organisatieprofiel/burgerlijke-en-utiliteitsbouw/c-l-de-boer-zn-aannemers-b-v-hazerswoude-dorp-28019721-000012948624
+    size: geen bron gevonden (cldeboer.nl, bouwnu.nl, creditsafe geprobeerd)
+    phone: https://www.cldeboer.nl/
+    multi_location: niet gevonden op site
+    relevant_vacancies: niet gevonden op site
+  value_proposition: 'Voor de verbouw/aanbouw-tak: opname vastleggen via spraakmemo
+    en foto''s en automatisch een conceptofferte in eigen stijl laten opstellen.'
+  outreach_strategy: Bel 0172 58 91 74, vraag naar de directie/calculator; onderzoeksinsteek
+    "hoe lang duurt het van opname naar verstuurde offerte bij verbouwprojecten?";
+    haakje verbouw- en aanbouwtak naast nieuwbouw.
+  conversation_starters: '["Wie maakt bij jullie de offertes voor verbouw en aanbouw,
+    en hoe lang duurt dat na de opname?", "Hoeveel van jullie werk is particuliere
+    verbouw versus nieuwbouw/utiliteit?"]'
+  verification: aangepast — Echt aannemersbedrijf sinds 1945 met verbouw, aanbouw
+    en ook nieuwbouw/utiliteit; grootte en persoon onvindbaar, lead laten staan met
+    gemiddelde score.
+- name: JACO Limburg
+  url: https://www.jaco-limburg.nl/
+  phone: niet gevonden op site (Infobel noemt 046-2402000, onbevestigd; adres Bockhofweg
+    10, 6333 AZ Schimmert)
+  city: Schimmert
+  priority_score: 5/10
+  industry: 'Bouwbedrijf, klusbedrijf en installatiebedrijf: verbouw, aanbouw, renovatie'
+  size: niet geverifieerd (KvK 14086658, geen aantal mw)
+  tech_stack: Website door Nordwand; contactformulier /vraag; geen offertesoftware
+    zichtbaar
+  relevant_vacancies: 'geen relevante vacatures gevonden (vacatures uitvoerend: aannemer,
+    schilder, tegelzetter, klusjesman, installateur, elektricien)'
+  why_fit: Multidisciplinair bedrijf met betaalbare verbouw/aanbouw voor Midden- en
+    Zuid-Limburg; veel opnames. Geen directe beslisser bekend.
+  decision_maker: niet gevonden
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: niet gevonden op site
+    size: https://www.jaco-limburg.nl/
+    phone: https://www.infobel.com/nl/netherlands/jaco_limburg/sittard/NL103329244-0462402000/businessdetails.aspx
+    multi_location: een adres Bockhofweg 10 Schimmert; werkgebied Midden-/Zuid-Limburg
+    relevant_vacancies: https://www.jaco-limburg.nl/vacatures
+  value_proposition: Klus-, verbouw- en installatiewerk levert veel verschillende
+    offertes; Luthox versnelt de conceptofferte uit foto's en spraakmemo.
+  outreach_strategy: 'Nummer eerst zoeken via telefoongids/algemeen nummer; vraag
+    naar de eigenaar of calculator (niet geverifieerd). Onderzoeksinsteek: hoe lang
+    duurt het van opname naar verstuurde offerte? Haakje: betaalbaar verbouwen en
+    ''altijd op zoek naar versterking'' (groei).'
+  conversation_starters: '["Jullie doen verbouw, klus en installatie; wie maakt de
+    offertes en hoeveel tijd kost dat?", "Bij groei in personeel, blijft offreren
+    bij dezelfde persoon liggen?"]'
+  verification: aangepast — Echt multidisciplinair bedrijf sinds ruim 15 jaar, maar
+    geen nummer, beslisser of grootte te verifiëren; installatie/klus-mix en score
+    verlaagd van 6 naar 5.
+- name: BDVO Bouwbedrijf (Bouwbedrijf DVO)
+  url: https://www.bouwbedrijfdvo.nl
+  phone: "+31 50 211 6322"
+  city: Haren (Rijksstraatweg 210a; oudere adressen Groningen)
+  priority_score: 5/10
+  industry: Verbouw, renovatie, dakrenovatie, isolatie, aardbevingsherstel; particulier
+    + zakelijk
+  size: niet geverifieerd
+  tech_stack: WordPress; contactformulier; geen calculatiesoftware zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Breed dienstenpakket (renovatie, dak, isolatie, subsidie/financiering-begeleiding)
+    met veel opnames en offertes; meerdere dienstlijnen betekent veel calculatiewerk.
+  decision_maker: niet gevonden (geen namen op site)
+  linkedin: https://www.linkedin.com/company/bouwbedrijfdvo/
+  sources:
+    decision_maker: niet geverifieerd (over-ons noemt geen namen)
+    size: https://www.bouwbedrijfdvo.nl/ (geen aantal; KvK 98906798, site 'meer dan
+      5 jaar ervaring', 10 reviews)
+    phone: https://www.bouwbedrijfdvo.nl/
+    multi_location: bouwbedrijfdvo.nl (serviceplaatsen Marum, Stadskanaal, Veendam
+      e.a.; een hoofdkantoor)
+    relevant_vacancies: niet gevonden op site
+    city: https://www.bouwbedrijfdvo.nl/
+  value_proposition: Snellere conceptoffertes na opname voor renovatie-, dak- en isolatiewerk,
+    op basis van eigen prijslijst.
+  outreach_strategy: Bel 050 211 6322, vraag naar de calculator of directeur (naam
+    niet bekend); onderzoeksinsteek "hoe lang duurt het van opname naar verstuurde
+    offerte?"; haakje - offertes voor renovatie, dak en isolatie in aparte trajecten.
+  conversation_starters:
+  - Bij jullie lopen renovatie, dak en isolatie door elkaar; wie maakt de offertes
+    en hoeveel tijd kost dat per aanvraag?
+  - Jullie werken in drie provincies; hoe snel kan een klant na de opname een offerte
+    verwachten?
+  verification: aangepast — Bedrijf is echt en telefoon klopt, maar site is recent
+    en klein qua reviews; grootte en beslisser onvindbaar.
+- name: Rudolphie Bouw
+  url: https://rudolphiebouw.nl
+  phone: 050 549 62 68
+  city: Groningen (Lamsoor 10)
+  priority_score: 5/10
+  industry: Verbouw, nieuwbouw, renovatie en onderhoud, keuken/badkamer; KOB-gecertificeerd,
+    sinds 1999; gelieerd aan Lifestyle Groningen (showroom)
+  size: circa 4 uitvoerend + kantoor/showroom (Sarah, Charlotta, Beau), geschat 6-8;
+    vaste onderaannemers
+  tech_stack: contactformulier; CMS niet vastgesteld; geen calculatiesoftware zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Familiebedrijf met verbouw/renovatie voor particulieren, veel reviews (Trustoo);
+    onderkant van de doelgroep qua grootte.
+  decision_maker: Hielko Rudolphie, eigenaar
+  linkedin: https://www.linkedin.com/in/hielko-rudolphie-5154b695/ (persoonlijk)
+  sources:
+    decision_maker: https://nl.linkedin.com/in/hielko-rudolphie-5154b695
+    size: https://rudolphiebouw.nl/over-ons/ ; https://lifestylegroningen.nl/over-ons/
+    phone: rudolphiebouw.nl
+    multi_location: niet gevonden op site
+    relevant_vacancies: niet gevonden op site
+    city: https://drimble.nl/bedrijf/groningen/3865533/rudolphie-bouw.html
+  value_proposition: Hielko krijgt tijd terug doordat opnames direct via spraakmemo
+    en foto's een conceptofferte worden, zodat de uitvoerende ploeg niet op zijn kantoortijd
+    wacht.
+  outreach_strategy: Bel 050 549 62 68, vraag naar Hielko Rudolphie; onderzoeksinsteek
+    "hoe lang duurt het van opname naar verstuurde offerte?"; haakje - keuken/badkamer-opnames
+    via showroom leveren veel kleine offertes op.
+  conversation_starters:
+  - Bij Lifestyle Groningen en de bouw lopen aanvragen door elkaar; wie maakt de offertes
+    en wanneer?
+  - Sinds 1999 met een vast team; is offertes maken de bottleneck voor groei of juist
+    niet?
+  verification: aangepast — Eigenaar bevestigd via LinkedIn, team rond ondergrens
+    5 mw met showroom-component.
+- name: All-Bouw
+  url: https://www.all-bouw.nl
+  phone: '0481-423344'
+  city: Gendt
+  priority_score: 5/10
+  industry: Aannemer renovatie/onderhoud, aanbouw en nieuwbouw (particulier, retail,
+    horeca), V.O.F. sinds 2002
+  size: 5 (3 vennoten + 2 werknemers, Henri en Jimmy), excl. administratie Cilia Peters
+  tech_stack: MaxiCMS; 'Vraag offerte aan'-knoppen prominent; geen software zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Renovatie/onderhoud/aanbouw, offerte-aanvraag prominent, eigenaren zelf
+    actief. Grootte onbekend, plaats is Gendt (niet Nijmegen zelf).
+  decision_maker: Rob Peters (klantcontact, planning, offertes) en Erik Peters (offertes
+    in ontwikkeling); Ed Peters oprichter
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://www.all-bouw.nl/over-ons
+    size: https://www.all-bouw.nl/over-ons
+    phone: https://trustoo.nl/gelderland/gendt/aannemer/all-bouw-/
+    multi_location: een locatie Gendt; aparte site All-bouw Kozijnen
+    relevant_vacancies: all-bouw.nl (geen vacatures)
+  value_proposition: Drie eigenaren die zelf opnemen kunnen offertes sneller versturen
+    door spraakmemo plus foto's te laten omzetten in een conceptofferte.
+  outreach_strategy: 'Bel 0481-423344, vraag naar Rob of Erik Peters (mede-eigenaar).
+    Onderzoeksinsteek: hoe lang duurt het van opname naar verstuurde offerte? Haakje:
+    ''Vraag offerte aan'' centraal op de site.'
+  conversation_starters: '["Wie van jullie drie doet de opnames en wie maakt daarna
+    de offerte?", "Hoeveel offerteaanvragen komen er wekelijks binnen via de site?"]'
+  verification: aangepast — Precies op de ondergrens van 5; Rob Peters doet offertes,
+    dus direct aanspreekpunt.
+- name: JVA Gockel
+  url: https://jva-gockel.nl
+  phone: 06-49088704 (mobiel; Gouden Gids noemt 06-21107005)
+  city: Breda (Spinveld 49/B; oude vestiging Sprundel)
+  priority_score: 5/10
+  industry: Aannemer totaalrenovaties, verbouw, aanbouw, onderhoud (particulier +
+    bedrijf), West-Brabant
+  size: 5 werknemers volgens eerdere handelsregisterbron; KvK 91322286 pas sinds 2023,
+    niet opnieuw bevestigd
+  tech_stack: WordPress; gratis offerte via contactformulier; geen software zichtbaar
+  relevant_vacancies: geen relevante vacatures gevonden
+  why_fit: Totaalrenovaties voor particulieren, gratis offerte en enkel aanspreekpunt
+    centraal, eigenaar doet vermoedelijk zelf opname en offerte. Op de ondergrens
+    qua omvang.
+  decision_maker: Doron Gockel, eigenaar (via klantreviews, rol niet formeel bevestigd)
+  linkedin: niet gevonden op site
+  sources:
+    decision_maker: https://www.transfirm.nl/nl/organisatie/91322286-000057005389-aannemersbedrijf-jva-gockel-b.v.
+      ; https://jva-gockel.nl/
+    size: eerdere bron (niet herbevestigd)
+    phone: jva-gockel.nl homepage
+    multi_location: een locatie Breda (zoekresultaten noemen ook Sprundel als oude
+      vestiging)
+    relevant_vacancies: jva-gockel.nl (geen vacatures)
+    city: https://www.goudengids.nl/nl/bedrijf/Breda/L520986656/Aannemersbedrijf+JVA+Gockel/
+  value_proposition: 'De eigenaar rekent na een dag opnames niet meer ''s avonds offertes
+    uit: spraakmemo plus foto''s geven een conceptofferte in eigen prijzen.'
+  outreach_strategy: 'Bel 06-49088704, vraag naar Doron Gockel. Onderzoeksinsteek:
+    hoe lang duurt het van opname naar verstuurde offerte? Haakje: ''weekly updates''
+    en ''een aanspreekpunt'' als kernbelofte, dus je bent zelf de offertemaker.'
+  conversation_starters: '["Jullie zijn gespecialiseerd in totaalrenovaties: hoeveel
+    avonduren gaan er in een offerte voor zo''n project?", "Doe je de opname en de
+    offerte zelf, of heb je iemand die calculeert?"]'
+  verification: aangepast — Jong bedrijf op de grens van 5 mw, grootte niet opnieuw
+    geverifieerd; laten staan met lagere score.
+- name: Hendriks Dak- en Geveltechniek
+  url: https://www.hendriks-dak-en-geveltechniek.nl
+  phone: 055 203 2409 (mobiel 06-21625071)
+  city: Apeldoorn (Zwolseweg 364; werkgebied ook Arnhem, Zwolle, Nijmegen)
+  priority_score: 5/10
+  industry: Dakrenovatie plat/hellend, gevelwerk
+  size: niet geverifieerd; KvK-register toont slechts 1 werkzame persoon (B.V. sinds
+    2018, KvK 80794092), maar 4 open vacatures en meerdere regio's wijzen op groter
+    team
+  tech_stack: Offerte-/contactformulier zichtbaar; CMS en calculatiesoftware niet
+    zichtbaar
+  relevant_vacancies: 'geen relevante (alleen uitvoerend: dakdekker plat/pannen, timmerman,
+    leerling)'
+  why_fit: Twee vestigingen en actief werven duiden op groei; gratis dakinspectie
+    (opnames).
+  decision_maker: Brian Hendriks, eigenaar (naam/rol niet op contactpagina bevestigd;
+    LinkedIn-bedrijfspagina en klantreview noemen Brian)
+  linkedin: https://www.linkedin.com/company/hendriks-dak-en-geveltechniek-b-v/
+  sources:
+    decision_maker: homepage hendriks-dak-en-geveltechniek.nl
+    size: https://drimble.nl/bedrijf/apeldoorn/41425820/hendriks-dak-en-geveltechniek-bv.html
+    phone: homepage hendriks-dak-en-geveltechniek.nl
+    multi_location: 'Ja: Apeldoorn en Zwolle (homepage)'
+    relevant_vacancies: homepage/vacaturepagina's hendriks-dak-en-geveltechniek.nl
+    contact_vacancies_phone: https://www.hendriks-dak-en-geveltechniek.nl/contact/
+    linkedin: https://nl.linkedin.com/company/hendriks-dak-en-geveltechniek-b-v
+  value_proposition: Opname bij de klant inspreken en foto's maken; Luthox maakt hiervan
+    een conceptofferte op basis van de eigen prijslijst, zodat de avonduren voor offertes
+    wegvallen.
+  outreach_strategy: 'Bel 055-2032409, vraag naar Brian; onderzoeksinsteek: hoe lang
+    duurt het van opname naar verstuurde offerte?; haakje: offerte-aanvraag/inspectie
+    prominent op de site.'
+  conversation_starters: '["Hoeveel offertes schrijft u per week en wanneer doet u
+    dat?", "Hoe snel gaat een offerte de deur uit na de dakinspectie?"]'
+  verification: aangepast — Telefoon en vacatures bevestigd, grootte blijft onvindbaar
+    (KvK 1 wp lijkt te laag gezien werving).
