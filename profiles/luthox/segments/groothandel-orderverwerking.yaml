@@ -1,0 +1,53 @@
+segment:
+  slug: groothandel-orderverwerking
+  name: Groothandels — handmatige orderverwerking (belonderzoek)
+  description: >
+    Cold-call segmenttest (±10 onderzoeksgesprekken). Beperkt de
+    industrie-agnostische basis-ICP tot B2B-groothandels (technisch,
+    bouwmaterialen, food/horeca, verpakkingen, industriële onderdelen e.d.)
+    met een eigen ERP en veel orders die níét via de webshop/EDI binnenkomen.
+    Het probleem: orders komen per mail, pdf, Excel of telefoon binnen en
+    worden handmatig in het ERP overgetypt; daarnaast bellen klanten voor
+    levertijd en orderstatus, en zit prijs-/voorraadinfo verspreid over
+    systemen. De oplossing: inkomende orders automatisch uitlezen en als
+    conceptorder in het ERP zetten, plus automatische status- en
+    levertijdupdates. De eerste insteek is een onderzoeksgesprek, geen
+    intake; de openingsvraag is: "Hoeveel orders per dag komen er niet via
+    de webshop binnen, en wie typt die in?"
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-10-05
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Technische groothandel (installatie, elektro, gereedschap, bevestigingsmaterialen)
+      - Groothandel bouwmaterialen
+      - Foodservice- en horecagroothandel (geen cash & carry-ketens)
+      - Groothandel verpakkingsmaterialen en hygiëne
+      - Groothandel industriële onderdelen en componenten
+  headcount_min: 15
+  headcount_max: 150
+  job_titles:
+    - Directeur / eigenaar
+    - Operationeel manager
+    - Hoofd verkoop binnendienst
+    - Commercieel manager
+  qualitative_disqualifiers:
+    - Onderdeel van een grote internationale groep of landelijke keten (bijv. Technische Unie, Rexel, Sligro, Bouwmaat) — centraal opgelegde systemen
+    - Pure webshop/B2C zonder verkoop binnendienst
+
+icp_soft_preferences:
+  triggers:
+    - job_postings_for_verkoop_binnendienst_or_orderverwerking  # vacature commercieel medewerker binnendienst / order-entry -> handwerk groeit mee
+    - bestellen_per_mail_of_telefoon_op_site                    # "bestel via info@" / "mail uw order" / bestelformulier als pdf
+    - breed_assortiment_veel_klanten                           # duizenden artikelen, veel B2B-klanten -> hoog ordervolume
+    - meerdere_vestigingen_of_magazijnen
+  partial_competitor_overlap_note: >
+    Een ERP (Exact Globe/Online, AFAS, Unit4, SAP B1, Navision/Business
+    Central, Isah, King) of B2B-webshop is GEEN uitsluiting: de vraag is welk
+    deel van de orders er buiten om binnenkomt en handmatig wordt ingevoerd.
+    Noteer het pakket als aandachtspunt.
+  personas_to_prioritize:
+    set:
+      - Directeur / eigenaar
+      - Operationeel manager / hoofd verkoop binnendienst

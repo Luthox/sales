@@ -1,0 +1,53 @@
+segment:
+  slug: maakindustrie-werkvoorbereiding
+  name: Maakindustrie — van offerte naar werkvloer (belonderzoek)
+  description: >
+    Cold-call segmenttest (±10 onderzoeksgesprekken). Beperkt de
+    industrie-agnostische basis-ICP tot kleine en middelgrote maakbedrijven
+    die op order produceren: metaalbewerking/plaatwerk, verspaning,
+    constructie/staalbouw, machinebouw en kunststofverwerking. Het probleem:
+    de route van offerte via calculatie en werkvoorbereiding naar
+    productieplanning loopt via Excel naast een (half gebruikt) ERP;
+    tekeningen, uren en nacalculatie zitten verspreid, en de planning leeft
+    in het hoofd van één persoon. De oplossing: offerte, werkvoorbereiding,
+    planning en nacalculatie gekoppeld in één omgeving bovenop het bestaande
+    ERP. De eerste insteek is een onderzoeksgesprek, geen intake; de
+    openingsvraag is: "Hoe komt een order bij jullie van offerte tot op de
+    werkvloer?"
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-10-05
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Metaalbewerking en plaatwerk (lasersnijden, zetten, lassen)
+      - Verspaning (CNC-draaien en -frezen)
+      - Staalbouw en constructiebedrijven
+      - Machinebouw en speciaalmachinebouw
+      - Kunststofverwerking op order
+  headcount_min: 15
+  headcount_max: 150
+  job_titles:
+    - Directeur / eigenaar
+    - Operationeel manager / bedrijfsleider
+    - Hoofd werkvoorbereiding
+    - Productiemanager / planner
+  qualitative_disqualifiers:
+    - Onderdeel van een grote (beursgenoteerde/internationale) groep met centraal opgelegd ERP
+    - Pure serieproductie van één eigen product zonder orderspecifieke offertes en werkvoorbereiding
+
+icp_soft_preferences:
+  triggers:
+    - job_postings_for_werkvoorbereider_calculator_planner  # sterkste signaal: kantoor loopt vast op de route offerte -> werkvloer
+    - snelle_offerte_of_tekening_uploaden_op_site           # "upload uw tekening voor een offerte" -> veel offertes
+    - groei_nieuwe_hal_of_machines                          # nieuwsbericht over nieuwe hal, uitbreiding, nieuwe machines
+    - iso_9001_of_certificering                             # vastleggen van processen, traceerbaarheid
+  partial_competitor_overlap_note: >
+    Een ERP/MRP-pakket (Ridder iQ, Isah, Exact Globe/Online, MKG, Odoo,
+    Gatewing, AFAS) is GEEN uitsluiting: de vraag is wat er alsnog in Excel
+    of op papier gebeurt (calculatie, planning, nacalculatie). Noteer het
+    pakket als aandachtspunt.
+  personas_to_prioritize:
+    set:
+      - Directeur / eigenaar
+      - Operationeel manager / hoofd werkvoorbereiding
