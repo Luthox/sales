@@ -268,6 +268,10 @@ role/title to ask for (taken from the segment's `personas_to_prioritize`),
 `linkedin` is `null`, and `sources.decision_maker` is `null`. Only when the
 profile or segment sets `contact_lookup: true` do enrichment and
 verification search for and confirm a named person and LinkedIn URL.
+Separately, `linkedin_lookup: true` (profile or segment) makes enrichment find
+and verification confirm just the **company's** LinkedIn page
+(`linkedin.com/company/...`) and store it in `linkedin` — no named person;
+`decision_maker` stays a role. Never guess a URL: not found = `null`.
 `tech_stack` is always gathered.
 
 #### Model per step
@@ -360,7 +364,7 @@ Rough sizing by N (agent counts are totals — stay inside them):
    - **Contact Strategy**: Personalized approach suggestions
    - **Value Proposition**: How your product solves their specific problem
    - **Conversation Starters**: Specific points to mention in outreach
-   - **LinkedIn URL**: Only when `contact_lookup: true`; otherwise null
+   - **LinkedIn URL**: Personal profile when `contact_lookup: true`; company page when `linkedin_lookup: true`; otherwise null
 
 6. **Format the Output**
 
@@ -454,7 +458,7 @@ Rough sizing by N (agent counts are totals — stay inside them):
        relevant_vacancies: <Open planning/operations/supply-chain/QHSE/coordination roles found, or "none found" — never driver/warehouse/execution roles>
        why_fit: <Specific reasons based on their business>
        decision_maker: <Role/title to target>
-       linkedin: <URL if contact_lookup is on, else null>
+       linkedin: <company page URL if linkedin_lookup is on (or person URL if contact_lookup is on), else null>
        sources:                             # URL per hard fact, null if not verifiable
          decision_maker: <URL or null>
          size: <URL or null>
@@ -474,7 +478,7 @@ Rough sizing by N (agent counts are totals — stay inside them):
        relevant_vacancies: <Open planning/operations/supply-chain/QHSE/coordination roles found, or "none found" — never driver/warehouse/execution roles>
        why_fit: <Specific reasons based on their business>
        decision_maker: <Role/title to target>
-       linkedin: <URL if contact_lookup is on, else null>
+       linkedin: <company page URL if linkedin_lookup is on (or person URL if contact_lookup is on), else null>
        sources:                             # URL per hard fact, null if not verifiable
          decision_maker: <URL or null>
          size: <URL or null>

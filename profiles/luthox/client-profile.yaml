@@ -42,6 +42,7 @@ icp_hard_filters:
     - Low operational complexity (single location, single service line, low client/transaction volume) — even if headcount clears the floor, not enough backoffice complexity to justify custom software
 
 icp_soft_preferences:
+  linkedin_lookup: true             # find the LinkedIn company page per lead (no named decision maker: contact_lookup stays off, we call and ask for the role)
   headcount_edge_tolerance: true    # 20-200 is soft on the edges, not a hard cutoff
   geography_edge_tolerance: true    # Netherlands is ~90% of focus right now, not 100% exclusive
   triggers:

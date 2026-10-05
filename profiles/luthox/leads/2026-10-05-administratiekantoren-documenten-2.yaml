@@ -1,0 +1,1012 @@
+business: luthox
+segment: administratiekantoren-documenten
+generated_at: '2026-10-05'
+description: 'Tweede batch voor het segment administratiekantoren (belonderzoek):
+  MKB-administratie-, accountants- en belastingadvieskantoren (4-80 mw) in heel NL,
+  exclusief de 186 eerder geleverde domeinen. 3 discovery-agents per regio, verrijking
+  per bedrijf, daarna onafhankelijke Opus-verificatie (39 verrijkt, 27 over); veld
+  verification geeft het oordeel van de checker. LinkedIn = bedrijfspagina (linkedin_lookup),
+  geen beslisser; decision_maker is de rol om naar te vragen.'
+leads:
+- name: Admifa Accountants & Adviseurs
+  url: https://www.admifa.nl
+  phone: '0599-653811'
+  city: Stadskanaal (ook Nieuw-Weerdinge, Hoogezand)
+  priority_score: 9/10
+  industry: Accountancy, belastingadvies en administratie (MKB en agrarisch)
+  size: 25 mw over 3 vestigingen — teampagina
+  tech_stack: Eigen klantportaal (admifa.nl/klantportaal); aangesloten bij Extendum
+    en Novak. Portaal aanwezig, maar document-opvolging per klant blijft waarschijnlijk
+    handwerk.
+  relevant_vacancies: 6 vacatures bevestigd, o.a. Administrateur Particuliere Aangiften,
+    Administratief medewerker
+  why_fit: 25 mw, drie vestigingen, onafhankelijk kantoor. Actief vacatures voor particuliere
+    aangiften en administratie, dus volume aan klantstukken en capaciteitsdruk.
+  decision_maker: Eigenaar / directeur / managing partner (alternatief kantoormanager
+    of teamleider aangiftes)
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://www.admifa.nl/ons-team/
+    phone: https://www.admifa.nl
+    multi_location: https://www.admifa.nl
+    relevant_vacancies: https://www.admifa.nl/vacatures/
+  value_proposition: Automatische documentenchecklist per klant met herinneringen
+    die stoppen zodra het stuk is geupload; minder nabellen in het aangifteseizoen,
+    ook aanvullend op het bestaande klantportaal.
+  outreach_strategy: 'Bel 0599-653811, vraag naar de directeur of kantoormanager;
+    haakje: openstaande vacature Administrateur Particuliere Aangiften = druk in aangiftewerk.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Jullie zoeken een administrateur particuliere aangiften; zit die vooral te wachten
+    op ontbrekende stukken van klanten?
+  verification: bevestigd — Site actief; "25 medewerkers verdeeld over drie vestigingen"
+    (Stadskanaal, Nieuw-Weerdinge, Hoogezand) op teampagina; telefoon 0599-653811
+    klopt (hoofdkantoor Tinnegieter 21-B Stadskanaal); onafhankelijk (alleen lid NBA/Extendum/Novak,
+    geen keten); 6 vacatures bevestigd incl. Administrateur Particuliere Aangiften
+    en Administratief medewerker. Niet in existing-domains.
+- name: Acta Synergia
+  url: https://www.actasynergia.nl
+  phone: 033 303 4200
+  city: Nijkerk
+  priority_score: 9/10
+  industry: Belastingadvies- en administratiekantoor (aangifte particulieren, MKB-administratie,
+    financiele planning)
+  size: 13 mw — geteld op teampagina (2 partners, 10 relatiemanagers, 1 office manager);
+    één vestiging (Nijkerk)
+  tech_stack: 'Nextens klantportaal, DIGIRecord, Asperion (online boekhouden), Smartlockr
+    (bestanden delen). Meerdere tools al aanwezig; aandachtspunt: bestaand portaal,
+    Luthox moet aanvullen op checklist/herinneringen.'
+  relevant_vacancies: Administratief relatiebeheerder (24-40 uur)
+  why_fit: Sweet spot qua grootte, expliciete aangifte particulieren, veel relatiemanagers
+    die stukken per klant bewaken, open administratieve vacature wegens groeiend klantenbestand.
+  decision_maker: Partner / directeur of office manager
+  linkedin: https://nl.linkedin.com/company/actasynergia
+  sources:
+    decision_maker: 
+    size: https://www.actasynergia.nl/organisatie/team
+    phone: https://www.actasynergia.nl
+    multi_location: 
+    relevant_vacancies: https://www.actasynergia.nl/vacatures
+  value_proposition: Per klant automatisch een checklist (jaaropgaven, bankafschriften,
+    WOZ) met herinneringen die stoppen zodra het document binnen is; relatiemanagers
+    besteden minder tijd aan nabellen.
+  outreach_strategy: 'Bel 033 303 4200, vraag naar de partner/directeur of de office
+    manager; haakje: groeiend klantenbestand en vacature administratief relatiebeheerder.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Jullie zoeken een administratief relatiebeheerder; is een deel van dat werk het
+    nabellen van ontbrekende stukken?
+  verification: 'aangepast — Actief, telefoon 033 303 4200 klopt, vacature Administratief
+    relatiebeheerder ("vanwege ons groeiend klantenbestand") bevestigd, tools Nextens/DIGIRecord/Asperion/Smartlockr
+    bevestigd. Size gecorrigeerd: teampagina telt 13 personen (2 partners, 10 relatiebeheerders,
+    1 officemanager) -> 13 mw (niet 14). Eén vestiging (Nijkerk); Amersfoort/Leusden/Putten
+    zijn werkgebied, geen vestigingen.'
+- name: BM-Advisering & Accountancy
+  url: https://www.bm-advisering.nl
+  phone: 045-4053636
+  city: Hulsberg
+  priority_score: 8/10
+  industry: Belastingadvies en accountancy voor MKB en agrarisch, incl. aangiften
+    particulieren
+  size: ca. 20 mw (LinkedIn 21; eigen site noemt geen aantal — niet exact geverifieerd)
+  tech_stack: Klantportaal 'Mijn BM' op bm.accountancygemak.nl (Accountancy Gemak).
+    Heeft portaal, maar documentenchecklist met herinneringen is aandachtspunt/aanvulling.
+  relevant_vacancies: Fiscalist/belastingadviseur, Assistent-accountant agrarisch,
+    Assistent-accountant MKB - https://www.bm-advisering.nl
+  why_fit: Circa 20 mw, drie open vacatures, aangiften voor particulieren en ondernemers,
+    agrarische klanten met veel stukken; sterke capaciteitsdruk.
+  decision_maker: Eigenaar / directeur of kantoormanager
+  linkedin: https://nl.linkedin.com/company/bm-advisering-&-accountancy
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/bm-advisering-&-accountancy
+    phone: https://www.bm-advisering.nl
+    multi_location: 
+    relevant_vacancies: https://www.bm-advisering.nl
+  value_proposition: Automatische checklist met herinneringen per klant bovenop het
+    bestaande portaal; minder handmatig nabellen in het aangifteseizoen en bij jaarafsluiting.
+  outreach_strategy: 'Bel 045 405 36 36, vraag naar de directeur of kantoormanager;
+    haakje: drie open vacatures en veel agrarische en particuliere aangiften.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - 'U heeft het portaal Mijn BM: worden klanten daar ook automatisch herinnerd aan
+    ontbrekende stukken?'
+  verification: 'bevestigd — Tel. 045-4053636 en 3 vacatures (Fiscalist/belastingadviseur,
+    assistent-accountant/relatiebeheerder AGRO, assistent-accountant/relatiebeheerder
+    MKB) bevestigd op https://www.bm-advisering.nl. Eén vestiging (Schoolstraat 1,
+    Hulsberg), familiekantoor, geen keten. Grootte alleen extern: 21 op LinkedIn (https://nl.linkedin.com/company/bm-advisering-&-accountancy),
+    andere bronnen 11-50. Advies voor particulieren (inkomen, vermogen, nalatenschap)
+    staat op de site.'
+- name: DGD Roosendaal (DGD Financiele Partners)
+  url: https://dgdroosendaal.nl/
+  phone: 0165-395677
+  city: Roosendaal
+  priority_score: 8/10
+  industry: Administratie- en accountantskantoor (boekhouding, jaarrekening, salaris,
+    belastingaangiften) voor MKB
+  size: 16 mw — met naam op over-ons (3 vennoten, 3 relatiebeheerders, 1 belastingadviseur
+    e.a.); 2 vestigingen (Roosendaal, Hoogerheide)
+  tech_stack: 'Exact Online, Nmbrs, Microsoft Office 365; inlog via Exact/Nmbrs, geen
+    apart documentenchecklist-portaal zichtbaar. Digitaal volwassen, dus aandachtspunt:
+    bestaande Exact-flow.'
+  relevant_vacancies: Belastingadviseur, (Senior) Assistent accountant, Relatiebeheerder
+    financiële dienstverlening (3 bevestigd)
+  why_fit: Goede omvang (16 mw), twee vestigingen, actief werven (belastingadviseur,
+    assistent-accountant, relatiebeheerder). IB-aangifte particulieren niet bevestigd,
+    wel 'belastingaangiften'.
+  decision_maker: Partner/eigenaar of relatiemanager-teamleider
+  linkedin: https://nl.linkedin.com/company/dgd-financiele-partners
+  sources:
+    decision_maker: 
+    size: https://dgdroosendaal.nl/over-dgd
+    phone: https://dgdroosendaal.nl/
+    multi_location: https://dgdroosendaal.nl/
+    relevant_vacancies: https://dgdroosendaal.nl/vacatures
+  value_proposition: Relatiemanagers en assistent-accountants hoeven niet handmatig
+    bij te houden welke stukken per klant nog ontbreken; herinneringen stoppen automatisch
+    zodra het document binnen is.
+  outreach_strategy: 'Bel 0165-395677, vraag naar een van de partners of de teamleider
+    relatiemanagement; haakje: ze werven relatiemanager en assistent-accountant, dus
+    de rompslomp rond stukken verzamelen schaalt niet mee.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen en bij jaarafsluiting zitten in klanten
+    achter hun papieren aanzitten?
+  - 'Jullie werven relatiemanagers en assistent-accountants: hoeveel van hun week
+    gaat nu naar het nabellen van klanten voor stukken?'
+  verification: 'aangepast — 16 mw met naam op https://dgdroosendaal.nl/over-dgd (3
+    vennoten, 3 relatiebeheerders, 1 belastingadviseur, verder financieel/loon/secretariaat).
+    "~25" is niet aangetoond. Tweede vestiging Bartels Hoogerheide hoort bij DGD zelf,
+    geen landelijke keten. Tel. 0165-395677 klopt. Vacatures (https://dgdroosendaal.nl/vacatures):
+    3, namelijk Belastingadviseur, (Senior) Assistent accountant en Relatiebeheerder
+    financiele dienstverlening. Salarisadministrateur staat er niet bij. IB-aangifte
+    voor particulieren niet bevestigd, wel "belastingaangiften".'
+- name: Riekhoff Accountants & Adviseurs
+  url: https://www.riekhoff.nl
+  phone: 0541 200 007
+  city: Oldenzaal
+  priority_score: 8/10
+  industry: MKB-accountantskantoor (accountancy, fiscaal advies, administratie, salaris)
+  size: 17 mw — over-ons
+  tech_stack: 'Werkt niet met vaste softwarepakketten; sluit aan op software van de
+    klant (Twinfield, Snelstart, Exact Online e.a.). Geen eigen klantportaal zichtbaar:
+    documenten per klant via diverse routes, dus weinig gestandaardiseerde documentenopvraging.'
+  relevant_vacancies: Fiscaal aangifte medewerker (16-32 uur), Accountant AA, open
+    sollicitatie (3 posities op vacaturepagina)
+  why_fit: 'Onafhankelijk MKB-kantoor met 17 mw en actieve werving, waaronder een
+    fiscaal aangifte medewerker: bewijs van aangiftewerk dat capaciteit vraagt. Veel
+    verschillende klantsystemen betekent veel handmatig stukken najagen.'
+  decision_maker: Eigenaar / partner (of teamleider aangiftes)
+  linkedin: https://linkedin.com/company/riekhoffaccountants
+  sources:
+    decision_maker: 
+    size: https://www.riekhoff.nl/over-ons
+    phone: https://www.riekhoff.nl
+    multi_location: 
+    relevant_vacancies: https://www.riekhoff.nl/vacatures
+  value_proposition: Automatische documentenchecklist per klant met herinneringen
+    die stoppen zodra een stuk is geupload; minder naloopwerk voor assistent-accountants
+    en aangiftemedewerker.
+  outreach_strategy: 'Bel 0541 200 007, vraag naar een van de eigenaren/partners;
+    haakje: openstaande vacature fiscaal aangifte medewerker, capaciteit in aangifteseizoen.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - 'Jullie zoeken een fiscaal aangifte medewerker: gaat die vooral tijd kwijt aan
+    het verzamelen van stukken of aan het echte aangiftewerk?'
+  verification: 'bevestigd — Actief, Bentheimergraven 11 Oldenzaal, telefoon 0541
+    200 007 klopt; "17 professionals" op over-ons (16-18 namen), 3 eigenaren; NBA/RB,
+    onafhankelijk. Vacatures bevestigd: Accountant AA, Fiscaal aangifte medewerker,
+    open sollicitatie. Kanttekening: particuliere aangifte niet expliciet op site
+    (MKB-focus).'
+- name: Bartraij & Nijssen Accountants en Adviseurs (BNAA)
+  url: https://bnaa.nl/
+  phone: '0499-396983'
+  city: Best
+  priority_score: 7/10
+  industry: MKB-accountants- en adviesorganisatie (financiele administratie, accountancy,
+    fiscaal, salaris), NBA/SRA/RB
+  size: 17 mw — met naam op onze-mensen
+  tech_stack: Online boekhouding genoemd; geen specifiek klantportaal of software
+    zichtbaar op de homepage.
+  relevant_vacancies: 'Belastingadviseur (Best): opstellen en controleren IB- en VPB-aangiftes,
+    beheer uitstelregeling'
+  why_fit: Goede omvang (21 mw), vacature belastingadviseur voor complexe aangiftes
+    (veel stukken per klant), geen keten. Single-location, dus geen multi-vestigingsplus.
+  decision_maker: Directeur/partner (Bartraij of Nijssen) of kantoormanager
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://www.advieskeuze.nl/advies/5684pj/bartraij-nijssen-accountants-en-adviseurs
+      (21 mw)
+    phone: https://bnaa.nl/
+    multi_location: 
+    relevant_vacancies: https://bnaa.nl/ (vacature belastingadviseur)
+  value_proposition: Belastingadviseurs en klantmanagers krijgen een automatische
+    stukken-checklist met herinneringen, zodat ze in het aangifteseizoen niet zelf
+    achter jaaropgaven aanbellen.
+  outreach_strategy: 'Bel 0499-396983, vraag naar de directeur of kantoormanager;
+    haakje: ze zoeken een belastingadviseur voor IB-/VPB-aangiftes en de uitstelregeling,
+    dus stukken tijdig binnen krijgen is kritisch.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Hoe bewaken jullie met de uitstelregeling dat alle stukken per klant op tijd binnen
+    zijn?
+  verification: 'bevestigd — 17 mw met naam op https://bnaa.nl/over-ons/onze-mensen/
+    (2 directie, 2 klantmanagers, officemanager, fiscalist, assistent-accountants,
+    salarisadministrateurs). Extern genoemd: 21. Eén vestiging (De Rijn 5, Best).
+    Tel. 0499-396983 klopt (https://bnaa.nl/), KvK 59614811. Vacature belastingadviseur
+    bevestigd. Geen keten.'
+- name: DKL Accountants en Adviseurs
+  url: https://www.dkl-accountants.nl
+  phone: '085 822 49 00'
+  city: Dordrecht
+  priority_score: 7/10
+  industry: MKB-accountantskantoor (accountancy, fiscaal, salaris/HR, juridisch, advies)
+  size: 19 mw — geteld op teampagina
+  tech_stack: 'Klantportaal via securelogin.nu. Aandachtspunt: portaal aanwezig.'
+  relevant_vacancies: Assistent-accountant (samenstelpraktijk) — uitvoerend, beperkt
+    relevant; geen backoffice/aangifte-vacature
+  why_fit: 17 mw, 2 vestigingen (Dordrecht, Amsterdam), eigen aangiftespecialist en
+    management support, dus mensen die stukken najagen. Aangifte particulieren niet
+    expliciet vermeld.
+  decision_maker: Directeur/eigenaar of kantoormanager (management support)
+  linkedin: https://nl.linkedin.com/company/dkl-accountants-en-adviseurs
+  sources:
+    decision_maker: 
+    size: https://www.dkl-accountants.nl/over-ons/ons-team/
+    phone: https://www.dkl-accountants.nl
+    multi_location: https://www.dkl-accountants.nl
+    relevant_vacancies: https://www.dkl-accountants.nl/vacatures/
+  value_proposition: Automatische checklist met herinneringen per klant voor het aanleveren
+    van stukken; aangiftespecialist en assistenten besteden minder tijd aan achtervolgen.
+  outreach_strategy: 'Bel 085 822 49 00, vraag naar de directeur of management support;
+    haakje: eigen aangiftespecialist en twee vestigingen.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - 'Jullie hebben een klantportaal: hoe zorgen jullie dat klanten ook echt alle stukken
+    daarin zetten?'
+  verification: 'aangepast — Actief, telefoon 085 822 49 00 klopt, 2 bezoekadressen
+    (Dordrecht + Amsterdam op afspraak) bevestigd. Size gecorrigeerd: teampagina telt
+    19 personen (3 directie, 3 relatiebeheerders, 6 (junior) assistent-accountants,
+    RB belastingadviseur, managementondersteuning, salaris/HR, adm. medewerker, aangiftemedewerker)
+    -> 19 mw. Vacature Assistent-accountant (samenstelpraktijk) bevestigd.'
+- name: Kuipers Administratie & Advies
+  url: https://kuipersadviseurs.nl
+  phone: 050-5258338
+  city: Groningen
+  priority_score: 7/10
+  industry: Administratie- en adviesbureau (boekhouden, belastingaangiftes, salaris,
+    advies) voor ondernemers
+  size: 9 mw — geteld op eigen site; ~6.000 aangiftes/jaar, particulieren bevestigd
+  tech_stack: 'VisionPlanner dashboard, FileCap voor documentbeheer. Digitale tooling
+    aanwezig; aandachtspunt: bestaande documentmanagement, Luthox moet de chasing/herinnering-laag
+    aanvullen.'
+  relevant_vacancies: none found
+  why_fit: Gevestigd kantoor met ca. 6.000 aangiftes per jaar volgens eerdere desk
+    research (niet op site geverifieerd), documentintensief; NOAB-gecertificeerd;
+    werkt voor Groningen, Friesland en Drenthe.
+  decision_maker: Directeur / eigenaar (of kantoormanager)
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://kuipersadviseurs.nl/over-ons
+    phone: https://kuipersadviseurs.nl
+    multi_location: 
+    relevant_vacancies: https://kuipersadviseurs.nl/vacatures
+  value_proposition: Automatische documentchecklist met herinneringen die stoppen
+    zodra een stuk binnen is; bespaart het team weken nabelwerk bij aangiftes en jaarwerk.
+  outreach_strategy: 'Bel 050-5258338, vraag naar de directeur/eigenaar; haakje: groot
+    aantal aangiftes per jaar met een team van 9, dus nabellen drukt direct op capaciteit.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Jullie gebruiken FileCap en VisionPlanner; hoe volgen jullie op welke klant nog
+    stukken moet aanleveren?
+  verification: 'bevestigd — Actief, telefoon 050-5258338 klopt. Eigen site: "Ons
+    team telt momenteel 9 gedreven professionals", 9 namen. "Jaarlijks zo''n 6.000
+    belastingaangiften" en particulieren nu WEL op eigen site bevestigd (why_fit kan
+    ''niet geverifieerd'' schrappen). Geen vacatures (bevestigd). FileCap-upload aanwezig.'
+- name: Hut Accountants
+  url: https://www.hutaccountants.nl
+  phone: 050-4094005
+  city: Zuidlaren
+  priority_score: 7/10
+  industry: Accountancy en belastingadvies (MKB, RB/NBA)
+  size: 27 mw — geteld op eigen teampagina
+  tech_stack: Moneybird-expert (online boekhouden); remote support via ISL Online;
+    geen klantportaal voor documentaanlevering zichtbaar.
+  relevant_vacancies: Ondernemersadviseur (alleen deze op de vacaturepagina bevestigd)
+  why_fit: Middelgroot onafhankelijk kantoor (27 mw, één vestiging), doet IB voor
+    particulieren/niet-ondernemers. Geen portaal zichtbaar.
+  decision_maker: Eigenaar / directeur (partner) of kantoormanager
+  linkedin: https://nl.linkedin.com/company/hut-accountants-bv
+  sources:
+    decision_maker: 
+    size: https://trustoo.nl/drenthe/zuidlaren/accountant/hut-accountants/ (zie ook
+      Moneybird-expertpagina en Gouden Gids)
+    phone: https://www.hutaccountants.nl
+    multi_location: 
+    relevant_vacancies: https://www.hutaccountants.nl/vacatures
+  value_proposition: Documentenchecklist per klant met automatische herinneringen
+    die stoppen bij upload; minder tijd van fiscaal medewerkers aan nabellen.
+  outreach_strategy: 'Bel 050-4094005, vraag naar de directeur/partner of kantoormanager;
+    haakje: 27 mw met aangiftewerk voor particulieren.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Hoe regelen jullie nu dat klanten hun jaaropgaven en bankafschriften aanleveren,
+    per mail of via een portaal?
+  verification: 'aangepast — Actief, Mensinge 2 Zuidlaren, telefoon 050-4094005 klopt,
+    één vestiging, geen keten (Accountantskantoor Hut B.V.). Size gecorrigeerd: 27
+    personen op eigen teampagina (excl. mascotte), site/zoekresultaat noemt 26 medewerkers
+    -> size "ca. 26-27 mw (eigen teampagina)". Vacatures gecorrigeerd: alleen "Ondernemersadviseur"
+    staat inhoudelijk op vacaturepagina; "Fiscaal medewerker" en "Assistent" NIET
+    bevestigd. IB-aangiften niet-ondernemers worden wel gedaan (teamlid verantwoordelijk).
+    Score blijft 8/10 of 7/10.'
+- name: Voulon Accountants en Belastingadviseurs
+  url: https://www.voulonaccountants.nl
+  phone: '0599-612449'
+  city: Stadskanaal
+  priority_score: 7/10
+  industry: Accountancy en belastingadvies (MKB)
+  size: 26 mw — over-ons
+  tech_stack: Geen klantportaal op site genoemd; contactformulier/kennismakingsplanner.
+    Digitale aanlevering niet zichtbaar.
+  relevant_vacancies: Werken-bij-sectie actief; specifieke titels niet geverifieerd.
+    Eigen team omvat office manager en relatiebeheerders.
+  why_fit: 3 directeuren, ca. 25 mw, onafhankelijk MKB-kantoor met kantoormanagerrol.
+    Particuliere aangifte niet expliciet, dus minder volume aan privestukken.
+  decision_maker: Directeur (partner) of office manager
+  linkedin: https://nl.linkedin.com/company/voulon-accountants-en-belastingadviseurs
+  sources:
+    decision_maker: 
+    size: https://www.voulonaccountants.nl/over-ons
+    phone: https://www.voulonaccountants.nl
+    multi_location: 
+    relevant_vacancies: https://www.voulonaccountants.nl
+  value_proposition: Automatische documentenchecklist en herinneringen per klant,
+    zodat relatiebeheerders en assistenten niet zelf stukken achterna hoeven te bellen
+    bij jaarafsluiting.
+  outreach_strategy: 'Bel 0599-612449, vraag naar de office manager of directeur;
+    haakje: groeiend team en actief werven.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen en bij jaarafsluiting zitten in klanten
+    achter hun papieren aanzitten?
+  - Jullie werven actief; zou het helpen als minder van die capaciteit naar herinneringen
+    sturen gaat?
+  verification: bevestigd — Actief, Lilienthalplein 2 Stadskanaal, telefoon 0599-612449
+    klopt; 26 teamleden op over-ons-pagina (3 directeuren, office manager, relatiebeheerders,
+    assistenten); zelfstandig kantoor, geen keten. Particuliere aangifte niet expliciet
+    (MKB/non-profit) en geen concrete vacatures -> score 7/10 terecht.
+- name: H&L Accountants & Belastingadviseurs
+  url: https://www.hlaccountants.nl/
+  phone: 076-2093400
+  city: Etten-Leur
+  priority_score: 7/10
+  industry: Accountants- en belastingadvieskantoor voor MKB (accountancy, fiscaal,
+    salaris/HR), opgericht ~2000
+  size: ruim 60 mw (nieuwsbericht april 2025), binnen soft-grens; 5 partners, één
+    vestiging
+  tech_stack: 'Klantenportaal/app mijnkantoorapp.nl, Exact Online en Nmbrs; heeft
+    dus al een portaal (aandachtspunt: Luthox moet complementair zijn voor herinneringen/checklist).'
+  relevant_vacancies: 'Meerdere op eigen vacaturepagina: Assistent Accountant, Senior
+    Assistent Accountant, Accountant AA, Salarisadministrateur/-adviseur, Belastingadviseur'
+  why_fit: Groot MKB-kantoor aan de bovenkant van het bereik (60+ mw), onafhankelijk,
+    actief werven; klantportaal (XPortal). Aangifte particulieren niet expliciet vermeld.
+  decision_maker: Partner/directeur of kantoormanager
+  linkedin: https://www.linkedin.com/company/h&l-accountants-&-belastingadviseurs
+  sources:
+    decision_maker: 
+    size: 'https://www.stitchjobs.nl/bedrijf/h&l-accountants-611 (zoekresultaat: 37
+      mw; homepage https://www.hlaccountants.nl/ noemt 5 partners)'
+    phone: https://www.hlaccountants.nl/contact
+    multi_location: 
+    relevant_vacancies: https://www.hlaccountants.nl/vacatures
+  value_proposition: Vult hun mijnkantoorapp aan met een automatische documentenchecklist
+    en herinneringen per klant, zodat assistent-accountants minder tijd kwijt zijn
+    aan nabellen.
+  outreach_strategy: 'Bel 076-2093400, vraag naar een van de partners of de kantoormanager;
+    haakje: veel assistent-accountant vacatures en een portaal waarin stukken-opvolging
+    mogelijk nog handmatig gaat.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen en bij jaarafsluiting zitten in klanten
+    achter hun papieren aanzitten?
+  - 'Jullie hebben al mijnkantoorapp: wie bewaakt daarin welke stukken per klant nog
+    ontbreken en hoe vaak moeten jullie nabellen?'
+  verification: 'aangepast — Grootte gecorrigeerd: "ruim zestig medewerkers" (april
+    2025, https://nieuwsfiets.nu/2025/04/11/daan-luijkx-en-han-hoendervangers-zwaaien-af-bij-hl/
+    en https://www.accountancyvanmorgen.nl/2025/04/11/oprichters-hl-dragen-kantoor-over/),
+    niet ~37. Valt nog binnen de soft-grens van 80. Eén vestiging (Bredaseweg 115,
+    Etten-Leur). Tel. +31 76 209 34 00 klopt (https://www.hlaccountants.nl/contact).
+    Na de bestuurswissel autonoom gebleven, 5 partners, geen keten. Klantportaal portal.hlaccountants.nl
+    (XPortal). Aangifte voor particulieren niet expliciet vermeld.'
+- name: K+M Adviserende Accountants
+  url: https://kmaccountants.nl
+  phone: '079 330 01 50'
+  city: Zoetermeer
+  priority_score: 7/10
+  industry: MKB-accountantskantoor (accountancy, administratie, fiscaal advies, salaris/HRM)
+  size: ca. 20 mw — eigen site
+  tech_stack: 'Eigen klantomgevingen (menu ''Klantomgevingen''), werkt in de software
+    van de klant; geen specifiek portaal genoemd. Aandachtspunt: bestaand portaal
+    kan documentstroom deels afdekken.'
+  relevant_vacancies: Assistent Accountant, Ervaren Salarisadministrateur, Accountant
+    relatiebeheer, Intern administrateur/junior controller (5 openstaande posities
+    incl. stage) - kantoor groeit/heeft capaciteitsdruk
+  why_fit: Zelfstandig MKB-kantoor van >50 jaar met ca. 20 mw, binnen ICP-grootte.
+    Meerdere open vacatures wijzen op werkdruk. Aangifte particulieren niet expliciet
+    in dienstenlijst, dus documentvolume per klant vooral bij jaarafsluiting MKB.
+  decision_maker: Eigenaar / directeur (partner) of kantoormanager
+  linkedin: https://www.linkedin.com/company/k&m-accountants/
+  sources:
+    decision_maker: 
+    size: https://kmaccountants.nl/over-ons/
+    phone: https://kmaccountants.nl
+    multi_location: 
+    relevant_vacancies: https://kmaccountants.nl/over-ons/werken-bij/
+  value_proposition: 'Automatische documentchecklist per klant met herinneringen die
+    stoppen zodra het stuk binnen is: minder nabellen en mailen rond jaarafsluiting,
+    assistenten houden tijd over voor controle.'
+  outreach_strategy: 'Bel 079 330 01 50, vraag naar de eigenaar/directeur of kantoormanager;
+    haakje: vijf openstaande vacatures en jaarafsluiting waarin assistenten stukken
+    najagen.'
+  conversation_starters:
+  - Hoeveel tijd gaat er rond jaarafsluiting en het aangifteseizoen zitten in klanten
+    achter hun papieren aanzitten?
+  - 'Jullie hebben meerdere assistenten gezocht: merken jullie dat nabellen van stukken
+    veel van hun tijd opslokt?'
+  verification: 'bevestigd — Actief. Eigen site: "ongeveer 20 collega''s" (over-ons
+    + werken-bij). Telefoon (079) 330 01 50 klopt. Zelfstandig (RB/SRA/NBA, geen keten).
+    Vacatures op eigen site bevestigd: Assistent Accountant, Ervaren Salarisadministrateur,
+    Accountant relatiebeheer, Intern administrateur/junior controller, stage. Kanttekening:
+    geen aangifte particulieren, focus MKB.'
+- name: RM Accountant & Adviseur
+  url: https://rm-accountant.nl
+  phone: 0527 70 10 90
+  city: Emmeloord
+  priority_score: 6/10
+  industry: MKB-accountantskantoor (administratie, belastingen, jaarrekeningen, coaching)
+  size: 11 mw — over-ons
+  tech_stack: 'Eigen portaal RM-Online (24/7 inzicht in boekhouding); salaris uitbesteed.
+    Aandachtspunt: portaal gericht op inzicht boekhouding, niet op documentverzameling.'
+  relevant_vacancies: none found
+  why_fit: 11 mw, binnen ICP, office manager aanwezig als beslisser. Focus MKB; aangifte
+    particulieren niet expliciet. Geen vacatures, wel portaal.
+  decision_maker: Office manager of eigenaar/accountant
+  linkedin: https://nl.linkedin.com/company/rm-accountant-&-adviseur_2
+  sources:
+    decision_maker: 
+    size: https://rm-accountant.nl/over-ons/
+    phone: https://rm-accountant.nl
+    multi_location: 
+    relevant_vacancies: 
+  value_proposition: 'Documentchecklist per klant met automatische herinneringen sluit
+    aan op RM-Online: assistent-accountants hoeven minder achter aanleveringen aan.'
+  outreach_strategy: 'Bel 0527 70 10 90, vraag naar de office manager; haakje: vier
+    assistent-accountants die rond jaarafsluiting stukken najagen.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen en bij jaarafsluiting zitten in klanten
+    achter hun papieren aanzitten?
+  - RM-Online geeft klanten inzicht, maar hoe krijgen jullie de ontbrekende stukken
+    binnen zonder zelf te herinneren?
+  verification: 'bevestigd — Actief. Over-ons toont 11 personen (10 + 1 stagiaire):
+    eigenaar/AA, accountant-AC, 4 assistent-accountants, beginnend assistent, officemanager,
+    adm. medewerker, stagiaire. Telefoon 0527 70 10 90 klopt. Zelfstandig. Geen vacatures.
+    Bron: https://rm-accountant.nl/over-ons/'
+- name: Administratiekantoor Van der Bruggen
+  url: https://www.administratievdbruggen.nl
+  phone: 030 242 05 00
+  city: Utrecht
+  priority_score: 6/10
+  industry: Administratiekantoor MKB (boekhouding, salaris, belastingaangiftes, advies)
+  size: 5-6 mw (directory; zwak bewijs)
+  tech_stack: Klantportaal via Nextens; online boekhouden met automatische documentherkenning/factuurverwerking.
+    Digitaal, maar stukken aanleveren blijft klantafhankelijk.
+  relevant_vacancies: Allround boekhouder (parttime)
+  why_fit: Gevestigd MKB-administratiekantoor sinds 1981, specialisatie in MKB-administraties
+    en belastingaangiften; open vacature. Aangifte particulieren niet expliciet; kleine
+    omvang (rand ICP).
+  decision_maker: Eigenaar / directeur
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://boekhoudergids.nl/utrecht-stad/administratiekantoor-van-der-bruggen-b-v/
+    phone: https://www.administratievdbruggen.nl
+    multi_location: 
+    relevant_vacancies: https://www.administratievdbruggen.nl/vacatures
+  value_proposition: Documentchecklist met automatische herinneringen per klant, zodat
+    het team niet handmatig stukken hoeft na te jagen.
+  outreach_strategy: 'Bel 030 242 05 00, vraag naar de eigenaar/directeur; haakje:
+    open vacature allround boekhouder, dus capaciteit is schaars; tijd voor nabellen
+    is duur.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Jullie hebben een klantportaal; leveren klanten daar hun stukken ook echt volledig
+    en op tijd in?
+  verification: bevestigd — Actief (KvK 81176295, familiebedrijf sinds 1981), telefoon
+    030 242 05 00 klopt. Size 5-6 mw via directory (6 namen genoemd), eigen site spreekt
+    van "team" zonder aantal -> rand ICP, zwak maar consistent bewijs. Vacature Allround
+    boekhouder (parttime) bevestigd. Klantportaal-link aanwezig.
+- name: BMA Belastingadvies & Administratiekantoor
+  url: https://bmaadvies.nl
+  phone: 0512-546499
+  city: Drachten (ook Grootegast)
+  priority_score: 6/10
+  industry: Belastingadvies en administratiekantoor (MKB en particulieren)
+  size: 6 mw (eigenaar + echtgenote + 4 medewerkers)
+  tech_stack: Twinfield, Basecone en Nmbrs-logins op site; wel online boekhoudplatforms,
+    aanlevering van losse stukken (aangifte-stukken) niet duidelijk geregeld.
+  relevant_vacancies: niet geverifieerd op eigen site (assistent-accountant genoemd
+    elders)
+  why_fit: Kleiner kantoor met 2 vestigingen, fiscaal advies en vermogensplanning
+    voor particulieren plus toeslagen. Wervend voor assistent-accountant.
+  decision_maker: Eigenaar / directeur
+  linkedin: https://www.linkedin.com/company/bma-belastingadvies-en-administratiekantoor
+  sources:
+    decision_maker: 
+    size: https://accountantskantoorgids.nl/grootegast/bma-belastingadvies-en-administratiekantoor/
+    phone: https://bmaadvies.nl
+    multi_location: https://bmaadvies.nl
+    relevant_vacancies: https://trustoo.nl/friesland/drachten/belastingadviseur/bma-belastingadvies-administratiekantoor/
+      (niet op eigen site geverifieerd)
+  value_proposition: Documentenchecklist met automatische herinneringen die stoppen
+    bij upload; vult Twinfield/Basecone aan voor stukken die buiten de boekhouding
+    vallen (jaaropgaven, WOZ).
+  outreach_strategy: 'Bel 0512-546499, vraag naar de eigenaar/directeur; haakje: twee
+    vestigingen en een gezochte assistent-accountant.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - 'Naast Twinfield en Basecone: hoe krijgen jullie de overige stukken van particuliere
+    klanten binnen?'
+  verification: bevestigd — Actief, Stationsweg 92 Drachten + Munnekeweg 6 Grootegast,
+    telefoon 0512-546499 klopt, KvK 42175678; 6 mw (eigenaar + echtgenote + 4 medewerkers),
+    geen eenmanszaak, NOAB-lid, geen keten. Vacature assistent-accountant blijft niet
+    geverifieerd op eigen site.
+- name: Admiprofs
+  url: https://www.admiprofs.nl
+  phone: 030 752 57 57
+  city: Bilthoven
+  priority_score: 6/10
+  industry: Administratiekantoor en belastingadvies (ZZP en BV, regio Utrecht)
+  size: '6 mw (teampagina: 1 eigenaar, 2 adviseurs, boekhouder, relatiemanager, accountancy-professional)'
+  tech_stack: 'Eigen ''Mijn Kantoor App'' (iOS/Android) voor digitaal aanleveren;
+    koppelingen met Exact Online, Moneymonk, e-Boekhouden, WeFact. Digitaal ingesteld;
+    aandachtspunt: er is al een app voor stukken aanleveren.'
+  relevant_vacancies: vacaturepagina verouderd (tekst uit 2022), actualiteit niet
+    geverifieerd
+  why_fit: Klein kantoor (6 mw) met vaste-prijs-pakketten voor ZZP/BV; veel stukken
+    per klant; belastingaangiftes en jaarcijfers. Onderkant van de ICP qua grootte;
+    focus op ondernemers (geen expliciete particulierenaangifte).
+  decision_maker: Eigenaar / directeur
+  linkedin: https://www.linkedin.com/company/admiprofs
+  sources:
+    decision_maker: 
+    size: https://www.admiprofs.nl
+    phone: https://www.admiprofs.nl
+    multi_location: 
+    relevant_vacancies: https://www.admiprofs.nl/vacatures
+  value_proposition: Automatische documentchecklist per klant met herinneringen die
+    stoppen zodra het stuk is geupload; minder handmatig nabellen bij jaarafsluiting
+    en aangiftes.
+  outreach_strategy: 'Bel 030 752 57 57, vraag naar de eigenaar/directeur; haakje:
+    klein team dat zelf stukken najaagt.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen en bij jaarafsluiting zitten in klanten
+    achter hun papieren aanzitten?
+  - Jullie hebben een eigen app voor aanleveren; hoe zorg je dat klanten ook echt
+    alle stukken insturen zonder nabellen?
+  verification: 'aangepast — Actief, telefoon 030 752 57 57 klopt, homepage toont
+    6 personen (eigenaar, 2 adviseurs, boekhouder, relatiebeheerder, accountancy professional)
+    -> 6 mw OK. Vacatures NIET als actueel te bevestigen: vacaturetekst is gedateerd
+    ("Nu in 2022", "we zijn met zijn drieën", "team van 5") -> relevant_vacancies:
+    "vacaturepagina verouderd (2022), actualiteit niet geverifieerd"; groeihaakje
+    afzwakken.'
+- name: MOS accountants & adviseurs
+  url: https://www.mosaccountants.nl/
+  phone: 0162-422332
+  city: Oosterhout
+  priority_score: 6/10
+  industry: Regionaal MKB-accountantskantoor (accountancy, fiscaal en juridisch advies,
+    HR/payroll), opgericht 1983
+  size: "~32 mw vóór fusie met STERK (1-1-2025); na fusie exact aantal niet geverifieerd,
+    waarschijnlijk ≤80"
+  tech_stack: Sectie 'Onze tools' voor klanten; specifieke software niet benoemd.
+    Verwacht onderdeel van digitalisering maar documentstroom niet gedocumenteerd.
+  relevant_vacancies: Assistent Accountant (bevestigd op eigen site)
+  why_fit: Drie vestigingen (Oosterhout, Etten-Leur, Rijen), recent gefuseerd (twee
+    kantoren samenvoegen levert harmonisatie van werkwijzen op, goede timing voor
+    een nieuwe checklist-aanpak). Aangifte voor particulieren niet expliciet vermeld;
+    accent op MKB.
+  decision_maker: Partner/directeur of kantoormanager
+  linkedin: https://www.linkedin.com/company/mos-accountants-&-adviseurs/
+  sources:
+    decision_maker: 
+    size: 'https://www.accountancyvanmorgen.nl/2019/07/08/fusie-oosterhoutse-accountants/
+      en https://www.mosaccountants.nl/ (via zoekresultaten: ~32 mw, fusie STERK 2025)'
+    phone: https://www.mosaccountants.nl/
+    multi_location: https://www.mosaccountants.nl/
+    relevant_vacancies: 
+  value_proposition: Eenduidige, geautomatiseerde documentopvolging over drie vestigingen
+    heen na de fusie; minder handmatig nabellen voor jaarstukken.
+  outreach_strategy: 'Bel 0162-422332, vraag naar de kantoormanager of een van de
+    partners; haakje: recente fusie met STERK, werkprocessen worden toch geharmoniseerd.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen en bij jaarafsluiting zitten in klanten
+    achter hun papieren aanzitten?
+  - 'Na de fusie met STERK: hoe werken jullie nu per vestiging met het opvragen van
+    stukken, en is dat al op een lijn?'
+  verification: 'aangepast — Actief, 3 vestigingen: Oosterhout, Etten-Leur, Rijen
+    (https://www.mosaccountants.nl/contact/). Tel. +31 162 422332 klopt (https://www.mosaccountants.nl/).
+    Fusie met STERK Accountants per 1-1-2025 bevestigd. Grootte: 32 mw vóór de fusie
+    (directory''s, LinkedIn). Aantal na de fusie niet geverifieerd, maar waarschijnlijk
+    binnen 80. Vacature bevestigd: Assistent Accountant (https://www.mosaccountants.nl/assistent-accountants-oosterhout/).
+    Geen landelijke keten. Particulieren niet vermeld.'
+- name: Van Berkel Accountants
+  url: https://vanberkelaccountants.nl
+  phone: 023-5319057
+  city: Haarlem
+  priority_score: 6/10
+  industry: Accountantskantoor MKB (financiele administratie, jaarrekeningen, advies,
+    HR en salaris via Van Berkel Werkt)
+  size: 'ca. 25 mw (eigen site: ''bijna 25 professionals'')'
+  tech_stack: 'Visma.net, Visma Solidbricks, ''Client Online'' klantportaal. Pionier
+    in geautomatiseerd boekhouden; aandachtspunt: bestaand portaal.'
+  relevant_vacancies: none found (carriere-pagina met open sollicitatie voor boekhouding,
+    salaris, fiscaal, administratie; geen concrete vacatures)
+  why_fit: Gevestigd MKB-accountantskantoor ruim 50 jaar in Haarlem, 20-25 mw, onafhankelijk;
+    veel klanten en jaarafsluitingen. Aangifte particulieren niet vermeld; focus op
+    ondernemers/stichtingen/zzp.
+  decision_maker: Eigenaar / managing partner of kantoormanager
+  linkedin: https://www.linkedin.com/company/van-berkel-accountants-b.v.
+  sources:
+    decision_maker: 
+    size: https://vanberkelaccountants.nl/over-ons/
+    phone: https://vanberkelaccountants.nl/over-ons/
+    multi_location: 
+    relevant_vacancies: https://vanberkelaccountants.nl/over-ons/werken-bij-van-berkel-accountants/
+  value_proposition: Automatische documentchecklist met herinneringen per klant bij
+    jaarafsluiting, naast het bestaande portaal, zodat het team niet handmatig stukken
+    najaagt.
+  outreach_strategy: 'Bel 023-5319057, vraag naar de managing partner of kantoormanager;
+    haakje: jaarafsluiting en ''altijd op zoek naar talent'' wijst op capaciteitsdruk.'
+  conversation_starters:
+  - Hoeveel tijd gaat er bij jaarafsluiting en in het aangifteseizoen zitten in klanten
+    achter hun papieren aanzitten?
+  - Jullie hebben Client Online; leveren klanten daar hun stukken ook volledig aan,
+    of moet het team nog veel nabellen?
+  verification: 'bevestigd — Actief, telefoon 023-5319057 klopt. Over-ons: "team van
+    bijna 25 professionals", 12 getoond -> ca. 20-25 mw OK. Zelfstandig (Avinta is
+    eigen Visma-partner-initiatief, geen keten). Geen concrete vacatures (alleen open
+    sollicitatie) bevestigd. ClientOnline/Visma.net bevestigd.'
+- name: EasyMKB Ede (voorheen Reijtenbagh Administratie & Advies)
+  url: https://easymkb.nl
+  phone: '085 130 26 00 (oude Ede-site; easymkb.nl toont geen nummer)'
+  city: Ede (ook Utrecht, Amsterdam, Barendrecht)
+  priority_score: 6/10
+  industry: Administratie- en belastingadvieskantoor voor zzp en MKB
+  size: '28 mw — teampagina (fusie 1-1-2025 meldde 25 mw); 4 vestigingen: Utrecht,
+    Amsterdam, Rotterdam (Barendrecht), Ede'
+  tech_stack: 'Yuki (boekhoudplatform met klantlogin); online administratiekantoor,
+    dus al digitaal ingericht. Aandachtspunt: Yuki dekt documentverzameling voor aangiftes
+    maar niet per se herinneringen per klant.'
+  relevant_vacancies: Assistent accountant, Senior assistent accountant, Belastingadviseur,
+    Senior belastingadviseur (meerdere locaties) - https://easymkb.nl/werken-bij/
+  why_fit: '28 mw, 4 vestigingen, open vacatures voor belastingadviseurs/assistent-accountants.
+    Risico: net gefuseerd, mogelijk centrale softwarekeuzes; richt zich vooral op
+    zzp/MKB, particuliere aangifte niet in beeld.'
+  decision_maker: Directeur / managing partner of kantoormanager
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://www.accountancyvanmorgen.nl/2025/01/16/drie-administratiekantoren-bundelen-krachten/
+    phone: https://www.reijtenbagh-mkb.nl/contact/
+    multi_location: https://easymkb.nl/onze-locaties/
+    relevant_vacancies: https://easymkb.nl/werken-bij/
+  value_proposition: Per klant een automatische checklist met herinneringen die stoppen
+    na upload, naast Yuki; minder nabellen bij jaarafsluiting en aangiftes verspreid
+    over meerdere vestigingen.
+  outreach_strategy: 'Bel 085 130 26 00, vraag naar de directeur of kantoormanager;
+    haakje: vier open vacatures en meerdere vestigingen na de fusie, uniform documentproces.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen en bij jaarafsluiting zitten in klanten
+    achter hun papieren aanzitten?
+  - 'Nu drie kantoren samengaan: hoe zorgt u dat iedere vestiging dezelfde werkwijze
+    heeft voor het opvragen van stukken?'
+  verification: 'aangepast — Actief. Grootte: 28 teamleden op https://easymkb.nl/over-ons/team/
+    (fusie 1-1-2025 meldde 25 mw: https://www.accountancyvanmorgen.nl/2025/01/16/drie-administratiekantoren-bundelen-krachten/).
+    Vestigingen volgens eigen site: Utrecht, Amsterdam, Rotterdam (Barendrecht), Ede,
+    dus 4 en niet 5 (Zwolle staat niet meer op https://easymkb.nl/contact/). Telefoon:
+    easymkb.nl toont geen nummer; 085-1302600 staat op de oude Ede-site https://www.reijtenbagh-mkb.nl/contact/
+    en is daarmee juist voor de vestiging Ede. Eigen fusie, geen landelijke keten.
+    Let op: richt zich vooral op zzp/MKB-ondernemers (online kantoor), particuliere
+    aangifte niet in beeld.'
+- name: Van Arkel & Wiggers
+  url: https://www.vawaccountants.nl
+  phone: 071 568 06 21
+  city: Leiden
+  priority_score: 6/10
+  industry: Accountants en adviseurs (MKB, ondernemers, aangifte particulieren, erf-
+    en schenkbelasting)
+  size: 10 mw — geteld op teampagina (2 partners, oprichter, 2 secretariaat, 3 accountancy,
+    2 salaris/financiële adm.)
+  tech_stack: Geen klantportaal of software genoemd op de site; vooral e-mail/bezoek
+    aan huis. Duidt op weinig gestructureerde documentuitwisseling.
+  relevant_vacancies: none found (eigen site toont geen vacatures; recruiter-vacature
+    bleek 404)
+  why_fit: Biedt expliciet aangifte particulieren plus erf-/schenkbelasting (veel
+    documenten per klant), 10 mw, geen portaal zichtbaar.
+  decision_maker: Partner / eigenaar (managing partner)
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://nieuws.nl/bedrijven/accountant/leiden/van-arkel-wiggers-accountants-adviseurs/
+    phone: https://www.vawaccountants.nl
+    multi_location: 
+    relevant_vacancies: https://starspacerecruitment.nl/vacatures/fiscaal-aangifte-medewerker-van-arkel-wiggers/
+  value_proposition: Per klant een automatische checklist (jaaropgaven, bankafschriften,
+    WOZ) met herinneringen tot het document binnen is; de aangifteafdeling hoeft klanten
+    niet meer handmatig na te bellen.
+  outreach_strategy: 'Bel 071 568 06 21, vraag naar een van de partners; haakje: aangifte
+    particulieren en erf-/schenkbelasting betekent veel stukken per klant.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - 'Bij erf-/schenkaangiftes zijn er veel losse stukken: hoe vraagt u die nu op bij
+    klanten?'
+  verification: 'aangepast — Actief, telefoon 071 568 06 21 klopt, aangifte particulieren
+    + erf/schenk bevestigd. Size gecorrigeerd: teampagina toont "voltallige team"
+    van 10 personen (2 partners, oprichter, 2 secretariaat, 3 accountancy, 2 salaris/financiele
+    adm.) -> 10 mw. Vacature NIET bevestigd: Starspace-URL geeft 404, eigen site toont
+    geen vacatures -> relevant_vacancies: "none found"; haakje over vacature uit outreach/conversation_starters
+    halen en score ~6/10.'
+- name: Van der Kolk Belastingadviseurs
+  url: https://vdkb.nl/
+  phone: 0164-661313
+  city: Bergen op Zoom
+  priority_score: 6/10
+  industry: RB-erkend belastingadvieskantoor met aangifte- en administratiedienstverlening
+    (MKB en particulieren)
+  size: 7 mw — geteld op wie-zijn-wij (directeur/RB, belastingadviseur, 5 accountmanagers)
+  tech_stack: Exact Online (online afspraken via Exact Online); geen zichtbaar klantportaal
+    voor documentuitwisseling. Redelijk gedigitaliseerd boekhoudkundig, documentstroom
+    onduidelijk.
+  relevant_vacancies: none found
+  why_fit: Advies, Aangifte en Administratie voor ondernemers en particulieren in
+    West-Brabant/Tholen; kleine bezetting waardoor aangifteseizoen veel belasting
+    op account managers legt. Onderkant van het ICP (7 mw).
+  decision_maker: Eigenaar/directeur (belastingadviseur) of teamleider account managers
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://vdkb.nl/wie-zijn-wij/
+    phone: https://vdkb.nl/
+    multi_location: 
+    relevant_vacancies: 
+  value_proposition: Automatische documentenchecklist per klant met herinneringen
+    die stoppen zodra het stuk is geupload; account managers hoeven niet meer na te
+    bellen voor jaaropgaven, WOZ en bankafschriften.
+  outreach_strategy: 'Bel 0164-661313, vraag naar de directeur/eigenaar; haakje: aangifteseizoen
+    met 5 account managers die allemaal klanten achter hun stukken aanzitten.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Hoe vragen jullie nu stukken zoals jaaropgaven en WOZ-beschikkingen bij klanten
+    op, en wie houdt bij wat er nog mist?
+  verification: bevestigd — 7 mw op https://vdkb.nl/wie-zijn-wij/ (directeur/RB W.F.
+    van der Kolk, 1 belastingadviseur, 5 accountmanagers). Tel. 0164-661313 klopt
+    (mobiel 06-53191153 ook vermeld). Geen keten. Geen vacatures.
+- name: LEF Accountants & Adviseurs
+  url: https://lefaccountants.nl/
+  phone: 06-54320915 (Peter van Aarle, mobiel; geen vast nummer op site)
+  city: Uden
+  priority_score: 5/10
+  industry: MKB-accountants- en belastingadvieskantoor (RB/NBA), specialisatie BV/DGA,
+    ZZP en e-commerce
+  size: 5 mw — met naam op over-ons; ondergrens
+  tech_stack: "'Slimme automatisering' en vaste all-in prijzen; specifieke software/klantportaal
+    niet benoemd."
+  relevant_vacancies: Junior Assistent Accountant (Uden), plus open sollicitaties
+    voor starters/junior/senior; partner-rol als zelfstandig klantbeheerder
+  why_fit: Jong kantoor (KvK 2023) met DGA/BV-focus (veel stukken per klant), actief
+    groeiend via vacatures. Klein, dus lagere score. Telefoon alleen mobiel.
+  decision_maker: Eigenaar/partner (mede-oprichter)
+  linkedin: https://www.linkedin.com/company/lef-accountants
+  sources:
+    decision_maker: 
+    size: https://lefaccountants.nl/over-ons-accountantskantoor-in-uden/
+    phone: https://lefaccountants.nl/
+    multi_location: 
+    relevant_vacancies: https://lefaccountants.nl/werken-bij-lef-accountants/
+  value_proposition: 'Past bij hun geautomatiseerde, wendbare werkwijze: een checklist
+    die stukken per DGA-klant bewaakt zonder extra handen.'
+  outreach_strategy: 'Bel 06-54320915, vraag naar Peter (eigenaar/partner); haakje:
+    groei van ~300 klanten met 5 mensen vraagt om minder handmatig nabellen.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - 'Jullie groeien met een klein team: hoe voorkomen jullie dat het opvragen van
+    stukken van DGA-klanten de bottleneck wordt?'
+  verification: 'bevestigd — 5 mw met naam op https://lefaccountants.nl/over-ons-accountantskantoor-in-uden/
+    (Peter van Aarle, Roy Hoskam AA RB, Chantal Brands, Geertje Aben, Volodymyr Korotun).
+    Ondergrens, geen eenmanszaak. Site heeft geen vast nummer; 06-54320915 (Peter)
+    is het hoofdnummer op de site, ook Roy 06-43789083. Vacatures (https://lefaccountants.nl/werken-bij-lef-accountants/):
+    Partner/eindverantwoordelijk relatiebeheerder en Assistent accountant.'
+- name: HMB Accountants
+  url: https://www.hmbaccountants.nl
+  phone: '0183 636 640'
+  city: Gorinchem
+  priority_score: 5/10
+  industry: MKB-accountantskantoor (administratie, jaarrekening, fiscaal, bedrijfsadvies)
+  size: 6-10 mw (alleen directory; zwak bewijs)
+  tech_stack: 'Klantportaal ''HMB online'' (Exact Online Jaarrekening). Aandachtspunt:
+    portaal aanwezig.'
+  relevant_vacancies: none found (vacaturepagina bestaat, geen openstaande vacatures
+    gevonden)
+  why_fit: Zelfstandig MKB-kantoor (SRA/NBA), 6-10 mw, ook actief in Breda. Aangifte
+    particulieren niet expliciet. Geen vacatures, dus gemiddelde fit.
+  decision_maker: Eigenaar / directeur
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://www.jobsonline.nl/bedrijfspresentatie/hmb-accountants/
+    phone: https://www.hmbaccountants.nl
+    multi_location: https://www.hmbaccountants.nl/accountantskantoor-breda/
+    relevant_vacancies: 
+  value_proposition: 'Documentchecklist met automatische herinneringen naast HMB online:
+    minder handmatig nabellen bij jaarrekeningen.'
+  outreach_strategy: 'Bel 0183 636 640, vraag naar de eigenaar/directeur; haakje:
+    klein team dat jaarrekeningen van veel MKB-klanten moet afronden.'
+  conversation_starters:
+  - Hoeveel tijd gaat er rond jaarafsluiting zitten in klanten achter hun stukken
+    aanzitten?
+  - 'Klanten hebben HMB online: hoe weten jullie welke stukken er nog ontbreken per
+    klant?'
+  verification: 'bevestigd — Actief (KvK 30234149), telefoon 0183 636 640 klopt. Size
+    alleen via directory 6-10 mw (jobsonline); eigen site noemt geen aantal -> zwak
+    bewijs maar consistent, binnen soft range. Vacaturepagina: "Op dit moment zijn
+    er geen vacatures" (bevestigd). Lid IR Global = internationaal samenwerkingsverband,
+    geen keten met opgelegde software.'
+- name: Advies & Co
+  url: https://www.adviesenco.nl
+  phone: 072-5122806
+  city: Alkmaar
+  priority_score: 5/10
+  industry: Administratiekantoor voor ondernemers, starters en particulieren (aangifte
+    inkomstenbelasting, toeslagen)
+  size: 5 mw — homepage; site-footer ©2019, activiteit bij eerste bel checken
+  tech_stack: 'Geen klantportaal of software zichtbaar op site; website via Boozd.
+    Waarschijnlijk stukken per mail/post: kans voor Luthox, maar ook laag digitaliseringsniveau.'
+  relevant_vacancies: none found
+  why_fit: Expliciete aangifteservice voor particulieren (invullen aangifte vanaf
+    80 euro, toeslagen, bezwaren) = veel losse stukken per klant, geen portaal zichtbaar.
+    Klein (rand ICP).
+  decision_maker: Eigenaar / directeur
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://www.adviesenco.nl
+    phone: https://www.adviesenco.nl/particulieren/
+    multi_location: 
+    relevant_vacancies: 
+  value_proposition: Automatische documentchecklist met herinneringen voor particulieren-aangiftes,
+    zodat het kleine team niet zelf klanten hoeft na te bellen.
+  outreach_strategy: 'Bel 072-5122806, vraag naar de eigenaar/directeur; haakje: veel
+    particulierenaangiftes met een klein team en geen zichtbaar klantportaal.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Hoe krijgen jullie nu de jaaropgaven, WOZ-beschikking en bankgegevens binnen bij
+    particuliere klanten, en wie volgt dat op?
+  verification: 'bevestigd — Telefoon 072-5122806 klopt (site + directories). Homepage
+    noemt 5 personen (Daniëlle, Fred, Marcel, Sjaak, Esmail) -> 5 mw, rand ICP. Aangifte
+    particulieren met tarieven bevestigd. Kanttekening: site-footer © 2019 (verouderde
+    site), maar bedrijf nog vermeld in recente directories; activiteit bij eerste
+    bel checken.'
+- name: AAMB Advies en Administratiekantoor Midden-Brabant
+  url: https://www.aamb.nl
+  phone: 013 207 71 87
+  city: Tilburg
+  priority_score: 4/10
+  industry: Administratiekantoor (boekhouding, loon, IB/VPB-aangiftes) voor ondernemers
+  size: 4 mw — over-ons (2 mede-eigenaren, boekhouding, marketing/systemen); ondergrens
+  tech_stack: Cloud-inzicht 24/7 op Android, Apple en Windows (site); software/bankkoppelingen.
+    Geen specifiek portaal genoemd.
+  relevant_vacancies: none found
+  why_fit: Klein kantoor op de ondergrens met eigenaren die zelf klanten bellen; aangiftes
+    en jaarwerk aanwezig, maar weinig capaciteit/budget en geen vacature.
+  decision_maker: Eigenaar (mede-eigenaar)
+  linkedin: https://nl.linkedin.com/company/advies-en-administratiekantoor-midden-brabant
+  sources:
+    decision_maker: 
+    size: https://www.aamb.nl/administratiekantoor-over-ons/
+    phone: https://www.aamb.nl/
+    multi_location: 
+    relevant_vacancies: 
+  value_proposition: Automatische herinneringen voor ontbrekende stukken, zodat de
+    eigenaren niet zelf hoeven na te bellen.
+  outreach_strategy: 'Bel 013 207 71 87, vraag naar de eigenaar; haakje: eigenaren
+    doen zelf klantcontact en jaarwerk.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Hoe weet u nu welke klanten nog stukken moeten aanleveren voor de jaarrekening?
+  verification: bevestigd — Precies 4 personen op https://www.aamb.nl/administratiekantoor-over-ons/
+    (2 mede-eigenaren Hans Tuerlings en José Koenen, plus Franca (boekhouding) en
+    Martijn (marketing/systeembeheer)). Ondergrens, geen eenmanszaak. Tel. 013-207
+    71 87 klopt (zelfde pagina). Geen vacatures. Score 4/10 terecht laag.
+- name: Zweerink Accountancy
+  url: https://www.zweerinkaccountancy.nl
+  phone: 074 249 10 10
+  city: Hengelo
+  priority_score: 4/10
+  industry: MKB-accountantskantoor (administratie, jaarrekening, salaris, aangiftes)
+  size: 4 mw — organisatiepagina (directeur AA, salarisspecialist, senior assistent,
+    adm. medewerker); rand ICP
+  tech_stack: 'Klantportaal: 24/7 online inzage in administratie. Digitaal georienteerd,
+    maar stukken aanleveren blijft handwerk.'
+  relevant_vacancies: Assistent Accountant (32-40 uur)
+  why_fit: Klein onafhankelijk MKB-kantoor in Twente met aangifte- en administratiedienst
+    en actieve werving (assistent accountant wordt 5e mw). Onderkant van het size-bereik,
+    daarom lage score.
+  decision_maker: Eigenaar / partner
+  linkedin: https://nl.linkedin.com/company/kosterinkzweerink-accountants-&-adviseurs
+  sources:
+    decision_maker: 
+    size: https://www.zweerinkaccountancy.nl (geen teampagina; schatting uit externe
+      bronnen via zoekresultaten rocketreach.co)
+    phone: https://www.zweerinkaccountancy.nl/
+    multi_location: 
+    relevant_vacancies: https://www.zweerinkaccountancy.nl/vacatures/
+  value_proposition: 'Documentenchecklist met automatische herinneringen: klein team
+    besteedt minder tijd aan nabellen rond jaarafsluiting en aangifteseizoen.'
+  outreach_strategy: 'Bel 074 249 10 10, vraag naar de eigenaar/partner; haakje: vacature
+    assistent accountant, capaciteit.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - 'Jullie zoeken een assistent accountant: hoeveel van die tijd gaat naar het opvragen
+    van ontbrekende stukken?'
+  verification: 'aangepast — Actief, Lintelerweg 60 Hengelo, telefoon 074 249 10 10
+    klopt (ook 074 249 10 11). Size gecorrigeerd: eigen organisatiepagina toont 4
+    personen (Bart Zweerink AA directeur, salarisspecialist, senior assistent, administratief
+    mw); "6-10" niet aangetoond -> size "4 mw (organisatiepagina), rand ICP", score
+    verlagen naar 4/10. Vacature Assistent Accountant (32-40 uur) bevestigd (zou 5e
+    mw worden).'
+- name: Administratiekantoor C. Mulder
+  url: https://www.cmulder.nl
+  phone: '058-216 94 35'
+  city: Leeuwarden
+  priority_score: 4/10
+  industry: Administratiekantoor (zzp tot MKB)
+  size: 4 mw — eigen site ('4 ervaren medewerkers'); ondergrens
+  tech_stack: Niet geverifieerd (site gaf redirectfout); geen portaal gezien.
+  relevant_vacancies: none found
+  why_fit: Lokaal kantoor sinds 1996, vaste klantrelaties. Klein, dus beperkt volume.
+  decision_maker: Eigenaar / directeur
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://www.cmulder.nl/over-ons (via zoekresultaat)
+    phone: https://www.detelefoongids.nl/mulder-administratiekantoor-c/16616187/5-1/
+    multi_location: 
+    relevant_vacancies: 
+  value_proposition: Automatische documentenchecklist met herinneringen die stoppen
+    bij upload, zodat de eigenaar niet zelf achter stukken aan hoeft.
+  outreach_strategy: 'Bel 058-216 94 35 (ma-do 08:00-16:00), vraag naar de eigenaar;
+    haakje: klein team dat alles zelf nabelt.'
+  conversation_starters:
+  - Hoeveel tijd gaat er in het aangifteseizoen zitten in klanten achter hun papieren
+    aanzitten?
+  - Hoe laten klanten nu hun stukken bij u achter, per mail of op papier?
+  verification: 'bevestigd — Actief sinds 1996, Nieuwestad 21 Leeuwarden, KvK 01096210;
+    telefoon 058-216 94 35 klopt; eigen site noemt "4 ervaren medewerkers" (rand van
+    ICP, score 4/10 terecht); zelfstandig; geen vacatures. Let op: eigen site geeft
+    redirect-lus bij ophalen.'
