@@ -1,0 +1,1055 @@
+---
+business: luthox
+segment: aannemers-renovatie-offertes
+generated_at: '2026-10-06'
+description: 'Derde batch voor het cold-call belonderzoek (aannemers/renovatie/dak/badkamer, 5-75 mw, heel NL), aanvullend op de batches van 2026-09-28 en 2026-09-29. Twee discoveryrondes (tweede met strenge grootte-eis), verrijking en daarna onafhankelijke verificatie (KvK/site/LinkedIn). Afgevallen bij verificatie: 17 bedrijven (o.a. eenmanszaken, grootte niet aantoonbaar, alleen professionele opdrachtgevers). Alleen leads met score 5 of hoger. Let op: bij veel leads is de grootte alleen een eigen claim; zie veld verification.'
+leads:
+- name: Frank Wouterse Aannemers- en Bouwbedrijf B.V.
+  url: https://www.frankwouterse.nl
+  phone: "030-280-4353"
+  city: Bunnik
+  priority_score: "9/10"
+  industry: Aannemer verbouw, renovatie, restauratie en bouw (aanbouw, dakterras, badkamers, erfgoed); sinds 2007
+  size: "14 medewerkers (timmerlieden, metselaars en projectleiders), volgens eigen site; 4-6 projecten tegelijk van circa 100.000 tot 700.000 euro"
+  tech_stack: "Eigen website (CMS niet vastgesteld); offerte-/calculatiesoftware niet geverifieerd; benadrukt 'gedetailleerde offertes', wat wijst op uitgebreid handmatig offertewerk"
+  relevant_vacancies: "geen relevante vacatures gevonden (werken-bij pagina op Indeed bestaat; geen werkvoorbereider/calculator vastgesteld)"
+  why_fit: "Passend profiel: 14 man in loondienst, verbouw en renovatie bij particulieren en architecten, gedetailleerde offertes als verkoopargument, projectleiders in het team en eigenaar die waarschijnlijk zelf opnames en offertes doet."
+  decision_maker: "Eigenaar-directeur (oprichter) / projectleider"
+  linkedin: "https://nl.linkedin.com/company/frankwouterse"
+  sources:
+    size: "https://www.frankwouterse.nl (14 vakmensen)"
+    phone: "https://www.frankwouterse.nl"
+    relevant_vacancies: "https://www.frankwouterse.nl (geen werkvoorbereider/calculator gevonden)"
+    decision_maker: null
+    multi_location: "Kantoren in Bunnik (Kosterijland 11D) en Utrecht (Reyer Anslostraat 23), volgens eigen site"
+  value_proposition: "Eigenaar of projectleider spreekt de opname in en maakt foto's; AI levert een gedetailleerde conceptofferte op het eigen sjabloon, zodat grotere offertes (100-700k) sneller en consistenter de deur uit gaan."
+  outreach_strategy: "Bel de eigenaar of projectleider. Onderzoeksvraag: hoe lang duurt het van opname naar verstuurde offerte bij projecten van deze omvang, en wie maakt de gedetailleerde offerte? Vraag naar avond- en weekendwerk."
+  conversation_starters:
+    - "Jullie benadrukken gedetailleerde offertes. Hoe lang duurt het gemiddeld van opname tot verstuurde offerte, en hoeveel uur is dat per offerte?"
+    - "Met vier tot zes projecten tegelijk: wie maakt de offertes naast de uitvoering, en gebeurt dat overdag of 's avonds?"
+  verification: "bevestigd: Site: 14 vakmensen (timmerlieden, metselaars, projectleiders), 4-6 projecten van 100k-700k+; tel 030 280 43 53 klopt; kantoren Bunnik en Utrecht (verklaart beide adressen). LinkedIn-pagina is van dit bedrijf (website matcht, Reyer Anslostraat 23 Utrecht; toont 2-10, 2 profielen). Vacatures: timmerlieden, uitvoerders, projectleiders, leerlingen, geen calculator/werkvoorbereider."
+
+- name: Van Haperen Dakbedekking
+  url: https://vanhaperen.nl
+  phone: "076-5420611"
+  city: Breda
+  priority_score: "9/10"
+  industry: Dakdekker (platte en hellende daken, onderhoud, groene daken, veiligheidssystemen)
+  size: "11-50 medewerkers (LinkedIn); ca. 40 volgens invoer, niet onafhankelijk bevestigd; KvK 20032110."
+  tech_stack: "Waarschijnlijk WordPress; eigen app (App Store/Google Play); actief op LinkedIn, Facebook, Instagram, YouTube; Duurzaam Dak Inspiratie Centrum (showroom); geen calculatiesoftware zichtbaar"
+  relevant_vacancies: "Calculator Werkvoorbereider; Medewerker Service & Onderhoud (administratief/planning, mogelijk relevant) (bron: https://vanhaperen.nl/vacatures/)"
+  why_fit: "Dakdekker met ca. 40 mw, eigen werkvoorbereiding en bedrijfsbureau, actieve vacature Calculator/Werkvoorbereider (bewijs van offertedruk), service en onderhoud met veel opnames."
+  decision_maker: "Directeur-eigenaar / calculator-werkvoorbereider"
+  linkedin: "https://nl.linkedin.com/company/van-haperen-dakbedekkingen-b-v-"
+  sources:
+    size: "Aanlevering; niet bevestigd op https://vanhaperen.nl"
+    phone: "Niet op homepage of vacaturepagina gevonden"
+    relevant_vacancies: https://vanhaperen.nl/vacatures/
+    decision_maker: null
+    multi_location: "Eén vestiging (Weidehek 65, Breda)"
+  value_proposition: "Dakinspecties en opnames direct omzetten in conceptoffertes, zodat de calculator/werkvoorbereider sneller en met minder avondwerk offreert."
+  outreach_strategy: "Bel via het hoofdnummer en vraag naar de eigenaar of calculator/werkvoorbereider: hoe lang duurt het van dakopname tot verstuurde offerte, en hoe vult u de open calculatorvacature in? Doel: onderzoeksgesprek."
+  conversation_starters:
+    - "Jullie zoeken een calculator/werkvoorbereider; waar zit nu de bottleneck bij offertes?"
+    - "Hoeveel dakopnames doen jullie per week en hoe lang duurt het voor de offerte de deur uit gaat?"
+  verification: "aangepast: Telefoon gevonden op contactpagina: +31 (0)76 54 20 611; KvK 20032110, Weidehek 65 Breda. LinkedIn-bedrijfspagina (website vanhaperen.nl, Weidehek 65 Breda) meldt 11-50 medewerkers (18 op LinkedIn); 'ongeveer veertig' niet onafhankelijk bevestigd maar >=5 ruim aantoonbaar. Vacatures Calculator Werkvoorbereider en Medewerker Service & Onderhoud staan op /vacatures/. Dakrenovatie/onderhoud met opnames en offerte-afspraken past."
+
+- name: "DJL Dakspecialisten"
+  url: "https://www.djldakspecialisten.nl/"
+  phone: "0113 296 110"
+  city: "Kapelle (Zeeland)"
+  priority_score: "8/10"
+  industry: "Dakdekker, platte daken (bitumen/kunststof, isolatie, sedum, onderhoud/inspectie)"
+  size: "20 medewerkers (eigen site, 'team van 20 vakmensen'; bevestigd via zoekresultaat; KvK 76683672, actief sinds 2018)"
+  tech_stack: "WordPress; contactformulier met vrijblijvende offerte; geen zichtbare offerte-/calculatiesoftware. Impliceert handmatig offerteproces, al noemt de vacature 'software-implementatie'."
+  relevant_vacancies: "Vacature (aankomend) Werkvoorbereider/Calculator (offertes, projectbegeleiding en software-implementatie) op /vacatures/"
+  why_fit: "20 mw in loondienst, particulier en zakelijk, opnames op locatie en offertes. Actieve vacature werkvoorbereider/calculator wijst op offertedruk en bereidheid om offerteproces te professionaliseren. Interne administratie aanwezig (telefoniste/administratief medewerker)."
+  decision_maker: "Directeur-eigenaar (familie Lukasse) / werkvoorbereider of calculator"
+  linkedin: "https://www.linkedin.com/company/djl-dakspecialisten/"
+  sources:
+    size: "https://www.djldakspecialisten.nl/ (en /over-ons/)"
+    phone: "https://www.djldakspecialisten.nl/"
+    relevant_vacancies: "https://www.djldakspecialisten.nl/vacatures/"
+    decision_maker: null
+    multi_location: "niet geverifieerd; een adres gevonden (Kapelle)"
+  value_proposition: "Opname op het dak inspreken en fotograferen, en daar direct een conceptofferte op de eigen prijslijst van maken, zodat de (aankomend) calculator of eigenaar de offerte alleen nog hoeft te controleren."
+  outreach_strategy: "Bel de eigenaar of werkvoorbereider: 'Jullie zoeken een werkvoorbereider/calculator, dus ik vermoed dat offertes veel tijd kosten. Hoe lang duurt het bij jullie van opname op het dak tot de verstuurde offerte, en wie maakt die?' Doel: 20 minuten onderzoeksgesprek, geen verkoop."
+  conversation_starters:
+    - "Jullie hebben een vacature voor werkvoorbereider/calculator openstaan. Welk deel van het offertewerk hoopt u daarmee uit handen te geven?"
+  verification: "bevestigd: Site bevestigt: 20 medewerkers ('momenteel 20 medewerkers werkzaam'), telefoon 0113 - 296 110, Fleerbosseweg 1 Kapelle, KvK 76683672, particulier en zakelijk, vrijblijvende offerte. Vacature (aankomend) Werkvoorbereider/Calculator (offertes, projectbegeleiding, software-implementatie) staat live. LinkedIn-pagina djl-dakspecialisten wordt in zoekresultaat aan dit bedrijf gekoppeld; eigenaren Lukasse op LinkedIn bevestigd."
+
+- name: Hendriksen Bouw B.V.
+  url: https://www.hendriksen-bouw.nl
+  phone: "0314 - 645 543"
+  city: Doetinchem (Gelderland, Achterhoek)
+  priority_score: "8/10"
+  industry: Bouw - verbouw, renovatie, badkamers, onderhoud en nieuwbouw (particulier en zakelijk)
+  size: "12 teamleden op de eigen over-ons-pagina (1 eigenaar, 9 vaklieden, 1 kantoormanager, 1 werkvoorbereider/calculator); bedrijvengidsen noemen 6 medewerkers (Drimble), dus 6-12; BV opgericht 2011, KvK 75198630 (bron: zoekresultaat bedrijvengids)"
+  tech_stack: "WordPress (site gebouwd door Inevoweb); contactformulier; geen zichtbare offerte- of calculatiesoftware. Impliceert handmatig offertewerk door werkvoorbereider/calculator."
+  relevant_vacancies: "Werkvoorbereider / Calculator (m/v) open op https://www.hendriksen-bouw.nl/vacatures/; overige vacatures (metselaar/tegelzetter, timmerman) niet relevant"
+  why_fit: "Uitvoerende aannemer voor verbouw, renovatie en badkamers met eigen personeel, SBB-erkend leerbedrijf. Open vacature voor werkvoorbereider/calculator wijst op offertedruk. Teamgrootte 12 ligt net onder de 15-19 sweet spot, dus geen 9-10."
+  decision_maker: "Directeur-eigenaar / werkvoorbereider-calculator"
+  linkedin: null
+  sources:
+    size: https://www.hendriksen-bouw.nl/over-ons/
+    phone: https://www.hendriksen-bouw.nl/contact
+    relevant_vacancies: https://www.hendriksen-bouw.nl/vacatures/
+    decision_maker: null
+    multi_location: "niet gevonden op site (enkele vestiging, Doetinchem)"
+  value_proposition: "Opname inspreken en foto's maken; AI maakt een conceptofferte op eigen prijslijst en sjabloon. Ontlast de calculator/eigenaar en versnelt de doorlooptijd van opname naar offerte."
+  outreach_strategy: "Bel de eigenaar: 'Wij doen onderzoek naar hoe aannemers van opname naar verstuurde offerte komen. Hoe lang duurt dat bij jullie? Ik zag dat jullie een werkvoorbereider/calculator zoeken: zit daar de drukte in de offertes?' Doel: 15-20 minuten onderzoeksgesprek."
+  conversation_starters:
+    - "Jullie zoeken een werkvoorbereider/calculator: hoeveel offertes ligt er nu te wachten en hoe lang duurt het van opname tot verstuurde offerte?"
+    - "Wie maakt nu de offertes naast het eigen werk, en gebeurt dat na werktijd?"
+  verification: "bevestigd: 12 teamleden op over-ons (eigenaar Niels, 9 vaklieden, kantoormanager, werkvoorbereider/calculator Bram); tel 0314-645 543 klopt (Ketelhuis 17, Doetinchem); verbouw/renovatie/badkamers bij particulier en zakelijk; vacature Werkvoorbereider / Calculator (m/v) staat open. Geen LinkedIn op site, null blijft."
+
+- name: De Boer Dakbedekkingen
+  url: https://deboer-dakbedekkingen.nl
+  phone: "0341-36 17 59"
+  city: Putten (Roosendaalseweg 162-D, 3882 MP)
+  priority_score: "8/10"
+  industry: "Dakbedekking: platte daken, dakrenovatie, dakadvies, onderhoud/inspectie, lekkagereparatie, ook nieuwbouw en utiliteit"
+  size: "KvK (liza): 11 FTE bij De Boer Dakbedekkingen B.V. 08024477; site claimt 30+/60+ (inconsistent, zelfclaim)"
+  tech_stack: "CMS niet vast te stellen; contactformulier; geen offerte-/calculatiesoftware zichtbaar. Impliceert interne calculatie (rol Calculator Platte Daken bestaat)."
+  relevant_vacancies: "Calculator Platte Daken en Projectcoordinator (calculatie, voorbereiding, uitvoering) open volgens deboer-dakbedekkingen.nl/vacatures; overige vacatures (magazijn, servicemonteur, dakdekker, leerling) niet relevant"
+  why_fit: "Twee open rollen in calculatie/voorbereiding: duidelijk teken van offertedruk. Platte daken, renovatie, onderhoud en lekkage bij particulier, VvE en MKB met opname en offerte; ca. 11 FTE volgens KvK. Kanttekening: deels utiliteit (aparte B.V.), mogelijk al calculatiesoftware."
+  decision_maker: "Directeur / calculator of projectcoordinator (offertes platte daken)"
+  linkedin: https://nl.linkedin.com/company/de-boer-dakbedekkingen-b-v
+  sources:
+    size: "deboer-dakbedekkingen.nl (zelfclaim, inconsistent)"
+    phone: deboer-dakbedekkingen.nl
+    relevant_vacancies: "deboer-dakbedekkingen.nl/vacatures/"
+    decision_maker: null
+    multi_location: "Een adres (Putten); landelijke dekking"
+  value_proposition: "Spraakmemo en foto's van de dakopname omzetten in een conceptofferte op eigen prijslijst en sjabloon, zodat opnemers en calculatoren sneller offertes versturen zonder extra aanname."
+  outreach_strategy: "Bel 0341-361759, vraag naar de calculator of projectcoordinator die offertes voor onderhoud/renovatie doet. Onderzoeksvraag: 'Hoe lang duurt het van opname naar verstuurde offerte? Jullie zoeken een calculator; is de offerteflow een knelpunt?'"
+  conversation_starters:
+    - "Ik zag dat jullie een calculator platte daken zoeken; zit de bottleneck in de opnames of in het uitwerken van de offerte?"
+    - "Hoe lang duurt het gemiddeld van een dakopname tot de offerte bij de klant ligt?"
+  verification: "aangepast: Bestaat en actief (KvK 08024477, opgericht 1992). Grootte: KvK-gegevens via liza 11 FTE (klein); site claimt 30+ en 60+ (inconsistent, niet onderbouwd); LinkedIn 4 gekoppelde profielen. >=5 aantoonbaar. Telefoon 0341-36 17 59 klopt (contactpagina). Vacatures Calculator Platte Daken en Projectcoordinator (uitvoerder/werkvoorbereider/calculator) bestaan op de site. LinkedIn-pagina (Putten) hoort bij dit bedrijf. Segment past: particulier, VvE, vastgoed plus utiliteit (aparte Utiliteit B.V., 81688636)."
+
+- name: Bouwbedrijf Harbers B.V.
+  url: https://www.harbers.nl
+  phone: "0544-374647"
+  city: Lichtenvoorde
+  priority_score: "8/10"
+  industry: Bouwbedrijf (woningbouw, utiliteitsbouw, verbouw, renovatie en onderhoud, bijgebouwen; eigen timmerwerkplaats)
+  size: "15-16 werknemers volgens jaarrekeningen (KvK 08033745, liza: 15 FTE); site: team van twintig"
+  tech_stack: "CMS niet geverifieerd; contactformulier aanwezig; geen offerte-/calculatiesoftware zichtbaar; BouwGarant, IKGL, SBB. Implicatie: handmatige offerteopbouw"
+  relevant_vacancies: "Gedreven werkvoorbereider (40 uur; planning, inkoop, calculaties opstellen) en Meewerkend uitvoerder timmerman/metselaar; daarnaast timmerman en metselaar"
+  why_fit: "20 mw in loondienst, verbouw/renovatie/onderhoud voor particulier en zakelijk, actief op zoek naar werkvoorbereider: duidelijke offerte-/voorbereidingsdruk."
+  decision_maker: "Directeur-eigenaar / werkvoorbereider of calculator"
+  linkedin: null
+  sources:
+    size: "https://www.harbers.nl"
+    phone: "https://www.harbers.nl/contact"
+    relevant_vacancies: "https://www.harbers.nl"
+    decision_maker: null
+    multi_location: "niet geverifieerd; één adres Einsteinstraat 13, 7131 PK Lichtenvoorde"
+  value_proposition: "Opnames voor verbouw en renovatie inspreken met foto's, conceptofferte automatisch op eigen prijzen, zodat werkvoorbereiding minder avonduren aan offertes kwijt is."
+  outreach_strategy: "Bel directie of werkvoorbereider: 'Wij onderzoeken hoe lang het bij bouwbedrijven duurt van opname tot verstuurde offerte. Hoe lang is dat bij jullie?' Haak aan op de vacature werkvoorbereider."
+  conversation_starters:
+    - "U zoekt een werkvoorbereider: ligt de grootste druk bij het uitwerken van offertes na opnames?"
+    - "Bij een verbouwing of renovatie: hoeveel dagen zit er gemiddeld tussen de opname en de verstuurde offerte?"
+  verification: "aangepast: Bestaat en actief (KvK 08033745, sinds 1978). Grootte onafhankelijk bevestigd: jaarrekeningen 15-16 werknemers (liza: 15 FTE); site zegt 'team van twintig'. Telefoon 0544-374647 klopt. Vacatures Gedreven werkvoorbereider (o.a. calculaties opstellen) en Meewerkend uitvoerder timmerman/metselaar staan live. Segment past: verbouw, renovatie en onderhoud voor particulier en zakelijk, naast nieuwbouw/utiliteit."
+
+- name: JVK Daken B.V.
+  url: https://jvkdaken.nl
+  phone: "076-3032400"
+  city: Breda (Rithmeesterpark 27a, 4838 GZ); tweede vestiging Ossendrecht
+  priority_score: "8/10"
+  industry: Ambachtelijke dakbedekking (zink, koper, lood, leien), platte daken, dakgoten, gevelbekleding, asbestleien-renovatie, onderhoudscontracten
+  size: "Site: ruim 30 (over-ons) tot ruim 40 medewerkers / ruim 50 incl. flex (homepage); LinkedIn JVK Holding 12 gekoppelde profielen"
+  tech_stack: "WordPress; geen offerte-/calculatiesoftware zichtbaar; contactformulier. Impliceert handmatige offertes per dakopname."
+  relevant_vacancies: "geen relevante vacatures (wel ervaren zinkwerker, leidekker)"
+  why_fit: "Dakrenovatie en restauratie met opname per project (veel maatwerk, hoge offertecomplexiteit) en onderhoudscontracten; 40-50 mw, familiebedrijf; meerdere regio's dus veel opnames. Binnen ICP-range."
+  decision_maker: "Directeur-eigenaar / calculator of werkvoorbereider"
+  linkedin: https://www.linkedin.com/company/jvk-daken/
+  sources:
+    size: "jvkdaken.nl (zelfclaim); KvK-nummer van site"
+    phone: jvkdaken.nl
+    relevant_vacancies: "jvkdaken.nl (geen openstaande posities op de bekeken pagina)"
+    decision_maker: null
+    multi_location: "Ja: Breda, Ossendrecht, Rotterdam, Dordrecht, Bergen op Zoom, Belgie (volgens site)"
+  value_proposition: "Spraakmemo en foto's van de dakopname omzetten in een conceptofferte op eigen prijslijst en sjabloon, zodat dakopnemers en calculatoren minder uren aan offertes kwijt zijn."
+  outreach_strategy: "Bel het kantoor Breda, vraag naar de calculator of directeur. Onderzoeksvraag: 'Hoe lang duurt het bij jullie van dakopname naar verstuurde offerte, en wie maakt die?' Vraag ook of dat verschilt tussen zink/leien-restauratie en onderhoudswerk."
+  conversation_starters:
+    - "Bij zink- en leiendaken is elke opname maatwerk; hoeveel tijd gaat er daarna nog in het uitwerken van de offerte zitten?"
+    - "Met vestigingen in meerdere plaatsen: wie maakt de offertes, centraal of per regio?"
+  verification: "aangepast: Actief; telefoon 076-3032400 en adres Breda op site. Site noemt wisselend 'ruim 30' (over-ons), 'ruim 40 medewerkers' en 'ruim 50 (vast en flex) vakmannen' (homepage); LinkedIn-pagina 'JVK Holding' (gelinkt vanaf site) geeft 12 gekoppelde profielen. >=5 in loondienst aannemelijk, 30-50 binnen range. Segment past (dakrenovatie/restauratie met opnames). Vacatures alleen zinkwerker/leidekker (niet relevant)."
+
+- name: Aannemersbedrijf Bos & Zn
+  url: https://www.aannemerbos.nl
+  phone: "030-2202647"
+  city: Bilthoven (regio Utrecht)
+  priority_score: "8/10"
+  industry: Aannemer totaalrenovatie, restauratie en onderhoud woningen
+  size: "ca. 15-25 man (homepage 25, over-ons 15)"
+  tech_stack: "Website CMS niet geïdentificeerd; geen online calculatiesoftware zichtbaar; contact via telefoon/e-mail (implicatie: offertes waarschijnlijk handmatig in Word/Excel)"
+  relevant_vacancies: "geen relevante vacatures gevonden (alleen allround timmerman, leerling timmerman)"
+  why_fit: "Sinds 1963, ca. 25 medewerkers, totaalrenovatie 'van zolder tot dak' bij particulieren; opnames en offertes zijn kernproces; directeur Joost Bos zit hoogstwaarschijnlijk zelf in de offertes; mogelijke behoefte aan calculator/werkvoorbereider."
+  decision_maker: "Joost Bos (directeur)"
+  linkedin: null
+  sources:
+    size: https://www.aannemerbos.nl
+    phone: https://www.aannemerbos.nl
+    relevant_vacancies: https://www.aannemerbos.nl/vacatures
+    decision_maker: null
+    multi_location: "Eén vestiging (P.C. Staalweg 60, Bilthoven)"
+  value_proposition: "Opname bij de klant inspreken en fotograferen, en direct een conceptofferte op eigen prijslijst terugkrijgen; ontlast directeur/calculator bij groeiend aantal aanvragen."
+  outreach_strategy: "Bel de directeur: hoe lang duurt het van opname tot verstuurde offerte bij een totaalrenovatie, en wie rekent dat uit? Vraag naar de calculator-/werkvoorbereidersvacature en of offertes nu 's avonds gebeuren. Doel: onderzoeksgesprek."
+  conversation_starters:
+    - "Bij totale woningrenovaties zijn opnames omvangrijk; hoeveel uur kost het uitwerken van zo'n offerte gemiddeld?"
+    - "Wie maakt bij jullie de offertes, en gebeurt dat na werktijd?"
+  verification: "aangepast: Actief; 030-2202647, P.C. Staalweg 60 Bilthoven op site. Grootte tegenstrijdig op eigen site: homepage 'dagelijks ca 25 man', over-ons 'ca 15 man'; beide ruim >=5. Segment past (renovatie/verbouw particulier). Vacaturepagina toont alleen allround timmerman en leerling timmerman; werving calculator/werkvoorbereider niet teruggevonden op homepage, dus vacaturehaak en gespreksopener daarover vervallen. Directeur Joost Bos bevestigd (over-ons)."
+
+- name: Van Oijen Bouw B.V.
+  url: https://www.oijen-bouw.nl
+  phone: "0485 57 14 32"
+  city: Boxmeer (Kleine Broekstraat 7, 5831 AP); invoer noemde Venlo, de site noemt Boxmeer als hoofdvestiging met werkgebied Eindhoven, Nijmegen, Venlo
+  priority_score: "8/10"
+  industry: "Bouwbedrijf: woningverbouw, renovatie, restauratie, timmerwerk, onderhoud, woningaanpassingen (ook nieuwbouw en utiliteit)"
+  size: "Site: '20-koppig team' (zelfclaim, niet onafhankelijk geverifieerd). Onafhankelijke B.V., geen groep. BouwGarant-lid, erkend leerbedrijf. Bron: oijen-bouw.nl"
+  tech_stack: "Website door Youvia (marketingbureau), CMS niet vast te stellen; geen offerte-/calculatiesoftware zichtbaar. Impliceert handmatige offertes."
+  relevant_vacancies: "Projectleider / Werkvoorbereider (Boxmeer), open volgens oijen-bouw.nl/vacatures; ook allround timmerman (niet relevant)"
+  why_fit: "Open vacature projectleider/werkvoorbereider wijst direct op werkvoorbereidings- en offertedruk. 20 mw in loondienst, verbouw/renovatie/onderhoud/woningaanpassingen met opnames bij particulier en MKB, BouwGarant. Duidelijke fit."
+  decision_maker: "Directeur-eigenaar / projectleider-werkvoorbereider"
+  linkedin: https://nl.linkedin.com/company/bouwbedrijf-van-oijen-b.v.
+  sources:
+    size: "oijen-bouw.nl (zelfclaim)"
+    phone: oijen-bouw.nl
+    relevant_vacancies: "oijen-bouw.nl/vacatures"
+    decision_maker: null
+    multi_location: "Een hoofdvestiging (Boxmeer); werkgebied Eindhoven, Nijmegen, Venlo"
+  value_proposition: "Spraakmemo en foto's van de opname omzetten in een conceptofferte op eigen prijslijst, zodat de werkvoorbereider of eigenaar minder avonden aan offertes kwijt is, juist nu er capaciteit gezocht wordt."
+  outreach_strategy: "Bel 0485-571432, vraag naar de directeur of degene die offertes maakt. Onderzoeksvraag: 'Hoe lang duurt het van opname naar verstuurde offerte? Jullie zoeken een projectleider/werkvoorbereider; is offertewerk daar een groot deel van?'"
+  conversation_starters:
+    - "Ik zag jullie vacature voor projectleider/werkvoorbereider; hoeveel van die rol is offertes uitwerken?"
+    - "Hoe lang duurt het bij verbouwingen gemiddeld van opname tot verstuurde offerte?"
+  verification: "bevestigd: Site bevestigt '20-koppige team', telefoon 0485-571432, vacature Projectleider / Werkvoorbereider (naast Allround Timmerman) op /vacatures. LinkedIn-pagina linkt naar oijen-bouw.nl en meldt 11-50 medewerkers. Verbouw/renovatie/onderhoud/woningaanpassingen past in segment."
+
+- name: Korff Dakwerken
+  url: https://www.korffdakwerken.nl
+  phone: "0299-321132"
+  city: Volendam
+  priority_score: "8/10"
+  industry: Dakdekkersbedrijf (bitumen- en kunststof daken, zinkwerk, isolatie, dakbeheer; VvE, vastgoedbeheerders, corporaties, bedrijven, particulier)
+  size: "LinkedIn: 11-50 mw (15 profielen); eigen teams projectleiding, calculatie, administratie, service; actief sinds 1996/1997"
+  tech_stack: "CMS niet geverifieerd; aparte vacaturesite werkenbij.korffdakwerken.nl; geen offerte-/calculatiesoftware zichtbaar. Implicatie: eigen calculatieteam, waarschijnlijk handmatige calculatie"
+  relevant_vacancies: "Werkvoorbereider, (Junior) calculator, Projectleider, Uitvoerder dakdekker (9 vacatures in totaal)"
+  why_fit: "Dakdekker met eigen calculatie- en projectleidingteam, VvE- en zakelijke opdrachtgevers, actief werkvoorbereider gezocht: duidelijke offertedruk."
+  decision_maker: "Directeur-eigenaar / calculator of werkvoorbereider"
+  linkedin: "https://www.linkedin.com/company/korff-dakwerken/"
+  sources:
+    size: "invoer (dakdekkersgids) plus https://www.korffdakwerken.nl; totaal niet geverifieerd"
+    phone: "https://www.korffdakwerken.nl"
+    relevant_vacancies: "https://werkenbij.korffdakwerken.nl"
+    decision_maker: null
+    multi_location: "niet geverifieerd; adres Dieselstraat 5, 1131 JZ Volendam"
+  value_proposition: "Opnames op daken en VvE-complexen inspreken met foto's en direct een conceptoffertekern laten genereren, zodat calculatoren en werkvoorbereiders sneller offreren."
+  outreach_strategy: "Bel calculatie/directie: 'Wij onderzoeken hoe lang het bij dakdekkers duurt van opname tot verstuurde offerte. Hoe lang is dat bij jullie bij een VvE of bedrijfspand?' Haak aan op de vacature werkvoorbereider."
+  conversation_starters:
+    - "U zoekt een werkvoorbereider: hoeveel van de tijd gaat naar offertes na een dakopname?"
+    - "Bij VvE's en vastgoedbeheerders: wat is de gemiddelde doorlooptijd van opname tot verstuurde offerte?"
+  verification: "aangepast: Actief dakdekkersbedrijf Volendam (KvK 73599662). Grootte: LinkedIn 11-50 mw met 15 gekoppelde profielen, eigen teampagina, 9 open vacatures. Telefoon 0299-321132 klopt. Vacatures bevestigd: Werkvoorbereider, (Junior) calculator, Projectleider, Uitvoerder dakdekker (plus dakdekker, zinkwerker, servicemonteur, dakinspecteur). LinkedIn-bedrijfspagina gelinkt vanaf eigen site."
+
+- name: RPM Bouw B.V.
+  url: https://www.rpmbouw.nl
+  phone: "+31 316 531 545"
+  city: Beek (gemeente Montferland)
+  priority_score: "8/10"
+  industry: Aannemer renovatie, verbouw, particuliere woningbouw en onderhoud
+  size: "meer dan 25 medewerkers (homepage); LinkedIn 11-50 mw"
+  tech_stack: "WordPress; contactformulier 'Offerte aanvragen'; Woningborg en Bouwgarant gecertificeerd; geen calculatiesoftware zichtbaar"
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Familiebedrijf (3e generatie) met 25+ mw, renovatie/verbouw en onderhoud bij particulieren; 9 van 10 klanten terugkerend betekent veel kleinere opnames en offertes naast groot werk; eigen kantoorpersoneel aanwezig."
+  decision_maker: "Directeur-eigenaar / calculator-werkvoorbereider"
+  linkedin: "https://www.linkedin.com/company/rpmbouwbv/"
+  sources:
+    size: https://www.rpmbouw.nl
+    phone: https://www.rpmbouw.nl
+    relevant_vacancies: "Geen vacatures voor relevante rollen op https://www.rpmbouw.nl"
+    decision_maker: null
+    multi_location: "Eén vestiging (Zuider Markweg 16, Beek)"
+  value_proposition: "Sneller van opname naar offerte door spraakmemo + foto's om te zetten naar conceptoffertes in eigen sjabloon, voor het grote aantal klein- en onderhoudsklussen."
+  outreach_strategy: "Bel de directeur/calculator: hoe lang duurt het van opname tot verstuurde offerte voor renovatie- en onderhoudsklussen, en wie in het kantoor maakt die offertes? Vraag naar de piek in aanvragen."
+  conversation_starters:
+    - "Met zoveel terugkerende klanten komen er vast veel kleinere opnames voorbij; hoe houden jullie de doorlooptijd van offertes in de hand?"
+    - "Wie maakt de offerte na een opname: de uitvoerder zelf of kantoor?"
+  verification: "aangepast: Actief familiebedrijf Beek (Montferland), renovatie/verbouw/onderhoud particulier (ook projectbouw). Homepage noemt 'meer dan 25 medewerkers'; LinkedIn 11-50 mw. Telefoon +31 316 531 545 klopt. Geen vacatures op site. LinkedIn-bedrijfspagina gelinkt vanaf eigen site."
+
+- name: Eenhoog Bouwservice B.V.
+  url: https://eenhoog.nl
+  phone: "030-281 73 57"
+  city: Nieuwegein
+  priority_score: "8/10"
+  industry: Aannemer verbouw/renovatie (complete woningrenovaties, keuken, badkamer, installatie, dak)
+  size: "16 medewerkers (eigen site eenhoog.nl); KvK 30139868"
+  tech_stack: "WordPress (wp-content in URL's); contactformulier (naam, e-mail, telefoon, bericht); geen offerte-/calculatiesoftware zichtbaar op site; impliceert handmatige offerteopmaak"
+  relevant_vacancies: "Renovatie elektricien (geen relevante kantoor-/offerterol)"
+  why_fit: "16 medewerkers met meerdere disciplines (renovatie, keuken, badkamer, installatie, dak) en opnames bij particulieren; breed werkpakket betekent veel opname-/offertewerk door een kleine kern."
+  decision_maker: "Directeur-eigenaar / werkvoorbereider-calculator"
+  linkedin: "https://www.linkedin.com/company/eenhoog-bouwservice/"
+  sources:
+    size: https://eenhoog.nl
+    phone: https://eenhoog.nl
+    relevant_vacancies: https://eenhoog.nl
+    decision_maker: null
+    multi_location: "niet gevonden op site (enkele vestiging Nieuwegein)"
+  value_proposition: "Spraakmemo en foto's van de opname omzetten in een conceptofferte op eigen prijslijst, zodat avonduren voor offertes vervallen."
+  outreach_strategy: "Bel de directeur/eigenaar: onderzoeksgesprek, geen verkoop. Vraag: hoe lang duurt het bij jullie van opname tot verstuurde offerte, en wie maakt die offerte en wanneer?"
+  conversation_starters:
+    - "Jullie doen complete renovaties met meerdere disciplines; hoe vaak maak je 's avonds nog offertes na een dag opnames?"
+    - "Hoe lang duurt het gemiddeld van opname bij een particulier tot de verstuurde offerte?"
+  verification: "aangepast: Actief (KvK 30139868), totale verbouwingen/renovatie particulier Utrecht-regio. Site: '16 medewerkers op verschillende vakgebieden'. Telefoon 030-281 73 57 klopt. Vacaturepagina bestaat: Renovatie elektricien (geen offerte-/kantoorrol). LinkedIn-pagina 'Eenhoog Bouwservice' linkt naar eenhoog.nl."
+
+- name: Innovi Dak
+  url: https://innovi-dak.nl/
+  phone: "045 565 05 95"
+  city: Hoensbroek (Limburg; niet Midden-Nederland zoals in de invoer)
+  priority_score: "7/10"
+  industry: "Dakwerk (renovatie, plat/hellend, nieuwbouw) plus installatie: zonnepanelen, thuisbatterijen, warmtepompen, laadpalen, airco"
+  size: "ca. 15 mw volgens eigen site (10 dakwerkers + 5 zonne-energie specialisten); LinkedIn 11-50; verbonden aan Duramotion B.V. (zelfde adres, gedeelde HR)"
+  tech_stack: "WordPress met Divi en Gravity Forms (offerteformulier met stroomverbruik-vragen); geen zichtbare calculatiesoftware; impliceert online aanvragen voor zonnepanelen en dakwerk die handmatig tot offerte worden uitgewerkt"
+  relevant_vacancies: "Werkvoorbereider dakwerken (fulltime): voorbereiden, materiaal bestellen, planning, tekeningen controleren, meer-/minderwerk; offertes niet genoemd"
+  why_fit: "Groeiend bedrijf (ca. 15 mw) met vacature werkvoorbereider dakwerken, opnames voor renovatie en particuliere en zakelijke zonnepanelen, wat veel offertewerk betekent. De vacature noemt offertes maken niet expliciet. Risico: deel van het werk is installatie (zonnepanelen, warmtepompen) en het bedrijf is verbonden aan zusterbedrijf Duramotion."
+  decision_maker: "Directeur-eigenaar / werkvoorbereider of verkoopmanager"
+  linkedin: https://nl.linkedin.com/company/innovi-dak-vof
+  sources:
+    size: "LinkedIn-profiel via zoekresultaat (11-50); KvK uit zoekresultaat"
+    phone: https://innovi-dak.nl/
+    relevant_vacancies: https://innovi-dak.nl/vacatures/werkvoorbereider-dakwerken/
+    decision_maker: null
+    multi_location: "Hoensbroek; geen andere vestigingen gevonden"
+  value_proposition: "Opnames (dak en zonnepanelen) via spraakmemo en foto's omzetten naar een conceptofferte op eigen prijslijst, zodat de nieuwe werkvoorbereider en verkoop minder avonduren aan offertes kwijt zijn."
+  outreach_strategy: "Bel met onderzoeksvraag: 'Hoe lang duurt het van opname tot verstuurde offerte voor dakrenovatie en zonnepanelen, en wie maakt die nu?' Haak eventueel aan op de vacature werkvoorbereider dakwerken."
+  conversation_starters:
+    - "Jullie zoeken een werkvoorbereider dakwerken: ligt het offerteren van renovaties bij hem of haar, of nog bij de eigenaar?"
+    - "Hoe lang duurt het gemiddeld tussen opname bij een klant en de verstuurde offerte, voor dak en voor zonnepanelen?"
+  verification: "aangepast: Site noemt ca. 15 mw ('10 gespecialiseerde dakwerkers' + '5 zonne-energie specialisten'), KvK 76885828, telefoon 045 565 05 95, De Koumen 37 Hoensbroek, particulier en zakelijk. Vacature Werkvoorbereider dakwerken bestaat, maar de taken zijn voorbereiden, materiaal bestellen, plannen, tekeningen controleren en meer-/minderwerk; offertes maken staat er niet in. Sollicitaties lopen via duramotion.nl (zusterbedrijf Duramotion, groothandel solar/LED, zelfde adres). Breed installatie-aanbod (zonnepanelen, warmtepompen, airco, laadpalen) naast dakrenovatie: past nog, maar is gemengd."
+
+- name: "Dakdekkers- en Renovatiebedrijf E. van der Linde Ommen B.V."
+  url: "http://www.dakdekkersbedrijfevanderlinde.nl/"
+  phone: "0529 45 30 33"
+  city: "Ommen"
+  priority_score: "7/10"
+  industry: "Dakdekkers- en renovatiebedrijf (pannen-, platte daken, renovatie), particulier en zakelijk"
+  size: "20-25 vakmensen volgens eigen site; KvK 57447772: bronnen tegenstrijdig (10-19 / 0 / 1 werkzame personen)"
+  tech_stack: "CMS niet vast te stellen (statische .html-pagina's, 'direct-een-offerte-aanvragen.html'); geen offerte-/calculatiesoftware zichtbaar; offerteaanvraag via webformulier. Impliceert: waarschijnlijk handmatig offertes maken (Word/Excel of pakketten niet zichtbaar)."
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Dakdekker met 20-25 vakmensen, werkt voor particulier en zakelijk (groot en klein), bestaat sinds 1981; opnames op locatie en offertes zijn kernproces. Offerteaanvraagpagina op de site. Geen werkvoorbereider/calculator-vacature zichtbaar, dus score 7."
+  decision_maker: "Directeur-eigenaar (Richard van der Linde staat op LinkedIn gekoppeld; niet geverifieerd) / calculator of werkvoorbereider"
+  linkedin: null
+  sources:
+    size: "https://www.dakdekkersbedrijfevanderlinde.nl/"
+    phone: "https://www.dakdekkersbedrijfevanderlinde.nl/"
+    relevant_vacancies: "https://www.dakdekkersbedrijfevanderlinde.nl/ (geen vacaturepagina gevonden)"
+    decision_maker: null
+    multi_location: "niet gevonden op site (alleen Ommen)"
+  value_proposition: "Opname op het dak inspreken en foto's maken; AI maakt direct een conceptofferte op uw eigen prijslijst, zodat de eigenaar 's avonds geen uren offertes hoeft te typen."
+  outreach_strategy: "Bel de eigenaar overdag niet tijdens dakwerk (vroeg ochtend of eind van de dag). Insteek: onderzoeksgesprek, geen verkoop. Vraag: 'Hoe lang duurt het bij jullie van opname op het dak naar een verstuurde offerte?' en wie de offertes schrijft."
+  conversation_starters:
+    - "Bij 20-25 man in particulier en zakelijk werk: wie maakt de offertes, en doet u dat 's avonds na de opnames?"
+    - "Hoeveel dagen zitten er gemiddeld tussen opname en verstuurde offerte, en raakt u wel eens een klus kwijt doordat het te lang duurt?"
+  verification: "aangepast: Site: 'werkt met 20 á 25 vakmensen', telefoon 0529 - 45 30 33, Vermeerstraat 13 Ommen, particulier en zakelijk. KvK 57447772 (Dakdekkers- en Renovatiebedrijf E. van der Linde Ommen B.V., opgericht 2013): de bronnen spreken elkaar tegen (10-19, 0 en 1 werkzame personen); personeel zit mogelijk in een andere entiteit. Geen vacatures. Volledige naam aangevuld."
+
+- name: Van Weenen Bouwbedrijf B.V.
+  url: https://vanweenenbouwbedrijf.nl
+  phone: "0181-479720"
+  city: Zuidland
+  priority_score: "7/10"
+  industry: Bouwbedrijf voor verbouw/renovatie, aanbouw, dakkapellen/dakramen, kozijnen, interieurbouw, funderingen en garages (Voorne-Putten; particulier en zakelijk)
+  size: "11-50 (LinkedIn-indicatie, 4 profielen zichtbaar); exact aantal niet geverifieerd"
+  tech_stack: "Eigen website, CMS niet vastgesteld; offerte-/calculatiesoftware niet geverifieerd; werkvoorbereider in dienst (LinkedIn) wijst op gestructureerde voorcalculatie, mogelijk met pakket"
+  relevant_vacancies: "geen relevante vacature geverifieerd (gevonden: allround timmerman, allround metselaar); werkvoorbereider-vacature niet bevestigd"
+  why_fit: "Middelgroot bouwbedrijf (LinkedIn 11-50) met eigen personeel, particuliere en zakelijke verbouwingen met opnames en offertes. Een vacature werkvoorbereider is niet bevestigd (wel timmerman en metselaar), dus de capaciteitsdruk is een aanname."
+  decision_maker: "Directeur-eigenaar / werkvoorbereider of calculator"
+  linkedin: "https://nl.linkedin.com/company/van-weenen-bouwbedrijf"
+  sources:
+    size: "https://nl.linkedin.com/company/van-weenen-bouwbedrijf (11-50)"
+    phone: "zoekresultaat bedrijfsgegevens (+31 181479720); contactpagina niet uitleesbaar"
+    relevant_vacancies: "geen relevante vacature geverifieerd (gevonden: allround timmerman, allround metselaar)"
+    decision_maker: null
+    multi_location: "Hoofdvestiging Scheijdelveweg 7R, Zuidland; aparte vestigingen niet geverifieerd. Twee entiteiten op hetzelfde adres (Van Weenen Bouwbedrijf B.V. en Van Weenen Bouw B.V.)"
+  value_proposition: "Werkvoorbereider en opnemer leggen de opname vast met spraakmemo en foto's; AI levert een conceptofferte op de eigen prijslijst, zodat de werkvoorbereider minder tijd kwijt is aan offertes en meer aan voorbereiding."
+  outreach_strategy: "Bel naar de directeur of werkvoorbereider. Onderzoeksvraag: hoe lang duurt het van opname naar verstuurde offerte, en wie maakt die offertes nu?"
+  conversation_starters:
+    - "Hoeveel van de tijd van uw werkvoorbereider of uzelf gaat naar offertes na een opname, en hoe lang duurt het tot de offerte de deur uit is?"
+    - "Jullie doen zowel particuliere verbouwingen als zakelijk werk. Verschilt de doorlooptijd van opname naar offerte daartussen?"
+  verification: "aangepast: Actief, Scheijdelveweg 7R Zuidland, tel +31 181 479 720 bevestigd via zoekresultaat/werkzoeken; verbouw, aanbouw, dakkapellen, renovatie particulier en zakelijk. LinkedIn-pagina hoort bij dit bedrijf (website matcht), toont 11-50 maar slechts 4 profielen. Vacature werkvoorbereider NIET te verifieren: site-vacaturepagina laadt leeg, alleen vacatures allround timmerman (join.com) en metselaar gevonden; werkvoorbereider-claim uit zoeksnippet is onbetrouwbaar."
+
+- name: Feld Aannemersbedrijf
+  url: https://www.feldaannemersbedrijf.nl
+  phone: "0229-572477"
+  city: Nibbixwoud
+  priority_score: "7/10"
+  industry: Aannemer woningbouw/utiliteit, aanbouw en renovatie, kozijnen/dakramen
+  size: "circa 17 medewerkers volgens bedrijvengids (Drimble/companyinfo, niet bevestigd op eigen site); LinkedIn toont slechts 3 profielen. Aannemersbedrijf Feld B.V., KvK 36005127"
+  tech_stack: "Eenvoudige eigen website; geen formulier of offerte-/calculatiesoftware vermeld (impliceert waarschijnlijk handmatig offertewerk, niet geverifieerd). Bouwgarant en Bouwend Nederland."
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Familiebedrijf sinds 1977 (tweede generatie) met eigen vakmensen; aanbouw/renovatie bij particulieren en utiliteit, dus opnames op locatie en maatwerkoffertes. Grootte ligt volgens gids rond 17 mw, binnen ICP."
+  decision_maker: "Directeur-eigenaar (tweede generatie) / calculator of werkvoorbereider"
+  linkedin: https://www.linkedin.com/company/aannemersbedrijf-feld-b.v.
+  sources:
+    size: https://drimble.nl/bedrijf/nibbixwoud/16223217/aannemersbedrijf-feld-bv.html
+    phone: https://www.feldaannemersbedrijf.nl
+    relevant_vacancies: https://www.feldaannemersbedrijf.nl
+    decision_maker: null
+    multi_location: "niet gevonden op site (1 vestiging Nibbixwoud)"
+  value_proposition: "Opname inspreken en fotograferen; AI maakt een conceptofferte op eigen prijslijst en sjabloon, zodat de directie niet 's avonds nog offertes hoeft te typen."
+  outreach_strategy: "Bel de directeur-eigenaar met een onderzoeksvraag: 'Hoe lang duurt het bij jullie van opname tot verstuurde offerte?' Vraag wie de offertes maakt naast het uitvoerende werk en of aanvragen soms blijven liggen in drukke weken."
+  conversation_starters:
+    - "Jullie doen zowel aanbouw/renovatie als woning- en utiliteitsbouw: hoe lang zit er gemiddeld tussen opname en verstuurde offerte?"
+    - "Als familiebedrijf waar de eigenaar ook op het werk staat: wanneer komt u aan de offertes toe, overdag of 's avonds?"
+  verification: "bevestigd: Aannemersbedrijf Feld B.V., KvK 36005127, actief, 17 werkzame personen (Drimble/KvK); tel 0229-572477 klopt (Wijzend 52A Nibbixwoud); aanbouw/renovatie/kozijnen/dakkapellen bij particulieren + woning/utiliteit. LinkedIn-pagina hoort bij dit bedrijf (website en adres matchen, 11-50). Geen vacatures op site."
+
+- name: Bouwbedrijf Hollands Kroon
+  url: https://www.bouwbedrijfhollandskroon.nl
+  phone: "0227 59 22 72"
+  city: Hippolytushoef
+  priority_score: "7/10"
+  industry: Bouwbedrijf nieuwbouw, verbouw, renovatie en onderhoud, duurzaam bouwen (warmtepompen, zonnepanelen)
+  size: "circa 20 medewerkers ('team van ongeveer 20-tal ervaren vakmensen', eigen site); Bouwbedrijf Hollands Kroon B.V., KvK 82917094, opgericht 2021"
+  tech_stack: "Eigen website met woonconcept-configurator voor nieuwbouw; geen offerte-/calculatiesoftware vermeld voor verbouw (impliceert handmatig offertewerk, niet geverifieerd). Bouwgarant-aannemer volgens gids."
+  relevant_vacancies: "geen relevante vacatures gevonden (Werken-bij-pagina bestaat, geen concrete functies zichtbaar)"
+  why_fit: "Circa 20 mensen, twee oprichters met 30+ jaar ervaring die waarschijnlijk zelf opnemen en calculeren; verbouw, renovatie en onderhoud bij particulieren en duurzaamheidsmaatregelen vragen veel opnames en offertes. Deel van het werk is nieuwbouw, dus iets minder zuiver."
+  decision_maker: "Dennis den Hollander / Pieter Bregman (oprichters)"
+  linkedin: null
+  sources:
+    size: https://www.bouwbedrijfhollandskroon.nl
+    phone: https://www.bouwbedrijfhollandskroon.nl
+    relevant_vacancies: https://www.bouwbedrijfhollandskroon.nl
+    decision_maker: null
+    multi_location: "niet gevonden op site (1 vestiging Hippolytushoef)"
+  value_proposition: "Opnames bij verbouw- en duurzaamheidsklanten inspreken met foto's; AI levert een conceptofferte op eigen prijslijst en sjabloon, zodat de oprichters niet 's avonds nog moeten calculeren."
+  outreach_strategy: "Bel een van de oprichters met de onderzoeksvraag: 'Hoe lang duurt het bij jullie van opname tot verstuurde offerte, vooral bij verbouw en duurzame aanpassingen?' Vraag wie de offertes maakt en of die tijd 's avonds of in het weekend valt."
+  conversation_starters:
+    - "Jullie doen verbouw, onderhoud en duurzame maatregelen: hoeveel offertes schrijven jullie per week en hoe lang duurt het van opname tot verzonden offerte?"
+    - "Met twee ervaren oprichters en zo'n twintig vakmensen: wie van jullie komt er 's avonds nog aan de offertes toe?"
+  verification: "bevestigd: Site: circa 20 vakmensen, oprichters Dennis den Hollander en Pieter Bregman (30+ jaar ervaring), KvK 82917094; tel 0227 59 22 72 klopt (De Wieken 50 Hippolytushoef); nieuwbouw, verbouw, renovatie, onderhoud. Site noemt LinkedIn-account maar URL niet vastgesteld, null blijft."
+
+- name: Hofstra Hulshof Bouw B.V.
+  url: https://www.hofstrahulshof.nl
+  phone: "0599 21 29 77"
+  city: Nieuw-Buinen (Noorderdiep 126a, 9521 BG, Drenthe)
+  priority_score: "7/10"
+  industry: "Bouwbedrijf: verbouw, renovatie, aanbouw, onderhoud, restauratie, interieurbouw, winkelverbouwing, kozijnen en trappen (ook nieuwbouw); eigen timmerfabriek volgens invoer"
+  size: "ca. 30 werknemers, >50 projecten/jaar, ca. 5 mln omzet (eigen site)"
+  tech_stack: "CMS en offerte-/calculatiesoftware niet vast te stellen op de site (subpagina gaf HTTP 403). Impliceert onbekend; waarschijnlijk traditionele calculatie."
+  relevant_vacancies: "geen relevante vacatures gevonden (alleen allround timmerman)"
+  why_fit: "Verbouw, renovatie en onderhoud voor woning en utiliteit in loondienst met ~30 mw en 50+ projecten per jaar; opname en offerte per project. Kanttekening: ook nieuwbouw en utiliteit, kantoorbezetting onbekend."
+  decision_maker: "Directeur / calculator of werkvoorbereider"
+  linkedin: null
+  sources:
+    size: "invoer (bouwnu.nl, niet geverifieerd)"
+    phone: hofstrahulshof.nl
+    relevant_vacancies: "niet geverifieerd (vacaturepagina 403)"
+    decision_maker: null
+    multi_location: "Een vestiging (Nieuw-Buinen); werkgebied Drenthe"
+  value_proposition: "Spraakmemo en foto's van opnames omzetten in een conceptofferte op eigen prijslijst en sjabloon, zodat calculator en opnemers minder tijd kwijt zijn aan verbouw- en onderhoudsoffertes."
+  outreach_strategy: "Bel (0599) 21 29 77, vraag naar de calculator of directeur. Onderzoeksvraag: 'Hoe lang duurt het van opname naar verstuurde offerte bij verbouw en onderhoud, en wie maakt die?'"
+  conversation_starters:
+    - "Bij meer dan 50 projecten per jaar: hoeveel opnames en offertes lopen daar nog onder?"
+    - "Gaat de offerte voor kleinere verbouwingen via dezelfde calculatie als grotere projecten, of heeft dat een eigen route?"
+  verification: "aangepast: Bedrijf actief en telefoon (0599) 21 29 77 klopt (KvK 04065540 in de footer). De grootte staat nu echt op de eigen site: 'ca. 30 werknemers' (over ons) en 'ca. dertig medewerkers, meer dan 50 projecten (ca. 5 miljoen omzet)' (vacaturepagina). Het bedrijf startte met werknemers in loondienst en heeft een eigen timmerfabriek. Doet verbouw en onderhoud voor particulieren en zakelijke klanten, ook nieuwbouw en utiliteit. Vacaturepagina is met een browser-UA leesbaar: alleen allround timmerman, niet relevant."
+
+- name: Aannemersbedrijf Bodijn
+  url: https://www.bodijnaannemers.nl
+  phone: "06 285 62 188"
+  city: Leiden
+  priority_score: "7/10"
+  industry: Aannemer verbouw, keuken-/badkamerrenovatie, kozijnen, dakkapellen en aanbouw voor particulieren (Bouwgarant)
+  size: "15 vakmensen in vaste dienst (zelfclaim eigen site; geen onafhankelijke telling gevonden). KvK site 28042104, Bouwgarant 65954491"
+  tech_stack: "Geen CMS/offerte-/calculatiesoftware zichtbaar in de gefetchte pagina; niet geverifieerd. Impliceert waarschijnlijk handmatig offerteproces."
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Kernfit: verbouw en keuken-/badkamerrenovatie bij particulieren, opnames bij klant, 15 mw in vaste dienst, hoofdaannemer die complete projecten beheert, dus veel offertes per jaar."
+  decision_maker: "Directeur-eigenaar / werkvoorbereider"
+  linkedin: null
+  sources:
+    size: "https://www.bodijnaannemers.nl"
+    phone: "https://www.bodijnaannemers.nl"
+    relevant_vacancies: "https://www.bodijnaannemers.nl (geen vacatures vermeld)"
+    decision_maker: null
+    multi_location: "https://www.bodijnaannemers.nl (een adres: Leiden; werkgebied Leiden en omgeving)"
+  value_proposition: "Opname bij de klant inspreken en fotograferen, waarna een conceptofferte op eigen prijslijst klaarstaat; geen avonden meer achter de laptop."
+  outreach_strategy: "Bel naar eigenaar of degene die offertes maakt. Onderzoeksvraag: hoe lang duurt het van opname tot verstuurde offerte bij een verbouwing of badkamer, en wanneer schrijf je die offertes?"
+  conversation_starters:
+    - "Bij een badkamer- of keukenverbouwing: hoeveel dagen zit er gemiddeld tussen de opname en de offerte bij de klant?"
+    - "Doe je de offertes zelf of heb je iemand op kantoor die dat oppakt?"
+  verification: "aangepast: Actief (Bouwgarant-aannemer, site live). Telefoon 06 285 62 188 klopt (site); Bouwgarant noemt vast nummer 071-5790823. Eigen site zegt expliciet '15 ervaren vakmensen in vaste dienst'; geen onafhankelijke KvK-telling gevonden (aannemergevonden: 'niet bekend'). Bouwgarant noemt ander KvK-nummer (65954491) dan site (28042104). Segment past (verbouw/badkamer/keuken bij particulieren). Geen vacatures, geen LinkedIn-bedrijfspagina gevonden."
+
+- name: Van Daken B.V.
+  url: https://vandaken.nl
+  phone: "085-0603810"
+  city: Amsterdam (tweede vestiging Rotterdam)
+  priority_score: "7/10"
+  industry: Dakdekkersbedrijf (platte en schuine daken, renovatie, onderhoud, lekkage)
+  size: "22 medewerkers (Trustoo-profiel Amsterdam; invoer noemde ook 15 in Rotterdam, niet geverifieerd); 24 jaar actief; 2 vestigingen"
+  tech_stack: "CMS niet geverifieerd; geen offerte- of calculatiesoftware zichtbaar; gratis dakinspectie-aanvraag via site (implicatie: opname bij klant, offerte daarna handmatig)"
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Dakdekker met eigen vaklieden die gratis inspecties/opnames bij particulier en zakelijk doet, 22 mw, twee vestigingen, 500+ reviews dus veel aanvragen en offertes."
+  decision_maker: "Directeur-eigenaar / werkvoorbereider of calculator"
+  linkedin: null
+  sources:
+    size: "https://trustoo.nl/noord-holland/amsterdam/dakdekker/van-daken-bv/"
+    phone: "https://vandaken.nl"
+    relevant_vacancies: "niet gevonden op site"
+    decision_maker: null
+    multi_location: "https://vandaken.nl (Amsterdam Land van Cocagneplein 1B, Rotterdam Weena 788)"
+  value_proposition: "Opname op het dak inspreken en fotograferen, en direct een conceptofferte op eigen prijslijst terugkrijgen in plaats van 's avonds uitwerken."
+  outreach_strategy: "Bel de directeur/offerteverantwoordelijke: 'Wij doen onderzoek bij dakdekkers naar hoe lang het duurt van opname tot verstuurde offerte. Hoe lang is dat bij jullie, en wie maakt de offerte?' Noem de gratis inspecties als aanleiding."
+  conversation_starters:
+    - "U biedt gratis dakinspecties aan: hoeveel opnames per week zijn dat en hoe lang duurt het daarna voordat de offerte de deur uit gaat?"
+    - "Met twee vestigingen: wie schrijft de offertes, en gebeurt dat na werktijd?"
+  verification: "bevestigd: Actief; 085-0603810 op site (plus mobiel +31 6 14288439), vestigingen Amsterdam en Rotterdam. Trustoo-profiel (Amsterdam en Rotterdam identiek) 22 medewerkers, 24 jaar in bedrijf; vacature dakdekker met 'vast werk' ondersteunt loondienst. Segment past (dakrenovatie/inspecties bij particulier en zakelijk). Alleen vacature dakdekker, niet relevant. Geen LinkedIn gevonden."
+
+- name: BC Noord
+  url: https://www.bcnoord.com
+  phone: "050-2005103"
+  city: Grijpskerk
+  priority_score: "7/10"
+  industry: Bouwbedrijf (herstel/renovatie, verbouw, uitbreidingen, versterking NCG/IMG schadeherstel, utiliteitsbouw, GWW)
+  size: "Ca. 25+ vakmensen (eigen site); KvK 86996754"
+  tech_stack: "CMS niet geverifieerd; geen offerte-/calculatiesoftware zichtbaar. Implicatie: handmatige offertes"
+  relevant_vacancies: "geen relevante vacatures (wel meewerkend voorman bouw, timmerman)"
+  why_fit: "Doet opnames en offertes bij particulier, bedrijven en overheid, veel schadeherstel/versterking met opname per woning; ca. 25 mw. Mix met overheid/utiliteit maakt fit iets minder zuiver."
+  decision_maker: "Jarith van de Hoef (directeur, volgens over-ons)"
+  linkedin: null
+  sources:
+    size: "https://www.bcnoord.com"
+    phone: "https://www.bcnoord.com"
+    relevant_vacancies: "niet gevonden op site"
+    decision_maker: null
+    multi_location: "niet geverifieerd; adres Herestraat 22, 9843 AK Grijpskerk, werkgebied Groningen/Friesland/Drenthe/Overijssel"
+  value_proposition: "Opnames bij schadeherstel en renovatie inspreken met foto's en snel een conceptofferte op eigen prijzen krijgen."
+  outreach_strategy: "Bel directie/calculator: 'Wij onderzoeken hoe lang het bij bouwbedrijven duurt van opname tot verstuurde offerte. Hoe loopt dat bij jullie bij particulieren en bedrijven?' Vraag naar aandeel particulier versus overheid."
+  conversation_starters:
+    - "Bij schadeherstel en verbouw bij particulieren: hoeveel tijd zit er tussen de opname en de offerte?"
+    - "Wie maakt de offertes en hoeveel uur kost dat per week?"
+  verification: "aangepast: Actief; (050) 200 5103 en KvK 86996754 op site. Over-ons: 'meer dan 25 vakmensen', ca. 6 jaar oud, directeur Jarith van de Hoef; werken-bij noemt vast contract na proeftijd. Segment past grotendeels (schadeherstel/versterking, aanbouw/verbouw particulier) maar ook utiliteit, GWW en personeelsinzet/detachering. Drie vacatures (meewerkend voorman, timmerman e.a.), geen kantoor/calculator."
+
+- name: RJS Badkamers
+  url: https://rjsbadkamers.nl
+  phone: "0229 74 5434"
+  city: Winkel (Noord-Holland)
+  priority_score: "7/10"
+  industry: Badkamer- en toiletrenovatie particulier en MKB (incl. nooddouche-verhuur)
+  size: "11-50 medewerkers (LinkedIn); eigen vakmensen in vast team (site); KvK 92025609. ~26 mw (Infobel) en ~350 renovaties/jaar niet bevestigd."
+  tech_stack: "CMS Sanity (headless); online offerteaanvraagformulier, WhatsApp; geen offerte-/calculatiesoftware zichtbaar. Impliceert maatwerk-website en waarschijnlijk handmatige offerte-opstelling."
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Hoog volume badkamerrenovaties (gem. 14 werkdagen per project) met opname en vooraf een duidelijke offerte; eigen team in loondienst; moderne site met offerteflow. Groeit (nieuw pand voor opleiden). Vestiging was eerder Opmeer/Aartswoud, nu Winkel."
+  decision_maker: "Eigenaar/directeur (Robert Jan Slob volgens rodi.nl) of de persoon die opnames en offertes doet"
+  linkedin: "https://nl.linkedin.com/company/rjs-badkamers"
+  sources:
+    size: "invoer (Infobel, niet geverifieerd); rjsbadkamers.nl: 'eigen vast team'"
+    phone: rjsbadkamers.nl
+    relevant_vacancies: "rjsbadkamers.nl homepage (geen vacatures vermeld)"
+    decision_maker: null
+    multi_location: "Een vestiging (Winkel); werkgebied meerdere plaatsen in Noord-Holland"
+  value_proposition: "Spraakmemo en foto's van de opname omzetten in een conceptofferte op eigen prijslijst, zodat de eigenaar 's avonds niet meer uren aan offertes zit en klanten sneller een offerte krijgen."
+  outreach_strategy: "Bel de eigenaar/offerte-opsteller. Onderzoeksinsteek, geen verkoop: 'Hoe lang duurt het bij jullie van opname bij de klant naar verstuurde offerte, en wie maakt die?' Vraag of dat 's avonds gebeurt en hoeveel offertes er per week uitgaan, en of ze een 15 minuten gesprek willen."
+  conversation_starters:
+    - "Jullie beloven een duidelijke offerte vooraf; hoe lang duurt het gemiddeld van opname tot verstuurde offerte?"
+    - "Bij zoveel badkamers per jaar: wie maakt de offertes en gebeurt dat na werktijd?"
+  verification: "aangepast: Bestaat en actief (RJS Badkamers B.V., KvK 92025609, Zandzegge 10 Winkel). Telefoon 0229 74 5434 klopt (tel-link op site). Site bevestigt eigen vakmensen uit eigen team; LinkedIn-bedrijfspagina (website rjsbadkamers.nl) meldt 11-50 medewerkers, dus >=5 aantoonbaar. Exacte 26 mw en 350 renovaties/jaar blijven onbevestigd. Past in segment (badkamerrenovatie particulier). Geen vacatures gevonden."
+
+- name: Aannemersbedrijf Versteeg Utrecht B.V.
+  url: https://www.versteeg-utrecht.nl
+  phone: "030-2808050"
+  city: Houten (Utrecht)
+  priority_score: "7/10"
+  industry: Aannemer renovatie, onderhoud en verbouw (particulier, VvE, zakelijk)
+  size: "11-50 medewerkers (LinkedIn); timmerlieden en metselaars in eigen dienst (vacaturepagina). KvK-klasse 20-49 uit invoer niet zelf gezien."
+  tech_stack: "Site gebouwd door Roax Design; CMS niet geverifieerd; geen offerte-/calculatiesoftware zichtbaar; contactformulier aanwezig"
+  relevant_vacancies: "Projectleider/Projectuitvoerder (open, versteeg-utrecht.nl/vacatures/); ook Allround Timmerman (niet relevant)"
+  why_fit: "Gevestigd renovatie-/onderhoudsbedrijf met particuliere, VvE- en zakelijke klanten, 20-49 mw, 24/7 service; veel opnames en kleine/middelgrote offertes."
+  decision_maker: "Directeur / calculator of projectleider"
+  linkedin: "https://nl.linkedin.com/company/aannemersbedrijf-versteeg"
+  sources:
+    size: "invoer (KvK); niet geverifieerd op site"
+    phone: "niet gevonden op site"
+    relevant_vacancies: "https://www.versteeg-utrecht.nl"
+    decision_maker: null
+    multi_location: "niet geverifieerd"
+  value_proposition: "Opnames bij VvE's en particulieren inspreken met foto's en automatisch een conceptofferte laten opstellen, zodat projectleiders minder avonduren in offertes steken."
+  outreach_strategy: "Bel directie/projectleider: 'Wij onderzoeken hoe lang het bij renovatiebedrijven duurt van opname tot verstuurde offerte. Hoe is dat bij jullie, en wie maakt de offertes?' Haak aan op de open vacature projectuitvoerder."
+  conversation_starters:
+    - "U werkt voor particulieren, VvE's en bedrijven: hoe lang duurt het gemiddeld van opname tot verstuurde offerte?"
+    - "U zoekt een projectuitvoerder: zit de drukte vooral in uitvoering of ook in het offertewerk?"
+  verification: "aangepast: Telefoon gevonden op contactpagina: (030) 280 80 50, Peppelkade 1 Houten. LinkedIn-bedrijfspagina 'Aannemersbedrijf Versteeg' (hoofdkantoor Houten, website versteeg-utrecht.nl) meldt 11-50 medewerkers; vacaturetekst noemt timmerlieden en metselaars in eigen dienst, ISO9001, VCA**, BouwGarant en zusterbedrijf Loodgietersbedrijf Utrecht. Vacature is Projectleider/Projectuitvoerder (incl. meer-/minderwerk verrekenen) plus Allround Timmerman. Renovatie/onderhoud/verbouw particulier en zakelijk past."
+
+- name: DRO Renovaties
+  url: https://dro-renovaties.nl
+  phone: "085 087 1814"
+  city: "Den Haag (Orionstraat 235 volgens eigen site)"
+  priority_score: "7/10"
+  industry: Totaalrenovaties, badkamers en uitbouwen particulier
+  size: "ruim 35 vaste vakmensen plus kantoor (eigen site, over-ons); SBB-erkend leerbedrijf; KvK 94825653; geen onafhankelijke telling"
+  tech_stack: "CMS niet vast te stellen; site noemt sectie 'handige tools' en een projectintake met reactie binnen 24 uur (formulier). Geen offerte-/calculatiesoftware zichtbaar."
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Totaalrenovaties met vaste prijs, geen aanbetaling en fasegewijze facturatie: elke klus start met opname en een gedetailleerde offerte. Eigen vaste vakmensen en kantoorteam; Randstad particulier. Oprichtingsjaar ongeveer 7 jaar geleden, dus jong bedrijf."
+  decision_maker: "Directeur-eigenaar / calculator of projectleider die opnames en offertes doet"
+  linkedin: "https://www.linkedin.com/company/dro-renovaties/"
+  sources:
+    size: "invoer (niet geverifieerd); trustoo.nl/zuid-holland/den-haag/badkamer-renovatie/dro-renovaties/ (familiebedrijf, ervaring)"
+    phone: "niet gevonden op site"
+    relevant_vacancies: "dro-renovaties.nl homepage (geen vacatures vermeld)"
+    decision_maker: null
+    multi_location: "Een vestiging (Den Haag), werkgebied Randstad"
+  value_proposition: "Van spraakmemo en foto's na de opname direct een conceptofferte met vaste prijs op eigen prijslijst, zodat de offerte sneller de deur uit gaat zonder avondwerk."
+  outreach_strategy: "Telefoon via website-intake zoeken of mailen; bel de eigenaar. Onderzoeksvraag: 'Hoe lang duurt het bij jullie van opname naar verstuurde offerte, zeker met vaste prijzen per fase?' Vraag wie het uitwerkt en wanneer."
+  conversation_starters:
+    - "Jullie werken met vaste prijs en fasegewijze betaling; hoeveel uitzoekwerk zit er in een offerte voor een totaalrenovatie?"
+    - "Hoeveel opnames doen jullie per week en wie werkt die uit?"
+  verification: "aangepast: Actief renovatiebedrijf Den Haag (totaalrenovatie, badkamers, uitbouw particulier), KvK 94825653 op site. Over-ons-pagina noemt expliciet 'vast team van ruim 35 vakmensen', een benoemde kantoormedewerker en SBB-erkend leerbedrijf; zo is >=5 aantoonbaar. Geen onafhankelijke telling gevonden; let op: site claimt 10+ jaar, Trustoo ~7 jaar, KvK-nummer is recent. Telefoon gevonden: 085 087 1814. Adres op site: Orionstraat 235 (Trustoo-adres Verheeskade 197 is verouderd). LinkedIn-bedrijfspagina linkt naar dro-renovaties.nl."
+
+- name: "Strix Bouw"
+  url: "https://www.strixbouw.nl/"
+  phone: "06 82 05 82 60"
+  city: "Groningen"
+  priority_score: "6/10"
+  industry: "Aannemer verbouw/renovatie: badkamerrenovatie, stucwerk, totale verbouwing, afbouw nieuwbouw, installatiewerk; vooral particulier"
+  size: "niet geverifieerd (site: 'vast team' zonder aantal; KvK 88973867 op naam Strix Solutions h.o.d.n. Strix Bouw, recente inschrijving ondanks 'sinds 2010'; geen werkzame-personen-aantal gevonden)"
+  tech_stack: "CMS niet vastgesteld; offerteformulier voor gratis opname/offerte; geen zichtbare calculatiesoftware. Impliceert maatwerkoffertes die na opname handmatig worden opgesteld."
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Particuliere verbouw/badkamerrenovatie met maatwerkoffertes na een eerste gesprek en opname ('offerte op maat'). Past bij het probleem van offertes schrijven na werktijd. Teamgrootte onzeker, dus gemiddelde score."
+  decision_maker: "Directeur-eigenaar / werkvoorbereider of calculator"
+  linkedin: null
+  sources:
+    size: "niet geverifieerd"
+    phone: "https://www.strixbouw.nl/"
+    relevant_vacancies: "https://www.strixbouw.nl/ (geen vacatures zichtbaar)"
+    decision_maker: null
+    multi_location: "niet geverifieerd; werkgebied Groningen/Friesland/Drenthe"
+  value_proposition: "Na de opname bij de klant een spraakmemo en foto's inspreken en daar een conceptofferte op eigen tarieven van laten maken, zodat de offerte dezelfde dag de deur uit kan."
+  outreach_strategy: "Bel de eigenaar: 'U werkt met offertes op maat na een opname bij de klant. Hoe lang duurt het gemiddeld van opname tot verstuurde offerte, en wanneer maakt u die?' Vraag ook hoeveel offertes per week."
+  conversation_starters:
+    - "U belooft een offerte op maat zonder verborgen kosten. Hoeveel tijd gaat er gemiddeld in één badkamer- of verbouwofferte zitten?"
+    - "Doet u de opnames zelf, en wanneer schrijft u daarna de offertes?"
+  verification: "aangepast: Bedrijf actief, telefoon 06 82 05 82 60 en KvK 88973867 kloppen (site). Particuliere badkamer-/verbouwrenovatie past. Grootte blijft onverifieerbaar: site noemt alleen 'vast team', geen KvK-aantal of LinkedIn gevonden. KvK 88973867 staat op naam Strix Solutions (h.o.d.n. Strix Bouw); dat nummerbereik is recent (ca. 2023), wat botst met 'sinds 2010'. LinkedIn-URL niet terug te vinden, dus null. Geen bewijs <5, maar ook niet >=5: bellen met grootte-check eerst."
+
+- name: "Renovatiebedrijf Brabant"
+  url: "https://renovatiebedrijfbrabant.nl/"
+  phone: "013 203 29 72"
+  city: "Tilburg"
+  priority_score: "6/10"
+  industry: "Renovatiebedrijf: badkamer, keuken en complete woningrenovatie (Noord-Brabant), vaste prijzen"
+  size: "niet geverifieerd (site: eigen team van timmerlui, loodgieters, tegelzetters, schilders, zonder aantal; KvK 73987735)"
+  tech_stack: "CMS niet vast te stellen (site blokkeert fetch, 403). Werkt met vaste prijzen voor 74+ diensten en 'gratis offerte' per werkgebied-pagina (SEO-pagina's per plaats). Offerte-/calculatiesoftware niet geverifieerd. Impliceert: gestandaardiseerde prijslijst, goed geschikt voor offerte op eigen prijslijst."
+  relevant_vacancies: "geen relevante vacatures gevonden (eigen site niet bereikbaar; zoekresultaten betroffen andere bedrijven)"
+  why_fit: "Voert opnames (gratis opmeting) en offertes uit bij particulieren voor badkamer/keuken/woningrenovatie met eigen vakmensen; vaste prijzen op een eigen prijslijst past direct bij AI-conceptofferte. Grootte niet te verifieren, daarom 6."
+  decision_maker: "Directeur-eigenaar / calculator of werkvoorbereider"
+  linkedin: null
+  sources:
+    size: "https://renovatiebedrijfbrabant.nl/ (via zoekresultaat; indicatie uit invoerlijst, niet geverifieerd)"
+    phone: "https://renovatiebedrijfbrabant.nl/"
+    relevant_vacancies: "niet geverifieerd, site 403"
+    decision_maker: null
+    multi_location: "niet gevonden op site; werkgebied-pagina's per plaats (o.a. Nuenen) zijn geen vestigingen"
+  value_proposition: "Na de opmeting bij de klant inspreken wat er gedaan moet worden en foto's maken; AI zet dit om in een conceptofferte op uw vaste prijslijst, zodat offertes dezelfde dag de deur uit kunnen."
+  outreach_strategy: "Bel overdag, vraag naar de eigenaar of degene die de opmetingen en offertes doet. Onderzoeksgesprek: 'Hoe lang duurt het bij jullie van opmeting naar een verstuurde offerte?' en hoe vaak offertes wachten op de avond."
+  conversation_starters:
+    - "Jullie werken met vaste prijzen voor tientallen diensten: wie vertaalt een opmeting in de offerte, en hoeveel tijd kost dat per aanvraag?"
+    - "Bij een gratis opmeting is de klant vaak snel weg bij een andere aanbieder: hoe snel krijgt de klant bij jullie de offerte?"
+  verification: "aangepast: Site bereikbaar met browser-UA (geen 403 meer): telefoon 013 203 29 72, Burgemeester Stekelenburgplein 83 5041 SC Tilburg, KvK 73987735, 'Eigen vakmensen, geen onderaannemers' (timmerlui, loodgieters, tegelzetters, schilders), vaste prijzen. Teamgrootte nergens gevonden (geen KvK-aantal, geen LinkedIn), dus onverifieerbaar. Geen vacatures op de homepage."
+
+- name: TBGS B.V. (Totaal Bouw Groep Specialisten)
+  url: https://www.tbgs.nl
+  phone: "040-202-6744"
+  city: Eindhoven
+  priority_score: "6/10"
+  industry: Dakdekker, onderhoud en bouw/verbouw (aanbouw, renovatie, metselwerk, kozijnen); familiebedrijf sinds 1943
+  size: "niet exact geverifieerd; bedrijfsprofiel 1-25 medewerkers, eigen vakmensen in loondienst, 4 divisies"
+  tech_stack: "Eigen website (CMS niet vastgesteld); offerte-/calculatiesoftware niet geverifieerd; belooft vaste-prijsofferte binnen 3 werkdagen, wat wijst op handmatig opname- en offertewerk met doorlooptijddruk"
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Voert zelf opnames uit bij particulier/vastgoedbeheer (MJOP-partner), meerdere diensten (dak, schoorsteen, onderhoud, bouw) en een expliciete belofte van offerte binnen 3 werkdagen; eigen personeel in loondienst. Grootte onbevestigd, daarom niet hoger."
+  decision_maker: "Rick en Ronny (eigenaren, familiebedrijf 4e generatie) / werkvoorbereider"
+  linkedin: null
+  sources:
+    size: "https://www.tbgs.nl (eigen vaste vakmensen, 80+ jaar, 18 steden); aantal niet gevonden"
+    phone: "https://www.tbgs.nl"
+    relevant_vacancies: "https://www.tbgs.nl (geen vacatures gevonden)"
+    decision_maker: null
+    multi_location: "Eén adres (Hurksestraat 64, Eindhoven); werkgebied 18 gemeenten"
+  value_proposition: "Opname inspreken en foto's maken op locatie; AI maakt direct een conceptofferte op eigen prijslijst, zodat de belofte van offerte binnen 3 werkdagen zonder avonduren haalbaar blijft."
+  outreach_strategy: "Bel de eigenaar of de persoon die de opnames en offertes doet. Onderzoeksvraag: hoe lang duurt het bij jullie van opname naar verstuurde offerte, en wie maakt die 's avonds? Vraag door op de 3-werkdagenbelofte en hoe dat verdeeld is over dak, onderhoud en bouw."
+  conversation_starters:
+    - "Jullie beloven een vaste-prijsofferte binnen drie werkdagen. Hoe lang duurt het in de praktijk van opname tot verstuurde offerte, en wie zit daar 's avonds aan?"
+    - "Jullie doen dak, schoorsteen, onderhoud en bouw. Is de offertestructuur per divisie verschillend, of werken jullie met één prijslijst?"
+  verification: "aangepast: Actief, tel 040-202 6744 klopt, Hurksestraat 64 Eindhoven; dak/schoorsteen/onderhoud/bouw met eigen vakmensen in loondienst, past in segment. Grootte alleen als bandbreedte 1-25 gevonden (bedrijfsprofiel), exact aantal niet. Directie volgens bronnen Rick (4e generatie) en vader Ronny; familienaam 'Van Helmont' niet bevestigd. linkedin.com/company/tbgs-bv geeft 404, dus null. Belofte 'offerte binnen 3 werkdagen' niet op homepage teruggevonden (wel vaste prijs)."
+
+- name: Dakdekkersbedrijf Peter Ummels B.V.
+  url: https://www.dakdekkersbedrijf-ummels.nl
+  phone: "045 522 08 71"
+  city: Brunssum
+  priority_score: "6/10"
+  industry: Dakdekker (hellende en platte daken, groene daken, zonnepanelen, onderhoud)
+  size: "site: 50+ medewerkers; LinkedIn: 11-50 (8 gekoppelde profielen); KvK-telling niet gevonden"
+  tech_stack: "Wix (website door Double Socials); geen offerte-/calculatiesoftware zichtbaar."
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Dakdekker met opnames en offertes voor onderhoud/renovatie. Risico: sinds dec 2025 onderdeel van HC Partners-dakdekkersplatform (buy-and-build, meerdere dakdekkers), dus mogelijk centrale keuzes."
+  decision_maker: "Directeur-eigenaar / werkvoorbereider-calculator"
+  linkedin: https://www.linkedin.com/company/dakdekkersbedrijf-peter-ummels-bv/
+  sources:
+    size: "https://www.dakdekkersbedrijf-ummels.nl"
+    phone: "https://www.dakdekkersbedrijf-ummels.nl/contact"
+    relevant_vacancies: "https://www.dakdekkersbedrijf-ummels.nl (geen vacatures vermeld)"
+    decision_maker: null
+    multi_location: "https://www.dakdekkersbedrijf-ummels.nl/contact (een adres: Brunssum)"
+  value_proposition: "Dakopname met spraakmemo en foto's direct naar conceptofferte op eigen prijslijst."
+  outreach_strategy: "Bel naar kantoor/calculator. Onderzoeksvraag: hoe lang duurt het van opname op het dak tot verstuurde offerte, en hoe gaat dat nu na de samenwerking met HC Partners?"
+  conversation_starters:
+    - "Hoeveel dakopnames doen jullie per week en hoe snel ligt de offerte bij de klant?"
+    - "Wie maakt de offertes, en gebeurt dat na werktijd?"
+  verification: "aangepast: Bestaat en actief (site, LinkedIn Brunssum). Grootte: site 'meer dan 50 medewerkers', LinkedIn-bedrijfspagina 11-50 medewerkers met 8 gekoppelde profielen, dus >=5 aannemelijk; KvK-personeelstelling niet gevonden. Telefoon 045-5220871 klopt (contactpagina). LinkedIn-pagina hoort bij dit bedrijf. HC Partners (investeerder) ging op 10-12-2025 een strategisch partnership aan; HC bouwt een landelijk dakdekkersplatform (o.a. West Friesland Dakbedekkingen, Verbidak, Hoekdak, Holst): risico op groepsbeslissingen over software. Segment past (dakonderhoud/-renovatie)."
+
+- name: Aannemersbedrijf Bout & Zn B.V.
+  url: https://www.aannemerbout.nl
+  phone: "035 - 525 22 29"
+  city: Huizen
+  priority_score: "6/10"
+  industry: Aannemer verbouw/renovatie (uitbouw, badkamer, zolder, dakkapel, dak- en gevelwerk) plus nieuwbouw/vastgoedonderhoud
+  size: "10 werknemers volgens jaarrekening 2024 (KvK 32144523; reeks 8-9-10-10)"
+  tech_stack: "CMS niet vastgesteld; geen offerte-/calculatiesoftware of offerteformulier gevonden op homepage; BouwGarant-lid"
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Familiebedrijf (75+ jaar) met breed verbouwpakket voor particulieren (uitbouw, badkamer, zolder, dakkapel) en BouwGarant-lid; opnames en offertes voor kleine tot middelgrote projecten. Grootte en loondienst niet bevestigd, dus voorzichtige score."
+  decision_maker: "Directeur-eigenaar / calculator-werkvoorbereider"
+  linkedin: null
+  sources:
+    size: null
+    phone: https://www.aannemerbout.nl
+    relevant_vacancies: https://www.aannemerbout.nl
+    decision_maker: null
+    multi_location: "niet gevonden op site (Industrieweg 9A, Huizen)"
+  value_proposition: "Spraakmemo en foto's van de opname omzetten in een conceptofferte op eigen prijslijst, zodat offertes sneller de deur uitgaan zonder avondwerk."
+  outreach_strategy: "Bel directeur/eigenaar voor een onderzoeksgesprek; vraag eerst naar teamgrootte en wie opnames doet. Kernvraag: hoe lang duurt het van opname tot verstuurde offerte?"
+  conversation_starters:
+    - "Jullie doen alles van uitbouw tot badkamer; wie maakt na de opname de offerte en wanneer?"
+    - "Hoe lang duurt het gemiddeld van opname tot verstuurde offerte, en hoeveel gaat er niet door omdat het te lang duurt?"
+  verification: "aangepast: Bestaat en actief (Aannemersbedrijf Bout en Zonen B.V., KvK 32144523, Industrieweg 9 Huizen). Grootte onafhankelijk bevestigd: 8-9-10-10 werknemers in de jaarrekeningen (liza: 10 FTE, 2024). Telefoon 035-5252229 klopt (contact, plus mobiele nummers). Segment past: uitbouw, interne verbouwing, badkamer, zolder, dakkapel bij particulieren; ook nieuwbouw en vastgoedonderhoud. Site noemt '100 jaar ervaring'. Geen vacatures gevonden."
+
+- name: Bouwbedrijf Jolink B.V.
+  url: https://bouwbedrijf-jolink.nl
+  phone: "0314-381309"
+  city: Hummelo (Achterhoek)
+  priority_score: "6/10"
+  industry: Aannemer nieuwbouw, verbouw, restauratie en boerderijverbouw
+  size: "12 werknemers in vaste dienst plus inhuur zzp (bron: bouwbedrijf-jolink.nl/over-ons); aanlevering zei 10"
+  tech_stack: "CMS niet geïdentificeerd; geen offerteformulier of calculatiesoftware zichtbaar; BouwGarant; eigen timmerwerkplaats"
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Familiebedrijf sinds 1936, 12 vaste mw, particulier en zakelijk, verbouw en restauratie; offertes voor maatwerk met opname ter plaatse. Kleine organisatie waar eigenaar waarschijnlijk zelf calculeert; ondergrens qua grootte."
+  decision_maker: "Directeur-eigenaar"
+  linkedin: null
+  sources:
+    size: https://bouwbedrijf-jolink.nl/over-ons
+    phone: https://bouwbedrijf-jolink.nl
+    relevant_vacancies: "Geen vacatures op https://bouwbedrijf-jolink.nl"
+    decision_maker: null
+    multi_location: "Eén vestiging (Dorpsstraat 37, Hummelo)"
+  value_proposition: "Eigenaar hoeft niet 's avonds offertes te typen: spraakmemo en foto's van de opname worden een conceptofferte op eigen tarieven."
+  outreach_strategy: "Bel de eigenaar: hoe lang duurt het van opname tot verstuurde offerte, en doet u dat zelf in de avond? Vraag ook hoeveel verbouwopnames per week."
+  conversation_starters:
+    - "In de Achterhoek rijdt u veel naar opnames; wanneer maakt u daarna de offerte?"
+    - "Hoeveel offertes verlaten per week het bedrijf?"
+  verification: "bevestigd: Bedrijf actief en telefoon 0314-381309 klopt. Over-ons bevestigt 'twaalf werknemers in vaste dienst', plus ingeleende krachten. Doet verbouw, restauratie en boerderijverbouw voor particulieren (dakkapel tot renovatie) en offreert op maat. Geen vacatures op de site."
+
+- name: Van Delden Bouw
+  url: https://www.vandeldenbouw.nl
+  phone: "0598 49 18 88"
+  city: Kiel-Windeweer
+  priority_score: "6/10"
+  industry: Aannemer nieuwbouw, renovatie, restauratie, aardbevingsschade en onderhoud (woning, winkels, utiliteit, industrie)
+  size: "zo'n twintig timmerlieden in dienst (eigen site); LinkedIn 11-50"
+  tech_stack: "WordPress met Formidable Forms; online offerteaanvraagformulier op homepage; geen offerte-/calculatiesoftware zichtbaar; impliceert handmatige verwerking van aanvragen"
+  relevant_vacancies: "geen relevante vacatures gevonden (alleen Allround Timmerman, niet relevant)"
+  why_fit: "Familiebedrijf met renovatie, onderhoud en aardbevingsherstel voor particulier en zakelijk, online offerteformulier op de homepage; opnames en offertes zijn kernproces. Mix met nieuwbouw/utiliteit/industrie en onbevestigde grootte verlaagt de score."
+  decision_maker: "Directeur-eigenaar / calculator-werkvoorbereider"
+  linkedin: "https://www.linkedin.com/company/van-delden-bouw"
+  sources:
+    size: null
+    phone: https://www.vandeldenbouw.nl
+    relevant_vacancies: https://www.vandeldenbouw.nl
+    decision_maker: null
+    multi_location: "niet gevonden op site (enkele locatie Kiel-Windeweer)"
+  value_proposition: "Opnamegegevens via spraakmemo en foto's direct omzetten in een conceptofferte op eigen sjabloon, ook bij schade- en onderhoudsopnames."
+  outreach_strategy: "Bel directeur/eigenaar voor onderzoeksgesprek: hoe lang duurt het van opname (renovatie, onderhoud, schadeherstel) tot verstuurde offerte, en wie schrijft die?"
+  conversation_starters:
+    - "Jullie hebben een offerteformulier op de site; hoe lang duurt het van aanvraag en opname tot verstuurde offerte?"
+    - "Bij onderhoud en schadeherstel zijn opnames vaak klein maar talrijk; wie maakt die offertes en wanneer?"
+  verification: "aangepast: Bedrijf actief (Van Delden Bouw b.v., Dorpsstraat 172, Kiel-Windeweer) en telefoon 0598 49 18 88 klopt. De grootte staat nu op de eigen over-ons-pagina: 'werken zo'n twintig timmerlieden' als werknemers, erkend leerbedrijf. LinkedIn geeft 11-50. Doet renovatie, restauratie en aardbevingsschade voor woningen en bedrijven, met een offerteformulier op de site. De enige vacature is allround timmerman, niet relevant. De LinkedIn-pagina hoort bij het bedrijf (zelfde adres)."
+
+- name: Van Diessen Dakbedekkingen
+  url: https://www.vandiessendak.nl
+  phone: "040 253 07 52"
+  city: Valkenswaard
+  priority_score: "6/10"
+  industry: Dakdekker/dakbedekkingen (platte daken en dakrenovatie)
+  size: "LinkedIn 11-50; vacatures uitvoerder en dakdekker (40 uur, loondienst); aantal 25 niet bevestigd"
+  tech_stack: "niet vastgesteld (site onbereikbaar voor ophalen, HTTP 403); geen offerte-/calculatiesoftware bekend"
+  relevant_vacancies: "geen relevante vacatures gevonden (alleen uitvoerder en dakdekker; geen calculator)"
+  why_fit: "Dakdekkersbedrijf met platte daken en renovatie, waarschijnlijk circa 25 mw en een calculatorvacature (volgens invoer): signaal van offertedruk. Bevestiging van grootte, vacature en particulier/MKB-opnames ontbreekt, dus voorzichtige score."
+  decision_maker: "Directeur-eigenaar / calculator"
+  linkedin: "https://www.linkedin.com/company/a.-van-diessen-dakbedekkingen-b.v./"
+  sources:
+    size: null
+    phone: null
+    relevant_vacancies: null
+    decision_maker: null
+    multi_location: "niet gevonden op site (site niet bereikbaar)"
+  value_proposition: "Opname op het dak per spraakmemo en foto's omzetten in een conceptofferte op eigen prijslijst, zodat de calculator minder tijd kwijt is aan offertes."
+  outreach_strategy: "Bel via het hoofdnummer (nog op te zoeken) naar directeur of calculator voor onderzoeksgesprek. Kernvraag: hoe lang duurt het van dakopname tot verstuurde offerte?"
+  conversation_starters:
+    - "Jullie zoeken (naar ik begreep) een calculator; hoeveel offertes liggen er gemiddeld te wachten na de opnames?"
+    - "Hoe lang duurt het van dakopname tot verstuurde offerte?"
+  verification: "aangepast: Site met een browser-UA bereikbaar. A. van Diessen Dakbedekkingen B.V. (sinds 1984, Dragonder 33b, Valkenswaard) is actief. Telefoon is 040 253 07 52. Grootte: LinkedIn geeft 11-50, en de site vraagt een uitvoerder (40 uur) en een dakdekker (40 uur) in loondienst met arbeidsvoorwaarden. Een uitvoerder wijst op meerdere ploegen. Het precieze aantal van 25 is niet bevestigd. Een calculatorvacature staat er nu niet. Doet platte daken voor particulieren (bungalows, aanbouwen, dakkapellen) en bedrijven. De LinkedIn-pagina hoort bij het bedrijf."
+
+- name: Bouwbedrijf Lardenoije B.V.
+  url: https://lardenoijebv.nl
+  phone: "043-409 47 47"
+  city: Eijsden
+  priority_score: "6/10"
+  industry: Aannemer nieuwbouw, verbouw en renovatie met eigen timmerwerkplaats en onderhoudsservice
+  size: "10-19 werkzame personen (KvK 14629533, vestiging Industrieweg 10 werknemers); claim 25 niet bevestigd"
+  tech_stack: "WordPress/YooTheme (cachepaden); website door LinQxx; geen offerteformulier of offerte-/calculatiesoftware gevonden; VCA 1-ster, Bouwend Nederland-lid"
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Familiebedrijf met verbouw/renovatie en onderhoudsservice (opnames bij particulier en zakelijk), eigen timmerwerkplaats; waarschijnlijk 20+ mw. Mix met nieuwbouw en onbevestigde grootte houdt score op redelijk."
+  decision_maker: "Directeur-eigenaar / calculator-werkvoorbereider"
+  linkedin: null
+  sources:
+    size: null
+    phone: https://lardenoijebv.nl
+    relevant_vacancies: https://lardenoijebv.nl
+    decision_maker: null
+    multi_location: "niet gevonden op site (Industrieweg 8, Eijsden)"
+  value_proposition: "Spraakmemo en foto's van opnames omzetten in een conceptofferte op eigen prijslijst, zodat verbouw- en onderhoudsofferten sneller verstuurd worden."
+  outreach_strategy: "Bel directeur/eigenaar voor onderzoeksgesprek: hoe lang duurt het van opname (verbouw/onderhoud) tot verstuurde offerte, en wie maakt die?"
+  conversation_starters:
+    - "Jullie doen naast nieuwbouw ook verbouw en onderhoud; hoeveel offertes per week komen daar uit opnames voort?"
+    - "Hoe lang duurt het gemiddeld van opname tot verstuurde offerte bij een verbouwing?"
+  verification: "aangepast: Actief; 043-4094747, Industrieweg 8 Eijsden op site. Grootte via KvK-gegevens op aannemer-nu: Bouwbedrijf Lardenoije Maastricht Eijsden BV, KvK 14629533, BV sinds 1992, 10-19 werkzame personen (vestiging 10 werknemers). Trustoo noemt 3 medewerkers maar op andere entiteit (Beheermaatschappij, KvK 14067877) en is zelfopgave. Invoerclaim 25 niet bevestigd. Segment redelijk (verbouw/renovatie/onderhoud naast nieuwbouw). Geen vacatures, geen LinkedIn."
+
+- name: Bouwbedrijf Van Tongeren
+  url: https://bouwbedrijfvantongeren.nl
+  phone: "074-2600003"
+  city: Hengelo (Overijssel)
+  priority_score: "6/10"
+  industry: Aannemer nieuwbouw, verbouw, renovatie, onderhoud en verduurzaming (particulier en zakelijk)
+  size: "Team van 12 vakmensen (eigen site); ca. 14 jaar actief; familiebedrijf; KvK 51566877"
+  tech_stack: "WordPress; WhatsApp-contact, contactformulier; geen offerte-/calculatiesoftware zichtbaar. Implicatie: handmatige offertes"
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Aannemer met particulier en zakelijk werk, verbouw/renovatie met opnames bij klant, BouwGarant; 12 mw is onder de kernfit maar binnen bereik."
+  decision_maker: "Directeur-eigenaar"
+  linkedin: null
+  sources:
+    size: "https://bouwbedrijfvantongeren.nl"
+    phone: "https://bouwbedrijfvantongeren.nl"
+    relevant_vacancies: "niet gevonden op site"
+    decision_maker: null
+    multi_location: "niet geverifieerd; adres Boekeloseweg 93, 7553 DL Hengelo"
+  value_proposition: "Eigenaar die zelf opnames en offertes doet bespaart avonduren door spraakmemo en foto's te laten omzetten in een conceptofferte."
+  outreach_strategy: "Bel de eigenaar: 'Wij onderzoeken hoe lang het bij aannemers duurt van opname tot verstuurde offerte. Hoe loopt dat bij jullie en wie schrijft de offertes?'"
+  conversation_starters:
+    - "Bij verbouwingen voor particulieren: hoeveel dagen zit er gemiddeld tussen opname en verstuurde offerte?"
+    - "Schrijft u de offertes zelf, en wanneer op de dag komt u daaraan toe?"
+  verification: "bevestigd: Site bevestigt 'team uitgebreid naar 12 toegewijde vakmensen', KvK 51566877, telefoon 074-2600003 (tel-link). Verbouw/renovatie particulier en zakelijk past. Geen LinkedIn-bedrijfspagina gevonden; geen vacatures."
+
+- name: Janssen Bouwen | Ontwikkelen
+  url: https://janssenbo.nl
+  phone: "077 307 12 29"
+  city: Panningen
+  priority_score: "6/10"
+  industry: Bouwbedrijf (particuliere nieuwbouw, verbouw en renovatie; zakelijk; projectbouw/transformaties)
+  size: "meer dan 60 vaklieden (eigen site); LinkedIn: 11-50 mw, 27 profielen; sinds 1926"
+  tech_stack: "Website door Crispy (crispy.nl); online contactformulier; geen offerte-/calculatiesoftware zichtbaar."
+  relevant_vacancies: "Werkvoorbereider, Projectleider, Uitvoerder, Voorman/assistent uitvoerder (open op uitblinkersindebouw.nl, wervingssite van Janssen)"
+  why_fit: "Particulier verbouw/renovatie met opnames en offertes; 60+ mw in loondienst is bovenkant van ICP. Deel van de omzet is projectbouw/zakelijk en nieuwbouw, dus mogelijk minder kleine offertes."
+  decision_maker: "Directeur / calculator-werkvoorbereider (afdeling verbouw)"
+  linkedin: https://nl.linkedin.com/company/janssen-bouwen-l-ontwikkelen
+  sources:
+    size: "https://janssenbo.nl"
+    phone: "https://janssenbo.nl/werken-bij"
+    relevant_vacancies: "https://janssenbo.nl/werken-bij"
+    decision_maker: null
+    multi_location: "https://janssenbo.nl (een adres: Panningen)"
+  value_proposition: "Voor verbouw- en renovatieopnames: spraakmemo en foto's naar conceptofferte op eigen prijslijst, zodat calculatoren minder tijd kwijt zijn aan kleine offertes."
+  outreach_strategy: "Bel naar werkvoorbereider/calculator of directie, vraag wie de verbouwofferte voor particulieren doet. Onderzoeksvraag: hoe lang duurt het van opname tot verstuurde offerte bij verbouwprojecten?"
+  conversation_starters:
+    - "Bij verbouwingen voor particulieren: hoe lang zit er gemiddeld tussen opname en offerte?"
+    - "Ik zag dat jullie werkvoorbereiders en projectleiders zoeken; kost het offerteren veel van hun tijd?"
+  verification: "aangepast: Actief bouwbedrijf Panningen (sinds 1926), particulier verbouw/renovatie plus projectbouw. Grootte: site 'meer dan 60 vaklieden', LinkedIn 11-50 mw met 27 gekoppelde profielen. Telefoon 077 307 12 29 klopt. Vacatures wel ingezien op uitblinkersindebouw.nl: Werkvoorbereider, Projectleider, Uitvoerder, Voorman/assistent uitvoerder, Maatvoerder, Werkplaatstimmerman. LinkedIn-pagina hoort bij bedrijf."
+
+- name: Bylders Bouw & Renovatie
+  url: https://bylders.nl/
+  phone: "085 401 7707"
+  city: Zwolle (Overijssel)
+  priority_score: "5/10"
+  industry: Aannemer verbouw en renovatie (badkamer, toilet, totaalrenovatie, uitbouw, sloop, stuc- en schilderwerk), particulier en zakelijk, straal 50 km rond Zwolle
+  size: "6-8 gespecialiseerde vakmensen (bylders.nl/over-ons); KvK 97671444 (recente inschrijving); loondienst niet geverifieerd"
+  tech_stack: "WordPress (wp-content); offerte-aanvraagpagina, geen zichtbare calculatiesoftware; impliceert handmatig opgemaakte offertes voor veelzijdige renovatieprojecten (veel disciplines onder een dak)"
+  relevant_vacancies: "geen relevante vacatures gevonden (vacaturepagina bestaat niet of is leeg)"
+  why_fit: "Allround renovatiebedrijf met opnames bij particulier en MKB, alles in eigen beheer (meerdere disciplines per offerte, dus complexe offertes). Risico: team van 6-8 ligt onderin de ICP-range en offertes liggen waarschijnlijk bij de eigenaar."
+  decision_maker: "Directeur-eigenaar (Toni, volgens klantreview; naam niet geverifieerd als eigenaar) / calculator"
+  linkedin: null
+  sources:
+    size: https://bylders.nl/over-ons/
+    phone: https://bylders.nl/
+    relevant_vacancies: https://bylders.nl/vacatures/
+    decision_maker: null
+    multi_location: "Eén vestiging in Zwolle (Vosseveld 21); regiopagina's voor Kampen en Overijssel"
+  value_proposition: "Opname bij de klant omzetten via spraakmemo en foto's in een conceptofferte op de eigen prijslijst, ook voor combinaties van loodgieter-, elektra-, tegel- en schilderwerk."
+  outreach_strategy: "Bel de eigenaar met onderzoeksvraag: 'Hoe lang duurt het bij jullie van opname tot verstuurde offerte als er meerdere disciplines in een renovatie zitten?' Vraag wie dat uitwerkt en hoeveel offertes er per week uitgaan."
+  conversation_starters:
+    - "Jullie doen alles onder een dak, van sloop tot tegelwerk: hoe lang kost het om zo'n totaalofferte na de opname rond te krijgen?"
+    - "Gebeurt het uitwerken van offertes overdag of 's avonds na de opnames?"
+  verification: "aangepast: Over-ons bevestigt 'team van 6 tot 8 gespecialiseerde vakmensen', telefoon 085 – 4017707, Vosseveld 21 Zwolle. KvK op de site is 97671444; dat is een recente inschrijving (ca. 2025), wat botst met '20+ jaar ervaring'. Of de vakmensen in loondienst zijn is niet geverifieerd. Segment past (allround renovatie, particulier en MKB)."
+
+- name: Zwaluw Comfortsanitair
+  url: https://zwaluwcomfortsanitair.nl
+  phone: "0800-0200962"
+  city: Zeewolde
+  priority_score: "5/10"
+  industry: Badkamerrenovatie (comfortdouches, toegankelijke baden, complete badkamers; particulier, landelijk)
+  size: "27 FTE volgens KvK/jaarrekening (KvK 58658300); groei van 13 naar 27"
+  tech_stack: "CMS niet geverifieerd; geen offerte-/calculatiesoftware zichtbaar; online aanvraag/afspraak. Implicatie: standaardiseerbaar aanbod, mogelijk eigen systemen"
+  relevant_vacancies: "geen relevante vacatures gevonden"
+  why_fit: "Badkamer-/douche-aanpassing bij particulieren met thuisadvies (opname) en offerte, eigen adviseurs en monteurs, 27 FTE. Risico: gestandaardiseerd productaanbod (SBI detailhandel), dus offertes mogelijk al sjabloonmatig."
+  decision_maker: "Directeur / commercieel of operationeel manager"
+  linkedin: null
+  sources:
+    size: "niet gevonden op site"
+    phone: "https://zwaluwcomfortsanitair.nl"
+    relevant_vacancies: "niet gevonden op site"
+    decision_maker: null
+    multi_location: "niet geverifieerd; showroom Nijverheidsweg 25, Zeewolde, landelijke dekking"
+  value_proposition: "Opnemers snel en consistent offertes laten maken uit spraakmemo en foto's bij maatwerkbadkamers."
+  outreach_strategy: "Bel operationeel/commercieel manager: 'Wij onderzoeken hoe lang het duurt van opname tot verstuurde offerte bij badkamerrenovaties. Hoe loopt dat bij jullie, en is het standaard of maatwerk?' Eerst grootte en opnameproces toetsen."
+  conversation_starters:
+    - "Hoeveel opnames doen jullie adviseurs per week en hoe lang duurt het tot de offerte verstuurd is?"
+    - "Hoeveel van de offertes zijn standaard en hoeveel maatwerk?"
+  verification: "aangepast: Bestaat en actief (Zwaluw Comfortsanitair B.V., KvK 58658300, sinds 2013). Grootte via KvK/jaarrekeningen: 27 FTE (reeks 13-13-23-27), dus binnen bereik. Telefoon 0800-0200962 klopt. Eigen adviseurs (thuisadvies) en eigen monteurs, particulier, landelijk. Kanttekening: SBI is detailhandel, aanbod sterk gestandaardiseerd (comfortdouches) met toonzaal; offertepijn kan laag zijn. Geen vacatures of LinkedIn gevonden."
+
+- name: Hekstra Bedrijven
+  url: https://www.hekstra.nl
+  phone: "0511 421306"
+  city: Damwâld (Willemstrjitte 5, 9104 EL, Friesland)
+  priority_score: "5/10"
+  industry: Rietdekken, dakrenovatie en bouwwerk (renovatie en nieuwbouw), biobased/FSC bouwen
+  size: "LinkedIn: 51-200 medewerkers (22 profielen); vacatures in loondienst (Bouw-cao). Een vestiging Damwâld."
+  tech_stack: "Site gebouwd door Basticom/Opgevallen (CMS niet vast te stellen); geen offerte-/calculatiesoftware zichtbaar."
+  relevant_vacancies: "geen relevante vacatures gevonden (alleen rietdekker, allround timmerman, dakmeester, stage; projectcoördinator niet meer vermeld)"
+  why_fit: "Dak- en rietdekkingsrenovatie bij particulier en MKB met opname en offerte; ruim bedrijf met kantoorfuncties. Kanttekening: bovenkant ICP-range (60-80 mw), mix met nieuwbouw, waarschijnlijk meer kantoorondersteuning dus minder acute pijn bij de eigenaar."
+  decision_maker: "Directeur / calculator of projectcoordinator verantwoordelijk voor offertes"
+  linkedin: https://www.linkedin.com/company/hekstrabedrijven/
+  sources:
+    size: "invoer (niet geverifieerd)"
+    phone: hekstra.nl
+    relevant_vacancies: "hekstra.nl vacaturepagina; drimble.nl vacatures Dantumadiel (projectcoordinator, niet geverifieerd)"
+    decision_maker: null
+    multi_location: "Een vestiging (Damwâld); projecten in Friesland en Noord-Nederland"
+  value_proposition: "Spraakmemo en foto's van dak- of rietopnames omzetten in een conceptofferte op eigen prijslijst en sjabloon, zodat calculatoren en dakmeesters minder tijd aan offertes kwijt zijn."
+  outreach_strategy: "Bel het kantoor, vraag naar de calculator/projectcoordinator die offertes voor dak- en rietrenovatie maakt. Onderzoeksvraag: 'Hoe lang duurt het van opname naar verstuurde offerte, en hoeveel daarvan zit in uitwerken achter de computer?'"
+  conversation_starters:
+    - "Bij riet- en dakrenovaties moet iemand het dak op voor de opname; hoe lang duurt het daarna tot de offerte er is?"
+    - "Wie schrijft jullie offertes uit en hoeveel gaan er per week de deur uit?"
+  verification: "aangepast: Bedrijf actief (100 jaar, Damwâld) en telefoon 0511 421306 klopt. Grootte via LinkedIn: 51-200 medewerkers, 22 profielen. Vacatures met Bouw-cao en uitzicht op vast contract bevestigen loondienst. Doet riet-, dak- en gevelrenovatie voor particulieren en bedrijven. De vacature projectcoördinator staat nu niet op werkenbij.hekstra.nl: daar staan alleen rietdekker, allround timmerman, dakmeester en stage. LinkedIn-pagina hoort bij het bedrijf (Damwoude, hekstra.nl)."
+
+- name: AABS Bouw en Timmerbedrijf
+  url: https://www.aabsbouw.nl
+  phone: "0592-544840"
+  city: Tynaarlo (Drenthe)
+  priority_score: "5/10"
+  industry: Allround bouw- en timmerbedrijf (verbouw, aanbouw, dakkapellen, kozijnen, houtskeletbouw)
+  size: "12 medewerkers (bron: aabsbouw.nl); aanlevering zei 10; opgericht 1997"
+  tech_stack: "Duracom CMS; offerteaanvraagformulier; erkend leerbedrijf; geen calculatiesoftware zichtbaar"
+  relevant_vacancies: "Werkvoorbereider / Calculator (fulltime, Drenthe; 'van calculatie tot uitvoering', werkt nauw samen met eigenaar)"
+  why_fit: "12 mw, verbouw/aanbouw/dakkapel bij particulieren in noord-Drenthe/Groningen (veel opnames); echter ondergrens qua grootte en eigenaar calculeert waarschijnlijk zelf. Let op: plaats is Tynaarlo, niet Groningen."
+  decision_maker: "Directeur-eigenaar"
+  linkedin: null
+  sources:
+    size: https://www.aabsbouw.nl
+    phone: https://www.aabsbouw.nl
+    relevant_vacancies: "Geen vacatures op https://www.aabsbouw.nl"
+    decision_maker: null
+    multi_location: "Eén vestiging (Tynaarlo)"
+  value_proposition: "Offertes voor aanbouw, dakkapel en verbouw sneller uit spraakmemo en foto's, op eigen prijslijst."
+  outreach_strategy: "Bel de eigenaar: hoe lang duurt het van opname bij een particulier tot de verstuurde offerte, en wanneer maakt u die? Kwalificeer eerst het aantal offertes per week."
+  conversation_starters:
+    - "Hoeveel aanvragen via het offerteformulier komen er per week binnen en hoe snel krijgen ze een offerte?"
+    - "Wie maakt de offertes naast het uitvoerend werk?"
+  verification: "aangepast: Actief; 0592-544840, Meerweg 12 Tynaarlo. Homepage: 'op dit moment 12 mensen werkzaam', bedrijfswagens, erkend leerbedrijf. Segment past (verbouw/aanbouw/dakkapellen particulier). Vacaturepagina bevat wel een relevante vacature: Werkvoorbereider / Calculator (naast allround timmerman). Over-ons noemt ook nog een vestiging in Zuidlaren."
+  multi_location: "Hoofdvestiging Tynaarlo; over-ons noemt nog een vestiging in Zuidlaren"
+
+- name: Van den Heuvel Bouwbedrijf
+  url: https://www.vandenheuvelbouw.nl
+  phone: "0492 52 29 31"
+  city: Helmond
+  priority_score: "5/10"
+  industry: Bouwbedrijf nieuwbouw, villabouw, verbouw, renovatie, onderhoud en utiliteitsbouw (woning en zakelijk)
+  size: "11-50 medewerkers (LinkedIn); teampagina toont o.a. 2 calculators, 3+ werkvoorbereiders, administratie; dochter Zandenbouw (overname 2024)."
+  tech_stack: "CMS niet vastgesteld; geen offerteformulier of offerte-/calculatiesoftware zichtbaar; teampagina's en werken-bij-sectie aanwezig"
+  relevant_vacancies: "geen relevante vacatures gevonden (recruitmentsectie aanwezig, geen specifieke werkvoorbereider/calculator vacature bevestigd)"
+  why_fit: "Familiebedrijf (1725) met calculators en werkvoorbereiders die opnames en kostenopstellingen maken, voor verbouw/renovatie particulier en onderhoud voor corporaties (Woonpartners). Zwaartepunt deels nieuwbouw/utiliteit en corporatiewerk, dus middelmatige fit."
+  decision_maker: "Directeur / calculator-werkvoorbereider"
+  linkedin: "https://nl.linkedin.com/company/bouwbedrijf-van-den-heuvel-helmond-b.v."
+  sources:
+    size: null
+    phone: https://www.vandenheuvelbouw.nl
+    relevant_vacancies: https://www.vandenheuvelbouw.nl
+    decision_maker: null
+    multi_location: "niet gevonden op site (Wethouder den Oudenstraat 3, Helmond)"
+  value_proposition: "Opnames bij verbouw- en onderhoudsklussen sneller omzetten in conceptoffertes op eigen sjabloon, zodat werkvoorbereiders minder avonduren kwijt zijn."
+  outreach_strategy: "Bel directeur of werkvoorbereider; eerst vragen welk deel verbouw/onderhoud bij particulieren en MKB is. Kernvraag: hoe lang duurt het van opname tot verstuurde offerte?"
+  conversation_starters:
+    - "Naast nieuwbouw doen jullie verbouw en onderhoud; hoe lopen die kleinere offertes qua doorlooptijd?"
+    - "Wie maakt de offertes na een opname en hoe lang duurt dat gemiddeld?"
+  verification: "aangepast: Grootte nu aantoonbaar: teampagina toont o.a. twee calculators, meerdere werkvoorbereiders (onderhoud, beheer & onderhoud, werkvoorbereider/uitvoerder) en administratie, plus dochter Zandenbouw (overgenomen 2024); LinkedIn-pagina (website vandenheuvelbouw.nl) meldt 11-50 medewerkers. Telefoon 0492-522931 klopt. Fit gedeeltelijk: naast particuliere verbouw veel corporatie-onderhoud (Woonpartners Helmond), nieuwbouw en utiliteit; werkvoorbereider onderhoud doet opnames en kostenopstellingen. Geen open relevante vacature gezien."
+
+- name: Bouwbedrijf Quant Zierikzee B.V.
+  url: https://www.bouwbedrijfquant.nl
+  phone: "0111-413400"
+  city: Zierikzee (Groene Weegje 27, 4301 RN)
+  priority_score: "5/10"
+  industry: "Bouwbedrijf: nieuwbouw, verbouw, renovatie, restauratie, houtbewerking, schadeherstel (Schouwen-Duiveland)"
+  size: "17 werknemers (Drimble/KvK-data, KvK 22040674); Jobs in de Techniek: 11-25; LinkedIn: 11-50"
+  tech_stack: "CMS en offerte-/calculatiesoftware niet vast te stellen op de site; standaard bedrijfswebsite met contactmogelijkheid. Certificeringen: Velux-installatiepartner, Isover-partner."
+  relevant_vacancies: "geen relevante vacatures (alleen algemene oproep metselaar/timmerman)"
+  why_fit: "Regionaal familiebedrijf met verbouw/renovatie/schadeherstel bij particulier en MKB, dus opnames en offertes. Kanttekening: klein team (ca. 10), brede mix incl. nieuwbouw, kantoorcapaciteit vermoedelijk beperkt, eigenaar waarschijnlijk zelf calculator; grootte onzeker."
+  decision_maker: "Dick Quant (eigenaar); Lennert Quant (werkvoorbereiding)"
+  linkedin: "https://nl.linkedin.com/company/bouwbedrijf-quant-zierikzee-b.v."
+  sources:
+    size: "invoer (niet geverifieerd)"
+    phone: bouwbedrijfquant.nl
+    relevant_vacancies: "bouwbedrijfquant.nl homepage"
+    decision_maker: null
+    multi_location: "Een vestiging (Zierikzee); werkgebied Schouwen-Duiveland"
+  value_proposition: "Spraakmemo en foto's van de opname omzetten in een conceptofferte op eigen prijslijst, zodat de eigenaar niet 's avonds nog offertes hoeft te maken."
+  outreach_strategy: "Bel het kantoor (07:30-17:00 bereikbaar), vraag naar de eigenaar. Onderzoeksvraag: 'Hoe lang duurt het bij jullie van opname naar verstuurde offerte, en wie maakt die?' Kort houden, klein bedrijf."
+  conversation_starters:
+    - "Bij verbouw en schadeherstel komen opnames vaak los van het werk; wanneer maak je de offerte, dezelfde dag of 's avonds?"
+    - "Hoeveel offertes liggen er nu ongeveer klaar om uitgewerkt te worden?"
+  verification: "aangepast: Actief familiebedrijf sinds 1919 (KvK 22040674), verbouw/renovatie/restauratie/schadeherstel particulier. Grootte nu onafhankelijk bevestigd: Drimble (KvK-data) 17 werknemers, Jobs in de Techniek 11-25, LinkedIn 11-50. Telefoon 0111-413400 klopt. Werken-bij-pagina: algemene oproep metselaar/timmerman, geen kantoorrol. LinkedIn-bedrijfspagina bestaat (zelfde adres Groene Weegje 27). Zoon Lennert doet werkvoorbereiding (bron: Jobs in de Techniek)."
+
+- name: Hummelink Bouw B.V.
+  url: https://hummelink.nl
+  phone: "0544 35 12 14"
+  city: Lichtenvoorde
+  priority_score: "5/10"
+  industry: Aannemer nieuwbouw, verbouw, renovatie en agrarische bouw (Achterhoek)
+  size: "LinkedIn: 11-50 mw (6 profielen); eigen vakmensen in dienst; opgericht 1998"
+  tech_stack: "WordPress met Elementor; biedt vrijblijvende prijsopgave aan; geen offerte-/calculatiesoftware zichtbaar; lid Bouwgarant, Bouwend Nederland, Bouwnu"
+  relevant_vacancies: "Allround metselaar, Allround timmerman (geen relevante kantoorrol)"
+  why_fit: "Aannemer met verbouw, renovatie en vernieuwbouw voor particulier en agrarisch, vrijblijvende prijsopgave als kernproces. Klein team (circa 10) en nieuwbouw/agrarisch in de mix; ondergrens van ICP."
+  decision_maker: "Directeur-eigenaar / calculator-werkvoorbereider"
+  linkedin: https://www.linkedin.com/company/hummelink-bouw/
+  sources:
+    size: null
+    phone: https://hummelink.nl
+    relevant_vacancies: https://hummelink.nl
+    decision_maker: null
+    multi_location: "niet gevonden op site (Mercatorstraat 11, Lichtenvoorde)"
+  value_proposition: "Spraakmemo en foto's van de opname omzetten in een conceptprijsopgave op eigen prijslijst, zodat de eigenaar niet 's avonds hoeft te calculeren."
+  outreach_strategy: "Bel directeur/eigenaar voor onderzoeksgesprek; eerst teamgrootte en rolverdeling checken. Kernvraag: hoe lang duurt het van opname tot verstuurde prijsopgave?"
+  conversation_starters:
+    - "Jullie bieden een vrijblijvende prijsopgave; hoe lang duurt het gemiddeld van opname tot verstuurde prijsopgave?"
+    - "Wie maakt die prijsopgave bij jullie, en gebeurt dat vaak na werktijd?"
+  verification: "aangepast: Actief aannemer Lichtenvoorde (sinds jaren '90, Lichtenvoorde sinds 2018), verbouw/renovatie/vernieuwbouw particulier plus nieuwbouw/agrarisch. Grootte: LinkedIn 11-50 mw met 6 gekoppelde profielen; site spreekt van 'eigen vakmensen' en noemt vakmannen bij naam. Telefoon 0544 35 12 14 klopt. Vacatures: Allround metselaar, Allround timmerman (geen kantoorrol). LinkedIn-pagina hoort bij bedrijf."

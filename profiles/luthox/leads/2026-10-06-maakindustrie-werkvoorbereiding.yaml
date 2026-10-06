@@ -1,0 +1,510 @@
+---
+business: luthox
+segment: maakindustrie-werkvoorbereiding
+generated_at: '2026-10-06'
+description: 'Cold-call segmenttest (belonderzoek). Maakbedrijven die op order/tekening produceren (15-150 mw) in heel NL: plaatwerk/lasersnijden, CNC-verspaning, staalbouw, (speciaal)machinebouw, kunststofverwerking. Discovery in 2 rondes (tweede ronde alleen met grootte-bewijs), verrijking door Sonnet, onafhankelijke verificatie door Opus; veld verification geeft het oordeel van de checker. LinkedIn = bedrijfspagina (linkedin_lookup); decision_maker is de rol om naar te vragen. Top 20 op priority_score; 6 zwakkere geverifieerde leads weggelaten (Verheij Metaal, Constructiebedrijf De Groot, Tasche Staalbouw, Heijco Machinebouw, Van Schijndel Metaal, Hazeleger Metaalbewerking).'
+leads:
+- name: Van Grinsven Metaalbewerking
+  url: https://www.vangrinsvenmetaal.nl
+  phone: "(0413) 35 04 95"
+  city: Veghel
+  priority_score: 8/10
+  industry: engineering, RVS-werk, constructie, machinebouw, verspaning en montage; sinds 1947
+  size: ca. 26-30 medewerkers (databronnen lopen uiteen van 11 tot 50; niet bevestigd door eigen site)
+  tech_stack: ERP/offertetool niet zichtbaar op site. Erkend leerbedrijf, Metaalunie-lid.
+  relevant_vacancies: Projectcalculator, Calculator/Werkvoorbereider, Project Engineer, Sales Engineer (7 vacatures op site)
+  why_fit: Brede mix (machinebouw, constructie, verspaning, RVS) betekent veel unieke offertes en projectplanning. Meerdere calculator- en werkvoorbereider-vacatures tegelijk wijzen op druk in de offerte-route. Twee vestigingen in Veghel.
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding / calculatie
+  linkedin: linkedin.com/company/van-grinsven-metaalbewerking-b-v-
+  sources:
+    decision_maker: 
+    size: https://www.zoominfo.com/c/van-grinsven-metaalbewerking-bv/372614441
+    phone: https://www.vangrinsvenmetaal.nl/contact/
+    multi_location: https://www.vangrinsvenmetaal.nl
+    relevant_vacancies: https://www.vangrinsvenmetaal.nl
+    linkedin: https://www.vangrinsvenmetaal.nl
+  value_proposition: Eén gestructureerde route van offerte via calculatie naar werkvoorbereiding en planning, met nacalculatie per project.
+  outreach_strategy: 'Bel (0413) 35 04 95, vraag naar directie of calculatie/werkvoorbereiding. Haakje: twee calculator-vacatures. Onderzoeksgesprek over offerteproces.'
+  conversation_starters:
+  - 'Jullie zoeken een projectcalculator en een calculator/werkvoorbereider: wat kost het offertetraject nu de meeste tijd?'
+  - 'Met machinebouw en constructie naast elkaar: hoe krijgen jullie inzicht in de werkelijke uren per project achteraf?'
+  verification: bevestigd — Telefoon (0413) 35 04 95 op contactpagina; LinkedIn-link op eigen site; vacatures Projectcalculator, Calculator/Werkvoorbereider, Project Engineer, Sales Engineer actueel in sitemenu. Familiebedrijf. Grootte alleen via derden (11-50 / 20-49), niet op eigen site.
+- name: HVL Metaal & Techniek
+  url: https://www.hvlmetaal.nl/
+  phone: '0493-342152'
+  city: Liessel
+  priority_score: 8/10
+  industry: Metaalbewerking en machinebouw op order (plaat, profiel, verspanen, lassen, oppervlaktebehandeling, assemblage), HVL Projects
+  size: 90 collega's (hvlmetaal.nl/werken-bij); andere bronnen 80-100
+  tech_stack: MKG-ERP volgens referentiepagina mkg.eu; Soft Solutions referentie. ISO 9606-1. ERP aanwezig, dus de vraag is hoe goed het gebruikt wordt naast Excel.
+  relevant_vacancies: Werkvoorbereider, Manager Bedrijfsbureau, Sales Engineer (hvlmetaal.nl/werken-bij/vacatures); daarnaast productierollen (niet relevant)
+  why_fit: Brede mix van orderspecifiek metaalwerk en machinebouw met 90 mw, in het midden van de range. HVL Projects (6 engineers) maakt projectmatige planning complexer. Site toont zelfstandig familiebedrijf; HVL Groep-verwijzing niet bevestigd.
+  decision_maker: Directeur/eigenaar, of operationeel manager / hoofd werkvoorbereiding
+  linkedin: linkedin.com/company/hvl-metaal-en-techniek
+  sources:
+    decision_maker: 
+    size: https://www.hvlmetaal.nl/werken-bij/
+    phone: https://www.hvlmetaal.nl/contact/
+    multi_location: 
+    relevant_vacancies: https://www.hvlmetaal.nl/werken-bij/vacatures/werkvoorbereider/
+    linkedin: https://www.hvlmetaal.nl/
+  value_proposition: Planning, capaciteit en nacalculatie boven op MKG, zodat ERP-data bruikbaar wordt voor werkvoorbereiding.
+  outreach_strategy: 'Bel algemeen nummer, vraag naar directeur of hoofd werkvoorbereiding. Haakje: werken met MKG en wat nog in Excel gebeurt.'
+  conversation_starters:
+  - 'Jullie werken met MKG: welk deel van offerte en planning loopt echt daarin, en wat daarbuiten?'
+  - Hoe plannen jullie capaciteit over plaatwerk, verspaning en montage voor één order?
+  verification: 'aangepast — Telefoon 0493 342 152 op eigen contactpagina, 90 collega''s op site, familiebedrijf, LinkedIn-URL gelinkt vanaf eigen site. Vacatureclaim was fout: site toont actuele vacatures Werkvoorbereider, Manager Bedrijfsbureau en Sales Engineer (sterk signaal) naast productierollen.'
+- name: Baas Metaalbedrijf
+  url: https://baas-metaal.nl
+  phone: 0546-577300
+  city: Almelo
+  priority_score: 8/10
+  industry: Plaatwerk, lasersnijden, zetten, lassen (ook robot), CNC verspaning voor machinebouw, agrarisch en foodindustrie
+  size: ca. 33-36 mw (LinkedIn/derden via zoekresultaat; LinkedIn-range 11-50); niet op eigen site
+  tech_stack: Eigen online prijsplatform Plaatweb voor lasersnijden/zetten; Radan-casestudy (CAD/CAM nesting); geautomatiseerd plaatmagazijn en 3 TRUMPF lasers. ERP niet zichtbaar op site. Wel digitaal volwassen aan de machinekant, orderstroom richting offerte/planning onbekend.
+  relevant_vacancies: Werkvoorbereider (40 uur) en Medewerker werkvoorbereiding (32-40 uur), beide op eigen homepage 'Werken bij Baas'
+  why_fit: Orderspecifieke productie voor machinebouwers met veel verschillende tekeningen en offertes. Vacature procesplanner wijst op planning/werkvoorbereiding als knelpunt. ISO 9001 (TUV Nord, geldig tot juli 2028), 24/7 productie met meerdere lasers en buigbanken vraagt strakke planning.
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding / productiemanager
+  linkedin: linkedin.com/company/metaalbedrijf-baas-bv
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/metaalbedrijf-baas-bv
+    phone: https://baas-metaal.nl/en/contact/
+    multi_location: 
+    relevant_vacancies: https://baas-metaal.nl
+    linkedin: https://baas-metaal.nl
+  value_proposition: Eén gekoppeld overzicht van offerte, calculatie, werkvoorbereiding en machineplanning (ook nacalculatie op werkelijke uren/materiaal), zodat planning niet bij een paar mensen in het hoofd zit.
+  outreach_strategy: 'Bel 0546-577300, vraag naar de directeur of de procesplanner/werkvoorbereiding. Haakje: de openstaande vacature procesplanner. Onderzoeksgesprek, geen verkoop.'
+  conversation_starters:
+  - 'Jullie zoeken een procesplanner: hoe loopt nu de route van offerte-aanvraag naar planning op de lasers en buigbanken, en waar zit de meeste handmatige afstemming?'
+  - 'Naast Plaatweb voor online prijzen: hoe komen offertes van machinebouwers binnen en hoe weten jullie achteraf of een order winst heeft opgeleverd (nacalculatie)?'
+  verification: aangepast — Telefoon +31 546 577 300 (= 0546-577300) op eigen site; LinkedIn-link op eigen site. Vacatures op homepage zijn nu Werkvoorbereider (40u) en Medewerker werkvoorbereiding (32-40u), niet 'procesplanner'. Grootte ca. 33-36 mw (zoekresultaat LinkedIn/derden).
+- name: De Boer Machines Nederland
+  url: https://deboermachines.com/
+  phone: "+31 (0)24 377 22 33"
+  city: Wijchen
+  priority_score: 8/10
+  industry: Speciaalmachinebouw voor grofkeramische industrie (baksteen), maatwerk per project
+  size: Ruim 80 mw (zoekresultaat werkenbijdeboermachines.nl); LinkedIn toont 57
+  tech_stack: ERP niet zichtbaar op site. Eigen engineeringafdeling, wereldwijde klanten (Wienerberger, Ibstock). Projectmatig werk, geen serieproduct.
+  relevant_vacancies: Werkvoorbereider Machinebouw (verlopen/eerder geplaatst), Production & Procurement Engineer, Technisch Inkoper; sterk signaal
+  why_fit: 'Projectmatige machinebouw: engineering naar stuklijst, inkoop, werkvoorbereiding en planning per order. Meerdere kantoorvacatures (werkvoorbereider, inkoper, production engineer) tonen procesdruk. Zelfstandig familiebedrijf sinds 1936, geen groepsband gevonden.'
+  decision_maker: Directeur, of manager werkvoorbereiding/productie
+  linkedin: linkedin.com/company/de-boer-machines-nederland-b-v-
+  sources:
+    decision_maker: 
+    size: https://werkenbijdeboermachines.nl/
+    phone: https://deboermachines.com/contact/
+    multi_location: 
+    relevant_vacancies: https://werkenbijdeboermachines.nl/vacature/werkvoorbereider-1171
+    linkedin: https://nl.linkedin.com/company/de-boer-machines-nederland-b-v-
+  value_proposition: Projectplanning, stuklijsten, inkoop en werkvoorbereiding in één stroom met zicht op voortgang per machine en nacalculatie.
+  outreach_strategy: 'Bel algemeen nummer, vraag naar directeur of hoofd werkvoorbereiding. Haakje: recent werkvoorbereider/inkoper gezocht. Onderzoeksgesprek.'
+  conversation_starters:
+  - 'Jullie zochten een werkvoorbereider en inkoper: waar zit nu de grootste drukte tussen engineering, inkoop en productie?'
+  - Hoe volgen jullie per machine de uren en materialen, en wat kom je pas achteraf te weten?
+  verification: bevestigd — Telefoon +31 (0)24 377 22 33 op eigen contactpagina; familiebedrijf (De Boer Enterprises) met 80+ mw; klantgerichte machinebouw voor grofkeramische industrie (projectmatig, niet pure serie). LinkedIn-URL klopt. Vacature werkvoorbereider is verlopen; actualiteit niet herbevestigd.
+- name: Meeuwsen Plaatbewerking / Trade & Metal Services
+  url: https://www.meeuwsen.nl
+  phone: "+31 (0)113 57 38 78"
+  city: Yerseke (niet Nunspeet)
+  priority_score: 8/10
+  industry: 'plaatbewerking op order: lasersnijden, plasma/watersnijden, kanten, buizen snijden, verspaning, samenstellen, engineering'
+  size: 50 medewerkers (eigen site)
+  tech_stack: Eigen online metaaldelen-shop (metalservices.nl) naast orderspecifieke productie; ERP niet zichtbaar. ISO 9001, ISO 3834-2, EN 1090-2 EXC4, VCA*. Drie BV's (Plaatbewerking, Handel & Constructie, Trade & Metal Services) wijst op gesplitste administratie/planning.
+  relevant_vacancies: Werkvoorbereider plaatwerk; Commercieel medewerker binnendienst (beide op homepage vacaturelijst meeuwsen.nl); verder engineer/3D-tekenaar, operators, lassers (niet relevant)
+  why_fit: 50 mw in het hart van de range, order-specifieke productie met meerdere processen (laser, kanten, verspaning) wat veel calculatie en planning vraagt. Werkvoorbereider-vacatures zijn het sterkste signaal. Drie juridische entiteiten en een webshop naast maatwerk geven kans op versnipperde offerte-planningsroute.
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding / operationeel manager
+  linkedin: linkedin.com/company/2137197
+  sources:
+    decision_maker: 
+    size: https://www.meeuwsen.nl
+    phone: https://www.meeuwsen.nl
+    multi_location: https://www.meeuwsen.nl
+    relevant_vacancies: https://www.meeuwsen.nl
+    linkedin: https://www.meeuwsen.nl
+  value_proposition: Eén route offerte, calculatie, werkvoorbereiding en planning met nacalculatie, zodat kennis niet in het hoofd van een planner of calculator zit.
+  outreach_strategy: 'Bel 0113 57 38 78, vraag naar directie of werkvoorbereiding. Haakje: openstaande werkvoorbereider-vacatures. Onderzoeksgesprek over hoe offerte naar planning nu loopt.'
+  conversation_starters:
+  - 'Jullie zoeken werkvoorbereiders: waar loopt de werkvoorbereiding nu het meest vast tussen offerte en productie?'
+  - 'Met laser, kanten en verspaning onder een dak: hoe bepalen jullie nu welke order wanneer op welke machine gaat?'
+  verification: 'aangepast — Telefoon (tel:+31113573878), ''50 deskundige collega''s'' en LinkedIn-link staan op eigen homepage. Vacatures nu wel geverifieerd op site: Werkvoorbereider plaatwerk en Commercieel medewerker binnendienst.'
+- name: Van der Zalm Metaalindustrie
+  url: https://www.vanderzalmbv.nl
+  phone: "+31 (0)418 67 09 03"
+  city: Brakel
+  priority_score: 8/10
+  industry: staalconstructie op project (bruggen, sluisdeuren, heipalen, scheepscomponenten), van engineering tot montage
+  size: ca. 24-27 mw (RocketReach/ContactOut via zoekresultaat; 45 in 2015 volgens Bouw en Uitvoering); niet op eigen site
+  tech_stack: Vacaturetekst noemt Microsoft Office, AutoCAD en Inventor; ERP/MRP niet zichtbaar op site. Suggereert tekenpakketten maar weinig zichtbare procesdigitalisering.
+  relevant_vacancies: werkvoorbereider (algemene wervingspagina op eigen site, niet gedateerd; actualiteit niet bevestigd)
+  why_fit: 'Projectmatige, orderspecifieke staalconstructie (offerte, calculatie, werkvoorbereiding) in klein team van ca. 26. Actief op zoek naar werkvoorbereider: sterkste signaal voor druk op de WVB-route. Eigen vacaturepagina voor werkvoorbereiders wijst op structureel tekort.'
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding / operationeel manager
+  linkedin: linkedin.com/company/van-der-zalm-metaalindustrie-b-v-
+  sources:
+    decision_maker: 
+    size: https://rocketreach.co/van-der-zalm-metaalindustrie-bv-management_b4566f54fca23b95
+    phone: https://www.vanderzalmbv.nl
+    multi_location: 
+    relevant_vacancies: https://www.vanderzalmbv.nl/vacatures-werkvoorbereider-brakel/
+    linkedin: https://www.vanderzalmbv.nl
+  value_proposition: Eén route van offerte naar calculatie, werkvoorbereiding en planning met nacalculatie, zodat kennis niet in het hoofd van een paar mensen zit en een nieuwe werkvoorbereider sneller productief is.
+  outreach_strategy: 'Bel 0418-670903, vraag naar de directeur of de verantwoordelijke voor werkvoorbereiding. Haakje: jullie zoeken een werkvoorbereider, hoe loopt het van offerte tot productie? Onderzoeksgesprek, geen verkoop.'
+  conversation_starters:
+  - Jullie zoeken een werkvoorbereider; wat blijft er nu liggen zolang die plek open staat?
+  - Hoe loopt een project bij jullie van offerte via calculatie naar planning in de werkplaats, en waar staat dat vastgelegd?
+  verification: aangepast — Telefoon +31 (0)418 67 09 03 en LinkedIn-link op eigen site. Grootte ca. 24-27 (derden; in 2015 nog 45). Werkvoorbereider-pagina is een algemene/SEO-achtige wervingspagina zonder datum, geen hard bewijs van een actuele open vacature; vacatures-overzicht noemt werkvoorbereider wel als mogelijke rol.
+- name: IBS Staalbouw (IZV en IBS Staalbouw Kloosterzande)
+  url: https://www.ibs-hallenbouw.nl
+  phone: "+31 (0)114-683200"
+  city: Kloosterzande
+  priority_score: 8/10
+  industry: 'staalbouw: bedrijfsgebouwen, loodsen, overkappingen; eigen ontwerp en calculatie'
+  size: ca. 24 medewerkers (Apollo/zoekresultaat; andere bronnen 11-50)
+  tech_stack: ERP niet zichtbaar. Eigen tekenaars en calculators. ISO 9001:2015, EN 1090-1, ISO 3834-2, VCA.
+  relevant_vacancies: Tekenaar Werkvoorbereider; medewerker zetterij (niet relevant) - https://www.ibs-hallenbouw.nl
+  why_fit: 'Orderspecifieke staalbouw met eigen calculators en tekenaars, dus offerte-calculatie-WVB-keten aanwezig. Actieve vacature tekenaar/werkvoorbereider. Gecertificeerd (ISO 9001, EN 1090) betekent veel documentatiedruk. Let op: naam IZV en IBS wijst op twee gelieerde bedrijven.'
+  decision_maker: Directeur, of hoofd werkvoorbereiding / projectleider
+  linkedin: linkedin.com/company/izv-bv-&-ibs-bv
+  sources:
+    decision_maker: 
+    size: https://www.apollo.io/companies/IZV-en-IBS-Staalbouw-Kloosterzande/5d0a6007a3ae61555d9a0fa4
+    phone: https://www.ibs-hallenbouw.nl
+    multi_location: 
+    relevant_vacancies: https://www.ibs-hallenbouw.nl
+    linkedin: https://www.ibs-hallenbouw.nl
+  value_proposition: Gekoppelde calculatie, werkvoorbereiding, planning en dossiervorming (EN 1090) met nacalculatie op projectniveau.
+  outreach_strategy: 'Bel 0114-683200, vraag naar de directeur of werkvoorbereiding. Haakje: vacature tekenaar/werkvoorbereider en certificeringsdossiers. Onderzoeksgesprek.'
+  conversation_starters:
+  - Hoe geven jullie nu de overdracht van calculatie naar werkvoorbereiding vorm bij een nieuwe hal?
+  - Hoeveel tijd gaat er zitten in de EN 1090-dossiers per project, en waar leg je dat vast?
+  verification: 'bevestigd — Telefoon +31(0)114-683200 op eigen site; LinkedIn-link (izv-bv-&-ibs-bv) staat op eigen site; vacature Tekenaar/Werkvoorbereider actueel op homepage. Ca. 24 mw (derden). IZV en IBS zijn zusterbedrijven met Belgische dochter (IBS Metaalbouw BVBA): kleine eigen groep, geen concern.'
+- name: Arendsen Plaatwerk
+  url: https://www.arendsen-plaat.nl/
+  phone: 0315-695600
+  city: Ulft
+  priority_score: 8/10
+  industry: 'Plaatbewerking op order: lasersnijden, ponsen, kanten (tot 8 m), walsen, lassen, assemblage, 3D-ontwerp/tekenwerk voor o.a. gevel, voeding, machinebouw, magazijnsystemen'
+  size: Ca. 30-40 medewerkers (zoekresultaten Stagemarkt/Kompass noemen 30, eerdere bron ca. 40; niet exact geverifieerd)
+  tech_stack: Draait Ridder iQ (ECI-casestudy over digitale transformatie), dus ERP aanwezig en waarschijnlijk deels benut; TÜV-gecertificeerd, lid Metaalunie. Geen tekening-upload zichtbaar op de site.
+  relevant_vacancies: Site meldt doorlopend zoeken naar programmeurs en werkvoorbereiders (plus CNC kanter, lasser/monteur); erkend leerbedrijf Werkvoorbereider fabricage
+  why_fit: 'Orderspecifiek plaatwerk voor veel branches en een erkend opleidingsbedrijf voor werkvoorbereiders: werkvoorbereiding en programmering zijn dus een knelpunt. Er is een ERP (Ridder iQ), maar de route offerte-werkvoorbereiding-planning loopt mogelijk deels daarbuiten.'
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding / productiemanager
+  linkedin: linkedin.com/company/arendsen-plaatwerk-b.v.
+  sources:
+    decision_maker: 
+    size: https://www.kijkopoostnederland.nl/arendsen-plaatwerk-slim-samenwerken-constant-vernieuwen/
+    phone: https://www.arendsen-plaat.nl/contact/
+    multi_location: 
+    relevant_vacancies: https://www.arendsen-plaat.nl/
+    linkedin: https://www.arendsen-plaat.nl/
+  value_proposition: Aanvulling op Ridder iQ met een gekoppeld overzicht van offerte, werkvoorbereiding en machineplanning (laser, pons, kantbank) en nacalculatie, zodat Excel-tussenstappen verdwijnen.
+  outreach_strategy: 'Bel 0315-695600, vraag naar de directeur of het hoofd werkvoorbereiding. Haakje: doorlopend zoeken naar werkvoorbereiders/programmeurs. Onderzoeksgesprek, geen verkoop.'
+  conversation_starters:
+  - 'Jullie zoeken werkvoorbereiders en programmeurs: waar zit nu het meeste handwerk tussen offerte, programmeren en planning?'
+  - 'Jullie werken met Ridder iQ: welke delen van de planning en nacalculatie gebeuren nog buiten het pakket om, bijvoorbeeld in Excel?'
+  verification: 'aangepast — Telefoon 0315 - 69 56 00 (tel:+31315695600) op eigen homepage/contact; site meldt doorlopend zoeken naar programmeurs en werkvoorbereiding (bevestigd). Grootte ca. 26-40 volgens registers/artikelen. LinkedIn ontbrak maar staat gelinkt op eigen site: arendsen-plaatwerk-b.v. Mogelijk verwant aan Arendsen Staalbouw/Steel Ulft (kleine familiegroep), niet verder onderzocht.'
+- name: Hoekman Roestvaststaal
+  url: https://www.hoekman-rvs.nl/
+  phone: "+31 (0)529-488020"
+  city: Nieuwleusen
+  priority_score: 7/10
+  industry: RVS plaatwerk, lasersnijden, lassen op tekening
+  size: Ca. 80 mw (hoekman-rvs.nl/lasersnijden, per eerdere discovery); aantal niet op homepage
+  tech_stack: Web2Quote online offertetool (upload 2D/3D, directe prijs); aparte mailboxen calculatie@ en bestelling@; ISO 3834-2. Gedeeltelijk gedigitaliseerde offerte-instroom, ERP niet zichtbaar.
+  relevant_vacancies: Vacaturepagina bestaat; zoekresultaat noemt 2 werkvoorbereider/engineer-vacatures en een werkvoorbereiding & engineering-afdeling van ca. 6 personen; actuele titels niet te verifieren
+  why_fit: Offertes via tekeningupload komen digitaal binnen, maar daarna calculatie, werkvoorbereiding en planning blijven handwerk. Aparte afdeling werkvoorbereiding en engineering wijst op procesdruk. Onafhankelijk familiebedrijf.
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding en engineering
+  linkedin: linkedin.com/company/hoekman-roestvaststaal-bv
+  sources:
+    decision_maker: 
+    size: https://www.hoekman-rvs.nl/lasersnijden
+    phone: https://www.hoekman-rvs.nl/
+    multi_location: 
+    relevant_vacancies: https://www.hoekman-rvs.nl/vacatures
+    linkedin: https://www.hoekman-rvs.nl/
+  value_proposition: Web2Quote-aanvragen automatisch doorzetten naar calculatie, werkvoorbereiding en planning, met nacalculatie op werkelijke uren.
+  outreach_strategy: 'Bel algemeen nummer, vraag naar directeur of hoofd werkvoorbereiding. Haakje: wat gebeurt er na een online offerteaanvraag.'
+  conversation_starters:
+  - Wat gebeurt er intern zodra een klant een tekening uploadt via de offertetool, tot er een order staat?
+  - Hoe houden jullie de planning van lasersnijden tot afwerking bij, en wie overziet dat?
+  verification: 'bevestigd — Telefoon +31 (0)529-488020 op eigen site; ''ruim 80 medewerkers tellende familiebedrijf'' (tweede generatie) op eigen lasersnijden-pagina; LinkedIn-link op eigen site; Web2Quote en calculatie@/bestelling@-mailboxen zichtbaar. Vacaturepagina toont geen statisch leesbare rollen: vacature-claim blijft terecht ''niet te verifieren''.'
+- name: Coppens Metaal-techniek
+  url: https://www.coppensmetaal.nl
+  phone: 040 208 20 75
+  city: Westerhoven
+  priority_score: 7/10
+  industry: 'buisbewerking en metaalbewerking op order: CNC buigen, lasersnijden, lassen, profileren'
+  size: ca. 45 medewerkers (eigen vacaturepagina)
+  tech_stack: ERP niet zichtbaar. ISO 9001 en ISO 14001, Metaalunie en NEVAT lid. Eigen sales-team via verkoop@-adres. Onderdeel van Coppens groep (kleine familiegroep; omvang groep niet geverifieerd, mogelijk delen van systemen).
+  relevant_vacancies: Werkvoorbereider/calculator Metaaltechniek (32-38 uur)
+  why_fit: 45 mw, familiebedrijf in 2e generatie, orderspecifieke buisbewerking. Open vacature werkvoorbereider/calculator is het sterkste signaal. Veel machines (lasers, buigen, robots) vragen goede planning.
+  decision_maker: Directeur/eigenaar, of verkoop/werkvoorbereiding
+  linkedin: linkedin.com/company/coppens-metaal-techniek
+  sources:
+    decision_maker: 
+    size: https://coppensmetaaltechniek.recruitee.com/
+    phone: https://www.coppensmetaal.nl/
+    multi_location: 
+    relevant_vacancies: https://coppensmetaaltechniek.recruitee.com/
+    linkedin: https://www.coppensmetaal.nl/
+    group: https://www.coppensmetaal.nl/over-ons
+  value_proposition: Offerte, werkvoorbereiding en machineplanning in één systeem met nacalculatie.
+  outreach_strategy: 'Bel 040 208 20 75 (let op: zoekresultaten noemden ook 040 231 0741), vraag naar directie of werkvoorbereiding. Haakje: vacature werkvoorbereider/calculator. Onderzoeksgesprek.'
+  conversation_starters:
+  - 'Jullie zoeken een werkvoorbereider/calculator: wie doet dat werk nu en wat gebeurt er als diegene afwezig is?'
+  - Hoe bepalen jullie bij een nieuwe buisorder de calculatie en volgorde over de machines?
+  verification: bevestigd — Telefoon 040 208 20 75 op eigen homepage/contact; LinkedIn-link op eigen site; vacature Werkvoorbereider/Calculator Metaaltechniek actueel op recruitee; ca. 45 specialisten. Kleine familiegroep (Coppens groep; agri-activiteiten in 2023 verkocht), geen groot concern.
+- name: De Kok Staalbouw
+  url: https://www.kokstaal.nl
+  phone: "+31 (0)165 30 37 56"
+  city: Heerle (gemeente Roosendaal)
+  priority_score: 7/10
+  industry: 'staalbouw op project: projectmanagement, engineering, productie, conservering, montage'
+  size: ca. 150 medewerkers (eigen vacaturepagina); bovenkant van de range
+  tech_stack: ERP niet zichtbaar. Gecertificeerd kwaliteitssysteem (details op aparte pagina). Familiebedrijf sinds 1927; geen groepsstructuur vermeld.
+  relevant_vacancies: Calculator Staalbouw (ook leerling), Calculator/werkvoorbereider dak en gevel, Werkvoorbereider, Projectmanager, Tekla modelleurs, assistent productieleider (16 vacatures)
+  why_fit: 'Projectgebonden staalbouw: elke offerte uniek, veel calculatie en werkvoorbereiding. Meerdere calculator- en werkvoorbereider-vacatures tegelijk. Op ~150 mw zijn processen vaak gegroeid zonder vaste systeemrichting.'
+  decision_maker: Directeur/eigenaar, of hoofd calculatie/werkvoorbereiding
+  linkedin: linkedin.com/company/de-kok-staalbouw
+  sources:
+    decision_maker: 
+    size: https://www.kokstaal.nl/en/werken-bij/
+    phone: https://www.kokstaal.nl/en/
+    multi_location: 
+    relevant_vacancies: https://www.kokstaal.nl/en/werken-bij/
+    linkedin: https://www.kokstaal.nl/en/
+  value_proposition: Doorlopende koppeling van calculatie, werkvoorbereiding, productieplanning en nacalculatie per project.
+  outreach_strategy: 'Bel +31 165 30 37 56, vraag naar directie of hoofd werkvoorbereiding. Haakje: calculator- en werkvoorbereider-vacatures. Onderzoeksgesprek.'
+  conversation_starters:
+  - 'Jullie hebben meerdere calculator- en werkvoorbereider-vacatures open: waar zit de grootste bottleneck in de keten van calculatie naar productie?'
+  - Hoe terugkoppelen jullie na oplevering werkelijke uren naar de calculatie?
+  verification: bevestigd — Telefoon +31 (0)165 30 37 56 in footer eigen site; 'zo'n 150 vakbekwame medewerkers' op werken-bij; LinkedIn-link op eigen site; calculator-, calculator/werkvoorbereider- en werkvoorbereider-vacatures actueel. Projectgebonden staalbouw, familiebedrijf.
+- name: Overlasko Konstruktie
+  url: https://overlasko.nl
+  phone: "+31 (0)113-613130"
+  city: Nieuwdorp
+  priority_score: 7/10
+  industry: zware staalconstructies, verspanen en vervormen voor offshore, marine, machinebouw en (petro)chemie, op order
+  size: ca. 25 medewerkers (zoekresultaat LinkedIn/Drimble-profielen; ruwe indicatie)
+  tech_stack: Autodesk Inventor Professional en AutoCAD Mechanical. ISO 9001, EN1090-1 EXC4, ISO 3834-2, DNV. ERP niet zichtbaar.
+  relevant_vacancies: Werkvoorbereider (eigen vacaturepagina); verder constructiebankwerker/fitter (niet relevant)
+  why_fit: Projectmatige, orderspecifieke productie voor offshore/chemie met zware kwaliteitseisen en documentatie. Eigen WVB/QA-functie aanwezig; klein team. Geen bevestigd vacaturesignaal.
+  decision_maker: Commercieel directeur / technisch-commercieel manager, of hoofd werkvoorbereiding
+  linkedin: linkedin.com/company/overlasko-konstruktie-b.v.
+  sources:
+    decision_maker: 
+    size: https://drimble.nl/bedrijf/nieuwdorp/7965176/overlasko-konstruktie-bv.html
+    phone: https://overlasko.nl
+    multi_location: 
+    relevant_vacancies: https://overlasko.nl/vacatures/
+    linkedin: https://nl.linkedin.com/company/overlasko-konstruktie-b.v.
+  value_proposition: Offerte, calculatie, werkvoorbereiding en planning in een route, met nacalculatie per order en snellere kwaliteitsdossiers.
+  outreach_strategy: 'Bel 0113-613130, vraag naar de directeur of werkvoorbereiding/QA. Haakje: complexe offshore-orders met veel documentatie. Onderzoeksgesprek.'
+  conversation_starters:
+  - Hoe bepalen jullie bij een offshore-offerte de calculatie, en kijken jullie achteraf of die klopte?
+  - Wie houdt het overzicht van wat er in welke week in de werkplaats staat?
+  verification: aangepast — Telefoon +31 (0)113-613130 op eigen site. Vacature Werkvoorbereider nu wel geverifieerd op eigen vacaturepagina (sterker signaal; prioriteit omhoog). LinkedIn-pagina bestaat in zoekresultaat (niet gelinkt vanaf site). Ca. 25 mw (derden). Familiebedrijf (van Gurp) met eigen holding.
+- name: Voscon
+  url: https://www.voscon.nl
+  phone: "+31 (0)10 - 44 51 111"
+  city: Rotterdam
+  priority_score: 7/10
+  industry: staalconstructie, apparatenbouw, plaatwerk, machinebouw en aanpassingen voor industrie; engineering, productie, montage en onderhoud
+  size: '65 collega''s (eigen site: ''onze 65 collega''s'')'
+  tech_stack: 'ERP niet zichtbaar op site. Uitgebreid gecertificeerd: ISO 9001:2015, ISO 14001, ISO 45001, EN 1090-1, ISO 3834-2, VCA-P. Eigen engineering (ontwerp, ontwikkeling, berekeningen).'
+  relevant_vacancies: geen relevante vacatures gevonden (vacaturepagina toont geen specifieke rollen)
+  why_fit: Breed werkaanbod op maat voor industriele klanten (wisselende orders, geen eigen serieproduct), 65 mensen in het hart van de range. Engineering, plaatwerk, constructie en montage onder een dak betekent veel overdracht tussen offerte, WVB en planning. Veel certificeringen betekent veel documentatie.
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding / operationeel manager
+  linkedin: linkedin.com/company/voscon-vbs-b-v-
+  sources:
+    decision_maker: 
+    size: https://www.voscon.nl
+    phone: https://www.voscon.nl
+    multi_location: 
+    relevant_vacancies: https://www.voscon.nl/vacatures/
+    linkedin: https://www.voscon.nl
+  value_proposition: Eén gekoppelde route offerte, calculatie, werkvoorbereiding, planning en nacalculatie over meerdere disciplines (constructie, plaatwerk, montage), zodat planning niet bij een paar mensen ligt.
+  outreach_strategy: 'Bel 010-4451111, vraag naar directeur of hoofd werkvoorbereiding. Haakje: veel verschillende opdrachten per jaar over engineering, plaatwerk en montage. Onderzoeksgesprek.'
+  conversation_starters:
+  - Hoe plannen jullie werk dat deels in de werkplaats en deels op locatie gebeurt, en wie houdt dat overzicht?
+  - Hoe terugkijken jullie of een offerte achteraf klopte met de gewerkte uren?
+  verification: aangepast — Telefoon +31 (0)10 - 44 51 111 en 'onze 65 collega's' op eigen homepage; LinkedIn-link (voscon-vbs-b-v-) op eigen site. Vacaturepagina bevat geen statisch zichtbare vacatures en zoeken vond geen actuele kantoorrol; vacature-claim aangescherpt.
+- name: Waboplast
+  url: https://waboplast.nl/
+  phone: 075 642 20 44
+  city: Wormer
+  priority_score: 7/10
+  industry: Kunststof verspanen op tekening (CNC draaien/frezen, lassen, kanten, zagen, lijmen)
+  size: 60 specialisten, 31 CNC-machines (waboplast.nl); andere bron 'ruim vijftig'
+  tech_stack: Offerteformulier met tekeningupload (STEP/PDF/DWG/DXF, 32 MB) en terugbelverzoek; geen ERP of offertetool zichtbaar. 95% leverbetrouwbaarheid, 24/7 geautomatiseerde productie.
+  relevant_vacancies: 'Expeditiemedewerker, Verspaningstechnoloog/CNC, Meewerkend voorman zagerij (werkzoeken.nl): geen relevante vacatures gevonden'
+  why_fit: 'Elke order is een tekening met eigen offerte: veel offertes, 12 materialen en 7 bewerkingen maken calculatie en planning complex. 24/7 bemande productie vraagt strakke planning. Onafhankelijk familiebedrijf.'
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding/planning
+  linkedin: linkedin.com/company/waboplast-bv
+  sources:
+    decision_maker: 
+    size: https://waboplast.nl/werken-bij-waboplast/
+    phone: https://waboplast.nl/contact/
+    multi_location: 
+    relevant_vacancies: https://www.werkzoeken.nl/vacature/13885803-expeditiemedewerker-bij-waboplast-te-wormer/
+    linkedin: https://waboplast.nl/
+  value_proposition: Tekeningupload direct door naar calculatie en planning, met nacalculatie per materiaal en bewerking.
+  outreach_strategy: 'Bel algemeen nummer, vraag naar directeur of planner. Haakje: tekeningupload en de weg daarna. Onderzoeksgesprek.'
+  conversation_starters:
+  - Wanneer een tekening binnenkomt via de site, hoe komt er een prijs en wie doet dat?
+  - Hoe verdelen jullie 31 machines over orders en hoe weet je of een order winst opleverde?
+  verification: bevestigd — Telefoon 075 – 642 20 44 op eigen contactpagina; zelfstandig familiebedrijf (Waanders), CNC-verspaning kunststof op klanttekening (STEP/PDF/DWG). Werken-bij noemt 65+ collega's (lead zegt 60, binnen range). LinkedIn gelinkt vanaf eigen site.
+- name: Bax Metaal
+  url: https://www.baxmetaal.nl/
+  phone: '0497-555393'
+  city: Bergeijk
+  priority_score: 7/10
+  industry: 'Samengesteld plaatwerk/buiswerk (RVS, aluminium, staal) voor o.a. halfgeleiderindustrie: engineering, lasersnijden, lassen, montage'
+  size: Ca. 55 medewerkers (Metaalnieuws 2021, groei sindsdien); LinkedIn-range 51-200
+  tech_stack: ISO 9001:2015 en NEN 1090. Geen ERP of offertetool zichtbaar op de site; eerdere bron noemt CADMAN-planning (niet geverifieerd). Geen tekening-upload op de homepage.
+  relevant_vacancies: Geen relevante vacatures op eigen Recruitee (alleen productie/BBL); werkvoorbereider metaal Bergeijk op Werken in de Kempen, toeschrijving aan Bax onzeker
+  why_fit: Orderspecifiek samengesteld werk met veel engineering en inkoop; vacature werkvoorbereider/inkoper wijst op knelpunt in werkvoorbereiding. Nieuwbouw 6.500 m2 en 15-20% groei vergroten de planningsdruk. ISO 9001 duidt op procesdiscipline.
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding / operationeel manager
+  linkedin: linkedin.com/company/bax-metaal
+  sources:
+    decision_maker: 
+    size: https://www.metaalnieuws.nl/vooruitgang-en-doorpakken-bij-bax-metaal
+    phone: https://www.baxmetaal.nl/contact/
+    multi_location: https://www.baxmetaal.nl/
+    relevant_vacancies: https://baxmetaal.recruitee.com/
+    linkedin: https://www.baxmetaal.nl/
+  value_proposition: Eén gekoppeld overzicht van offerte, calculatie, werkvoorbereiding, inkoop en machineplanning met nacalculatie, zodat groei niet leidt tot meer Excel en afstemming.
+  outreach_strategy: 'Bel 0497-555393, vraag naar de directeur of het hoofd werkvoorbereiding. Haakje: vacature werkvoorbereider/inkoper en de groei/nieuwbouw. Onderzoeksgesprek, geen verkoop.'
+  conversation_starters:
+  - 'Jullie zoeken een werkvoorbereider/inkoper: hoe loopt nu de route van aanvraag naar calculatie, inkoop en planning, en wat gebeurt er buiten het systeem om?'
+  - 'Met de nieuwbouw en groei: hoe houden jullie overzicht op doorlooptijden en weten jullie achteraf of een order winstgevend was?'
+  verification: 'aangepast — Telefoon +31(0)497-555393 op eigen site/contact; LinkedIn gelinkt vanaf eigen site; orderspecifieke metaalbewerking (semicon, food, machinebouw). Vacatureclaim deels achterhaald: eigen Recruitee toont nu alleen BBL-leerling, kanter-zetter, RVS TIG-lasser en voorman lasafdeling; werkvoorbereider/inkoper staat alleen nog (mogelijk anoniem) op Werken in de Kempen, niet op eigen vacaturesite. Grootte ca. 55 niet opnieuw bevestigd (LinkedIn 51-200).'
+- name: Van Hengstum Metaal
+  url: https://www.vanhengstummetaal.nl/
+  phone: 035-6020364
+  city: Soest
+  priority_score: 7/10
+  industry: Lasersnijden, lassen, kanten, CNC verspanen en engineering; enkelstuks, series en complete samenstellingen op tekening
+  size: 50+ medewerkers (homepage site); LinkedIn-range 11-50
+  tech_stack: Tekening-upload voor offerte (DXF, DWG, STEP, PDF) met gratis tekeningcontrole; ERP niet zichtbaar. Beloofde 72-uurs levertijd en 99% op tijd wijzen op krappe planning.
+  relevant_vacancies: Werken-bij pagina noemt o.a. engineers en werkplanners in algemene tekst; concrete openstaande vacatures zijn lasser/bankwerker en BBL/BOL-stages (niet relevant); specifieke kantoorvacature niet bevestigd
+  why_fit: Veel losse tekeningen via uploadformulier die elk een offerte en planning vragen, met korte levertijden (72 uur). Mix van lasersnijden, lassen en verspanen vraagt strakke werkvoorbereiding. Onafhankelijk familiebedrijf, geen groep zichtbaar.
+  decision_maker: Directeur/eigenaar, of productiemanager / hoofd werkvoorbereiding
+  linkedin: linkedin.com/company/vanhengstumsoest
+  sources:
+    decision_maker: 
+    size: https://www.vanhengstummetaal.nl/
+    phone: https://www.vanhengstummetaal.nl/contact/
+    multi_location: 
+    relevant_vacancies: https://www.vanhengstummetaal.nl/werken-bij/
+    linkedin: https://nl.linkedin.com/company/vanhengstumsoest
+  value_proposition: Automatische route van geuploade tekening naar calculatie, offerte en machineplanning met nacalculatie, zodat korte levertijden haalbaar blijven zonder handmatige afstemming.
+  outreach_strategy: 'Bel 035-6020364, vraag naar de directeur of de productiemanager/werkplanner. Haakje: tekeningen via de site en snelle levertijden. Onderzoeksgesprek, geen verkoop.'
+  conversation_starters:
+  - 'Klanten uploaden tekeningen voor een offerte: hoe gaat zo''n aanvraag van binnenkomst naar prijs en naar planning, en hoeveel gebeurt handmatig?'
+  - 'Bij een belofte van 72 uur levertijd: hoe houden jullie de planning over laser, lassen en verspanen overzichtelijk?'
+  verification: 'bevestigd — Telefoon +31 (0)35 602 03 64 (= 035-6020364) op eigen contactpagina; homepage noemt 50+ eigen vakmensen; orderspecifieke metaalbewerking (laser, zetwerk, lassen, machinebouw, engineering). LinkedIn-pagina vanhengstumsoest hoort bij Van Hengstum Metaal Soest. Let op: er bestaat ook een apart Van Hengstum B.V. (vanhengstum.nl, staal/aluminium/kunststof) — mogelijk verwant, niet verder onderzocht. Geen specifieke kantoorvacature bevestigd.'
+- name: Aalders B.V. (Machinefabriek Aalders)
+  url: https://aalders-bv.nl/
+  phone: 0315-651167
+  city: De Heurne (Aalten/Dinxperlo)
+  priority_score: 7/10
+  industry: 'Machine- en apparatenbouw en metaalbewerking op order: engineering, verspanen, plaatwerk, lassen, finishing, expeditie'
+  size: Ca. 50 medewerkers (site over-ons); familiebedrijf sinds 1964
+  tech_stack: ISO/NEN-certificaten (o.a. NEN-EN 1090) vermeld; offertes en tekeningen op aanvraag; ERP niet zichtbaar. Vacaturepagina laadt via JavaScript-vacaturemodule.
+  relevant_vacancies: 'Niet geverifieerd: vacaturelijst wordt dynamisch geladen; een samenvatting van de site noemt werkvoorbereiders/calculators/planners maar dit kon niet bevestigd worden'
+  why_fit: Orderspecifieke machinebouw met eigen engineering en meerdere processtappen (verspanen, plaatwerk, lassen, finishing, expeditie) vraagt veel afstemming tussen offerte, werkvoorbereiding en planning. Hal-uitbreiding wijst op groei. Midden in de maatrange, onafhankelijk familiebedrijf.
+  decision_maker: Directeur/eigenaar, of hoofd werkvoorbereiding / operationeel manager
+  linkedin: linkedin.com/company/aalders-bv
+  sources:
+    decision_maker: 
+    size: https://aalders-bv.nl/over-ons/
+    phone: https://aalders-bv.nl/contact/
+    multi_location: https://aalders-bv.nl/contact/
+    relevant_vacancies: https://aalders-bv.nl/vacatures/
+    linkedin: https://aalders-bv.nl/
+  value_proposition: Eén gekoppeld overzicht van offerte, calculatie, werkvoorbereiding en planning over alle processtappen, met nacalculatie per order, zodat planning niet in het hoofd van een paar mensen zit.
+  outreach_strategy: 'Bel 0315-651167, vraag naar de directeur of het hoofd werkvoorbereiding/planning. Haakje: groei en uitbreiding van de hal. Onderzoeksgesprek, geen verkoop.'
+  conversation_starters:
+  - 'Bij de uitbreiding van de hal: hoe loopt de route van offerte via engineering en werkvoorbereiding naar planning, en waar zit de meeste handmatige afstemming?'
+  - 'Met zoveel processtappen (verspanen, plaatwerk, lassen, finishing): hoe zien jullie vooraf en achteraf of een order past in capaciteit en winst?'
+  verification: bevestigd — Telefoon +31 315 651167 op eigen contactpagina (Lage Heurnseweg 29, De Heurne); circa 50 medewerkers en familiebedrijf sinds 1964 volgens over-ons; machine-/apparatenbouw en toelevering van ontwerp tot realisatie. LinkedIn aalders-bv gelinkt vanaf eigen site. Vacatures blijven niet geverifieerd (dynamisch geladen, ook via zoeken niet te bevestigen).
+- name: King Metaal Machinefabriek
+  url: https://www.kingmetaal.frl/
+  phone: 0517-398011
+  city: Franeker
+  priority_score: 6/10
+  industry: Plaatwerk, CNC frezen, lassen (RVS/duplex/aluminium), lasersnijden tot complete machines en installaties (offshore, food, scheepsbouw)
+  size: Ca. 28-40 medewerkers (LinkedIn-range 11-50; exact aantal niet geverifieerd)
+  tech_stack: Eigen ledenomgeving (members-only) op de site; ERP, offertetool of tekening-upload niet zichtbaar. Meerdere hallen/afdelingen, apart lashal.
+  relevant_vacancies: 'Geen relevante vacatures gevonden (laatste LinkedIn-vacature: schoonmaak); wel erkend leerbedrijf Werkvoorbereider fabricage (calculeren, offreren, nacalculatie)'
+  why_fit: Onafhankelijk familiebedrijf met orderspecifiek werk van onderdelen tot complete machines, dus offerte, calculatie en planning per project verschillen. Eigen bedrijfsbureau suggereert gestructureerde werkvoorbereiding, maar kennis zit waarschijnlijk bij enkelen. Zonder vacaturesignaal daarom lager gescoord.
+  decision_maker: Directeur/eigenaar, of hoofd bedrijfsbureau / werkvoorbereiding
+  linkedin: linkedin.com/company/king-metaal-machinefabriek-bv
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/king-metaal-machinefabriek-bv
+    phone: https://www.kingmetaal.frl/
+    multi_location: https://www.kingmetaal.frl/
+    relevant_vacancies: https://stagemarkt.nl/leerbedrijven/king-metaal-machinefabriek-bv_429ccb34-0aed-4149-bfe1-70fed185596e
+    linkedin: https://nl.linkedin.com/company/king-metaal-machinefabriek-bv
+  value_proposition: Gekoppeld overzicht van offerte, calculatie, werkvoorbereiding en projectplanning met nacalculatie per project, zodat planning en kosteninzicht niet afhangen van een paar mensen.
+  outreach_strategy: 'Bel 0517-398011, vraag naar de directeur of het hoofd bedrijfsbureau. Haakje: projectmatig werk van plaatwerk tot complete machines. Onderzoeksgesprek, geen verkoop.'
+  conversation_starters:
+  - 'Jullie maken van losse onderdelen tot complete machines: hoe loopt een offerte-aanvraag door calculatie en bedrijfsbureau naar de planning?'
+  - Hoe zien jullie na afloop of een project winstgevend was (nacalculatie), en waar gebeurt dat nu?
+  verification: bevestigd — Telefoon +31 (0)517 - 39 80 11 op eigen homepage; zelfstandig familiebedrijf (sinds 1930), ca. 28 medewerkers (LinkedIn/registers), orderspecifiek metaalwerk/machinebouw voor offshore, transport, food en scheepsbouw. LinkedIn-slug king-metaal-machinefabriek-bv past bij bedrijf (eigen site linkt numerieke company-ID). Geen relevante vacatures, zoals vermeld.
+- name: Hieselaar Nederland
+  url: https://hieselaar.nl/
+  phone: "+31 (182) 38 99 99"
+  city: Schoonhoven
+  priority_score: 6/10
+  industry: 'Plaatwerk op order: lasersnijden/ponsen, zetten, lassen, poedercoaten, assemblage (OEM, retail, bouw, kantoor)'
+  size: bijna 60 mw (eigen homepage, na doorstart 2025; voor faillissement ca. 120)
+  tech_stack: Geen ERP genoemd op site. Eigen team met engineers, technisch commercieel en calculators; ISO 9001:2015. Online digitaal profiel (virtuele rondleiding) maar geen offertetool zichtbaar.
+  relevant_vacancies: Eerder Calculator en KAM Manager (zoekresultaat); actueel alleen CNC Zetter en BBL-medewerker metaal, dus geen relevante vacatures gevonden op dit moment
+  why_fit: 'Plaatwerk op order met meerdere klantsectoren en vaste calculators: offerte naar calculatie naar planning is orderspecifiek. Zit in het hart van de grootte-range. Calculator/KAM-vacatures wijzen op kantoor- en procesdruk.'
+  decision_maker: Directeur/eigenaar, of operationeel manager / hoofd calculatie en werkvoorbereiding
+  linkedin: linkedin.com/company/hieselaar-nederland-b-v-
+  sources:
+    decision_maker: 
+    size: https://hieselaar.nl/
+    phone: https://hieselaar.nl/
+    multi_location: 
+    relevant_vacancies: https://hieselaar.nl/work/vacatures/
+    linkedin: https://hieselaar.nl/
+    bankruptcy: https://www.faillissementsdossier.nl/nl/faillissement/1878870/hieselaar-nederland-b-v.aspx
+    entity: https://companyinfo.nl/organisatieprofiel/vervaardiging-van-metalen-constructiewerken-en-delen-daarvan/hieselaar-metaal-b-v-schoonhoven-97705993-000062913166
+  value_proposition: Eén doorlopende route van offerte via calculatie en werkvoorbereiding naar planning met nacalculatie, zodat kennis niet in hoofden van calculators zit.
+  outreach_strategy: 'Bel algemeen nummer, vraag naar directeur of hoofd calculatie/werkvoorbereiding. Haakje: onderzoeksgesprek over hoe een offerteaanvraag intern doorloopt tot planning.'
+  conversation_starters:
+  - Hoe loopt een offerteaanvraag bij jullie van binnenkomst tot een ingepland order, en wie raakt dat onderweg allemaal aan?
+  - Rekenen jullie na op uren en materiaal, en hoe komt die terugkoppeling weer terug in de volgende calculatie?
+  verification: 'aangepast — LET OP: Hieselaar Nederland B.V. is op 20-06-2025 failliet verklaard (F.09/25/206); de activiteiten lopen nu door als doorstart Hieselaar Metaal B.V. (KvK 97705993) met ''bijna 60 vakspecialisten'' volgens eigen site. Bedrijf dus actief, maar naam/entiteit corrigeren en bij bellen rekening houden met recente herstart. Telefoon +31 (182) 38 99 99 en LinkedIn-link op eigen site (pagina draagt nog de oude naam). Geen relevante vacatures zichtbaar.'
+- name: Machinefabriek Boessenkool
+  url: https://boessenkool.com/
+  phone: "+31 (0)546 48 88 00"
+  city: Almelo (ook Hengelo na overname Thomassen Machining)
+  priority_score: 6/10
+  industry: Groot-verspaning, constructie en machinebouw op order, kleine series en extreme precisie
+  size: Ruim 65 mw (boessenkool.com); Boessenkool en Thomassen samen bijna 80 (vraagenaanbod.nl)
+  tech_stack: ERP/CRM-pakket (naam niet zichtbaar); ISO 9001:2015, ISO 3834-2, EN 1090-2 EXC 3, VCA. Complexe certificeringen vragen veel documentatie.
+  relevant_vacancies: Werkvoorbereider fabricage (stagemarkt-listing, rol incl. calculatie en offertes; actualiteit onzeker)
+  why_fit: 'Orderspecifiek werk in kleine series met hoge eisen: veel calculatie en werkvoorbereiding. Werkvoorbereider-rol omvat offertes en productiebewaking. Groepsstatus: onderdeel van kleine familiegroep OEM-Group (Osse), ERP-centraliteit niet geverifieerd, daarom iets lagere score.'
+  decision_maker: Directeur, of manager werkvoorbereiding/productie
+  linkedin: linkedin.com/company/machinefabriek-boessenkool
+  sources:
+    decision_maker: 
+    size: https://boessenkool.com/
+    phone: https://boessenkool.com/contact/
+    multi_location: https://www.vraagenaanbod.nl/boessenkool-verdubbelt-omzet-met-overname-thomassen-machining/
+    relevant_vacancies: https://stagemarkt.nl/stages/stage/almelo/machinefabriek-boessenkool-bv/stage-2c23b1f6-4b7b-494d-afa9-f33ef60d846a-25122
+    linkedin: https://boessenkool.com/
+    group: https://boessenkool.com/nl/over-ons/
+  value_proposition: Meer grip op calculatie, werkvoorbereiding en nacalculatie over twee locaties, naast het bestaande ERP.
+  outreach_strategy: 'Bel algemeen nummer, vraag naar directeur of werkvoorbereiding. Haakje: twee locaties na overname en hoe planning is ingericht. Onderzoeksgesprek.'
+  conversation_starters:
+  - 'Sinds de overname van Thomassen werken jullie vanaf twee locaties: hoe stemmen jullie planning en capaciteit af?'
+  - Hoeveel van de werkvoorbereiding en calculatie zit in het ERP en hoeveel in Excel of in hoofden?
+  verification: bevestigd — Telefoon +31 (0)546 48 88 00 op eigen site/contact; 65+ mw op site. Onderdeel van kleine familiegroep Osse Equipment Manufacturing Group (eigenaar Eelco Osse, ca. 80+ mw totaal) — geen groot concern, ok maar noteren.

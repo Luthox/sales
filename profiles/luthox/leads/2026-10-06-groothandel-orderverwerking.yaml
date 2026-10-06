@@ -1,0 +1,518 @@
+---
+business: luthox
+segment: groothandel-orderverwerking
+generated_at: '2026-10-06'
+description: 'Cold-call segmenttest (belonderzoek). Onafhankelijke B2B-groothandels (15-150 mw) in heel NL: technisch/bevestiging/aandrijving, installatie/elektro, bouwmaterialen/hout, foodservice/horeca/dranken, verpakkingen/hygiëne/werkkleding. Discovery in 2 rondes (tweede ronde alleen met grootte-bewijs), verrijking door Sonnet, onafhankelijke verificatie door Opus; veld verification geeft het oordeel van de checker. LinkedIn = bedrijfspagina (linkedin_lookup); decision_maker is de rol om naar te vragen. Top 20 op priority_score; 11 zwakkere geverifieerde leads weggelaten (Zijlstra Beroepskleding, Metaaltechniek Handelsonderneming, Twepa, Contimeta, Burghouwt Bouwbeslag, Technische Groothandel Peter Blom, InstallatieBalie.nl, Beerten Bouwmaterialen, BouwPartner Van der Meulen, Robben Horeca, Baas Verpakkingen).'
+leads:
+- name: De Monnik Dranken
+  url: https://monnik-dranken.nl
+  phone: 0541 513 076
+  city: Oldenzaal
+  priority_score: 8/10
+  industry: Drankengroothandel, importeur en merkbouwer (horeca, slijters, groothandels)
+  size: 130 mw (eigen homepage); bovenkant van range
+  tech_stack: B2B-bestelportal (monnikbestelportal.nl); ERP niet zichtbaar. Portal bestaat maar vacature Order Entry wijst op nog veel handmatige orderinvoer buiten het portal.
+  relevant_vacancies: Medewerker Order Entry (28 sep 2026), Inkoop medewerker (2 posities, 28 sep 2026); verder Accountmanager Horeca Oost-NL, Medewerker Marketing & Communicatie, magazijnmedewerker (niet relevant)
+  why_fit: 100% familiebedrijf (aandelen van Dirkzwager teruggekocht, geen groep). Actuele vacature Order Entry is het sterkste signaal voor handmatige orderverwerking. Veel B2B-klanten (horeca, slijters, groothandels) met telefoon/mail-orders naast portal.
+  decision_maker: Directeur/eigenaar, of operationeel manager / hoofd binnendienst
+  linkedin: linkedin.com/company/de-monnik-dranken
+  sources:
+    decision_maker: 
+    size: https://monnik-dranken.nl
+    phone: https://monnik-dranken.nl/contact
+    multi_location: 
+    relevant_vacancies: https://monnik-dranken.nl/over-ons/vacatures/
+    linkedin: https://monnik-dranken.nl
+  value_proposition: Orders uit mail, pdf en telefoon automatisch inlezen en valideren richting ERP, zodat order entry minder handwerk is en klanten via een statusoverzicht zelf levertijd zien.
+  outreach_strategy: 'Bel 0541 513 076, vraag naar directeur of manager binnendienst/verkoop. Haakje: onderzoeksgesprek over orders die buiten het bestelportal binnenkomen; verwijs naar de order-entry-functie in algemene termen.'
+  conversation_starters:
+  - Welk deel van de orders loopt via het bestelportal en welk deel nog per mail, telefoon of via vertegenwoordigers?
+  - 'Jullie zoeken een medewerker order entry: wat kost die orderinvoer nu aan tijd en waar gaat het het vaakst mis?'
+  verification: 'aangepast — Telefoon 0541 513 076 en LinkedIn de-monnik-dranken op eigen homepage/contact; eigen homepage noemt 130 medewerkers. Vacatures actueel op eigen site: Medewerker Order Entry (28-09-2026), Inkoop medewerker (2x), Accountmanager Horeca, Medewerker Marketing & Communicatie.'
+- name: Groot Techniek
+  url: https://groot.nl
+  phone: 0224 54 44 44
+  city: Winkel (NH), Heerhugowaard, Purmerend, Leeuwarden
+  priority_score: 8/10
+  industry: Technische groothandel (aandrijving, bevestiging, hydrauliek, pneumatiek)
+  size: ca. 50 medewerkers (werkenbijgroottechniek.nl/over-ons)
+  tech_stack: Webshop op groot.nl met klantaccount; bestellen ook per telefoon, e-mail en in de winkel; ERP niet zichtbaar. Meerkanaals bestellen wijst op handmatige verwerking naast de webshop.
+  relevant_vacancies: '5 openstaande vacatures, waarvan 1 genoemd: Verkoper Hydrauliek (overige titels niet zichtbaar); geen duidelijke binnendienst/orderverwerking-vacature bevestigd'
+  why_fit: 4 vestigingen plus centraal magazijn met 25.000+ artikelen uit voorraad. Orders komen per telefoon en mail binnen naast de webshop. Familiebedrijf zonder moedermaatschappij, in het hart van de 15-150 range.
+  decision_maker: Directeur/eigenaar of hoofd verkoop binnendienst
+  linkedin: linkedin.com/company/groot-techniek-b-v-
+  sources:
+    decision_maker: 
+    size: https://www.werkenbijgroottechniek.nl/over-ons
+    phone: https://groot.nl
+    multi_location: https://groot.nl
+    relevant_vacancies: https://www.werkenbijgroottechniek.nl/over-ons
+    linkedin: https://www.werkenbijgroottechniek.nl/over-ons
+  value_proposition: Orders uit mail/telefoon automatisch inlezen en in het ERP zetten, plus een statusdashboard voor levertijd, zodat de binnendienst minder belt en typt.
+  outreach_strategy: 'Bel 0224 54 44 44, vraag naar directie of de leidinggevende binnendienst. Haakje: onderzoeksgesprek over hoe orders per mail/telefoon naast de webshop worden verwerkt over 4 vestigingen.'
+  conversation_starters:
+  - Hoeveel van jullie orders komen nog per telefoon of mail binnen naast de webshop?
+  - Hoe regelen jullie voorraad- en levertijdvragen tussen de 4 vestigingen en het centrale magazijn?
+  verification: bevestigd — Telefoon 0224 54 44 44 (hoofdvestiging Winkel) op eigen site; 4 vestigingen; ca. 50 mw en familiebedrijf op werkenbij-site; LinkedIn groot-techniek-b-v- gelinkt vanaf werkenbij-site; 5 vacatures o.a. Verkoper Hydrauliek.
+- name: Hoenderdaal Fasteners
+  url: https://www.hoenderdaal-fasteners.nl/
+  phone: "+31 (0)318 539 711"
+  city: Veenendaal
+  priority_score: 8/10
+  industry: bevestigingsmaterialen (ontwikkelaar, importeur, groothandel, exporteur), familiebedrijf sinds 1966
+  size: ca. 65 medewerkers (zoekresultaat over eigen website 'ongeveer 65 collega's'; LinkedIn-range 51-200; niet op de site zelf geverifieerd)
+  tech_stack: Webshop met online bestellen naast bestellen per e-mail (verkoop@hoenderdaal-fasteners.nl) en telefoon; ERP niet zichtbaar. Mix van kanalen wijst op handmatige verwerking van mail/telefoon-orders.
+  relevant_vacancies: Medewerker Sales Support (32-40 uur; controleert orders en offertes, eerste aanspreekpunt klanten); ook magazijnmedewerkers (niet relevant)
+  why_fit: Orders en offertes komen binnen via mail en telefoon naast de webshop; actieve vacature sales support (orderchecks/offertes) wijst op druk op binnendienst. Breed assortiment, 12.500 m2 DC, ca. 65 mw in het hart van de range.
+  decision_maker: Directeur/eigenaar, of hoofd/manager verkoop binnendienst (sales support)
+  linkedin: linkedin.com/company/hoenderdaal-fasteners-b-v-
+  sources:
+    decision_maker: 
+    size: https://www.hoenderdaal-fasteners.nl/nl-nl/werken-bij (zoekresultaat)
+    phone: https://www.hoenderdaal-fasteners.nl/
+    multi_location: https://www.hoenderdaal-fasteners.nl/ (één vestiging Veenendaal)
+    relevant_vacancies: https://nl.indeed.com/cmp/Hoenderdaal-Fasteners/locations/UT/Veenendaal
+    linkedin: https://www.hoenderdaal-fasteners.nl/
+  value_proposition: Orders uit mail/pdf/telefoon automatisch uitlezen en klaarzetten in het ERP, plus een klantportaal met orderstatus en levertijd, zodat sales support minder tikwerk en bel-voor-status heeft.
+  outreach_strategy: 'Bel 0318 539 711, vraag naar de manager verkoop binnendienst of de directeur. Haakje: onderzoeksgesprek over hoe orders en offertes binnenkomen naast de webshop en wat daarvan handmatig gaat.'
+  conversation_starters:
+  - Hoeveel van jullie orders komen nog per mail of telefoon binnen naast de webshop, en wat gebeurt er daarna?
+  - 'Jullie zochten sales support voor orders en offertes: waar zit daar de meeste handmatige tijd?'
+  - Hoe vaak bellen klanten om te vragen waar hun bestelling blijft?
+  verification: bevestigd — Telefoon 0318 539 711 en LinkedIn-link (hoenderdaal-fasteners-b-v-) op eigen homepage; familiebedrijf sinds 1966, importeur/groothandel bevestigingstechniek, 10.000+ artikelen. Ca. 65 collega's via zoekresultaat werken-bij (pagina nu 404); Sales Support-vacature zichtbaar op Indeed, actualiteit niet op eigen site te controleren.
+- name: Snoeck Electro Groothandel (Snoeck EG)
+  url: https://www.snoeck-eg.nl
+  phone: "+31 (0)10 263 22 66 (hoofdkantoor Hoogvliet Rotterdam); Den Haag 070 36 24 040"
+  city: Hoogvliet Rotterdam (hoofdkantoor), Utrecht, Den Haag, Helmond
+  priority_score: 8/10
+  industry: Elektrotechnische groothandel (installatiemateriaal, kabel, verlichting, zonnepanelen, kastenbouw)
+  size: 65 medewerkers, verdeeld over 5 vestigingen (Imagro-ledenpagina en zoekresultaat)
+  tech_stack: Eigen B2B-webshop (webshop.snoeck-eg.nl) met orderstatus, eigen bestellijsten, PV-configurator; telefonische klantenservice. Webshop aanwezig, maar breed assortiment plus kastenbouw/maatwerk wijst op ordervolume buiten de shop.
+  relevant_vacancies: niet geverifieerd (geen relevante vacatures gevonden op bezochte pagina's)
+  why_fit: Familiebedrijf in het hart van de range (65 mw) met 5 vestigingen en veel installateurs als klant. Kastenbouw en projectmatige orders betekenen offertes en orders via mail/telefoon. Klanten bellen voor beschikbaarheid en levering.
+  decision_maker: Directie (co-directeuren) of hoofd verkoop binnendienst / operationeel manager
+  linkedin: linkedin.com/company/snoeck-electro-centraal
+  sources:
+    decision_maker: 
+    size: https://imagrogroep.nl/lid/snoek-electro-groothandel/
+    phone: https://www.snoeck-eg.nl/contact
+    multi_location: https://www.snoeck-eg.nl/contact
+    relevant_vacancies: 
+    linkedin: https://www.snoeck-eg.nl/
+  value_proposition: Automatisch inlezen van orders en offerteaanvragen uit mail/pdf/Excel in het ERP en een klantportaal/dashboard voor levertijd en orderstatus, zodat binnendienst minder belt en typt.
+  outreach_strategy: 'Bel Den Haag 070 36 24 040, vraag naar hoofd binnendienst of operationeel manager. Haakje: onderzoek naar hoe orders van installateurs binnenkomen naast de webshop.'
+  conversation_starters:
+  - Hoeveel van de orders komen nog per mail, pdf of telefoon binnen naast de webshop, en wie typt die in?
+  - 'Met 5 vestigingen: hoe houden jullie zicht op voorraad en levertijd tussen locaties als een klant belt?'
+  verification: 'aangepast — Den Haag 070 36 24 040 klopt, maar eigen contactpagina noemt Hoogvliet Rotterdam als hoofdkantoor: +31 (0)10 263 22 66; beter om dat te bellen. Vestigingen: Hoogvliet, Utrecht, Den Haag, Helmond + PV-magazijn Utrecht. Onafhankelijk familiebedrijf, lid inkoopcombinatie Imagro (geen concern). Ca. 60-65 mw via Imagro/derden. LinkedIn snoeck-electro-centraal gelinkt vanaf eigen site.'
+- name: Verdouw
+  url: https://www.verdouw.nu/
+  phone: '0182 597 300'
+  city: Gouda, Gouderak, Apeldoorn
+  priority_score: 8/10
+  industry: Bouwmaterialen- en plaatmateriaalgroothandel (10.000+ producten, deuren, dak, isolatie)
+  size: ca. 115-158 medewerkers (RocketReach 115, Drimble 158; LinkedIn 51-200); bovenkant range
+  tech_stack: Online bestellen met voorraadinfo, contactformulier; vacatures binnendienst gericht op 'van aanvraag tot order'.
+  relevant_vacancies: Teamleider Verkoop Binnendienst; (Junior) Verkoper Binnendienst; Verkoop Binnendienst Bouwmaterialen / Gouda; Medewerker Inkoop; Administratief Medewerker Inkoop; Planner/Werkvoorbereider Deurenmontage; Planner Logistiek en Expeditie; E-commerce Medewerker; Allround administratief medewerker
+  why_fit: 'Meerdere binnendienstvacatures tegelijk plus teamleider: grote orderstroom per telefoon/aanvraag. Breed assortiment, 10.000+ producten, volgende-dag-levering voor 13:00 geeft druk op orderverwerking. Onafhankelijk bedrijf sinds 1909.'
+  decision_maker: Teamleider verkoop binnendienst / operationeel manager of directie
+  linkedin: linkedin.com/company/verdouw
+  sources:
+    decision_maker: 
+    size: https://drimble.nl/bedrijf/gouda/16798538/verdouw-gouda-bouwprodukten-bv.html
+    phone: https://www.verdouw.nu/service
+    multi_location: https://www.verdouw.nu/
+    relevant_vacancies: https://www.verdouw.nu/werken-bij/banen
+    linkedin: https://www.verdouw.nu/
+  value_proposition: Aanvragen en orders van mail/telefoon automatisch inlezen en klanten zelf orderstatus laten zien, zodat de binnendienst minder tijd kwijt is aan typen en terugbellen.
+  outreach_strategy: 'Bel 0182 597 300, vraag naar teamleider verkoop binnendienst of operationeel manager. Haakje: veel binnendienstvacatures, onderzoek naar tijdsbesteding.'
+  conversation_starters:
+  - 'Jullie hebben meerdere binnendienstvacatures: waar zit de meeste tijd in, aanvraag tot order?'
+  - Hoeveel klanten bellen om levertijd of orderstatus te vragen?
+  verification: 'aangepast — Telefoon 0182 597 300 op eigen site (service/footer); LinkedIn verdouw gelinkt; zelfstandige groothandel sinds 1909. Grootte via derden 115-158 mw (bovenkant range). Vacaturelijst is breder dan opgegeven: o.a. Teamleider Verkoop Binnendienst, Junior Verkoper Binnendienst, Verkoop Binnendienst Bouwmaterialen/Gouda, Medewerker Inkoop, Administratief Medewerker Inkoop, Planner/Werkvoorbereider Deurenmontage, Planner Logistiek en Expeditie, E-commerce Medewerker.'
+- name: St. Middelkoop & Zn
+  url: https://www.stmiddelkoop.nl
+  phone: '0418-820280'
+  city: Buurmalsen, Werkendam, Zaltbommel
+  priority_score: 8/10
+  industry: Bouwmaterialen en leidingsystemen voor professionals
+  size: ca. 60-75 medewerkers (zoekresultaat o.b.v. overstmiddelkoop.nl en LinkedIn; niet op homepage bevestigd)
+  tech_stack: Webshop met 35.000+ producten, afhalen of bezorgen; telefoonnummers per vestiging; ERP niet zichtbaar.
+  relevant_vacancies: Junior verkoopmedewerker (beperkt relevant); verder logistiek medewerker, magazijnmedewerker/voorraadbesteller, medewerker buitenterrein (niet relevant). Geen logistiek coordinator op site.
+  why_fit: 3 vestigingen en groot assortiment voor veel professionele klanten. Logistiek-coordinator- en verkoopvacatures wijzen op groei in orderproces. Familiebedrijf zonder moederbedrijf.
+  decision_maker: Directeur/eigenaar of hoofd verkoop binnendienst
+  linkedin: linkedin.com/company/st.middelkoop&zn
+  sources:
+    decision_maker: 
+    size: https://overstmiddelkoop.nl/over-ons/
+    phone: https://www.stmiddelkoop.nl
+    multi_location: https://www.stmiddelkoop.nl
+    relevant_vacancies: https://www.stmiddelkoop.nl
+    linkedin: https://www.stmiddelkoop.nl
+  value_proposition: Orders uit telefoon/mail/appjes automatisch in het systeem zetten en leverstatus per vestiging tonen, zodat verkopers en logistiek minder handmatig werk hebben.
+  outreach_strategy: 'Bel 0418-820280, vraag naar directie of leidinggevende verkoop/logistiek. Haakje: onderzoeksgesprek over orderstroom over 3 vestigingen.'
+  conversation_starters:
+  - Hoe verwerken jullie bestellingen van aannemers die niet via de webshop lopen?
+  - 'Jullie zoeken een logistiek coordinator: waar zit nu de grootste drukte in het proces?'
+  verification: 'aangepast — Telefoon 0418-820280 en LinkedIn-link st.middelkoop&zn op eigen homepage; familiebedrijf (4 broers), 3 vestigingen, ca. 60-75 mw. Vacatures gecorrigeerd: site toont junior verkoopmedewerker, logistiek medewerker Zaltbommel, magazijnmedewerker/voorraadbesteller, buitenterrein; geen logistiek coordinator gevonden.'
+- name: Schonkeren B.V.
+  url: https://www.schonkerenbv.nl
+  phone: '0495 457 111'
+  city: Weert (afhaalpunten Elsloo, Venray, Helmond, Roermond)
+  priority_score: 7/10
+  industry: Groothandel sanitair en cv voor installatiebranche
+  size: ca. 32 medewerkers (zoekresultaat o.b.v. leerbanenmarkt.nl/LinkedIn; niet op eigen site bevestigd)
+  tech_stack: OnlinePro klantportaal (onlineprosc.schonkerenbv.nl) met login; 5 afhaalpunten; transportservice; ERP niet zichtbaar.
+  relevant_vacancies: Vacaturepagina /vacatures aanwezig; specifieke titels niet zichtbaar
+  why_fit: Installatiebranche bestelt vaak telefonisch/mail naast portaal. 5 afhaalpunten vragen om voorraad- en orderafstemming. Kleinere organisatie, binnen range.
+  decision_maker: Directeur/eigenaar of hoofd verkoop binnendienst
+  linkedin: linkedin.com/company/schonkeren-b.v.
+  sources:
+    decision_maker: 
+    size: https://leerbanenmarkt.nl/leerbedrijven/schonkeren-bv_c2fb79df-75a3-4ae5-9357-f7bf9247bea8
+    phone: https://www.schonkerenbv.nl/contact
+    multi_location: https://www.schonkerenbv.nl
+    relevant_vacancies: https://www.schonkerenbv.nl/vacatures
+    linkedin: https://nl.linkedin.com/company/schonkeren-b.v.
+  value_proposition: Orders uit mail/telefoon naast het portaal automatisch verwerken en afhaalbestellingen per punt overzichtelijk maken.
+  outreach_strategy: 'Bel 0495 457 111, vraag naar directie of binnendienst-leidinggevende. Haakje: onderzoeksgesprek over portaal versus telefoonorders.'
+  conversation_starters:
+  - Hoeveel installateurs gebruiken OnlinePro en hoeveel bestellen nog per telefoon?
+  - Hoe regelen jullie voorraad en klaarzetten van orders voor 5 afhaalpunten?
+  verification: bevestigd — Telefoon 0495-457111 op eigen homepage/contactpagina; actieve groothandel sanitair/cv voor installateurs, Weert + afhaalpunten. Ca. 32 mw (leerbanenmarkt/derden; 10-50 band), niet op eigen site. LinkedIn schonkeren-b.v. klopt. Vacaturepagina bestaat, titels niet uitleesbaar.
+- name: Breur Groothandel
+  url: https://www.breur.nl
+  phone: 010-2888444
+  city: Capelle aan den IJssel, Gouda, Den Haag
+  priority_score: 7/10
+  industry: Groothandel gereedschap, PBM, bevestiging en kleding voor bouw/infra/industrie
+  size: ca. 69-87 medewerkers (LinkedIn-band 51-200; recentere bron 69; niet op eigen site geverifieerd)
+  tech_stack: Eigen webshop (B2B/B2C), voor 17:30 besteld morgen in huis; ERP niet zichtbaar. Breed assortiment via webshop suggereert gedeeltelijk geautomatiseerd, maar telefonisch/mail bestellen blijft waarschijnlijk.
+  relevant_vacancies: Vacaturepagina bestaat (breur.nl/NL/vacatures-3), specifieke kantoorrollen niet geverifieerd; eerder gemeld administratieve vacatures niet bevestigd
+  why_fit: Familiebedrijf (3e generatie, sinds 1928), geen groepsonderdeel gevonden. 3 vestigingen en groot assortiment voor veel B2B-klanten (bouw, infra, industrie). Next-day-levering vergt strakke orderverwerking.
+  decision_maker: Directeur (familie) of operationeel manager / hoofd binnendienst
+  linkedin: linkedin.com/company/breur-groothandel
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/breur-groothandel
+    phone: https://www.breur.nl/nl/vestiging-rivium
+    multi_location: https://werken.bijbreur.nl/over-breur/
+    relevant_vacancies: https://www.breur.nl/NL/vacatures-3
+    linkedin: https://nl.linkedin.com/company/breur-groothandel
+  value_proposition: Automatische verwerking van mail/pdf-orders en een klantstatus-overzicht, zodat de binnendienst bij next-day-levering minder handmatig typt en minder statusvragen krijgt.
+  outreach_strategy: 'Bel 010-2888444, vraag naar directie of hoofd binnendienst. Haakje: onderzoeksgesprek over orderstroom bij next-day-levering vanuit 3 vestigingen.'
+  conversation_starters:
+  - Hoe komen orders van professionele klanten binnen, via de webshop of nog per mail en telefoon?
+  - Hoe verdelen jullie voorraad en leveringen over Capelle, Gouda en Den Haag?
+  verification: bevestigd — Telefoon 010 - 2 888 444 staat in HTML van eigen vestigingspagina Rivium; actieve B2B-groothandel bouw/industrie sinds 1928 met 3 vestigingen. Grootte alleen via LinkedIn-band 51-200, niet op eigen site. LinkedIn breur-groothandel klopt. Geen groepsaansluiting gevonden.
+- name: Witzand Bouwmaterialen
+  url: https://www.witzand.nl/
+  phone: 0546 55 95 59
+  city: Almelo, Eibergen, Enschede, Lichtenvoorde, Ruurlo, Vriezenveen
+  priority_score: 7/10
+  industry: Bouwmaterialen- en houtgroothandel (hout, plaatmateriaal, prefab, renovatie)
+  size: ca. 120-180 medewerkers over 6 vestigingen (LinkedIn ~122-132; andere bron 180+); bovenkant range
+  tech_stack: B2B-portaal MijnWitzand (24/7 bestellen met voorraad en prijzen); maatwerk-bewerking en prefab. Portaal aanwezig, maar offertes en prefab-orders lopen waarschijnlijk via binnendienst.
+  relevant_vacancies: Verkoop binnendienst bouwmaterialen (Almelo); Verkoper binnendienst prefab (Almelo); Strategisch inkoper (Almelo); verder balie/magazijn (niet relevant)
+  why_fit: Meerdere binnendienst-vacatures met taken offertes en orderverwerking. 6 vestigingen en breed assortiment met bewerking en prefab (orderspecifiek). Familiebedrijf 130+ jaar.
+  decision_maker: Directeur of hoofd verkoop binnendienst / operationeel manager
+  linkedin: linkedin.com/company/witzand
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/witzand
+    phone: https://www.witzand.nl/
+    multi_location: https://www.witzand.nl/
+    relevant_vacancies: https://www.witzand.nl/over-ons/vacatures/
+    linkedin: https://www.witzand.nl/
+    group: https://www.houtwereld.nl/branche/ondernemers/van-de-pol-overgenomen-door-witzand/
+  value_proposition: Offerte- en orderaanvragen (ook prefab/maatwerk) automatisch uitlezen en doorzetten naar het ERP, en orderstatus-dashboard voor klanten en binnendienst.
+  outreach_strategy: 'Bel 0546 55 95 59, vraag naar hoofd binnendienst of directie. Haakje: onderzoeksgesprek over offerte-naar-order bij prefab en maatwerk naast MijnWitzand.'
+  conversation_starters:
+  - Welk deel van de bestellingen loopt via MijnWitzand en wat komt nog per mail of telefoon binnen?
+  - Hoeveel tijd gaat in prefab-/maatwerkoffertes zitten voor de binnendienst?
+  verification: 'aangepast — Telefoon 0546 55 95 59 en LinkedIn witzand op eigen homepage; familiebedrijf 130+ jaar (nam zelf Van de Pol over, geen concern). Grootte nu ingevuld: ca. 122-132 (LinkedIn/derden) tot 180 collega''s over 6 vestigingen volgens andere bron - bovenkant range, zacht ok. Vacatures actueel: verkoop binnendienst bouwmaterialen, verkoper binnendienst prefab, strategisch inkoper (Almelo).'
+- name: Oldenboom
+  url: https://www.oldenboom.nl/
+  phone: 0314 371 717 (Doetinchem); Harlingen 0517 413 741
+  city: Doetinchem, Harlingen
+  priority_score: 7/10
+  industry: Groothandel hout en plaatmateriaal met bewerking (houtbouw, prefab, houtverwerkende industrie)
+  size: 45 medewerkers op LinkedIn, categorie 51-200 (niet exact geverifieerd)
+  tech_stack: Geen webshop genoemd op de homepage; verkoop via advies en binnendienst, wat wijst op orders/offertes per mail en telefoon.
+  relevant_vacancies: Financieel Administratief Medewerker (kantoor); verder orderpicker (niet relevant). Binnendienstvacature niet meer op eigen site.
+  why_fit: Geen webshop, dus orders komen via telefoon/mail en worden handmatig verwerkt. Technisch adviesverkoop met bewerking (zagen, schaven) betekent orderspecifieke orders. Actief werven voor binnendienst. Familiebedrijf in de range.
+  decision_maker: Directeur/eigenaar of hoofd verkoop binnendienst
+  linkedin: linkedin.com/company/oldenboom-b-v-
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/oldenboom-b-v-
+    phone: https://www.oldenboom.nl/
+    multi_location: https://www.oldenboom.nl/
+    relevant_vacancies: https://www.oldenboom.nl/wij-zijn-oldenboom/werken-bij-oldenboom/
+    linkedin: https://www.oldenboom.nl/
+    group: https://www.oldenboom.nl/
+  value_proposition: Orders en bewerkingsopdrachten uit mail/pdf automatisch inlezen en een orderstatus-/leverdashboard, zodat de binnendienst niet alles overtypt.
+  outreach_strategy: 'Bel Doetinchem 0314 371 717, vraag naar hoofd binnendienst of directie. Haakje: onderzoek naar hoe bestellingen en bewerkingsopdrachten binnenkomen.'
+  conversation_starters:
+  - Hoe komen bestellingen en bewerkingsopdrachten binnen, en hoe vaak moet de binnendienst terugbellen voor details?
+  - 'Jullie zoeken binnendienst: welk deel van het werk daarvan is overtypen of opzoeken?'
+  verification: aangepast — Telefoon Doetinchem +31 (0)314 371 717 en Harlingen (Oldenboom Meinesz) 0517 413 741 op eigen site; LinkedIn oldenboom-b-v- gelinkt; familiebedrijf sinds 1907 (Oldenboom Groep BV, eigen kleine familiegroep). Vacature Medewerker Verkoop & Advies Binnendienst staat niet meer op werken-bij; actueel alleen Financieel Administratief Medewerker en orderpicker. Grootte alleen via LinkedIn (~45, 51-200).
+- name: JB Hydraulics (incl. JB Industrial/JB Tubes)
+  url: https://www.jb-hydraulics.nl
+  phone: "+31 (0)88 40 40 500"
+  city: Sliedrecht
+  priority_score: 7/10
+  industry: Groothandel hydrauliek-componenten, slangen en buizen
+  size: ca. 26-50 medewerkers (LinkedIn-band 51-200; Kompass/Oozo 20-50; niet op eigen site bevestigd)
+  tech_stack: Geen webshop genoemd op de site; 40.000+ artikelen en same-day/next-day levering; ordering lijkt via telefoon/mail. ERP niet zichtbaar.
+  relevant_vacancies: Verkoper Binnendienst (sterk signaal); verder Hydrauliek Monteur en Logistiek Medewerker (niet relevant)
+  why_fit: Geen webshop, 40.000+ artikelen en snelle levering betekent veel telefonische/mail-orders die handmatig worden ingevoerd. Actieve vacature verkoper binnendienst. Eigen groep van 3 BV's, geen groot concern.
+  decision_maker: Directeur/eigenaar of hoofd verkoop binnendienst
+  linkedin: linkedin.com/company/jb-hydraulics-bv
+  sources:
+    decision_maker: 
+    size: https://www.oozo.nl/bedrijven/sliedrecht/sliedrecht-noord/bedrijventerrein-noordoost-kwadrant/588024/j-b-hydraulics-b-v
+    phone: https://www.jb-hydraulics.nl/contact
+    multi_location: 
+    relevant_vacancies: https://www.jb-hydraulics.nl/vacatures/
+    linkedin: https://www.jb-hydraulics.nl/contact
+    group: https://jb-group.nl/
+  value_proposition: Orders per mail/telefoon automatisch inlezen en voorraad/levertijd direct raadpleegbaar maken, zodat een kleine binnendienst meer orders afhandelt.
+  outreach_strategy: 'Bel +31 88 40 40 500, vraag naar directie of binnendienst-leidinggevende. Haakje: onderzoeksgesprek over hoe snelle levering met een kleine binnendienst wordt georganiseerd.'
+  conversation_starters:
+  - 'Jullie zoeken een verkoper binnendienst: wat kost de huidige orderinvoer de meeste tijd?'
+  - Hoe gaan jullie om met vragen over levertijd en voorraad van klanten?
+  verification: bevestigd — Telefoon +31 (0)88 40 40 500 en LinkedIn jb-hydraulics-bv op eigen homepage/contact; vacature Verkoper Binnendienst actueel op eigen vacaturepagina. Kleine eigen JB Group (JB Hydraulics + JB Tubes), geen groot concern. Grootte 21-50 via derden, niet op eigen site.
+- name: TGH van Triest
+  url: https://www.tghvantriest.nl/
+  phone: '0593 740 740'
+  city: Beilen, Groningen
+  priority_score: 7/10
+  industry: Elektrotechnische groothandel (A-merk elektromaterialen, telematica, beveiliging, verlichting)
+  size: 11-50 medewerkers volgens LinkedIn-profielinfo (niet geverifieerd op eigen site); snelgroeiend, onderkant van de range
+  tech_stack: B2B-webshop (webshop.tghvantriest.nl), track & trace van zendingen, ~250.000 artikelen, offerte-service; vacature voor systeem- en databeheerder wijst op eigen systeemlandschap.
+  relevant_vacancies: Commercieel medewerker binnendienst; Technisch Adviseur binnendienst (beide op vacaturepagina); systeem- en databeheerder niet meer gevonden
+  why_fit: 'Actief werven voor binnendienst wegens groei: ordervolume groeit sneller dan de binnendienst. Technisch adviseur doet offertes, materiaal bestellen en leveringen bewaken, typisch handmatig werk. Bestellen voor middernacht, volgende dag leveren zet druk op orderverwerking.'
+  decision_maker: Directeur/eigenaar of hoofd verkoop binnendienst
+  linkedin: linkedin.com/company/tghvantriest
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/tghvantriest
+    phone: https://www.tghvantriest.nl/
+    multi_location: https://www.tghvantriest.nl/
+    relevant_vacancies: https://www.tghvantriest.nl/over-tgh/vacatures
+    linkedin: https://www.tghvantriest.nl/
+  value_proposition: Automatisch verwerken van orders en offerteaanvragen uit mail/pdf, plus orderstatus-dashboard, zodat groei niet 1-op-1 extra binnendienst kost.
+  outreach_strategy: 'Bel 0593 740 740, vraag naar hoofd binnendienst of directie. Haakje: groei en de binnendienstvacature; onderzoek naar de orderflow.'
+  conversation_starters:
+  - 'Jullie werven binnendienst vanwege groei: waar gaat de meeste tijd van die collega''s naartoe?'
+  - Hoe komen offerteaanvragen van installateurs binnen en hoe snel kunnen jullie die uitwerken?
+  verification: aangepast — Telefoon 0593 740 740 en LinkedIn tghvantriest op eigen site; familiebedrijf (Imagro-lid), vestigingen Beilen en Groningen. Vacaturepagina toont nu Commercieel medewerker binnendienst en Technisch Adviseur binnendienst; systeem- en databeheerder niet (meer) gevonden. Grootte 11-50 alleen via LinkedIn.
+- name: Horesca Lieferink
+  url: https://www.lieferink.nl/
+  phone: 0571-287000 (Twello, hoofdkantoor); klantenservice 0571-287040
+  city: Twello, Zeist, Raamsdonksveer, Goirle, Meppel, Leiderdorp
+  priority_score: 6/10
+  industry: Horeca-groothandel (vers, food, dranken, diepvries, AGF, non-food), familiebedrijf sinds 1959/1964
+  size: ca. 96-135 medewerkers volgens derden, LinkedIn-band 201-500; zes vestigingen; bovenkant range of erboven
+  tech_stack: 24/7 B2B-webshop (bestellen.lieferink.nl) per vestiging; ERP niet zichtbaar. Binnendienst werkt samen met buitendienstadviseurs.
+  relevant_vacancies: Inkoopteam breidt uit en er is een binnendienst; concrete relevante vacature niet bevestigd
+  why_fit: 'Zes vestigingen met eigen binnendienst en inkoop, breed assortiment en veel horeca-klanten. Naast webshop vermoedelijk telefoon/buitendienst-orders. Risico: grootte aan bovenkant en inkooporganisatie.'
+  decision_maker: Operationeel manager of hoofd binnendienst/verkoop
+  linkedin: linkedin.com/company/horesca-lieferink-b-v-
+  sources:
+    decision_maker: 
+    size: https://rocketreach.co/horesca-lieferink-profile_b44d2272fd224f3a
+    phone: https://www.lieferink.nl/
+    multi_location: https://www.lieferink.nl/
+    relevant_vacancies: https://www.lieferink.nl/over-ons/ons-team/
+    linkedin: https://nl.linkedin.com/company/horesca-lieferink-b-v-
+    group: https://www.meppelercourant.nl/zakelijk-nieuws/jan-en-katja-wassens-dragen-na-32-jaar-alle-aandelen-van-horesca-meppel-over-aan-horesca-lieferink-in-twello/156233345.html
+  value_proposition: Orders van binnendienst en buitendienst centraal en geautomatiseerd verwerken over vestigingen, met realtime leverstatus voor klanten.
+  outreach_strategy: Bel 0571-287000 en vraag naar manager binnendienst of directie. Onderzoeksgesprek over verdeling webshop versus telefoon/buitendienst en afstemming tussen vestigingen.
+  conversation_starters:
+  - Hoe verdelen orders zich over webshop, buitendienst en binnendienst, en wat gebeurt er met telefonische orders?
+  - Hoe stemmen de zes vestigingen voorraad en levertijden af?
+  verification: 'aangepast — Telefoon 0571-287000 (Twello) op eigen site; klantenservice 0571-287040. Familiebedrijf met eigenaar Lieferink, groeit via overnames van andere Horesca-groothandels (o.a. Horesca Meppel); Horesca = inkoopformule, geen concern. Grootte onzeker: 96 / 135 (derden) vs LinkedIn 201-500 - aan/boven bovenkant, eerst navragen. Relevante vacature niet bevestigd.'
+- name: Deltafix International
+  url: https://deltafix.com/
+  phone: "+31 (0)20 655 63 90"
+  city: Hoofddorp
+  priority_score: 6/10
+  industry: internationale groothandel zelfklevende producten, bevestigingsmateriaal, schroeven, wielen (6000+ artikelen); levert aan winkels en ketens
+  size: ca. 30 medewerkers (zoekresultaat; andere bron 21-50); niet op eigen site geverifieerd
+  tech_stack: Webshop (deltafix.com), 'Scan & Bestel' app (iOS/Android), bestellen ook per telefoon en e-mail; ERP niet zichtbaar. Reeds redelijk gedigitaliseerd voor kleine klanten.
+  relevant_vacancies: geen relevante vacatures gevonden (bij vacatures alleen contactadres pz@deltafix.com genoemd)
+  why_fit: 'Duizenden pakketten per dag, 6000+ artikelen en veel B2B-klanten (winkels/ketens) met orders via meerdere kanalen. Klein familiebedrijf in de range. Minder sterk signaal: al webshop/app en geen vacatures.'
+  decision_maker: Directeur/eigenaar, of operationeel manager / hoofd verkoop binnendienst
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://drimble.nl/bedrijf/hoofddorp/20075588/deltafix-international-bv.html
+    phone: https://deltafix.com/
+    multi_location: https://deltafix.com/ (één locatie Hoofddorp)
+    relevant_vacancies: 
+    linkedin: 
+    group: https://deltafix.com/
+  value_proposition: Orders van winkels en ketens die per mail/EDI/telefoon binnenkomen automatisch inlezen in het ERP en klanten zelf orderstatus laten zien.
+  outreach_strategy: 'Bel 020 655 63 90, vraag naar de directeur of leidinggevende binnendienst. Haakje: onderzoeksgesprek over hoe orders van winkels/ketens buiten de webshop en app binnenkomen.'
+  conversation_starters:
+  - Welk deel van de orders loopt via webshop/app en welk deel nog via mail of telefoon?
+  - 'Bij duizenden pakketten per dag: waar gaat in de orderverwerking het meeste handmatige werk zitten?'
+  - Hoe gaan jullie om met klanten die bellen over leverstatus?
+  verification: bevestigd — Telefoon +31 (0)20 655 63 90 op eigen site; zelf 'relatief klein familiebedrijf', internationale groothandel die winkels en ketens beleveren (B2B). Ca. 30 mw via derden (Drimble/europages), niet op eigen site. Geen LinkedIn-bedrijfspagina gevonden, null blijft.
+- name: AES Technische Groothandel
+  url: https://aes-tg.nl/
+  phone: 0527 - 63 11 11 (Emmeloord); Lemmer 0527 - 63 11 17
+  city: Emmeloord, Lemmer
+  priority_score: 6/10
+  industry: technische groothandel voor landbouw, automotive, industrie en maritiem; sinds 1979
+  size: 11-50 medewerkers (LinkedIn-range via zoekresultaat; exact aantal niet geverifieerd)
+  tech_stack: Aparte webshop (webshop.aes-tg.nl); ERP niet zichtbaar. Vacature Product Data Specialist wijst op werk aan artikeldata/webshop.
+  relevant_vacancies: HR medewerker (kantoor, beperkt relevant); verder monteur (niet relevant). Product Data Specialist niet meer op vacaturepagina.
+  why_fit: Twee vestigingen (Emmeloord en Lemmer) en breed assortiment voor B2B-klanten in meerdere sectoren. Webshop bestaat al, dus pijn vooral bij orders buiten de shop en artikeldata. Grootte onzeker, daarom 6.
+  decision_maker: Directeur/eigenaar, of operationeel manager / hoofd verkoop binnendienst
+  linkedin: linkedin.com/company/aes-technische-groothandel
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/aes-technische-groothandel (via zoekresultaat)
+    phone: https://aes-tg.nl/contact/
+    multi_location: 'https://aes-tg.nl/nl-nl (via zoekresultaat: Emmeloord-Lemmer)'
+    relevant_vacancies: https://aes-tg.nl/vacatures/
+    linkedin: https://aes-tg.nl/
+  value_proposition: Orders en offerteaanvragen uit mail/telefoon automatisch verwerken en artikel-/voorraaddata tussen ERP en webshop synchroon houden.
+  outreach_strategy: 'Bel 0527 63 11 16, vraag naar de directeur of leidinggevende verkoop binnendienst. Haakje: onderzoeksgesprek over orderverwerking over twee vestigingen en de koppeling met de webshop.'
+  conversation_starters:
+  - Hoe verdelen orders zich tussen webshop, telefoon en mail, en wie verwerkt de laatste twee?
+  - 'Jullie zochten een Product Data Specialist: wat ging er mis in het beheer van artikeldata?'
+  - Hoe delen Emmeloord en Lemmer voorraadinformatie met klanten die bellen?
+  verification: aangepast — Nummer 0527-63 11 16 staat niet op eigen site; contactpagina/footer noemen Emmeloord 0527-63 11 11 en Lemmer 0527-63 11 17. LinkedIn aes-technische-groothandel gelinkt vanaf eigen site. Vacaturepagina toont nu Monteur en HR medewerker; Product Data Specialist niet (meer) gevonden. Webshop draait op Solvisoft met ERP-koppeling (prijs/voorraad uit ERP). Grootte alleen 11-50 via LinkedIn.
+- name: Driepak Verpakkingen
+  url: https://driepakverpakkingen.nl/
+  phone: "(038) 33 196 33 (IJsselmuiden); Leiden: (071) 57 634 34"
+  city: IJsselmuiden, Leiden
+  priority_score: 6/10
+  industry: Verpakkingsgroothandel (horeca, bakkers, slagers, retail, industrie), eigen bezorgdienst, bedrukte verpakkingen
+  size: Niet geverifieerd; twee vestigingen, grote magazijnen en eigen wagenpark wijzen op naar schatting ~20-50 mw (schatting, geen bron).
+  tech_stack: Digi-Process ERP (live sept 2022, inkoop/verkoop/voorraad/scanner voor orderpicking); webshop door Innomarca; bestellen ook per telefoon en mail.
+  relevant_vacancies: Eerder vacature frontoffice medewerker (IJsselmuiden, ouder bericht); geen actuele relevante vacatures gevonden
+  why_fit: Twee vestigingen met eigen ERP en orders via webshop, telefoon en mail naast elkaar. Breed assortiment en veel B2B-klanten. Frontoffice/orderverwerking als rol zichtbaar.
+  decision_maker: Directeur/eigenaar, of operationeel manager/hoofd binnendienst
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: 
+    phone: https://driepakverpakkingen.nl/
+    multi_location: https://driepakverpakkingen.nl/over-ons
+    relevant_vacancies: https://www.brugnieuws.nl/vacature/1399/driepak-verpakkingen-driepak-verpakkingen
+    linkedin: 
+    group: https://companyinfo.nl/organisatieprofiel/groothandel-in-emballage-voor-industrieel-gebruik/driepak-verpakkingen-b-v-ijsselmuiden-08174069-000020368240
+    acquisition: https://www.agf.nl/article/9335954/driepak-verpakkingen-neemt-schouten-verpakking-over/
+  value_proposition: Mail- en telefoonorders automatisch inlezen naar Digi-Process, en een klantportaal/statusoverzicht voor leverstatus zodat de frontoffice minder belt en typt.
+  outreach_strategy: Bel (038) 33 196 33, vraag naar directeur of hoofd frontoffice/binnendienst. Onderzoeksgesprek over aandeel orders buiten de webshop en de overdracht tussen vestigingen.
+  conversation_starters:
+  - Welk deel van de orders komt nog per mail of telefoon binnen naast de webshop, en hoe komen die in Digi-Process?
+  - Hoe stemmen IJsselmuiden en Leiden voorraad en leveringen af?
+  verification: 'bevestigd — Telefoon (038) 33 196 33 (IJsselmuiden) en (071) 57 634 34 (Leiden) op eigen site; familiebedrijf, eigendom Beens IJsselmuiden B.V. (kleine familieholding); Leiden = Schouten Driepak, overgenomen 2021. Actief. Grootte nog steeds niet geverifieerd (Leiden-vestiging zeer klein, ~2 mw volgens derden) - risico onder range, eerst navragen. Geen LinkedIn-bedrijfspagina gevonden op site: null blijft.'
+- name: Drankenhandel Pluym
+  url: https://www.drankenhandelpluym.nl/
+  phone: 0115 211 777
+  city: Terneuzen
+  priority_score: 6/10
+  industry: Horeca-dranken groothandel Zeeland (hotels, cafes, evenementen, sportclubs), ca. 70 jaar familiebedrijf
+  size: ca. 10-20 mw (stagemarkt ~20; bedrijvengidsen ~10); onderkant van range, niet op eigen site bevestigd
+  tech_stack: Online bestelportaal (pluym.comperex.nl, Comperex) naast bestellen per telefoon en e-mail; wijst op meerkanaals orderinvoer.
+  relevant_vacancies: Geen relevante vacatures gevonden (alleen allround magazijnmedewerker met groei naar magazijnmanager, digitale vaardigheden)
+  why_fit: Orders via portaal, telefoon en mail tegelijk; klein team kantoor en logistiek; sterke lokale klantenrelaties. Grootte past in de range.
+  decision_maker: Directeur/eigenaar
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://stagemarkt.nl/bedrijven/profiel/drankenhandel-pluym/profiel-a8d60008-2271-4b30-a89d-5d8d1b390f28
+    phone: https://www.drankenhandelpluym.nl/
+    multi_location: https://www.drankenhandelpluym.nl/
+    relevant_vacancies: https://www.drankenhandelpluym.nl/
+    linkedin: 
+    kvk: https://companyinfo.nl/organisatieprofiel/groothandel-in-dranken-geen-zuivel/drankenhandel-pluym-terneuzen-21015471-000019327684
+  value_proposition: Mail- en telefoonorders automatisch inlezen en koppelen aan Comperex, plus leverstatus voor klanten.
+  outreach_strategy: Bel 0115 211 777, vraag naar directeur of kantoor/verkoop. Onderzoeksgesprek over meerkanaals orderinvoer.
+  conversation_starters:
+  - Hoeveel bestellingen komen via het portaal binnen en hoeveel via telefoon of mail?
+  - Wie voert de orders in Comperex in en wat levert dat aan handwerk op?
+  verification: 'aangepast — Telefoon +31 115 211 777 op eigen site; actieve B2B horeca-drankengroothandel (KvK 21015471), familiebedrijf. Grootte onzeker: stagemarkt ~20, andere bron (zoekresultaat o.b.v. bedrijvengidsen) ~10 mw; onderkant range. Alleen magazijnvacatures. Geen LinkedIn-bedrijfspagina gevonden.'
+- name: Lindenhoff Horeca
+  url: https://lindenhoffhoreca.nl
+  phone: '0294 29 12 72 (site schrijft 029 429 12 72; netnummer Baambrugge is 0294)'
+  city: Baambrugge
+  priority_score: 6/10
+  industry: Horeca-foodservice groothandel (verse/duurzame producten)
+  size: meer dan 100 medewerkers (eigen site; bovenkant range)
+  tech_stack: Bestellen via telefoon, e-mail en online platform Bestel inONE (bestelbox.nl); mix van kanalen wijst op handmatige verwerking naast platform.
+  relevant_vacancies: Vacaturepagina aanwezig (lindenhoffhoreca.nl/vacancies/); specifieke titels niet zichtbaar
+  why_fit: Horeca-klanten bestellen via meerdere kanalen (telefoon, mail, platform). Familiebedrijf (sinds 1989). Grootte aan de bovenkant maar binnen range.
+  decision_maker: Directeur/eigenaar of operationeel manager / hoofd verkoop binnendienst
+  linkedin: linkedin.com/company/lindenhoff-bv
+  sources:
+    decision_maker: 
+    size: https://lindenhoffhoreca.nl
+    phone: https://lindenhoffhoreca.nl/contact
+    multi_location: 
+    relevant_vacancies: https://lindenhoffhoreca.nl/vacancies/
+    linkedin: https://www.linkedin.com/company/lindenhoff-bv
+  value_proposition: Orders uit telefoon, mail en platform bundelen en automatisch verwerken, plus leveringsstatus voor horeca-klanten.
+  outreach_strategy: 'Bel 029 429 12 72, vraag naar directie of klantenservice/verkoop-leidinggevende. Haakje: onderzoeksgesprek over meerkanaals bestellen.'
+  conversation_starters:
+  - Welk deel van de bestellingen loopt via Bestel inONE en welk deel nog per telefoon of mail?
+  - Hoe gaan jullie om met last-minute wijzigingen van horecaklanten?
+  verification: 'aangepast — Telefoon 029 429 12 72 en ''meer dan 100 gepassioneerde medewerkers'' op eigen site; familiebedrijf (4e generatie te Voortwis), horeca-foodservice met eigen slagerij/boerderij. LinkedIn-bedrijfspagina gevonden (lindenhoff-bv, Baambrugge, 51-200). Let op: deels eigen verwerking + consumentenkanaal, maar horeca-B2B is kern.'
+- name: Horesca Horecavo
+  url: https://horesca-horecavo.nl
+  phone: 071 541 2011
+  city: Leiderdorp
+  priority_score: 6/10
+  industry: Horeca-foodservice groothandel (7 dagen per week, eigen vloot)
+  size: circa 50 medewerkers plus flexibele schil (https://horesca-horecavo.nl/over-ons/)
+  tech_stack: Geen webshop zichtbaar; link 'Word klant bij Horecavo'; vaste chauffeur, horeca-adviseur en klantenservice als kanalen; ERP niet zichtbaar.
+  relevant_vacancies: 'Op site genoemd: horecachauffeur, verkoper, magazijnmedewerker (geen concrete kantoorrol bevestigd, verkoper beperkt relevant)'
+  why_fit: Horeca-groothandel met eigen vloot en dagelijkse levering; bestellingen via chauffeur/adviseur/klantenservice betekent veel handmatige orderinvoer. Familiebedrijf (2e generatie), onafhankelijk.
+  decision_maker: Directeur/eigenaar of operationeel manager
+  linkedin: linkedin.com/company/horesca-horecavo
+  sources:
+    decision_maker: 
+    size: https://horesca-horecavo.nl/over-ons/
+    phone: https://horesca-horecavo.nl
+    multi_location: 
+    relevant_vacancies: https://horesca-horecavo.nl/over-ons/
+    linkedin: https://be.linkedin.com/company/horesca-horecavo
+    group: https://horesca-horecavo.nl/over-ons/
+  value_proposition: Bestellingen van horecaklanten via diverse kanalen automatisch verwerken en routeplanning/leverstatus koppelen.
+  outreach_strategy: 'Bel 071 541 2011, vraag naar directie of klantenservice-leidinggevende. Haakje: onderzoeksgesprek over dagelijkse orderstroom.'
+  conversation_starters:
+  - Hoe komen bestellingen van restaurants bij jullie binnen en wie typt die in?
+  - Hoe gaan jullie om met late wijzigingen voor de volgende dag levering?
+  verification: 'bevestigd — Telefoon 071 541 2011 op eigen homepage; ca. 50 mw + flexschil op eigen over-ons; eigenaar-geleid (2e generatie). Aangesloten bij Horesca, cooperatie van zelfstandige horecagroothandels (inkoop/formule, geen concern) - noteren: mogelijk gedeelde systemen via cooperatie, navragen. LinkedIn horesca-horecavo klopt.'
+- name: Hansen Dranken
+  url: https://www.hansendranken.nl
+  phone: "+31 475 43 84 60"
+  city: Linne
+  priority_score: 6/10
+  industry: Drankengroothandel (groothandels, slijters, horeca, export); grote onafhankelijke speler
+  size: ca. 170 mw (eigen werken-bij pagina); bovenkant van range, score lager
+  tech_stack: B2B-webshop voor zakelijke klanten; ERP niet zichtbaar. Exportstroom naast binnenlandse horeca/slijters.
+  relevant_vacancies: 'Commercieel Medewerker Verkoop Binnendienst, Commercieel Medewerker Binnendienst Export (niet-relevant: emballage, magazijn, chauffeur)'
+  why_fit: Onafhankelijk familiebedrijf (geen groep). Meerdere binnendienstvacatures incl. export duiden op hoog orderaantal en verschillende orderkanalen (export vaak per mail/Excel). Groot DC; groei richting bovenkant van range maakt maatwerk-orderflows waarschijnlijker.
+  decision_maker: Directeur, of operationeel manager / hoofd verkoop binnendienst
+  linkedin: linkedin.com/company/hansen-dranken-b-v-
+  sources:
+    decision_maker: 
+    size: https://www.hansendranken.nl/werken-bij
+    phone: https://www.hansendranken.nl/contact
+    multi_location: 
+    relevant_vacancies: https://www.hansendranken.nl/werken-bij
+    linkedin: https://www.hansendranken.nl
+  value_proposition: Automatische orderinname uit mail/pdf/Excel (vooral export en groothandelsklanten) richting ERP en een statusportaal voor levertijd, zodat de binnendienst minder handmatig verwerkt.
+  outreach_strategy: 'Bel +31 475 43 84 60, vraag naar manager binnendienst of directie. Haakje: onderzoeksgesprek over hoe orders van groothandels en export binnenkomen.'
+  conversation_starters:
+  - Hoe komen orders van exportklanten en groothandels binnen, via de B2B-webshop of nog per mail en Excel?
+  - 'Jullie hebben meerdere binnendienstfuncties open: waar zit de meeste tijd in, orderinvoer of klantvragen over levering?'
+  verification: bevestigd — Telefoon +31(0)475 43 84 60 en LinkedIn hansen-dranken-b-v- op eigen homepage/contact; ca. 170 mw op eigen werken-bij (zachte bovengrens, lagere score terecht); 'onafhankelijke drankengroothandel'. Vacatures Commercieel Medewerker Verkoop Binnendienst en Binnendienst Export actueel.
