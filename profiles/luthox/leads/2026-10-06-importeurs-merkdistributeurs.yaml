@@ -1,0 +1,362 @@
+---
+business: luthox
+segment: importeurs-merkdistributeurs
+generated_at: '2026-10-06'
+description: Cold-call segmenttest (belonderzoek). Importeurs en merkdistributeurs van consumentenproducten (10-100 mw) in NL die via meerdere kanalen verkopen (ketens, losse winkels, marktplaatsen), deels in meerdere landen. Babykids.nl uitgesloten (heeft afgewezen). Discovery alleen met grootte-bewijs (22 kandidaten), verrijking door Sonnet, onafhankelijke verificatie door Opus; veld verification geeft het oordeel van de checker. LinkedIn = bedrijfspagina; decision_maker is de rol om naar te vragen.
+leads:
+- name: TCK Sports Group
+  url: https://tck-sports.nl/
+  phone: "+31 45 2110888 (NL); +32 36 570 670 (BE)"
+  city: Kerkrade (showrooms Leusden, Willebroek BE)
+  priority_score: 8/10
+  industry: Exclusieve Benelux-importeur sport/outdoor/snowsport/fiets (27 merken, o.a. Deuter, LOWA, Nordica, Fizik)
+  size: 60+ medewerkers (zoekresultaten/LinkedIn 51-200); familiebedrijf sinds 1972, geen groepsbinding gevonden
+  tech_stack: B2B-bestelportaal 'TCK Order Online' (24/7, same-day verzending voor 16:00), eigen distributiecentrum 10.000+ m2, eigen IT-afdeling genoemd; ERP niet zichtbaar. Marktplaatskanalen niet vermeld op site.
+  relevant_vacancies: Vacaturepagina toont alleen magazijnmedewerker (niet relevant); nieuwsberichten noemen eerder customer service medewerker en marketing manager (datum niet geverifieerd)
+  why_fit: 27 merken met lange inkooplevertijden (o.a. Duitse/Italiaanse/Franse merken) voor Benelux-retail; meerdere landen (NL/BE/LU) met aparte showrooms; inkoopplanning, sell-out-rapportage aan merken en voorraad per kanaal zijn typische Excel-pijn. Bovenkant van de range.
+  decision_maker: Directeur / operationeel of supply chain manager
+  linkedin: linkedin.com/company/tck-sports-group
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/tck-sports-group
+    phone: https://tck-sports.nl/contact/contact
+    multi_location: https://tck-sports.nl/nl/contact
+    relevant_vacancies: https://tck-sports.nl/nl/vacatures
+    linkedin: https://tck-sports.nl/
+    segment_fit: https://tck-sports.nl/
+  value_proposition: Eén dashboard over voorraad, orders (TCK Order Online) en verkoop per merk en klant; inkoopplanning/forecast per merk met levertijden; automatische sell-out-rapportage voor de merken.
+  outreach_strategy: 'Bel +31 45 2110888, vraag naar de supply chain/operationeel manager of directeur. Haakje: onderzoeksgesprek over hoe ze inkoop en voorraad over 27 merken plannen en rapporteren.'
+  conversation_starters:
+  - Hoe plannen jullie de inkoop bij 27 merken met verschillende levertijden en seizoenen, en waar zit daar nog handwerk in?
+  - Hoe leveren jullie sell-out- of verkoopcijfers aan de merken, en hoeveel tijd kost dat?
+  verification: bevestigd — Actieve exclusieve Benelux-distributeur 27 merken; telefoonnummers NL/BE staan op contactpagina; HQ Kerkrade + showrooms Leusden/Willebroek; geen groep genoemd. Marktplaatsverkoop niet zichtbaar op site (B2B naar retailers + online orderplatform).
+- name: Van der Meulen Speelgoed
+  url: https://www.vandermeulen.com
+  phone: 0515-435635 (Sneek; via zoekresultaat/telefoonboek, eigen site blokkeert geautomatiseerde toegang — niet op site geverifieerd)
+  city: Sneek (tweede locatie Middelburg)
+  priority_score: 8/10
+  industry: 'Speelgoed-, sport-, spel-, zomer- en campingartikelen: importeur/groothandel/distributeur (ca. 6.000 artikelen)'
+  size: ca. 60 medewerkers (zoekresultaat/overview); LinkedIn 51-200; zelfstandig, geen groep gevonden
+  tech_stack: Digitale B2B-focus (vacature Marketing Manager B2B & Digital); ERP/portaal niet geverifieerd; Capture Tech digitalisering-casestudy (uit brief, niet geverifieerd).
+  relevant_vacancies: Marketing Manager B2B & Digital (digitaal/commercieel, indirect relevant)
+  why_fit: 'Veel kanalen: speelgoedwinkels, grote retailers, recreatie, kerstgroothandels, super-/drogisterijketens en tuin/bouw in NL en BE; 6.000 artikelen met import en eigen productontwikkeling; twee locaties; B2B-digitalisering is al bezig dus openheid voor data/automatisering.'
+  decision_maker: Directeur of operationeel / supply chain manager
+  linkedin: linkedin.com/company/van-der-meulen
+  sources:
+    decision_maker: 
+    size: https://www.europages.nl/VAN-DER-MEULEN-SNEEK-BV/NLD006699-00101.html
+    phone: https://www.telefoonboek.nl/bedrijven/t2084428/sneek/van-der-meulen-sneek-b.v./
+    multi_location: https://www.telefoonboek.nl/bedrijven/t2084429/middelburg/van-der-meulen-sneek-b.v./
+    relevant_vacancies: https://www.wrk.frl/vacatures/van-der-meulen-sneek-b-v/marketing-manager-b2b-digital/
+    linkedin: https://nl.linkedin.com/company/van-der-meulen
+    contact_page: https://www.vandermeulen.com/nl-nl/contact-us
+  value_proposition: Eén overzicht van orders, voorraad en verkoop per kanaal en klantsegment; geautomatiseerde artikel- en prijsdata voor 6.000 artikelen; inkoopplanning voor importartikelen.
+  outreach_strategy: 'Bel 0515-435635 (controleer nummer), vraag naar directeur of operationeel manager. Haakje: onderzoeksgesprek over hoe ze 6.000 artikelen over zulke uiteenlopende kanalen plannen en bijhouden.'
+  conversation_starters:
+  - Hoe houden jullie voorraad en orders bij voor zulke verschillende kanalen als speelgoedwinkels, supermarktketens en tuincentra?
+  - Waar loopt de B2B-digitalisering nu nog tegen handwerk aan?
+  verification: aangepast — Eigen site (incl. contactpagina) zit achter Cloudflare-check (403), dus telefoon niet rechtstreeks op site te verifieren. Zoekresultaat dat naar vandermeulen.com/nl-nl/contact-us verwijst noemt 0515 435 635 en Sneek + Middelburg (Fagotweg 1); distributeur van o.a. Lego, Intex, Little Tikes, Playmobil, TY. Middelburg-nummer 0118-624077 niet bevestigd, laten vallen. Adres Sneek wisselt per bron (Lorentzstraat 23 / Selfhelpweg 11-13). Grootte en LinkedIn niet opnieuw te verifieren.
+- name: Mondeno Benelux
+  url: https://www.mondeno.com
+  phone: 030-6007050 (+31306007050) — niet op eigen site geverifieerd (site niet leesbaar via fetch)
+  city: Nieuwegein
+  priority_score: 8/10
+  industry: Importeur/distributeur consumentenelektronica-accessoires (premium Apple-accessoires)
+  size: ca. 18 medewerkers (Drimble/zoekresultaat); LinkedIn 11-50; stagemarkt 10-50
+  tech_stack: Meerdere eigen webshops + verkoop via diverse Europese marketplaces (o.a. Bol); ERP/ChannelEngine niet zichtbaar op site. Meerkanaals e-commerce zonder zichtbare integratielaag.
+  relevant_vacancies: Klantenservice medewerker webshop/Bol.com (24-40 uur); eerder ook E-commerce Manager / Supply Chain Coordinator functies op LinkedIn (niet opnieuw geverifieerd)
+  why_fit: 'Importeur/distributeur met meerdere webshops en Europese marketplaces: voorraad, orders en verkoopcijfers per kanaal verspreid. Kleine kern (~18 mw) in het hart van de range. Vacature rond Bol-klantenservice wijst op procesdruk.'
+  decision_maker: Directeur/eigenaar of operationeel manager / e-commerce manager
+  linkedin: nl.linkedin.com/company/mondeno-benelux-b-v-
+  sources:
+    decision_maker: 
+    size: https://drimble.nl/bedrijf/nieuwegein/14219085/mondeno-benelux-bv.html
+    phone: https://mondeno.com/contact.html
+    multi_location: https://www.mondeno.com/
+    relevant_vacancies: https://nl.linkedin.com/jobs/view/klantenservice-medewerker-webshop-bol-com-nieuwegein-at-mondeno-benelux-3761083006
+    linkedin: https://nl.linkedin.com/company/mondeno-benelux-b-v-
+    url: https://www.mondeno.com
+  value_proposition: Een centraal dashboard dat voorraad, orders en marge per webshop/marketplace samenbrengt, plus automatische inkoopplanning en productdata-synchronisatie per kanaal en taal.
+  outreach_strategy: 'Bel 030-6007050, vraag naar directeur of e-commerce/operationeel manager. Haakje: onderzoeksgesprek over hoe ze voorraad en verkoopcijfers over webshops en marketplaces overzien; geen verkoop.'
+  conversation_starters:
+  - Hoe houden jullie voorraad en orders over de eigen webshops en de Europese marketplaces bij elkaar?
+  - Hoe bepalen jullie de inkoop bij leveranciers met lange levertijden, en hoeveel gaat via Excel?
+  verification: 'aangepast — Site is een Shopify-webshop die bij ophalen afgekapt/onleesbaar terugkomt; telefoonnummer 030-6007050, adres en LinkedIn konden binnen budget niet op eigen site bevestigd worden. Bestaan als actieve onderneming wel aannemelijk (actieve webshop). Let op: mondeno.com oogt als consumentenwebshop — B2B/retaildistributie bij bellen checken.'
+- name: Malanico
+  url: https://www.malanico.nl
+  phone: "+31 (0)529 431 223"
+  city: Nieuwleusen
+  priority_score: 7/10
+  industry: Distributeur dierenvoeding en dierbenodigdheden Benelux (huisdier), met e-fulfilment (Peckco) en logistiek (MDI Logistics)
+  size: ca. 64-75 medewerkers volgens LinkedIn/over-ons (niet op site bevestigd); operationele schaal (2.000+ winkels, 400 pallets/dag, eigen transport, zusterbedrijven Peckco en MDI Logistics) suggereert mogelijk groter, familiegroep
+  tech_stack: Eigen klantportaal 'Malanico Portal' (sinds Q1 2024), e-fulfilment via dochter Peckco, eigen logistiek; ERP niet vermeld.
+  relevant_vacancies: 'niet geverifieerd: vacaturepagina toont geen titels (alleen testimonials orderpicker/chauffeur/accountmanager); eerder genoemde Inkoop- en voorraadmanager/Supply Chain Coordinator niet bevestigd'
+  why_fit: 'Meerdere kanalen: ketens, online shops, dierenspeciaalzaken, tuincentra, dropshipment en e-fulfilment; nieuwe locatie in Belgie in 2026; inkoop- en supply-chain-vacatures wijzen op planningsdruk. Eigen portaal en e-fulfilment betekenen veel orderstromen om te bundelen.'
+  decision_maker: Supply chain / operationeel manager of directeur
+  linkedin: linkedin.com/company/malanico
+  sources:
+    decision_maker: 
+    size: https://www.linkedin.com/company/malanico
+    phone: https://www.malanico.nl/contact/
+    multi_location: https://www.malanico.nl/over-ons
+    relevant_vacancies: https://www.malanico.nl/vacatures/
+    linkedin: https://www.malanico.nl
+    segment_fit: https://www.malanico.nl
+  value_proposition: Dashboard over voorraad, orders en marge per kanaal (retail, online, dropshipment, fulfilment); automatische inkoopprognose per merk en leverancier.
+  outreach_strategy: 'Bel +31 529 431 223, vraag naar de supply chain/inkoopmanager of directeur. Haakje: onderzoeksgesprek over hoe ze voorraad en orders over retail, dropshipment en fulfilment overzien.'
+  conversation_starters:
+  - Hoe houden jullie inzicht in voorraad en marge over ketens, dropshipment en e-fulfilment via Peckco?
+  - Wat verandert er in planning en systemen nu jullie Belgische locatie opent?
+  verification: aangepast — Telefoon en adres staan op contactpagina, LinkedIn op site; onafhankelijk 3e-generatie familiebedrijf, levert aan ketens, webshops, dierenspeciaalzaken, tuincentra en doe-het-zelf. Grootte 64-75 niet op site bevestigd; 'grootste onafhankelijke distributeur Benelux', 2.000+ winkels, 400 pallets/dag en eigen chauffeurs + zusterbedrijven Peckco/MDI wijzen op mogelijk >100 mw (groepje) — bij bellen checken. Vacaturepagina toont geen titels; genoemde vacatures niet verifieerbaar.
+- name: Finest Petfoods
+  url: https://www.finestpetfoods.com
+  phone: 010-3107920 (+31 10 310 79 20)
+  city: Rotterdam
+  priority_score: 7/10
+  industry: Importeur/distributeur premium hond/kat-voer (meerdere exclusieve merken), B2B-shop, warehousing en dropshipping
+  size: ca. 16 medewerkers (about-us pagina); eerdere opgave 11, privaat bedrijf met Managing Director, geen concern gevonden
+  tech_stack: B2B-shop en productcatalogus via App4Sales; drop-shipping en warehousing als dienst; ERP niet zichtbaar. Digitaal bewust, maar kanalen gescheiden.
+  relevant_vacancies: geen relevante vacatures gevonden (site toont geen vacatures)
+  why_fit: 'Verkoop in Benelux, Frankrijk, Spanje, Portugal en DACH via retailers: meerdere landen met een klein team. Distributie van buitenlandse merken met lange levertijden en rapportage aan principals. Let op: stopte per 1 juli 2024 met Acana/Orijen (Champion Petfoods nam over), dus assortiment en omzet in verandering: sterke aanleiding voor gesprek over marge- en voorraadinzicht.'
+  decision_maker: Directeur (Managing Director) of operationeel/supply chain manager
+  linkedin: linkedin.com/company/finest-petfoods
+  sources:
+    decision_maker: 
+    size: https://www.finestpetfoods.com/nl/onze-werkwijze/over-ons
+    phone: https://www.finestpetfoods.com
+    multi_location: https://www.finestpetfoods.com/en/about-us
+    relevant_vacancies: https://finestpetfoods.recruitee.com/
+    linkedin: https://www.finestpetfoods.com
+  value_proposition: Inkoopplanning en voorraad per merk en land, verkoopdashboard per retailer en automatische sell-out rapporten aan merkhouders.
+  outreach_strategy: Bel 010-3107920, vraag naar directeur of operations manager. Onderzoeksgesprek over de gevolgen van wisselende merkportfolio en hoe orders/voorraad over landen in beeld zijn. Marketplaces niet bevestigd.
+  conversation_starters:
+  - Nu een groot merk is overgegaan naar de fabrikant, hoe houden jullie zicht op marge en voorraad per merk?
+  - Hoe regelen jullie orders en voorraad voor retailers in zoveel landen (Benelux, Frankrijk, DACH, Iberie)?
+  verification: 'bevestigd — Telefoon +31 (0)10 310 79 20, adres Hongkongstraat 25 Rotterdam en LinkedIn staan op eigen site; distributeur premium merken (Ziwi, Buddy, Pawfect e.a.) aan B2B-retailers en webshops + dropshipping/warehousing; teampagina toont ca. 15-16 mensen incl. salesmanagers Benelux, DACH en FR/ES/PT (meerdere landen). Recruitee-vacaturepagina niet meer gehost: geen vacatures.'
+- name: 2moso
+  url: https://www.2moso.com
+  phone: 010-5903070 (+31 10 590 3070)
+  city: Maassluis
+  priority_score: 7/10
+  industry: 'Exclusieve Benelux/DACH-distributeur A-merken sportaccessoires (fiets, hardlopen, triathlon): Wahoo, 4iiii, Shokz, Speedplay e.a. (30+ merken)'
+  size: ca. 20-25 medewerkers (LinkedIn 20; bedrijfsomschrijving 25)
+  tech_stack: Dealerkanaal plus eigen webshop; ERP/dealerportaal niet zichtbaar op site. Eigen assemblage/installatie van power meters (4iiii) vraagt extra processtroom.
+  relevant_vacancies: geen relevante vacatures gevonden (actueel alleen Event Medewerker en Technische Topper)
+  why_fit: 'Exclusieve distributie van 30+ buitenlandse merken in Benelux en Duitsland: inkoopplanning met lange levertijden, sell-out/sell-in rapportage aan merken en dealerorders over twee landen. Vacature Manager Operations wijst op procesdruk. Kleine omvang in het hart van de range.'
+  decision_maker: Directeur/eigenaar of manager operations
+  linkedin: nl.linkedin.com/company/2moso
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/2moso
+    phone: https://www.2moso.com
+    multi_location: https://www.2moso.com
+    relevant_vacancies: https://www.2moso.com/over-ons/werken-bij-2moso/
+    linkedin: https://nl.linkedin.com/company/2moso
+  value_proposition: Inkoopplanning per merk, dealerorder- en voorraadoverzicht en automatische sell-out rapportage aan de merken in een dashboard.
+  outreach_strategy: 'Bel 010-5903070, vraag naar directeur of operations manager. Onderzoeksgesprek over merkrapportage en inkoopplanning. Marktplaatsverkoop niet bevestigd: vooral dealerkanaal.'
+  conversation_starters:
+  - Hoe plannen jullie inkoop bij buitenlandse merken zoals Wahoo met lange levertijden?
+  - Hoe rapporteren jullie sell-out en voorraad terug aan de merken, en hoeveel handwerk is dat?
+  verification: aangepast — Telefoon +31 (0)10 5903070 en adres Zwarte Zee 2 Maassluis op eigen site; exclusieve importeur/distributeur 30+ A-merken endurance-sport voor Benelux + Duitsland via dealernetwerk. Werken-bij toont nu alleen Event Medewerker en Technische Topper (niet relevant); eerder genoemde Account manager/Manager Operations/Marketeer niet (meer) zichtbaar. Grootte en LinkedIn niet op site bevestigd.
+- name: Van Manen's Handelsonderneming
+  url: https://manen.nl/
+  phone: "+31 318 54 91 50"
+  city: Veenendaal
+  priority_score: 6/10
+  industry: Importeur/exporteur woondecoratie, cadeau en speelgoed (eigen collecties uit het Verre Oosten)
+  size: 30+ medewerkers (LinkedIn/reshark/stagemarkt, uit brief); aantal niet op eigen site vermeld; onafhankelijk familiebedrijf sinds 1948
+  tech_stack: Eigen webshop (webshop.manen.nl) en showroom in Veenendaal; ERP/EDI niet zichtbaar. Marktplaatsverkoop niet vermeld.
+  relevant_vacancies: geen actuele relevante vacatures gevonden (eerdere vacature Key accountmanager Retail is vervuld)
+  why_fit: Ca. 2.400-2.500 artikelen met seizoenswisselingen en inkoop in het Verre Oosten (lange levertijden); klanten in 25+ landen (ketens, retailers, tuincentra, groothandels); veel kanalen en landen dus orders, voorraad en productdata verspreid. Wel eigen collectie in plaats van externe merken, en marktplaatsen niet bevestigd.
+  decision_maker: Directeur / operationeel of supply chain manager
+  linkedin: linkedin.com/company/van-manen-veenendaal
+  sources:
+    decision_maker: 
+    size: https://veenendaal.christenunie.nl/k/n6171/news/view/551977/554113/indrukwekkend-werkbezoek-aan-van-manen.html
+    phone: https://manen.nl/
+    multi_location: https://manen.nl/
+    relevant_vacancies: https://manen.nl/vacatures/
+    linkedin: https://manen.nl/
+  value_proposition: Inkoopplanning voor Verre-Oosten-importen met levertijden, gekoppeld aan voorraad en orders per klant/land; productdata en prijslijsten per kanaal en taal automatisch aanmaken.
+  outreach_strategy: 'Bel +31 318 54 91 50, vraag naar de directeur of operationeel/inkoopmanager. Haakje: onderzoeksgesprek over inkoop- en voorraadplanning bij import uit het Verre Oosten voor 25+ landen.'
+  conversation_starters:
+  - Hoe plannen jullie inkoop voor 2.400 artikelen met levertijden uit het Verre Oosten en seizoenspieken?
+  - Hoe houden jullie orders, voorraad en productgegevens bij voor klanten in 25 landen?
+  verification: 'bevestigd — Telefoon, adres en LinkedIn staan op eigen site; importeur/exporteur eigen collecties woondeco/speelgoed voor ketens, warenhuizen, tuincentra, groothandels + webshop; 30+ mw (ChristenUnie-werkbezoek/reshark). Enige vacature is logistiek medewerker (niet relevant). Let op: eigen collecties, geen klassieke merkdistributeur.'
+- name: 999 Games
+  url: https://www.999games.nl
+  phone: "+31 (0)36 53 93 990"
+  city: Almere
+  priority_score: 6/10
+  industry: Uitgever en distributeur bordspellen/kaartspellen Benelux (o.a. Catan, Wingspan, Carcassonne, 30 Seconds)
+  size: ca. 45 medewerkers (over-ons pagina)
+  tech_stack: Eigen webshop en B2B-bestelportaal (bestel.999games.nl), centraal magazijn in Almere; ERP niet zichtbaar.
+  relevant_vacancies: Marketing Manager, Financieel administratief medewerker (indirect; logistiek medewerker niet relevant; datering niet geverifieerd)
+  why_fit: Distribueert buitenlandse spelmerken (Catan, Wingspan e.a.) naar speciaalzaken, speelgoedketens en online in Benelux; B2B-portaal bestaat al; inkoop bij buitenlandse uitgevers en sell-out-rapportage zijn typische Excel-pijn. Deels eigen uitgeverij en eigen webshop, dus minder pure distributeur.
+  decision_maker: Directeur of operationeel / supply chain manager
+  linkedin: linkedin.com/company/999-games
+  sources:
+    decision_maker: 
+    size: https://www.999games.nl/over-ons
+    phone: https://www.999games.nl/pers-informatie
+    multi_location: https://www.999games.nl/over-ons
+    relevant_vacancies: https://debanensite.nl/vacatures/999-games-b-v
+    linkedin: https://nl.linkedin.com/company/999-games
+  value_proposition: Inkoop- en voorraadplanning bij internationale uitgevers met lange levertijden; verkoopcijfers per kanaal/klant en sell-out-rapportage automatisch; koppeling B2B-portaal, webshop en voorraad.
+  outreach_strategy: 'Geen telefoonnummer op site: zoek nummer via LinkedIn-bedrijfspagina/KvK of bel via zakelijk-contact. Vraag naar directeur of operationeel manager. Haakje: onderzoeksgesprek over inkoop en rapportage naar uitgevers.'
+  conversation_starters:
+  - Hoe plannen jullie inkoop bij internationale uitgevers als Catan en Wingspan met hun levertijden?
+  - Hoe leveren jullie verkoopcijfers per kanaal aan de uitgevers, en hoeveel handwerk zit daarin?
+  verification: 'aangepast — Algemeen nummer staat wel op eigen site (pers-informatie): +31 (0)36 53 93 990; ca. 45 mw bevestigd op over-ons. Uitgever/distributeur Benelux met retail + eigen webshop + B2B-portaal. Geen groepsbinding gevonden. LinkedIn-URL niet op site gevonden, niet geverifieerd.'
+- name: Interbosch
+  url: https://interbosch.nl
+  phone: 072-5405024 (+31 72 540 5024)
+  city: Alkmaar
+  priority_score: 6/10
+  industry: Importeur/groothandel non-food consumentenproducten (gereedschap, fiets/auto-accessoires, huishoud) met A-merken (Vileda, WD-40, Duracell, Philips, Campingaz e.a.)
+  size: ca. 17 medewerkers (zoekresultaat werkzoeken.nl/stagemarkt); LinkedIn 11-50
+  tech_stack: B2B-webshop voor geregistreerde zakelijke klanten, cash & carry showroom 2.000 m2; ERP niet zichtbaar. Marktplaatsen niet expliciet genoemd.
+  relevant_vacancies: Senior Account Manager B2B (40 uur) en Junior Account Manager B2B (werken-bij pagina)
+  why_fit: 'Multikanaal afzet (supermarkten, DHZ, fietsenwinkels, tuincentra, discounters, webshops) in NL en Europa met 5.000+ artikelen: orders, voorraad en marge per kanaal en klant lastig te overzien. Inkoop uit Verre Oosten en Europa met lange levertijden. Account manager vacature wijst op groei.'
+  decision_maker: Directeur/eigenaar of operationeel/supply chain manager
+  linkedin: nl.linkedin.com/company/interbosch
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/interbosch
+    phone: https://interbosch.nl
+    multi_location: https://interbosch.nl
+    relevant_vacancies: https://interbosch.nl/pages/werken-bij
+    linkedin: https://nl.linkedin.com/company/interbosch
+  value_proposition: Dashboard dat verkoop, voorraad en marge per afzetkanaal en klant combineert met inkoopplanning voor importartikelen met lange levertijden.
+  outreach_strategy: 'Bel 072-5405024, vraag naar directeur of operationeel manager. Onderzoeksgesprek over hoe ze inkoop en verkoopcijfers per kanaal bijhouden. Let op: marketplaces niet bevestigd, deels pure groothandel.'
+  conversation_starters:
+  - Hoe plannen jullie inkoop uit het Verre Oosten voor 5.000+ artikelen, en wat gebeurt daarvan in Excel?
+  - Hoe zien jullie welke afzetkanalen (DHZ, discounters, webshops) de meeste marge opleveren?
+  verification: 'aangepast — Telefoon +31 (0)72 540 5024 en adres Toermalijnstraat 11 Alkmaar op eigen site; groothandel/importeur A-merken naar supermarkten, non-food retail, bouwmarkten, webshops, tuincentra, fietsenwinkels; 11-50 mw (LinkedIn). Vacatures: Senior en Junior Account Manager B2B (werken-bij); ''eerder supply chain/operations manager'' niet bevestigd. Let op: meer groothandel (A-merken, export) dan exclusieve merkdistributeur.'
+- name: ELHA Cosmetics
+  url: https://elha-cosmetics.nl
+  phone: 'NL: 0172-507442 (+31 172 507442); BE: +32 15 79 67 25'
+  city: Burgerveen (NL); Mechelen (BE)
+  priority_score: 6/10
+  industry: 'Importeur/exclusief distributeur luxe parfums, cosmetica en huidverzorging Benelux (30+ merken: Versace, Montblanc, Jimmy Choo, La Prairie, OPI e.a.)'
+  size: 'ca. 65-70 medewerkers volgens zoekresultaten (bronnen lopen uiteen: 65-100; jobbird ''1000+'' onbetrouwbaar). Familiebedrijf, opgericht 1981; eigenaren zijn eigen holdings (ELHA Cosmetics International B.V.), geen groot concern gevonden'
+  tech_stack: Niet zichtbaar op site (geen B2B-portaal of marktplaats genoemd); levert aan retailers en beautyspecialisten in NL en BE.
+  relevant_vacancies: Geen specifieke vacaturetitels te verifieren (jobbird-pagina toont geen lijst); werken-bij sectie op site aanwezig
+  why_fit: '30+ exclusieve merken met buitenlandse principals: inkoopplanning, sell-out rapportage aan merken en orders van retailers/ketens over NL en BE. Twee landen. Bovenkant van de range (~65-70 mw) en marktplaatsverkoop niet bevestigd, dus lagere score.'
+  decision_maker: Directeur of operationeel/supply chain manager
+  linkedin: nl.linkedin.com/company/elha-cosmetics
+  sources:
+    decision_maker: 
+    size: https://drimble.nl/bedrijf/burgerveen/16543270/elha-cosmetics-bv.html
+    phone: https://elha-cosmetics.nl
+    multi_location: https://elha-cosmetics.nl
+    relevant_vacancies: 
+    linkedin: https://elha-cosmetics.nl
+  value_proposition: Inkoop- en voorraadplanning per merk en seizoen (Q4), orderdashboard per retailer en automatische sell-out rapporten aan merken.
+  outreach_strategy: Bel 0172-507442, vraag naar directeur of operations/supply chain manager. Onderzoeksgesprek over inkoop bij 30+ merken en merkrapportage. Controleer of de groottebron klopt.
+  conversation_starters:
+  - Hoe plannen jullie inkoop voor 30+ merken rond pieken zoals Q4, en waar zit dat nu in?
+  - Wat vragen jullie merken aan rapportage over verkoop en voorraad per retailer?
+  verification: bevestigd — Telefoon NL/BE, adressen Burgerveen/Mechelen, merkenlijst en LinkedIn kloppen met eigen site; importeur/distributeur 30+ parfum- en cosmeticamerken Benelux. Grootte 46-100 afhankelijk van bron/entiteit, binnen range. Kanaalverdeling (ketens/marktplaatsen) niet op site vermeld.
+- name: Toi-Toys International
+  url: https://toi-toys.com
+  phone: "+31 (0)40 254 36 10"
+  city: Eindhoven (site-adres Luchthavenweg 48; eerder Veldhoven) + kantoor Shenzhen
+  priority_score: 5/10
+  industry: Importeur/leverancier betaalbaar speelgoed voor retailers (eigen/onbranded collectie, 2.400 artikelen)
+  size: 60+ medewerkers over twee kantoren (werken-bij pagina); LinkedIn 51-200; familiebedrijf
+  tech_stack: Showroom 1.200 m2, magazijn 24.500 m2; ERP/B2B-portaal/marktplaatskoppelingen niet zichtbaar op site.
+  relevant_vacancies: Account Manager Europe (verkoop, indirect relevant)
+  why_fit: Levert retailers in 50+ landen met 2.400 artikelen en eigen sourcing in China (lange levertijden, inkoopplanning); veel landen en klanten dus orders/voorraad/verkoopcijfers verspreid. Eigen/onbranded assortiment en waarschijnlijk vooral retailketens, marktplaatsen niet bevestigd; bovenkant van de range.
+  decision_maker: Directeur / operationeel of supply chain manager
+  linkedin: linkedin.com/company/toi-toys
+  sources:
+    decision_maker: 
+    size: https://toi-toys.com/nl-nl/werken-bij
+    phone: https://toi-toys.com
+    multi_location: https://toi-toys.com/nl-nl/contact
+    relevant_vacancies: https://toi-toys.com/nl-nl/werken-bij
+    linkedin: https://toi-toys.com
+  value_proposition: Inkoop- en voorraadplanning voor China-import gekoppeld aan orders per klant en land; dashboard met verkoop en marge per klant/kanaal.
+  outreach_strategy: 'Bel +31 40 254 36 10, vraag naar de operationeel/supply chain manager of directeur. Haakje: onderzoeksgesprek over planning van import uit China en inzicht in verkoop per klant en land.'
+  conversation_starters:
+  - Hoe plannen jullie de inkoop in China met de levertijden naar Europese retailers in 50+ landen?
+  - Hoe krijgen jullie overzicht van verkoop en marge per klant of land?
+  verification: bevestigd — Telefoon, adres Luchthavenweg 48 Eindhoven en LinkedIn op eigen site; ruim 60 collega's (werken-bij); vacature Accountmanager Europa bestaat. Verkoopt eigen/onbranded collectie aan grote ketens (Action, Kaufland, Rossmann) in 50+ landen; geen merkdistributie/marktplaatsen zichtbaar, dus fit matig (score 5 terecht).
+- name: Antos
+  url: https://www.antos.nl
+  phone: '0418-541005 (+31 418 541005)'
+  city: Zaltbommel
+  priority_score: 5/10
+  industry: Importeur/exporteur kauwproducten en snacks voor hond/kat (mix eigen merken Antos, Cerea, ChickenD'light, Nogaas, PrimaDonna en import) sinds 1989
+  size: ca. 13 medewerkers (registerbronnen drimble/transfirm; niet op eigen site bevestigd)
+  tech_stack: Eigen website met multi-land/multi-taal selectie (28 landen), directe e-commerce plus B2B-distributie; ERP/portaal niet zichtbaar.
+  relevant_vacancies: Vacaturepagina toont geen specifieke vacatures, alleen open sollicitatie; eerder kantoorfuncties (inkoper, marketing, commercieel) volgens eerdere bron, niet opnieuw geverifieerd
+  why_fit: 'Verkoopt aan dierenspeciaalzaken, tuincentra, groothandels en dierenartsen in NL en internationaal: veel kanalen en landen voor een klein team. Inkoop en exportorders over landen. Deels eigen merken (minder distributeur-pijn rond merkrapportage) en marktplaatsen niet bevestigd.'
+  decision_maker: Directeur/eigenaar of operationeel manager
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://drimble.nl/bedrijf/zaltbommel/16737210/antos-bv.html
+    phone: https://www.antos.nl
+    multi_location: https://www.antos.nl
+    relevant_vacancies: https://www.antos.nl/vacatures
+    linkedin: 
+    segment_fit: https://www.antos.nl
+  value_proposition: Eén overzicht van export- en binnenlandse orders, voorraad en marge per land en klantsoort, plus inkoopplanning voor geimporteerde snacks.
+  outreach_strategy: Bel 0418-541005, vraag naar directeur of operationeel manager. Onderzoeksgesprek over hoe orders en voorraad over landen en klantgroepen worden gevolgd.
+  conversation_starters:
+  - Hoe houden jullie orders en voorraad bij voor klanten in zoveel verschillende landen?
+  - Welk deel van de import- en inkoopplanning gaat nu nog via Excel?
+  verification: bevestigd — Telefoon +31 (0)418 541005 op eigen site; Doornepol 9 Zaltbommel; groothandel/importeur/exporteur kauwproducten met eigen merken via dierenspeciaalzaken, tuincentra, groothandels en dierenartsen, export Europa; ca. 13 mw (registerbron). Geen LinkedIn-pagina gevonden (null terecht). Vacaturepagina zonder concrete vacatures.
+- name: Van Noord's Dierenvoeders (Petfooddiscount)
+  url: https://www.petfooddiscount.nl
+  phone: 020-6414243
+  city: Amstelveen
+  priority_score: 4/10
+  industry: Importeur Arden Grange + B2B-groothandel premium dierenvoeding, eigen winkel en webshop Petfooddiscount.nl (sinds 1973)
+  size: 11-50 medewerkers (LinkedIn/ZoomInfo-overzicht); eigenaarsgeleid familiebedrijf, geen concern gevonden
+  tech_stack: Eigen webshop met spaarkaart en gratis verzending; B2B-groothandel; ERP/marktplaatsen/ChannelEngine niet zichtbaar.
+  relevant_vacancies: 'Alleen winkelmedewerker en magazijnmedewerker gevonden (niet relevant): geen relevante vacatures gevonden'
+  why_fit: 'Combineert importrol (Arden Grange), B2B-groothandel, eigen winkel en webshop: orders, voorraad en marge per kanaal verspreid, inkoop bij buitenlandse merken. Deels retailer en marketplaces niet bevestigd, dus lagere score.'
+  decision_maker: Eigenaar/directeur of operationeel manager
+  linkedin: nl.linkedin.com/company/van-noord's-dierenvoeders
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/van-noord's-dierenvoeders
+    phone: https://www.petfooddiscount.nl
+    multi_location: https://www.petfooddiscount.nl
+    relevant_vacancies: https://debanensite.nl/vacatures/van-noord-s-dierenvoeders
+    linkedin: https://nl.linkedin.com/company/van-noord's-dierenvoeders
+    segment_fit: https://www.petfooddiscount.nl/content/arden-grange
+  value_proposition: Eén overzicht van voorraad, orders en marge over groothandel, winkel en webshop, met inkoopplanning voor importmerken.
+  outreach_strategy: Bel 020-6414243, vraag naar eigenaar of operationeel manager. Onderzoeksgesprek over hoe B2B-groothandel en webshop samen in voorraad en cijfers worden gevolgd.
+  conversation_starters:
+  - Hoe houden jullie voorraad bij die gedeeld wordt tussen groothandel, winkel en webshop?
+  - Hoe plannen jullie inkoop van Arden Grange en andere importmerken?
+  verification: 'aangepast — Telefoon 020-6414243 en adres Oude Karselaan 15 Amstelveen op eigen site; importeur Arden Grange + B2B-groothandel bevestigd. Maar zwaartepunt is eigen winkel + consumentenwebshop met veel A-merken van derden (Royal Canin, Hill''s e.a.): eerder retailer met importtak dan multi-channel merkdistributeur. Priority omlaag.'
+- name: Engelhart Handelsonderneming
+  url: https://www.engelhart.nl
+  phone: "+31 (0)13-544 5789"
+  city: Tilburg
+  priority_score: 4/10
+  industry: Importeur/distributeur spellen, speelgoed, darts en sportartikelen (eigen labels + officieel Benelux-distributeur I'm Toy, Bex, Harrows)
+  size: ca. 6-12 medewerkers (registerbronnen 6-10; LinkedIn 11-50 met ca. 9 profielen); familiebedrijf sinds 1980
+  tech_stack: Eigen webshop en klantenportaal (B2B only); ERP niet zichtbaar. Marktplaatsverkoop niet vermeld (levert alleen B2B).
+  relevant_vacancies: geen relevante vacatures gevonden (alleen allround magazijnmedewerker)
+  why_fit: Officieel Benelux-distributeur van meerdere buitenlandse merken (I'm Toy, Bex, Harrows) naast eigen labels; levert retailers, groothandels en speciaalzaken Europa-breed; klein team dus inkoop en orders waarschijnlijk in Excel/ERP-handwerk. Aan de kleine kant en alleen B2B, dus kanaalpijn beperkter.
+  decision_maker: Directeur / eigenaar
+  linkedin: linkedin.com/company/engelhart-handelsonderneming-bv
+  sources:
+    decision_maker: 
+    size: https://drimble.nl/bedrijf/tilburg/17207630/engelhart-handelsonderneming-bv.html
+    phone: https://www.engelhart.nl
+    multi_location: https://www.engelhart.nl
+    relevant_vacancies: https://www.engelhart.nl/page/vacatures
+    linkedin: https://www.engelhart.nl
+  value_proposition: Eén overzicht van voorraad, orders en verkoop per merk/klant, geautomatiseerde orderverwerking en inkoopplanning voor merken met lange levertijden.
+  outreach_strategy: 'Bel +31 13-544 5789, vraag naar de directeur/eigenaar. Haakje: onderzoeksgesprek over hoe ze met een klein team inkoop, voorraad en klantorders over meerdere merken bijhouden.'
+  conversation_starters:
+  - Hoe houden jullie voorraad en inkoop bij van merken als I'm Toy, Bex en Harrows naast jullie eigen labels?
+  - Hoeveel van het orderproces loopt via het klantenportaal en hoeveel nog via mail of telefoon?
+  verification: 'aangepast — Telefoon, adres en LinkedIn kloppen met eigen site; levert uitsluitend B2B. Grootte twijfelachtig: bronnen noemen 6-10 mw, LinkedIn 11-50 met 9 profielen; ca. 12 niet hard. Rand van de range, priority omlaag.'
