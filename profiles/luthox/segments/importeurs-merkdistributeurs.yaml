@@ -1,0 +1,63 @@
+segment:
+  slug: importeurs-merkdistributeurs
+  name: Importeurs en merkdistributeurs — multichannel voorraad en data (belonderzoek)
+  description: >
+    Cold-call segmenttest (±10 onderzoeksgesprekken). Beperkt de
+    industrie-agnostische basis-ICP tot importeurs en (exclusieve)
+    merkdistributeurs van consumentenproducten (baby/kind, speelgoed, sport
+    en outdoor, wonen/lifestyle, consumentenelektronica, verzorging, huisdier)
+    die via meerdere kanalen verkopen: ketens, losse winkels en
+    marktplaatsen (Bol, Amazon, Otto e.d.), vaak in meerdere landen. Het
+    probleem: voorraad, orders en verkoopcijfers zitten verspreid over
+    marktplaatsportalen, EDI, het eigen ERP/de 3PL en Excel; inkoop bij
+    buitenlandse merken met lange levertijden wordt in Excel gepland;
+    productdata moet per kanaal en per taal anders worden aangeleverd; en de
+    merken willen sell-out-rapportages per land en kanaal. De oplossing: één
+    dashboard dat voorraad, verkoop en marge per kanaal samenbrengt, met
+    inkoopplanning en automatische rapportage. De eerste insteek is een
+    onderzoeksgesprek, geen intake; de openingsvraag is: "Jullie verkopen via
+    marktplaatsen, ketens én losse winkels. Hoe houden jullie voorraad en
+    verkoop over al die kanalen bij?"
+  base_profile: profiles/luthox/client-profile.yaml
+  created_at: 2026-10-06
+
+icp_hard_filters:
+  industries_in:
+    set:
+      - Importeurs en merkdistributeurs baby- en kinderproducten
+      - Importeurs en distributeurs speelgoed
+      - Importeurs en distributeurs sport, outdoor en fiets-accessoires
+      - Importeurs en distributeurs wonen, lifestyle en cadeau
+      - Importeurs en distributeurs consumentenelektronica en accessoires
+      - Importeurs en distributeurs verzorging, beauty en huisdierproducten
+  headcount_min: 10
+  headcount_max: 100
+  job_titles:
+    - Directeur / eigenaar
+    - Operationeel manager
+    - Supply chain / inkoopmanager
+    - E-commerce / channel manager
+  excluded_domains:
+    - babykids.nl   # heeft Luthox afgewezen (okt 2026)
+  qualitative_disqualifiers:
+    - Eigen merk dat alleen direct aan consumenten verkoopt (D2C) zonder distributie via retailers
+    - Grote Europese of internationale distributeur / onderdeel van een groot concern met centraal opgelegde systemen
+    - Verkoopt maar via één kanaal (bijv. alleen aan één keten) — te weinig kanaalcomplexiteit
+
+icp_soft_preferences:
+  triggers:
+    - verkoopt_via_meerdere_marktplaatsen    # Bol, Amazon, Otto, Zalando, MediaMarkt genoemd als verkooppunt
+    - meerdere_landen                         # Benelux + DACH / Europa als werkgebied
+    - exclusief_distributeur_meerdere_merken # "officieel distributeur van X, Y en Z"
+    - job_postings_for_supply_chain_or_channel_manager # vacature inkoop/supply chain planner, e-commerce/marketplace specialist, data-analist
+    - werkt_met_3pl_of_eigen_magazijn_plus_marktplaats_fulfilment
+  partial_competitor_overlap_note: >
+    Gebruiken ze al een multichannel-tool of ERP (bijv. ChannelEngine,
+    Channable, Exact, AFAS, Business Central, Picqer, Montapacking)? GEEN
+    uitsluiting: de vraag is of voorraad, inkoopplanning, marge per kanaal en
+    rapportage naar de merken op één plek zitten of nog in Excel worden
+    samengevoegd. Noteer de tools als aandachtspunt.
+  personas_to_prioritize:
+    set:
+      - Directeur / eigenaar
+      - Operationeel manager / supply chain manager
