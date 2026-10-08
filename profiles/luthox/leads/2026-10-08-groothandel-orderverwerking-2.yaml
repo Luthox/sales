@@ -1,0 +1,735 @@
+---
+business: luthox
+segment: groothandel-orderverwerking
+generated_at: '2026-10-08'
+description: 'Aanvullende batch (tweede ronde) voor het segment groothandel-orderverwerking:
+  onafhankelijke B2B-groothandels in NL (10-150 mw), geen dubbelingen met eerdere
+  batches. Discovery en verrijking door Sonnet, onafhankelijke verificatie door Opus;
+  veld verification geeft het oordeel van de checker. 14 leads (doel was 15; tekort
+  bewust niet aangevuld). Grootte komt vaak uit LinkedIn-klassen, daarom soft verifieerbaar;
+  LinkedIn = bedrijfspagina; decision_maker is de rol om naar te vragen.'
+leads:
+- name: De Bruin Techniek (De Bruin Techniek Groep)
+  url: https://www.debruintechniek.com
+  phone: '088 676 0000 (sales, 8:15-16:45; sales@debruintechniek.com); secretariaat
+    hoofdkantoor Tilburg 013 532 6200'
+  city: Tilburg (hoofdkantoor, Kapitein Nemostraat 33); regio West-vacature Moerdijk;
+    afhaalpunten o.a. Breda, Den Bosch, Eindhoven, Helmond, Hapert, Moerdijk, Nijmegen,
+    Oosterhout, Roermond, Sittard, Waalwijk, Weert, Geleen en twee in Belgie
+  priority_score: 7/10
+  industry: Technische groothandel / MRO-leverancier voor industriele eindgebruikers
+    (aandrijftechniek en mechanische producten); diensten MROsourcing, MROlogistics,
+    MROsavings, MROconnect en MROshop (webshop 250.000+ artikelen)
+  size: 51-200 medewerkers (LinkedIn-bedrijfspagina, 41 leden gekoppeld; eigen site
+    noemt 70-80+); Brabants familiebedrijf sinds 1966, geen groepsbinding; 13-17 regionale
+    locaties
+  tech_stack: MROshop webwinkel (250.000+ artikelen), klantspecifieke webshops, MROklantenportaal
+    (login) en MROconnect (inkoopautomatisering, wordt zelf als dienst aangeboden);
+    daarnaast aanvragen per telefoon en mail die de binnendienst omzet in offertes
+    en orders. ERP niet zichtbaar. Het bedrijf automatiseert dus al deels, maar het
+    binnendienst-werk (productaanvragen, offertes, orders) blijft handmatig.
+  relevant_vacancies: 'Twee vacatures Commercieel Medewerker Binnendienst (MROsupporter):
+    regio Oost (Eindhoven, Helmond, Hapert, Nijmegen; gepubliceerd 12 mei 2026) en
+    regio West (Moerdijk, Roosendaal, Breda, Oosterhout); verder logistiek en stages
+    (niet relevant)'
+  why_fit: 'Meer dan vijftien locaties en twee actieve binnendienst-vacatures wijzen
+    op groeiend handwerk in aanvragen, offertes en ordervoer; vacaturetekst noemt
+    dagelijks telefoon- en mailcontact met klanten, productaanvragen, offertes en
+    orders. Groot assortiment (250.000+ artikelen) en veel klanten. Aandachtspunt:
+    eigen webshop, portaal en MROconnect laten zien dat ze digitaal al ver zijn, en
+    grootte zit in de bovenkant van het segment.'
+  decision_maker: Hoofd verkoop binnendienst of commercieel manager; alternatief operationeel
+    manager
+  linkedin: https://nl.linkedin.com/company/de-bruin-techniek
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/de-bruin-techniek
+    phone: https://www.debruintechniek.com/contact
+    multi_location: https://www.debruintechniek.com/servicepoints
+    relevant_vacancies: https://www.debruintechniek.com/vacatures
+    linkedin: https://nl.linkedin.com/company/de-bruin-techniek
+    segment_fit: https://join.com/companies/debruintechniek/16382469-commercieel-medewerker-binnendienst-mrosupporter-regio-oost
+  value_proposition: Productaanvragen en orders die per mail of telefoon bij de binnendienst
+    binnenkomen automatisch uitlezen en als conceptofferte of conceptorder klaarzetten,
+    plus automatische status- en levertijdupdates per afhaalpunt zodat de MROsupporters
+    minder tijd kwijt zijn aan overtypen en terugbellen.
+  outreach_strategy: 'Bel 088 676 0000, vraag naar het hoofd verkoop binnendienst
+    of de commercieel manager. Haakje: jullie zoeken binnendienst-collega''s in regio
+    Oost en West; hoeveel aanvragen en orders komen per mail of telefoon binnen in
+    plaats van via MROshop of het klantportaal, en wie verwerkt die?'
+  conversation_starters:
+  - 'Jullie MROsupporters verwerken dagelijks productaanvragen en offertes per telefoon
+    en mail: hoeveel daarvan komen buiten MROshop en het klantportaal om binnen, en
+    wie zet dat in het systeem?'
+  - 'Met meer dan vijftien afhaalpunten: hoe weten klanten de orderstatus en levertijd,
+    en hoeveel bellen daar nog voor?'
+  verification: 'aangepast — Telefoon 088 676 0000 en sales@ bevestigd op contactpagina;
+    beide vacatures Commercieel Medewerker binnendienst (regio West en Oost) staan
+    nog op debruintechniek.com/vacatures. LinkedIn-bedrijfspagina gevonden: 51-200
+    medewerkers, 41 gekoppeld, noemt zich familiebedrijf (ruim 60 jaar), HQ Tilburg;
+    geen groepsbinding.'
+- name: CMI Afbouw Materialen B.V. (CMI-Nederland)
+  url: https://cmi-nederland.nl
+  phone: '085-743 5000 (Boven-Leeuwen, verkoop); Nootdorp 070-228 8000'
+  city: Boven-Leeuwen (tweede vestiging Nootdorp)
+  priority_score: 7/10
+  industry: Groothandel afbouwmaterialen (gips- en vezelcementplaten, isolatie, plafondsystemen,
+    metal-stud, tegellijmen, pleisters, hout, vloeren, gereedschap) met eigen logistiek,
+    o.a. binnenstedelijk transport en transport over water
+  size: LinkedIn-bedrijfspagina 11-50 medewerkers (29 leden gekoppeld); ruim 25 jaar
+    actief, zelfstandig (geen groep vermeld)
+  tech_stack: Geen publieke webshop zichtbaar; site heeft wel een klantlogin ('Inloggen',
+    functie niet beschreven) en bestelt per telefoon of mail (verkoop@ en nootdorp@);
+    belofte 'voor 13:00 besteld = morgen in huis'. ERP niet zichtbaar. Veel maatwerklevering
+    (gelost op hoogte, gepakketteerd per verdieping) zit in orderdetails.
+  relevant_vacancies: geen relevante vacatures gevonden (alleen Magazijn medewerker,
+    23-09-2026)
+  why_fit: 'Breed B2B-assortiment voor stukadoors, afbouwers en aannemers met snelle
+    levering (bestellen voor 13:00 = volgende dag), twee vestigingen met eigen voorraad
+    en transportdiensten. Orders komen per telefoon en mail en vragen veel details
+    (hoogte lossen, verdieping, project), wat veel handmatig overtypen en nabellen
+    geeft. Eigendom: op de site van CMI en Pehavo is geen koppeling gevonden; Pehavo''s
+    Boven-Leeuwen-vestiging zit op een ander adres (Van Heemstraweg 19d) dus er is
+    geen aanwijzing voor een gedeelde groep, maar niet geverifieerd bij KvK.'
+  decision_maker: Directeur of hoofd verkoop binnendienst
+  linkedin: https://www.linkedin.com/company/cmi-b-v/
+  sources:
+    decision_maker: 
+    size: https://www.linkedin.com/company/cmi-b-v/
+    phone: https://cmi-nederland.nl/over-ons
+    multi_location: https://cmi-nederland.nl/over-ons
+    relevant_vacancies: https://cmi-nederland.nl/vacatures
+    linkedin: https://cmi-nederland.nl
+    segment_fit: https://cmi-nederland.nl
+  value_proposition: Orders en leveringsverzoeken van afbouwers en aannemers per mail
+    of telefoon automatisch uitlezen en als conceptorder klaarzetten, inclusief leverdetails
+    (hoogte, verdieping, project), plus automatische orderstatus en levertijd.
+  outreach_strategy: 'Bel 085-743 5000, vraag naar de directeur of degene die de verkoop
+    binnendienst leidt. Haakje: onderzoeksgesprek over hoe orders die voor 13:00 binnenkomen
+    worden verwerkt en hoeveel daarvan per mail of telefoon binnenkomt.'
+  conversation_starters:
+  - 'Bestellen voor 13:00 en morgen in huis is een strakke belofte: hoe komen die
+    orders binnen en wie voert ze in voor de pieken?'
+  - 'Veel orders hebben extra leverdetails, zoals lossen op hoogte of per verdieping:
+    hoe leggen jullie dat nu vast en hoe vaak moet er nagebeld worden?'
+  verification: 'bevestigd — LinkedIn-pagina CMI Afbouw Materialen B.V.: 11-50 medewerkers,
+    29 gekoppeld, HQ Boven-Leeuwen; site bevestigt 085-743 5000 en 070-228 8000 en
+    twee vestigingen. Geen koppeling met Pehavo gevonden (Pehavo is een losse technische
+    groothandel; geen vermelding over en weer).'
+- name: Van Raak Staal
+  url: https://vanraakstaal.nl
+  phone: 013 465 6910 (Tilburg, hoofdkantoor); Oss 0412 653020; Duiven 088 5009100;
+    Barneveld 0342 760800; Roermond 0475 324643; Asten 0493 698290; Wijchen (RVS)
+    024 2001960
+  city: 'Tilburg (Ledeboerstraat 22); 7 vestigingen: Tilburg, Oss, Duiven, Barneveld,
+    Roermond, Asten (Janssen Staal), Wijchen (Van Raak Stainless)'
+  priority_score: 7/10
+  industry: Regionale groothandel staal, rvs en aluminium (koker, buis, rond, profielen,
+    plaat, bevestigingsmateriaal, flenzen) met eigen transport, loskraan en spoedlevering
+    (StaalExpress)
+  size: 51-200 medewerkers (LinkedIn-bedrijfspagina, 41 leden gekoppeld); 7 vestigingen;
+    Van Raak Groep met eigen eigenaar (Henk van Grinsven, advisory board & eigenaar)
+    en directie, geen moederconcern gevonden
+  tech_stack: 'Online bestel- en calculatieportaal mijn.vanraakstaal.nl (24/7) en
+    EDI; daarnaast bestellen per telefoon via de vestigingen, contactformulier en
+    afhalen aan de balie. ERP niet zichtbaar. Veel verschillende vestigingsnummers
+    en geen centraal mailadres op de site: orders komen waarschijnlijk decentraal
+    binnen.'
+  relevant_vacancies: Commercieel Medewerker Binnendienst (Oss, tijdelijk i.v.m. verlof)
+    en Financieel Medewerker (Tilburg); chauffeur-vacature (Barneveld) genegeerd
+  why_fit: 'Zeven vestigingen met elk eigen telefoonnummer, naast webshop en EDI ook
+    telefonisch bestellen en afhalen: orders komen via meerdere kanalen en lokaal
+    binnen. Actieve vacature commercieel medewerker binnendienst en genoemde sterke
+    groei en uitbreidingsambitie wijzen op groeiend ordervolume. Staalprijzen en snelle
+    levering (spoed binnen een uur) maken status- en levertijdvragen aannemelijk.
+    Beperking: webshop en EDI bestaan al en grootte is niet hard geverifieerd.'
+  decision_maker: Hoofd verkoop binnendienst of operationeel manager (vestiging Oss/Tilburg);
+    alternatief directeur-eigenaar
+  linkedin: https://www.linkedin.com/company/van-raak-staal
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/van-raak-staal
+    phone: https://vanraakstaal.nl
+    multi_location: https://vanraakstaal.nl/van-raak-staal/
+    relevant_vacancies: https://vanraakstaal.nl/van-raak-staal/vacatures/
+    linkedin: https://vanraakstaal.nl
+    segment_fit: https://vanraakstaal.nl
+  value_proposition: Orders en aanvragen die per telefoon of mail op de verschillende
+    vestigingen binnenkomen automatisch vastleggen als conceptorder, en klanten automatisch
+    laten weten wanneer staal, rvs of aluminium geleverd of afgehaald kan worden.
+  outreach_strategy: 'Bel 013 465 6910, vraag naar het hoofd verkoop binnendienst
+    of de operationeel manager. Haakje: zeven vestigingen, webshop en EDI naast telefonisch
+    bestellen, en een openstaande vacature binnendienst; hoeveel orders komen er niet
+    via het portaal of EDI binnen en wie typt die in?'
+  conversation_starters:
+  - 'Jullie hebben een online portaal en EDI, maar ook zeven vestigingen waar klanten
+    bellen of afhalen: welk deel van de orders komt nog buiten het portaal binnen,
+    en wie voert die in?'
+  - 'Bij spoedleveringen via StaalExpress: hoe weten klanten de orderstatus en levertijd,
+    en hoeveel bellen daar nu nog voor?'
+  verification: 'aangepast — Eigen site bevestigt 7 vestigingen, telefoonnummers en
+    Van Raak Groep met eigen directie (Arent van de Sande) en eigenaar Henk van Grinsven,
+    geen extern concern. LinkedIn-bedrijfspagina gevonden via site: 51-200 medewerkers,
+    41 gekoppeld, dus grootte is hoger dan de prospeo-klasse 21-50.'
+- name: Geeve Hydraulics B.V.
+  url: https://www.geeve.com
+  phone: "+31 (0)10 479 15 11"
+  city: Rotterdam (Stolwijkstraat 91, met ParkerStore)
+  priority_score: 7/10
+  industry: Technische groothandel hydrauliek en pneumatiek (slangen, koppelingen,
+    fittingen, filtratie, pompen, accumulatoren; 30.000+ artikelen; Parker Platinum
+    Partner, ook Stauff, Legris, Olaer)
+  size: 'ca. 29-35 medewerkers (LinkedIn: 37 leden gekoppeld; databron prospeo 21-50).
+    Let op: de LinkedIn-bedrijfsgrootte-instelling staat op 501-1.000, dat past niet
+    bij de 37 gekoppelde profielen en is waarschijnlijk onjuist ingevuld. Zelfstandig
+    sinds 1996, geen groep gevonden'
+  tech_stack: B2B-webshop met klantaccount ('Mijn account') en offertefunctie ('Mijn
+    offerte'); bestellen daarnaast per telefoon en mail; ParkerStore en Hose Doctor
+    (24/7 spoedservice) met maatwerk; ERP niet zichtbaar. Eigen productie van enkele
+    onderdelen en perslijsten in Parker (EUR/US).
+  relevant_vacancies: Verkoper binnendienst (op /nl/vacatures, geen datum en geen
+    functie-inhoud zichtbaar; detailpagina niet bereikbaar)
+  why_fit: 'Eén locatie met 30.000+ artikelen en veel spoedvragen en offertes (Hose
+    Doctor, op maat gemaakte slangen), dus veel orders en offerteaanvragen naast de
+    webshop per mail en telefoon. Open vacature binnendienst past bij capaciteitsdruk.
+    Zwakker punt: webshop met offertefunctie en Parker-merkafhankelijkheid, en LinkedIn-grootte
+    onduidelijk.'
+  decision_maker: Directeur of hoofd verkoop binnendienst
+  linkedin: https://nl.linkedin.com/company/geeve-hydraulics
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/geeve-hydraulics
+    phone: https://www.geeve.com/nl/klantenservice/contact
+    multi_location: https://www.geeve.com/nl/klantenservice/over-ons
+    relevant_vacancies: https://www.geeve.com/nl/vacatures
+    linkedin: https://nl.linkedin.com/company/geeve-hydraulics
+    segment_fit: https://www.geeve.com/nl/klantenservice/over-ons
+  value_proposition: Offerte- en orderaanvragen met artikelnummers of slangspecificaties
+    die per mail of telefoon binnenkomen automatisch uitlezen en als conceptorder
+    of conceptofferte klaarzetten, plus automatische orderstatus en levertijd.
+  outreach_strategy: 'Bel +31 10 479 15 11, vraag naar de directeur of het hoofd verkoop
+    binnendienst. Haakje: onderzoeksgesprek over hoeveel offerte- en orderaanvragen
+    naast de webshop per mail of telefoon binnenkomen en wie die uitzoekt en invoert.'
+  conversation_starters:
+  - Hoeveel aanvragen komen er naast de webshop per mail of telefoon binnen, bijvoorbeeld
+    met artikelnummers of een slangspecificatie, en wie zet die om in een offerte
+    of order?
+  - 'Hoe gaat het met spoedorders (Hose Doctor): hoe komt zo''n order binnen en wie
+    verwerkt hem?'
+  verification: 'bevestigd — LinkedIn: 37 gekoppelde medewerkers (grootte-instelling
+    501-1.000 is aantoonbaar onjuist), opgericht 1996, technische groothandel hydrauliek;
+    site bevestigt (010) 479 15 11 en de vacature Verkoper binnendienst staat nog
+    op /nl/vacatures. Geen groep of overname gevonden.'
+- name: Laspartners Multiweld (LPMW)
+  url: https://www.lpmw.nl
+  phone: '088 664 1777 (keuzemenu: 1 sales, 2 technische service, 3 verhuur; werkdagen
+    08:00-17:00; info@lpmw.nl)'
+  city: 'Barendrecht (Riga 3, afhaaladres); landelijk meerdere vestigingen (LinkedIn:
+    negen in NL, een in Gent BE)'
+  priority_score: 7/10
+  industry: Lastechnische groothandel en servicepartner (lasapparatuur, toevoegmaterialen,
+    PBM, lasrookafzuiging, onderhoud/keuring, verhuur); sinds 1993/2014 gegroeid door
+    ca. 15 overnames van regionale lasgroothandels; webshop Allesvoorlassen.nl
+  size: '51-200 medewerkers (LinkedIn); Magnet.me: ca. 100; groepsbinding of investeerder
+    niet gevonden (eigen site noemt geen moederbedrijf), maar wel een samengestelde
+    organisatie uit vele overnames'
+  tech_stack: Bestelportaal 'Mijn LPMW', webshop met account/wishlist/winkelwagen,
+    aparte webshop Allesvoorlassen.nl (eigen channel manager), telefoon met sales-keuzemenu
+    en info@lpmw.nl. Door samenvoegen van ca. 15 overgenomen bedrijven vermoedelijk
+    meerdere systemen/stamdata; ERP niet zichtbaar (aandachtspunt).
+  relevant_vacancies: Accountmanager Inside Sales (40 uur), Customer care medewerker
+    (32-40 uur), Channel Manager Allesvoorlassen.nl (32-40 uur); logistiek en servicemonteur
+    genegeerd
+  why_fit: 'Drie actuele vacatures in inside sales, customer care en e-commerce wijzen
+    op groeiend order- en klantcontactwerk. Groothandel met landelijk meerdere vestigingen,
+    webshop en portaal naast telefonisch bestellen, en een geschiedenis van overnames
+    (Wagenvoorde, Wirs, Dijkstra, Bron Gascare, Visser en andere) waardoor orders,
+    klantdata en prijs-/voorraadinformatie vermoedelijk verspreid staan. Beperkt:
+    aan de bovenkant van de range, mogelijk gebonden aan een eigenaar/investeerder
+    en al een eigen portaal.'
+  decision_maker: Hoofd verkoop binnendienst of operationeel directeur/manager
+  linkedin: https://www.linkedin.com/company/laspartners-multiweld-bv
+  sources:
+    decision_maker: 
+    size: https://www.linkedin.com/company/laspartners-multiweld-bv
+    phone: https://www.lpmw.nl/klantenservice/contact/
+    multi_location: https://www.lpmw.nl/over-lpmw/over-ons/
+    relevant_vacancies: https://lassenisgeweldig.nl/
+    linkedin: https://www.linkedin.com/company/laspartners-multiweld-bv
+    segment_fit: https://www.lpmw.nl
+  value_proposition: Orders en aanvragen die per mail of telefoon bij sales, inside
+    sales en customer care binnenkomen automatisch uitlezen en als conceptorder klaarzetten,
+    plus automatische orderstatus en levertijd zodat customer care minder hoeft terug
+    te bellen.
+  outreach_strategy: 'Bel 088 664 1777 (toets 1 voor sales), vraag naar het hoofd
+    inside sales/binnendienst of de operationeel manager. Haakje: jullie zoeken een
+    accountmanager inside sales en een customer care medewerker; hoeveel orders en
+    aanvragen komen buiten Mijn LPMW en de webshop binnen en wie verwerkt die?'
+  conversation_starters:
+  - 'Jullie hebben Mijn LPMW en een webshop, maar ook een telefoon-keuzemenu voor
+    sales: welk deel van de orders komt er nog per telefoon of mail binnen en wie
+    voert dat in?'
+  - 'Na zoveel overnames van regionale lasgroothandels: hoe zorgen jullie dat klanten
+    van alle vestigingen dezelfde orderstatus en levertijd te zien krijgen?'
+  verification: 'bevestigd — LinkedIn: 51-200 medewerkers (55 gekoppeld). Over-ons-pagina
+    beschrijft fusie Laspartners/Multiweld en overnames 2014-2020 door LPMW zelf;
+    geen moederbedrijf of investeerder gevonden. Vacatures Accountmanager Inside Sales,
+    Customer care medewerker en Channel Manager Allesvoorlassen.nl staan nog op lassenisgeweldig.nl.'
+- name: A.S.F. Fischer B.V.
+  url: https://www.asf-fischer.com/nl/
+  phone: 0320 28 56 10 (verkoop); algemeen 0320 28 55 44
+  city: Lelystad
+  priority_score: 7/10
+  industry: Technische groothandel / importeur en conceptleverancier van bevestigingsmaterialen
+    (50.000+ artikelen; merken o.a. Woodies, Fis-Profi, Grabber, InterDynamics, QlinQ)
+  size: LinkedIn-bedrijfspagina 51-200 medewerkers (43 leden gekoppeld); modern familiebedrijf
+    sinds 1945, geen moedergroep vermeld
+  tech_stack: B2B-webshop (webshop.asf-fischer.com) als hoofdkanaal; ook verkoop via
+    verkoop@asf-fischer.nl en telefoon; eigen ERP/WMS (intern applicatiebeheer, pakket
+    niet genoemd). Overnames Herag (2023), QlinQ en InterDynamics wijzen op meerdere
+    ordersystemen/klantstromen die samengevoegd zijn.
+  relevant_vacancies: Applicatiebeheerder ERP/WMS (40 uur, datum niet vermeld; vacaturepagina
+    is een 'klein, hecht team'). Geen binnendienst/order-entry vacature zichtbaar;
+    de vacature-URL heet wel commercieel-binnendienst-medewerker maar de inhoud is
+    applicatiebeheer.
+  why_fit: 'Importeur-groothandel die levert aan bouwgroothandels, hout- en plaatmateriaal,
+    ijzerwaren, elektro- en sanitairgroothandels en industrie: veel B2B-klanten die
+    grote orders mailen/bellen naast de webshop. Meerdere overnames (Herag, QlinQ,
+    InterDynamics) met integratie van verkoop, inkoop en logistiek geeft kans op versnipperde
+    orderstromen. Zwakkere punten: webshop is hoofdkanaal en eigen ERP/WMS-beheerder
+    aanwezig; mogelijk EDI met grote afnemers.'
+  decision_maker: Directeur of hoofd verkoop binnendienst / operationeel manager
+  linkedin: https://www.linkedin.com/company/a.s.f.-fischer-bv/
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/a.s.f.-fischer-bv
+    phone: https://www.asf-fischer.com/nl/contact/
+    multi_location: https://www.asf-fischer.com/nl/over-asf-fischer/
+    relevant_vacancies: https://www.asf-fischer.com/nl/vacatures/
+    linkedin: https://www.asf-fischer.com/nl/contact/
+    segment_fit: https://www.asf-fischer.com/nl/
+  value_proposition: Orders van bouwgroothandels en andere afnemers die per mail,
+    pdf of Excel binnenkomen automatisch uitlezen en als conceptorder in het ERP klaarzetten,
+    plus automatische orderstatus en levertijd voor de 50.000 artikelen.
+  outreach_strategy: 'Bel 0320 28 56 10, vraag naar het hoofd verkoop binnendienst
+    of de directeur. Haakje: onderzoeksgesprek over hoeveel orders van de grote afnemers
+    naast de webshop per mail of telefoon binnenkomen en wie die invoert, mede na
+    de integratie van Herag en QlinQ.'
+  conversation_starters:
+  - Hoeveel van de orders komen via de webshop binnen en hoeveel per mail, telefoon
+    of EDI, en wie verwerkt die laatste?
+  - 'Na de overname van Herag en QlinQ: hoe loopt de orderverwerking nu, zit daar
+    nog dubbel werk in?'
+  verification: bevestigd — Eigen site noemt 'modern familiebedrijf' sinds 1945, importeur/groothandel
+    bevestigingsmaterialen; LinkedIn 51-200 (43 gekoppeld), HQ Lelystad. Telefoon
+    0320 285610 en 0320 285544 bevestigd op contactpagina; enige vacature is Applicatiebeheerder
+    ERP/WMS, zoals vermeld.
+- name: Verploegen Verwarming BV
+  url: https://web.verploegen.nl
+  phone: '088 077 08 80 (ook WhatsApp)'
+  city: Den Haag (vestigingen Binckhorst en Loosduinseweg Den Haag, Amsterdam Westpoort,
+    Rotterdam, Zoetermeer)
+  priority_score: 6/10
+  industry: Groothandel verwarming, sanitair en installatiemateriaal voor installateurs;
+    importeur Korado-radiatoren en Euroheat/VTS-heaters en luchtgordijnen; cv-onderdelen
+    (4.000+) voor Intergas, Vaillant, Nefit, Remeha
+  size: '17-50 medewerkers (prospeo: 21-50, afdelingstelling 17; niet door eigen site
+    bevestigd); familiebedrijf sinds 1984, geen groepsbinding vermeld'
+  tech_stack: Eigen webshop met verplicht klantaccount (catalogus, bestellijsten,
+    orderhistorie, bevestigingsmail bij invoer en bericht bij klaar voor levering);
+    daarnaast bestellen via telefoon, e-mail verkoop@verploegen.nl, WhatsApp en balie
+    op 5 vestigingen. ERP niet zichtbaar. Orders na bevestiging alleen wijzigbaar
+    via contact, dus telefoon/mail blijft actief kanaal.
+  relevant_vacancies: geen relevante vacatures gevonden (geen werkenbij-pagina op
+    site; zoekacties leverden niets op)
+  why_fit: 'Vijf vestigingen met lokale voorraad en een distributiemagazijn, installateurs
+    bestellen via webshop, mail, telefoon en WhatsApp naast elkaar: precies het patroon
+    waarbij een deel van de orders buiten de webshop om binnenkomt en overgetypt wordt.
+    Importeursrol (Korado, Euroheat) voegt eigen inkoop- en leverafspraken toe. Onderkant
+    van de grootte-range en geen vacaturesignaal, dus gematigde score.'
+  decision_maker: Directeur / eigenaar of hoofd verkoop binnendienst
+  linkedin: 
+  sources:
+    decision_maker: 
+    size: https://prospeo.io/c/verploegen-verwarming-bv
+    phone: https://web.verploegen.nl
+    multi_location: https://web.verploegen.nl/over-verploegen
+    relevant_vacancies: 
+    linkedin: 
+    segment_fit: https://web.verploegen.nl/klantenservice/veelgestelde-vragen/bestellen
+  value_proposition: Orders die per mail of WhatsApp binnenkomen automatisch uitlezen
+    en als conceptorder klaarzetten voor de binnendienst, plus automatische bevestiging
+    en leverstatus per vestiging zodat installateurs minder bellen.
+  outreach_strategy: 'Bel 088 077 08 80, vraag naar de directeur of het hoofd verkoop
+    binnendienst. Haakje: installateurs kunnen bij jullie via webshop, mail, telefoon,
+    WhatsApp en balie bestellen; hoeveel orders komen er niet via de webshop binnen
+    en wie typt die in?'
+  conversation_starters:
+  - 'Jullie hebben een webshop met klantaccount en tegelijk bestellen installateurs
+    via verkoop@ en WhatsApp: welk deel loopt nog buiten de webshop om, en wie voert
+    dat in?'
+  - 'Met vijf vestigingen en een distributiemagazijn: hoe weten klanten op welke vestiging
+    hun order klaarstaat, en hoeveel bellen er daarvoor?'
+  verification: bevestigd — Eigen site bevestigt familiebedrijf sinds 1984, vijf vestigingen
+    (Amsterdam, Den Haag 2x, Rotterdam, Zoetermeer), importeursrol Korado/Euroheat
+    en 088 077 08 80 / verkoop@verploegen.nl. Grootte alleen via prospeo (21-50, 17
+    in afdelingen, eigenaar Jos Verploegen); met vijf balievestigingen aannemelijk
+    boven 15. Geen LinkedIn-bedrijfspagina gevonden.
+- name: Maiburg
+  url: https://www.maiburg.nl
+  phone: 0416 566566 (algemeen); nieuwe orders/productinfo 0416 566531; bestaande
+    orders/offertes 0416 566532; nieuwe klanten 0416 566537
+  city: Waalwijk (Schutweg 6 centraal magazijn, Schutweg 2 plaatmateriaal-magazijn)
+  priority_score: 6/10
+  industry: Specialistisch importeur en groothandel van lijmen, schuurmateriaal, plaatmateriaal
+    (constructief en decoratief) en vloerproducten (Lecol) voor vakmensen in interieurbouw,
+    keukenbouw, meubel, standbouw, jachtbouw, automotive en vloeren; merken o.a. Sia,
+    Pfleiderer, Kaindl, Formica, Tesa, Wakol
+  size: 51-200 medewerkers (LinkedIn-bedrijfspagina); familiebedrijf in vijfde generatie
+    sinds 1886 (algemeen directeur Bas Maiburg), geen groepsbinding vermeld; eigen
+    productie (plaatbewerking, schuurproducten) naast handel
+  tech_stack: Webshop met klantaccount, snel bestellen op artikelnummer en CSV-import,
+    favorieten en live chat; daarnaast bestellen per telefoon (aparte lijnen voor
+    nieuwe en bestaande orders) en via verkoop@maiburg.nl, dat ook voor offertes en
+    klachten wordt gebruikt. Track & Trace voor plaatmateriaal-zendingen aanwezig.
+    ERP niet zichtbaar.
+  relevant_vacancies: 'Data Analist Marketing & Sales en Online marketeer (indirect
+    relevant: data/e-commerce); verder magazijn- en productievacatures (genegeerd);
+    geen binnendienst-vacature gevonden'
+  why_fit: 'Breed assortiment van tientallen A-merken voor veel verschillende vakklanten,
+    twee magazijnen, en orders komen via telefoon (twee aparte orderlijnen) en een
+    gedeelde verkoopmailbox binnen naast een webshop met CSV-import. Zo''n gedeelde
+    mailbox met orders, offertes en klachten door elkaar is typisch handmatig overtypen.
+    Aandachtspunten: ook producent, geen binnendienst-vacature, grootte aan de bovenkant
+    en ze hebben al Track & Trace voor plaatzendingen.'
+  decision_maker: Hoofd verkoop binnendienst of commercieel/operationeel manager
+  linkedin: https://nl.linkedin.com/company/maiburg
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/maiburg
+    phone: https://www.maiburg.nl/contact
+    multi_location: https://www.maiburg.nl/contact
+    relevant_vacancies: https://www.maiburg.nl/maiburg/nl/EUR/vacatures
+    linkedin: https://nl.linkedin.com/company/maiburg
+    segment_fit: https://www.maiburg.nl
+  value_proposition: Orders en offerteaanvragen uit de gedeelde verkoopmailbox en
+    van telefoon automatisch uitlezen en als conceptorder klaarzetten, en automatische
+    orderstatus- en levertijdupdates voor ook de niet-plaatmateriaal-zendingen.
+  outreach_strategy: 'Bel 0416 566566, vraag naar het hoofd verkoop binnendienst of
+    de commercieel manager (orderlijn 0416 566532 voor bestaande orders). Haakje:
+    naast de webshop met CSV-import bestellen vakklanten per telefoon en via verkoop@;
+    hoeveel orders komen daar binnen en wie voert ze in?'
+  conversation_starters:
+  - 'Jullie hebben een webshop met snel bestellen en CSV-import, maar ook aparte telefoonlijnen
+    voor nieuwe en bestaande orders en een verkoopmailbox: welk deel van de orders
+    komt buiten de webshop binnen en wie typt dat in?'
+  - 'Je hebt Track & Trace voor plaatmateriaal: hoe zit dat voor lijmen en schuurmateriaal,
+    en hoeveel klanten bellen nog voor levertijd of orderstatus?'
+  verification: bevestigd — LinkedIn-bedrijfspagina bevestigt 51-200 medewerkers (68
+    gekoppeld), HQ Waalwijk; contactpagina bevestigt 0416 566566, orderlijnen 0416
+    566531/566532 en verkoop@maiburg.nl. Geen groepsbinding gevonden.
+- name: Van den Borne B.V.
+  url: https://www.vandenborne.nl
+  phone: "+31 (0)40 201 68 66"
+  city: Valkenswaard
+  priority_score: 6/10
+  industry: Technische groothandel beregening, pompen, waterbehandeling en leidingsystemen
+    voor installateurs en groothandels (8.400+ producten; o.a. Hunter, Rain Bird,
+    Pedrollo, Pipelife)
+  size: LinkedIn-bedrijfspagina 51-200 medewerkers (40 leden gekoppeld); Van den Borne
+    Group noemt 'ruim 100 specialisten' over 8 entiteiten (NL, DE, UK), dus de NL-entiteit
+    is kleiner. Groep zonder genoemde externe moeder (eigen CEO/COO/CFO)
+  tech_stack: B2B-webshop met klantlogin en 24/7 bestellen (vandenborne.nl/nl/login),
+    daarnaast bestellen per telefoon en mail; ERP niet zichtbaar. Binnendienst bereidt
+    offertes voor en verwerkt inkomende orders (uit vacature), CRM in gebruik.
+  relevant_vacancies: geen relevante vacatures meer (Accountmanager binnendienst niet
+    meer op de vacaturepagina; alleen Accountmanager buitendienst Noordoost-Nederland,
+    8-06-2026, niet relevant)
+  why_fit: 'Binnendienst-vacature met orderverwerking staat al 6 maanden open, wat
+    past bij capaciteitsdruk op orderinvoer. Veel merken en 8.400 artikelen met technisch
+    advies (offerte voor pomp- en beregeningssystemen), klanten zijn installateurs
+    en groothandels. Zwakker punt: onderdeel van Van den Borne Group (8 entiteiten)
+    en er is een webshop met login, mogelijk centraal ERP.'
+  decision_maker: Hoofd verkoop binnendienst of operationeel manager / directeur
+  linkedin: https://nl.linkedin.com/company/van-den-borne
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/van-den-borne
+    phone: https://www.vandenborne.nl/nl/contact
+    multi_location: https://www.vandenborne.nl/nl/group
+    relevant_vacancies: https://www.vandenborne.nl/nl/vacatures
+    linkedin: https://www.vandenborne.nl
+    segment_fit: https://www.vandenborne.nl
+  value_proposition: Orders en offerteaanvragen van installateurs en groothandels
+    die per mail of telefoon binnenkomen automatisch uitlezen en als conceptorder
+    klaarzetten, plus automatische orderstatus en levertijd naast de webshop.
+  outreach_strategy: 'Bel +31 40 201 68 66, vraag naar het hoofd verkoop binnendienst
+    of de operationeel manager. Haakje: onderzoeksgesprek over hoeveel orders naast
+    de webshop per mail of telefoon binnenkomen en hoe de binnendienst die verwerkt;
+    verwijs neutraal naar de openstaande functie accountmanager binnendienst.'
+  conversation_starters:
+  - Welk deel van de orders van installateurs en groothandels loopt via de webshop
+    en welk deel nog per mail of telefoon?
+  - 'Bij 8.400 artikelen en technische offertes: hoeveel tijd gaat er in uitzoeken
+    van artikelen, levertijd en orderstatus zitten?'
+  verification: aangepast — LinkedIn bevestigt 51-200 (40 gekoppeld), HQ Valkenswaard;
+    groepspagina noemt ruim 100 specialisten in de hele Van den Borne Group, geen
+    externe moeder gevonden. Telefoon +31 40 201 68 66 klopt. De vacature Accountmanager
+    binnendienst staat niet meer op de vacaturepagina; alleen Accountmanager buitendienst
+    (8-06-2026) is nog open.
+- name: Elcas B.V.
+  url: https://elcas.nl
+  phone: "+31 (0)10 462 77 99"
+  city: Rotterdam (Spaanse Polder)
+  priority_score: 6/10
+  industry: Groothandel in ferro- en non-ferrometalen (gietijzer, brons, aluminiumbrons,
+    messing, koper, kunststoffen) met zaagservice, voor machinebouw, hydrauliek, pneumatiek,
+    matrijzenbouw en automotive
+  size: LinkedIn-bedrijfspagina 11-50 medewerkers (17 leden gekoppeld), dus onderkant
+    van de range; familiebedrijf sinds 1945, geen groep vermeld
+  tech_stack: Geen webshop, wel een 'Portal' (klantlogin, functie niet beschreven)
+    en een rekenmachine/omrekentool op site; bestellen en prijsvragen lopen via telefoon
+    en elcas@elcas.nl. Geautomatiseerd magazijn sinds 2017; ERP niet zichtbaar. Zaagorders
+    op maat per klantspecificatie.
+  relevant_vacancies: Front Office Medewerker (24 uur per week, Rotterdam; dagelijkse
+    kantooroperatie met enige logistiek, deelt werk met collega, geen datum); Senior
+    Accountmanager Metaalhandel (commercieel, niet orderverwerking); Allround metaalbewerker
+    (niet relevant)
+  why_fit: 'Pure metaalhandel met veel kleine en maatwerkorders (zagen op maat, vele
+    legeringen en afmetingen), orders en prijsvragen per telefoon en mail, geen webshop.
+    Een kleine front office van twee mensen draagt de orderinvoer, dus de vacature
+    is een signaal van druk. Zwakker punt: klein (17 LinkedIn-profielen, ca. 11-20
+    mw) en mogelijk al een goed ERP met geautomatiseerd magazijn.'
+  decision_maker: Directeur of verantwoordelijke front office / verkoop binnendienst
+  linkedin: https://nl.linkedin.com/company/elcas
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/elcas
+    phone: https://elcas.nl
+    multi_location: https://elcas.nl/overons
+    relevant_vacancies: https://elcas.nl/vacatures
+    linkedin: https://nl.linkedin.com/company/elcas
+    segment_fit: https://elcas.nl/overons
+  value_proposition: Prijsvragen en orders met afmetingen en zaaglengtes die per mail
+    of telefoon binnenkomen automatisch uitlezen en als conceptorder of offerte klaarzetten,
+    plus automatische levertijd- en orderstatusupdates voor klanten.
+  outreach_strategy: 'Bel +31 10 462 77 99, vraag naar de directeur of degene die
+    de front office/verkoop binnendienst leidt. Haakje: onderzoeksgesprek over hoe
+    prijsvragen en zaagorders per mail en telefoon worden verwerkt en wie die invoert.'
+  conversation_starters:
+  - Hoeveel prijsvragen en orders komen er per dag per mail of telefoon binnen, en
+    wie zet die met afmetingen en zaaglengtes in het systeem?
+  - Bellen klanten vaak om te vragen of iets op voorraad is of wanneer het gezaagd
+    en geleverd wordt?
+  verification: bevestigd — Site en LinkedIn bevestigen groothandel ferro/non-ferro,
+    Rotterdam, 11-50 medewerkers met 17 gekoppeld; vacatures Front Office Medewerker
+    en Senior Accountmanager staan nog op de homepage. Grootte zit aan de onderkant
+    (circa 15-20), geen andere bron gevonden.
+- name: Krikke Horeca Groothandel (Krikke B.V.)
+  url: https://krikke.nl
+  phone: 0566-629955
+  city: Grou
+  priority_score: 5/10
+  industry: Foodservice- en horecagroothandel met eigen horecaslagerij en import van
+    specialiteiten (vlees, vleeswaren, kaas, tapas, maaltijdcomponenten)
+  size: 11-50 medewerkers volgens LinkedIn-bedrijfspagina, 17 medewerkers gekoppeld
+    op LinkedIn (nl.linkedin.com/company/krikke-culinaire-specialiteiten); exacte
+    fte niet geverifieerd, onderkant van de range
+  tech_stack: 'Bestelportal voor klanten (inloggen met klantcode: bestellingen plaatsen,
+    leveringen volgen, historie), daarnaast aanmelden/contact per formulier, e-mail,
+    WhatsApp en telefoon; wekelijkse factuur per mail. ERP niet zichtbaar. Portal
+    dekt waarschijnlijk een deel; WhatsApp/mail/telefoon-contact suggereert orders
+    buiten het portal om.'
+  relevant_vacancies: 'geen relevante vacatures gevonden (open: Medewerker Marketingcommunicatie
+    bijbaan en Horeca Slager/Productiemedewerker)'
+  why_fit: 'Familiebedrijf sinds 1951 (4e generatie, Ivo Krikke), geen groep. Horecagroothandel
+    met breed assortiment (vlees, vleeswaren, kaas, zuivel, tapas, maaltijdcomponenten,
+    brood, vis, snacks) voor hotels, restaurants en cateraars, dus veel kleine terugkerende
+    horeca-orders. Combinatie bestelportal plus bestellen via WhatsApp/mail/telefoon
+    past op het probleem van overtypen. Twijfelpunt: klein (rond 17-50 mw) en deels
+    eigen slagerij/productie, dus handmatig ordervolume kleiner.'
+  decision_maker: Directeur/eigenaar of verantwoordelijke verkoop binnendienst
+  linkedin: https://nl.linkedin.com/company/krikke-culinaire-specialiteiten
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/krikke-culinaire-specialiteiten
+    phone: https://krikke.nl/over-ons/
+    multi_location: 
+    relevant_vacancies: https://krikke.nl/vacatures/
+    linkedin: https://nl.linkedin.com/company/krikke-culinaire-specialiteiten
+    segment_fit: https://krikke.nl/
+  value_proposition: Orders die via WhatsApp, mail of telefoon binnenkomen automatisch
+    uitlezen en als conceptorder klaarzetten naast het bestelportal, plus automatische
+    leverstatus richting horeca-klanten.
+  outreach_strategy: 'Bel 0566-629955, vraag naar de directeur/eigenaar of degene
+    die de verkoop binnendienst doet. Haakje: onderzoeksgesprek over welk deel van
+    de horeca-orders via het bestelportal loopt en wat er via WhatsApp, mail of telefoon
+    binnenkomt en wie dat invoert.'
+  conversation_starters:
+  - 'Jullie klanten kunnen via het portal bestellen, maar ook mailen, appen of bellen:
+    hoeveel orders per dag komen er buiten het portal binnen en wie voert die in?'
+  - 'Bij vers vlees en horeca zijn bestellingen vaak laat en wijzigen ze nog: hoe
+    gaat dat tussen verkoop, slagerij en planning?'
+  verification: 'bevestigd — Telefoon 0566-629955 en adres Biensma 34 Grou bevestigd
+    op krikke.nl/over-ons; vacaturepagina bevestigt familiebedrijf sinds 1951, 4e
+    generatie Ivo Krikke, en alleen niet-relevante vacatures (marketing-bijbaan, horeca
+    slager). LinkedIn-pagina is van Krikke (website krikke.nl, Grou): 11-50 mw, 17
+    gekoppeld; grootte net boven segmentminimum 15, aannemelijk maar fte niet hard
+    bevestigd. LinkedIn beschrijft het als ambachtelijke slager en importeur van producten
+    voor de horeca, dus foodservice-groothandel met eigen slagerij.'
+- name: Wielink Dierenbenodigdheden
+  url: https://www.wielink.nl
+  phone: "+31 (0)38 3327686"
+  city: IJsselmuiden
+  priority_score: 5/10
+  industry: Groothandel dierenbenodigdheden en diervoeders (retailers in de huisdierenbranche,
+    met private label)
+  size: 30 collega's (eigen werkenbij/vacaturepagina wielink.nl/vacatures); LinkedIn
+    11-50 medewerkers, 13 gekoppeld
+  tech_stack: Publieke site is een catalogus (assortiment per diersoort, artikelnummers,
+    PDF-catalogus) zonder bestelknop, winkelwagen of klantenportaal (de 'Inloggen'-link
+    is alleen een WordPress-login); bestelproces staat niet op de site, alleen telefoon,
+    mail en contactpagina. ERP niet zichtbaar. Handmatige orderinvoer per telefoon/mail
+    aannemelijk, niet bevestigd.
+  relevant_vacancies: 'geen relevante vacatures gevonden (enige open vacature: Logistiek
+    Medewerker 32-40 uur, orderpicken/laden, niet relevant)'
+  why_fit: 'Onafhankelijk familiebedrijf sinds 1945 (Hendrik/Bert/J. Wielink), nu
+    landelijke groothandel met eigen transport en veel dierenspeciaalzaken en tuincentra
+    als wederverkoper. Breed assortiment (hond, kat, knaagdier, vogel, pluimvee, duif,
+    visserij, bestrijding, boerderijdieren) en private label (Zoolekker) wijst op
+    veel artikelen en veel kleine retailer-orders. Geen zichtbaar bestelportal betekent
+    dat orders buiten een webshop om moeten binnenkomen. Twijfelpunten: niche valt
+    buiten de genoemde segment-branches en bestelproces is nog niet geverifieerd.'
+  decision_maker: Directeur/eigenaar (familie Wielink) of verantwoordelijke verkoop
+    binnendienst
+  linkedin: https://nl.linkedin.com/company/wielink-dierenbenodigdheden
+  sources:
+    decision_maker: https://www.wielink.nl/vacatures/
+    size: https://www.wielink.nl/vacatures/
+    phone: https://www.wielink.nl/familiebedrijf-dierenbenodigdheden/
+    multi_location: 
+    relevant_vacancies: https://www.wielink.nl/vacatures/
+    linkedin: https://nl.linkedin.com/company/wielink-dierenbenodigdheden
+    segment_fit: https://www.wielink.nl/
+  value_proposition: Orders van dierenspeciaalzaken en tuincentra die per mail, pdf
+    of telefoon binnenkomen automatisch uitlezen en als conceptorder klaarzetten,
+    plus automatische status- en levertijdupdates richting retailers.
+  outreach_strategy: 'Bel +31 38 3327686, vraag naar de directeur of de verantwoordelijke
+    voor verkoop binnendienst. Haakje: onderzoeksgesprek over hoe orders van dierenspeciaalzaken
+    binnenkomen (mail, telefoon, chauffeurs) en wie die invoert.'
+  conversation_starters:
+  - 'Jullie leveren aan dierenspeciaalzaken en tuincentra zonder webshop op de site:
+    hoe komen hun bestellingen binnen en wie voert die in?'
+  - 'Met veel kleine artikelen en eigen chauffeurs: hoe gaat dat met wijzigingen en
+    leverstatus als een winkel belt?'
+  verification: 'aangepast — 30 collega''s bevestigd op wielink.nl/vacatures (enige
+    vacature Logistiek Medewerker, niet relevant); telefoon +31 (0)38 3327686 en adres
+    Kraton 5 IJsselmuiden bevestigd; familiebedrijf sinds 1945, levert aan wederverkopers,
+    geen groepsbinding gevonden. LinkedIn-pagina is van dit bedrijf (website wielink.nl,
+    Kraton 5): 11-50 mw, 13 gekoppeld. De ''Inloggen''-link op de site is een WordPress-login,
+    geen bestelportaal. Branche (dierenbenodigdheden) valt buiten de vijf genoemde
+    segmentbranches, daarom prioriteit omlaag.'
+- name: Deldense
+  url: https://www.deldense.nl
+  phone: 074-3764455
+  city: Delden
+  priority_score: 5/10
+  industry: Technische groothandel automaterialen, banden, gereedschap, smeermiddelen
+    en werkplaatsinrichting (automotive, industrie, agrarisch)
+  size: 11-50 medewerkers volgens LinkedIn, 24 gekoppeld (nl.linkedin.com/company/deldense);
+    eigen bezorgservice met 7 eigen auto's; exacte aantal niet vermeld op site
+  tech_stack: Webshop met 75.000+ producten (zowel incl. als excl. BTW, dus ook particulieren),
+    B2B-account en bestelcatalogus met login, eigen fysieke winkel in Delden; werkplaatsinrichting
+    op maat via WhatsApp, mail en telefoon (foto's van de werkplaats insturen). ERP
+    niet zichtbaar. Webshop is een belangrijk kanaal; handmatig werk zit vermoedelijk
+    in telefoon-/mail-/WhatsApp-orders van garages en in maatwerk-offertes.
+  relevant_vacancies: 'geen relevante vacatures gevonden (open: Bezorger 40 uur en
+    Expeditie/magazijnmedewerker 40 uur, niet relevant)'
+  why_fit: 'Familiebedrijf sinds 1982, onafhankelijk, met vaste contactpersonen voor
+    B2B-klanten, 8x per dag gratis bezorging in Twente en 75.000+ artikelen op voorraad;
+    veel garages en bedrijven met kleine terugkerende orders. B2B-bestelcatalogus
+    naast winkel, telefoon en WhatsApp betekent meerdere ordertromen. Twijfelpunten:
+    webshop (ook B2C) is hoofdkanaal en winkelverkoop is een deel van de omzet, dus
+    handmatig ordervolume per dag is onzeker; kleine organisatie.'
+  decision_maker: Directeur/eigenaar of verantwoordelijke verkoop binnendienst
+  linkedin: https://www.linkedin.com/company/deldense/
+  sources:
+    decision_maker: 
+    size: https://www.linkedin.com/company/deldense/
+    phone: https://www.deldense.nl/contact/
+    multi_location: 
+    relevant_vacancies: https://www.deldense.nl/werken-bij/
+    linkedin: https://www.deldense.nl/contact/
+    segment_fit: https://www.deldense.nl/zakelijke-klanten/
+  value_proposition: Orders en offerteaanvragen van garages en bedrijven die per telefoon,
+    mail of WhatsApp binnenkomen automatisch uitlezen en als conceptorder klaarzetten
+    naast de B2B-webshop, plus automatische levertijd- en leverstatusupdates voor
+    de bezorgrondes.
+  outreach_strategy: 'Bel 074-3764455, vraag naar de directeur of de verantwoordelijke
+    voor verkoop binnendienst. Haakje: onderzoeksgesprek over welk deel van de B2B-orders
+    buiten de webshop binnenkomt (telefoon, mail, WhatsApp) en wie dat invoert.'
+  conversation_starters:
+  - 'Jullie hebben een B2B-bestelcatalogus naast winkel en telefoon: hoeveel orders
+    per dag komen er buiten de webshop binnen en wie voert die in?'
+  - 'Met tot 8 bezorgrondes per dag en 75.000 artikelen op voorraad: hoe regelen jullie
+    levertijd- en voorraadvragen van garages?'
+  verification: 'bevestigd — Telefoon 074-3764455 en adres De Berken 4 Delden bevestigd
+    op deldense.nl/contact, die ook naar linkedin.com/company/deldense linkt; LinkedIn:
+    groothandel automotive/industrie/agrarisch, familiebedrijf sinds 1982, 11-50 mw
+    met 24 gekoppeld (grootte binnen segment). Werken-bij bevestigt alleen vacatures
+    Bezorger en Expeditie/magazijn (niet relevant) en geen groepsbinding.'
+- name: Bakeplus (Bake Plus Haaften B.V.)
+  url: https://www.bakeplus.nl
+  phone: '0418 597 444'
+  city: Haaften (West Betuwe), daarnaast magazijnen o.a. Venlo (volgens nutrada drie
+    in NL en een in BE)
+  priority_score: 5/10
+  industry: Groothandel bakkerij- en ijsingrediënten (bakkers, banketbakkers, patissiers,
+    ijsbereiders, foodbedrijven) met private label en eigen wagenpark
+  size: Meer dan 100 collega's (eigen werken-bij-pagina volgens enrichment, nu 403);
+    LinkedIn 51-200, 63 gekoppeld; bestfoodimporters 51-200; bovengrens segment
+  tech_stack: Klantlogin met bestelcatalogus op de website (account aanmaken, inloggen
+    en bestellen), accountmanagers per rayon, maandacties, najaarsorders via events;
+    ERP niet zichtbaar. Logincatalogus naast accountmanagers en binnendienst wijst
+    op meerdere ordertromen (portal plus telefoon/mail/accountmanager).
+  relevant_vacancies: 'geen relevante vacatures gevonden (open: HR adviseur en Chauffeur
+    CE, niet relevant); de werken-bij-pagina noemt wel collega''s op de binnendienst'
+  why_fit: 'Familiegeleide (Bob Sars sinds 2019) bakkerijgroothandel sinds 1934 met
+    breed en diep assortiment (brood, banket, meel, zuivel, chocolade, verpakkingen,
+    ijs, non-food) en vaste routes met landelijke dekking. Veel kleine bakkers met
+    terugkerende en seizoensgebonden orders (Kerst, Pasen, carnaval, Sinterklaas)
+    vragen veel ordercoordinatie door de binnendienst en accountmanagers. Nieuwe locatie
+    Venlo geopend, groei. Aandachtspunten: in 2015 overgenomen door een investeringsmaatschappij
+    (huidig eigendom niet geverifieerd), bovenkant van de range.'
+  decision_maker: Directeur (Bob Sars genoemd op over-ons) of hoofd binnendienst/operationeel
+    manager
+  linkedin: https://nl.linkedin.com/company/bakeplus
+  sources:
+    decision_maker: https://www.bakeplus.nl/over-bakeplus
+    size: https://bestfoodimporters.com/company/bake-plus-haaften-b-v/
+    phone: https://www.bakeplus.nl/
+    multi_location: https://nutrada.com/nl/leveranciers/bakeplus
+    relevant_vacancies: https://www.bakeplus.nl/werken-bij-bakeplus
+    linkedin: https://nl.linkedin.com/company/bakeplus
+    segment_fit: https://www.bakeplus.nl/over-bakeplus
+  value_proposition: Orders van bakkers en ijsbereiders die buiten de klantlogin per
+    mail, telefoon of via accountmanagers binnenkomen automatisch uitlezen en als
+    conceptorder klaarzetten, plus automatische status- en levertijdupdates, vooral
+    in de seizoenspieken.
+  outreach_strategy: 'Bel 0418 597 444 (Haaften), vraag naar de directie of het hoofd
+    binnendienst/operationeel manager. Haakje: onderzoeksgesprek over welk deel van
+    de orders via de klantlogin loopt en welk deel via accountmanagers, mail en telefoon
+    binnenkomt, vooral in de pieken rond de feestdagen.'
+  conversation_starters:
+  - 'Bakkers kunnen via de login bestellen, maar jullie accountmanagers en binnendienst
+    nemen ook orders aan: hoeveel orders per dag komen er buiten de login binnen en
+    wie voert die in?'
+  - 'Rond Kerst, Pasen en carnaval lopen de pieken op: hoe houden jullie orderstatus
+    en levertijden dan bij tussen Haaften en Venlo?'
+  verification: aangepast — Eigen site gaf 403 (over-ons en werken-bij niet opnieuw
+    te controleren); bestfoodimporters bevestigt Bake Plus Haaften B.V., Hertog Karelweg
+    19 Haaften, 51-200 mw, en nutrada noemt sinds 1934, drie magazijnen in NL en een
+    in BE. Huidig eigendom (investeerder sinds 2015) niet geverifieerd; geen bewijs
+    van grote groep of landelijke keten gevonden. Grootte ('meer dan 100', 51-200)
+    zit aan de bovengrens van het segment (max 150), daarom prioriteit omlaag; telefoon
+    niet opnieuw geverifieerd.
