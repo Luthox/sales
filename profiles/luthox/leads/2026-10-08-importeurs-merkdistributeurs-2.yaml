@@ -1,0 +1,490 @@
+---
+business: luthox
+segment: importeurs-merkdistributeurs
+generated_at: '2026-10-08'
+description: 'Aanvullende batch (tweede ronde) voor het segment importeurs-merkdistributeurs:
+  importeurs en merkdistributeurs van consumentenproducten (10-100 mw) die via meerdere
+  kanalen verkopen, geen dubbelingen met eerdere batches (BabyKids.nl uitgesloten).
+  Discovery en verrijking door Sonnet, onafhankelijke verificatie door Opus; veld
+  verification geeft het oordeel van de checker. 9 leads (doel was 15; veel kandidaten
+  vielen af op eigen-merk, eenkanaals, groepsbinding of onbevestigde grootte; tekort
+  bewust niet aangevuld). LinkedIn = bedrijfspagina; decision_maker is de rol om naar
+  te vragen.'
+leads:
+- name: Warmako B.V.
+  url: https://warmako.nl/
+  phone: "+31 (0)10 311 8400 (ma-vr 9.00-16.30)"
+  city: Rotterdam (Van Nelle Fabriek, Van Nelleweg 1); magazijnen in Nederland en
+    Duitsland; kantoor New York sinds 2022
+  priority_score: 8/10
+  industry: Groothandel en distributeur van innovatieve huisdiermerken (hond en kat)
+    voor dierenspeciaalzaken, retailketens, tuincentra en online retailers; 5.000+
+    artikelen van ruim 40 derde merken (o.a. Kong, Benebone, Nylabone, PetSafe, Outward
+    Hound, Almo Nature, Beco, Kurgo)
+  size: meer dan 25 medewerkers in Nederland en Duitsland (eigen site); LinkedIn 11-50
+    medewerkers (18 profielen gekoppeld); opgericht 1990, geen groepsbinding gevonden
+  tech_stack: 'B2B-webshop (Shopify, inclusief/exclusief btw, in NL/EN/DE) naast bestelapp,
+    vertegenwoordigers, EDI- of API-koppelingen, telefoon en e-mail: de site noemt
+    zes bestelkanalen. Eigen salesteams in NL, DE en BE; export naar 20+ landen (LinkedIn).
+    ERP, voorraadsysteem en rapportage aan merken niet zichtbaar.'
+  relevant_vacancies: geen relevante vacatures gevonden (geen vacature- of werkenbij-pagina
+    op site; zoekacties leverden niets op)
+  why_fit: 'Exclusieve distributeur van tientallen (vaak Amerikaanse en Europese)
+    huisdiermerken die ze in meerdere landen via retailketens, speciaalzaken, tuincentra
+    en online retailers verkopen, vanuit magazijnen in NL en DE. Zes bestelkanalen
+    (reps, webshop, app, EDI/API, telefoon, mail), meerdere voorraadlocaties en merken
+    die via Warmako Europa willen bereiken (sell-out- en voorraadrapportage): precies
+    de multichannel-data-pijn. Kern van het segment qua type bedrijf; kleinere kant
+    van de range en geen vacaturesignaal.'
+  decision_maker: Directeur / eigenaar of operationeel / supply chain manager
+  linkedin: https://nl.linkedin.com/company/warmako-b-v-
+  sources:
+    decision_maker: 
+    size: https://warmako.nl/pages/about
+    phone: https://warmako.nl/pages/about
+    multi_location: https://warmako.nl/pages/about
+    relevant_vacancies: 
+    linkedin: https://nl.linkedin.com/company/warmako-b-v-
+    segment_fit: https://warmako.nl/collections/alle-merken
+  value_proposition: Eén dashboard voor voorraad (NL- en DE-magazijn), orders en verkoop
+    per kanaal, klant en merk; inkoopplanning voor de Amerikaanse en Europese merken;
+    automatische sell-out-rapportage per land en merk voor de partnerbedrijven.
+  outreach_strategy: 'Bel +31 10 311 8400, vraag naar de directeur of de operationeel/supply
+    chain manager. Haakje: onderzoeksgesprek over hoe ze voorraad en orders over zes
+    bestelkanalen, twee magazijnen en 40 merken bijhouden en aan de merken terugrapporteren.'
+  conversation_starters:
+  - 'Klanten bestellen bij jullie via vertegenwoordigers, webshop, app, EDI en telefoon:
+    hoe komen al die orders samen met de voorraad in Nederland en Duitsland, en waar
+    zit nog overtypen?'
+  - 'Merken als Kong en Benebone willen weten wat er per land en klant verkocht wordt:
+    hoe leveren jullie die cijfers nu aan en hoeveel tijd kost dat?'
+  verification: aangepast — Eigen about-pagina bevestigt groothandel/distributeur
+    van premium huisdiermerken, magazijnen NL en DE, kantoor New York sinds 2022,
+    'meer dan 25 medewerkers' en tel. 010 311 8400. LinkedIn-bedrijfspagina klopt,
+    maar toont klasse 11-50 met 18 gekoppelde profielen (niet 51-200).
+- name: Första B.V.
+  url: https://forsta.nl/
+  phone: "+31 (0)344 615 470"
+  city: Tiel (Edisonstraat 18, kantoor en magazijn); showrooms Trade Mart Utrecht
+    en Trademart Brussel
+  priority_score: 8/10
+  industry: 'Exclusief importeur en distributeur van kwaliteitsmerken voor koken en
+    keuken in de Benelux: OXO, Ooni, Nachtmann, Spiegelau, Graef, Hydro Flask, Zenker
+    en kleinere merken, plus een grote collectie ''kitchen basics'''
+  size: LinkedIn 11-50 (10 profielen zichtbaar); discovery 13; familiebedrijf sinds
+    1991 (tweede generatie), geen groepsbinding gevonden. Onderkant van de range
+  tech_stack: B2B-webshop met concepten (opgeslagen concept-orders) en klantaccounts;
+    bestellen ook via EDI, e-mail, telefoon en showrooms; dropshipmentportaal met
+    eigen logo op pakbon en track-and-trace; cross docking; beeldbank; 'volledig geautomatiseerde'
+    artikel- en logistieke data via IT-integraties (volgens site). ERP niet zichtbaar.
+    Marktplaatskanalen niet vermeld.
+  relevant_vacancies: geen relevante vacatures gevonden (geen vacature- of werkenbij-pagina
+    op de site; zoekactie leverde niets op)
+  why_fit: 'Exclusief vertegenwoordiger van zes A-merken plus kleinere merken en veel
+    basisartikelen, verkocht aan warenhuizen, tuincentra, kook- en huishoudwinkels,
+    BBQ-shops, elektrowinkels en pure online winkels (ketens en zelfstandigen) plus
+    horeca-groothandel en B2B in de hele Benelux. Zeven bestelwegen (webshop, EDI,
+    mail, telefoon, twee showrooms) en dropshipment naast voorraad uit eigen magazijn:
+    orders, voorraad en artikeldata per klant en merk komen op veel plekken binnen
+    en moeten aan merken als OXO en Ooni gerapporteerd worden. Pluspunt: precies het
+    segment; minpunt: klein team (13-50) en geen vacaturesignaal.'
+  decision_maker: Directeur (eigenaar, tweede generatie) of operationeel / commercieel
+    manager
+  linkedin: https://www.linkedin.com/company/f-rsta-nederland-bv/
+  sources:
+    decision_maker: 
+    size: https://www.linkedin.com/company/f-rsta-nederland-bv/
+    phone: https://www.forsta.nl/contact-showrooms
+    multi_location: https://www.forsta.nl/contact-showrooms
+    relevant_vacancies: 
+    linkedin: https://forsta.nl/
+    segment_fit: https://forsta.nl/over-forsta
+  value_proposition: Eén dashboard met voorraad, orders (webshop, EDI, dropship) en
+    verkoop per merk, klant en klanttype (keten, zelfstandig, online, horeca); inkoopplanning
+    voor de buitenlandse A-merken en automatische sell-out-rapportage voor de merken.
+  outreach_strategy: 'Bel +31 344 615 470, vraag naar de directeur of de operationeel/commercieel
+    manager. Haakje: onderzoeksgesprek over hoe ze orders van webshop, EDI, mail en
+    dropshipment samenbrengen met voorraad en verkoopcijfers per merk (OXO, Ooni,
+    Nachtmann).'
+  conversation_starters:
+  - 'Bestellingen komen via B2B-webshop, EDI, mail en telefoon binnen, plus dropshipment
+    voor webshops: hoe houdt u overzicht over voorraad en verkoop per merk en klant,
+    en wat wordt nog handmatig verwerkt?'
+  - 'Voor merken als OXO en Ooni plant u de inkoop en rapporteert u verkoop: welke
+    cijfers vragen die van u, en hoe lang duurt het om die samen te stellen?'
+  verification: bevestigd — Over-ons- en contactpagina bevestigen exclusief Benelux-distributeur
+    (OXO, Ooni, Nachtmann, Spiegelau, Graef, Hydro Flask), familiebedrijf sinds 1991
+    (tweede generatie), tel. +31 344 615 470 en showrooms Utrecht/Brussel. LinkedIn
+    noemt klanten van warenhuizen tot pure online winkels (ketens en zelfstandigen);
+    klasse 11-50 met 10 gekoppelde profielen, dus onderkant van de range (13 FTE niet
+    hard bevestigd).
+- name: Micromedia B.V.
+  url: https://www.micromedia.eu/benelux/en/
+  phone: "+31 (0)24 645 25 44"
+  city: Nijmegen (Beurtvaartweg 2, eigen distributiecentrum)
+  priority_score: 7/10
+  industry: Retail- en e-tail-distributeur van gaming, software, consumentenelektronica
+    en pc-accessoires in de Benelux; deels exclusief, deels niet-exclusief gedistribueerde
+    labels (o.a. EA, Nintendo, Sony, Microsoft, EcoFlow, JBL, Thrustmaster, Igloo)
+  size: LinkedIn 51-200 (84 profielen zichtbaar); discovery 74; eigen site geeft geen
+    aantal. Eigendom Micromedia Beheer B.V. (company.info), geen groot concern gevonden
+  tech_stack: Eigen 'market-focused' ERP met database- en connectiemanagement (site),
+    B2B-bestelportaal Micromedia Online (inclusief backorder-inzage; prijsbescherming
+    en retouren volgen), diensten 3PL, reverse logistics, custom order fulfilment
+    en same day delivery vanuit Nijmegen. Dochter Leap2C (LinkedIn) levert marktplaatsdiensten
+    (Amazon, Bol.com) voor merken. Dus technisch al vrij volwassen.
+  relevant_vacancies: geen relevante vacatures gevonden (jobspagina noemt alleen open
+    sollicitaties)
+  why_fit: 'Grote distributeur van gaming en consumentenelektronica voor retail en
+    e-tail met meerdere derde merken, deels exclusief, en eigen logistiek met 3PL-diensten.
+    Voorraad, back-orders en prijsbescherming per merk en klant moeten gerapporteerd
+    worden aan grote merkhouders (Nintendo, Sony, EA), met pieken rond releases. Interessante
+    nuance: bovenkant van de range, eigen ERP, portaal en een marktplaatsdochter (Leap2C),
+    dus meer data-volwassen dan de gemiddelde lead; zoek naar rapportagegaten (sell-out,
+    marge per kanaal) en niet naar de basis.'
+  decision_maker: Directeur of operationeel / supply chain manager (ook inkoop- of
+    category manager)
+  linkedin: https://nl.linkedin.com/company/micromedia-benelux
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/micromedia-benelux
+    phone: https://www.micromedia.eu/benelux/en/contact/
+    multi_location: https://www.micromedia.eu/benelux/en/contact/
+    relevant_vacancies: https://www.micromedia.eu/benelux/en/vacatures/
+    linkedin: https://nl.linkedin.com/company/micromedia-benelux
+    segment_fit: https://www.micromedia.eu/benelux/en/over-micromedia/
+  value_proposition: Dashboard dat voorraad, back-orders en verkoop per merk, klant
+    en kanaal (retail, e-tail, marktplaats) samenbrengt uit ERP en portaal; automatische
+    sell-out- en marge-rapportage voor de merkhouders; inkoopplanning rond releases.
+  outreach_strategy: 'Bel +31 24 645 25 44, vraag naar de directeur of de operationeel/supply
+    chain manager. Haakje: onderzoeksgesprek over hoe ze verkoop en voorraad per merk,
+    klant en kanaal (retail, e-tail, marktplaats) overzien en terugrapporteren aan
+    merken als Nintendo en Sony.'
+  conversation_starters:
+  - 'Bij releases als Nintendo Switch 2 of EA Sports FC moeten voorraad, back-orders
+    en toewijzing per klant kloppen: hoe zien jullie dat nu, en waar zit nog handwerk
+    in Excel?'
+  - Welke cijfers vragen merken en grote klanten over verkoop en voorraad per kanaal,
+    en hoeveel tijd kost het om die uit het ERP en het portaal samen te stellen?
+  verification: 'bevestigd — LinkedIn-bedrijfspagina (HQ Nijmegen) bevestigt 51-200
+    medewerkers met 84 gekoppelde profielen en Leap2C als dochter voor marktplaatsdiensten;
+    contactpagina bevestigt +31 24 645 25 44 en Beurtvaartweg 2. Over-ons-pagina:
+    opgericht 1995, retail- en e-taildistributeur; geen moederconcern gevonden.'
+- name: Weisz Group (S. Weisz-Uurwerken)
+  url: https://weiszgroup.com/
+  phone: "+31 (0)20 679 4633"
+  city: Uithoorn (hoofdkantoor, eigen voorraad en aftersalesafdeling)
+  priority_score: 7/10
+  industry: Distributeur/groothandel horloges, sieraden, horlogeaccessoires en luxe
+    cadeaus in de Benelux (familiebedrijf sinds 1965); derde merken o.a. Edox, Maurice
+    Lacroix, Movado, Orient, Raymond Weil, Swiss Military Hanowa, Nomination, Hirsch,
+    WMF, van Kempen & Begeer; eigen merken Danish Design, Garonne, Swing Jewels en
+    Jacob Jensen (fabrikant) met wereldwijde distributie
+  size: LinkedIn 11-50 (45 profielen zichtbaar); discovery 36; familiebedrijf, geen
+    groepsbinding gevonden
+  tech_stack: B2B-bestelportaal voor juweliers (aparte portals voor horloges, sieraden,
+    accessoires, link naar shop.app4sales.net, een verkoop-app-platform), downloadbare
+    marketing-cloud/beeldbank, uitleg-pdf voor B2B-sieraden; eigen voorraad in Uithoorn
+    (ca. 90% direct leverbaar) met backorder-systeem. ERP niet zichtbaar.
+  relevant_vacancies: 'geen relevante vacatures gevonden (enige vacature: horlogemaker)'
+  why_fit: 'Gemengde portefeuille van ruim 20 derde merken (Zwitserse horloges, sieraden,
+    accessoires, luxe cadeaus) plus eigen merken met wereldwijde distributie: verkoop
+    via juweliers en distributeurs in de Benelux en internationaal, backorders per
+    merk en bestelling via meerdere B2B-portals. Voorraad, backorders, inkoop bij
+    de merken en verkoopcijfers per merk en klant lopen waarschijnlijk via aparte
+    portals en Excel. Minpunt: kleinere klantenkring van juweliers (geen ketens of
+    marktplaatsen zichtbaar) en geen vacaturesignaal.'
+  decision_maker: Directeur (co-owner/CEO) of operationeel / inkoop manager
+  linkedin: https://nl.linkedin.com/company/weisz-group
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/weisz-group
+    phone: https://weiszgroup.com/contact
+    multi_location: https://weiszgroup.com/about
+    relevant_vacancies: https://weiszgroup.com/vacancies
+    linkedin: https://nl.linkedin.com/company/weisz-group
+    segment_fit: https://weiszgroup.com/benelux-watches
+  value_proposition: Eén overzicht van voorraad, backorders en verkoop per merk en
+    klant over de aparte B2B-portals heen; inkoopplanning en automatische merkrapportage
+    (sell-out per merk en juwelier).
+  outreach_strategy: 'Bel +31 20 679 4633, vraag naar de directeur of de manager operations/inkoop.
+    Haakje: onderzoeksgesprek over hoe ze voorraad, backorders en verkoopcijfers per
+    merk en juwelier bijhouden over horloges, sieraden en accessoires.'
+  conversation_starters:
+  - 'Jullie hebben aparte B2B-portals voor horloges, sieraden en accessoires: hoe
+    komen orders, voorraad en backorders van die portals samen, en wie voegt dat samen?'
+  - Voor merken als Movado of Maurice Lacroix en jullie eigen merken, hoe zien jullie
+    per merk en juwelier wat er verkocht wordt, en hoe plannen jullie de inkoop?
+  verification: 'bevestigd — About-pagina bevestigt familiebedrijf in Uithoorn met
+    twee poten: Benelux-groothandel in derde merken (o.a. Zwitserse horloges) en wereldwijde
+    distributie van eigen merken Danish Design/Garonne en Jacob Jensen, plus B2B-portals;
+    contactpagina bevestigt +31 (0)20 679 4633. LinkedIn 11-50 met 45 profielen; enige
+    vacature is horlogemaker.'
+- name: Technolyt B.V.
+  url: https://www.technolyt.com/
+  phone: "+31 (0)75 647 4547"
+  city: Wormerveer (Industrieweg 35); showroom Sports Business Center Leusden
+  priority_score: 7/10
+  industry: 'Distributeur/toeleverancier van sport-, outdoor- en optiekmerken voor
+    dealers in de Benelux: bijna 30 derde merken (o.a. Buff, Jetboil, Peak Design,
+    Sea to Summit, Gerber, Nathan, Hydrapak, Lifestraw, Clif, Nuun, Meopta, Pulsar,
+    Rudy Project) plus eigen merk Bynolyt (kijkers)'
+  size: LinkedIn 11-50 (20 profielen zichtbaar); discovery 22; geen groepsbinding
+    gevonden
+  tech_stack: Eigen B2B-webshop met klantlogin, winkelmandje en bestel-per-maat-overzicht,
+    (pre-)order-homepages per seizoen, pagina's 'Become a dealer' en 'Become a partner';
+    site in vier talen (NL, EN, DE, FR); showroom op Sports Business Center in Leusden
+    voor dealers. ERP en EDI niet zichtbaar. Marktplaatskanalen niet vermeld.
+  relevant_vacancies: geen relevante vacatures gevonden (vacaturepagina bevat alleen
+    een open-sollicitatiebanner)
+  why_fit: Brede merkportefeuille van bijna 30 derde merken uit onder meer de VS,
+    Spanje, Duitsland en Oostenrijk in sport, outdoor, fiets, hardlopen, jacht en
+    optiek, bediend via dealers in de Benelux met seizoensgebonden pre-orders. Inkoop
+    met lange levertijden bij buitenlandse merken, pre-order tegenover voorraad, en
+    sell-out-rapportage voor de merken zijn typische Excel-taken. Kleine kern en geen
+    vacaturesignaal, dus geen 8+.
+  decision_maker: Directeur / eigenaar of operationeel manager (inkoop en supply chain)
+  linkedin: https://nl.linkedin.com/company/technolyt-b-v
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/technolyt-b-v
+    phone: https://www.technolyt.com/
+    multi_location: https://sportsbusinesscenter.com/en/exposant/technolyt/
+    relevant_vacancies: https://www.technolyt.com/grid/vacancies
+    linkedin: https://nl.linkedin.com/company/technolyt-b-v
+    segment_fit: https://sportsbusinesscenter.com/en/exposant/technolyt/
+  value_proposition: Dashboard dat pre-orders, voorraad en verkoop per merk en dealer
+    samenbrengt; inkoopplanning per seizoen en merk met levertijden; automatische
+    sell-out-rapportage voor de merken (Buff, Jetboil, Peak Design e.a.).
+  outreach_strategy: 'Bel +31 75 647 4547, vraag naar de directeur of de operationeel/inkoop
+    manager. Haakje: onderzoeksgesprek over hoe ze pre-orders, voorraad en verkoop
+    per merk en dealer plannen over bijna dertig merken.'
+  conversation_starters:
+  - 'Met bijna dertig merken en seizoensgebonden pre-orders: hoe plannen jullie de
+    inkoop en houden jullie voorraad, pre-orders en verkoop per merk en dealer bij?'
+  - 'Merken als Jetboil, Buff of Peak Design willen zicht op wat er in de Benelux
+    verkocht wordt: hoe leveren jullie die cijfers aan, en hoeveel handwerk zit daarin?'
+  verification: bevestigd — Site bevestigt Industrieweg 35 Wormerveer en +31 75 647
+    4547; LinkedIn 11-50 met 20 profielen (sport, outdoor en optiek). Sports Business
+    Center-pagina toont actuele merklijst van 29 merken (o.a. Buff, Jetboil, Peak
+    Design, Sea to Summit, Gerber, Owala, Biolite, Skross, Meopta, Pulsar, plus eigen
+    merk Bynolyt).
+- name: Otto Simon B.V.
+  url: https://ottosimon.nl/
+  phone: "+31 546 837777"
+  city: Almelo
+  priority_score: 6/10
+  industry: Internationale importeur, exporteur en groothandel speelgoed en huishoudartikelen
+    (o.a. Lego, Pokemon, Asmodee, Bruder, Chicco, Crayola, Brabantia, Emsa, Duralex)
+    en franchisegever van de formules Top1Toys, Marskramer en Toys2Play
+  size: 50-99 medewerkers (Europages-indicatie uit discovery; LinkedIn 51-200 en 57
+    gekoppelde profielen); onafhankelijk, sinds 2003 eigenaar/directeur Ruud Schiphorst
+    (zoekresultaat RetailTrends 2021); geen groepsbinding gevonden, het 'Intercontor
+    AG'-verhaal op de eigen about-us-pagina betreft de periode 1989 en is niet als
+    huidige eigenaar bevestigd
+  tech_stack: B2B-webwinkel met klantlogin en klantaanmelding (zakelijke klanten),
+    site in NL/DE/EN, merkenpagina met ca. 100+ derde merken, folders voor Top1Toys,
+    Marskramer en Toys2Play (formules); ERP/EDI en marktplaatsen niet zichtbaar op
+    site.
+  relevant_vacancies: geen relevante vacatures gevonden (geen vacaturepagina op site;
+    zoekacties leverden niets op)
+  why_fit: 'Importeur/groothandel speelgoed en huishoud met ruim 100 derde merken
+    én eigenaar van franchiseformules (Top1Toys, Marskramer, Toys2Play): kanalen zijn
+    eigen formulewinkels, ketens, wederverkopers en export, met seizoenspieken en
+    inkoop in Azië. Let op: de eigen site noemt zich vooral ''retailorganisatie met
+    eigen formules'', dus de groothandel kan ondergeschikt zijn aan de formuleorganisatie;
+    eigendom niet geverifieerd en grootte aan de bovenkant.'
+  decision_maker: Directeur / operationeel manager of inkoopmanager
+  linkedin: https://nl.linkedin.com/company/otto-simon-bv
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/otto-simon-bv
+    phone: https://ottosimon.nl/
+    multi_location: 
+    relevant_vacancies: 
+    linkedin: https://nl.linkedin.com/company/otto-simon-bv
+    segment_fit: https://ottosimon.nl/nl-nl/about-us
+    extra_brands: https://ottosimon.nl/merken
+    extra_ownership: https://retailtrends.nl/news/pdf/65000
+  value_proposition: Eén dashboard voor voorraad, verkoop en marge per kanaal (formule-winkels,
+    ketens, wederverkopers) en seizoen, met inkoopplanning voor import met lange levertijden
+    en automatische rapportage per merk.
+  outreach_strategy: 'Bel +31 546 837777, vraag naar de directeur of de inkoop-/operationeel
+    manager. Haakje: onderzoeksgesprek over hoe ze voorraad en verkoop over ketens,
+    franchiseformules (Top1Toys, Marskramer, Toys2Play) en wederverkopers bijhouden
+    en hoe ze de seizoensinkoop plannen.'
+  conversation_starters:
+  - Jullie leveren aan ketens, franchisenemers en overige wederverkopers. Hoe houden
+    jullie voorraad en verkoopcijfers per kanaal en formule bij?
+  - Hoe plannen jullie de inkoop voor het Sinterklaas- en kerstseizoen met zoveel
+    merken en lange levertijden, en waar zit daarin nog Excel?
+  verification: aangepast — LinkedIn bevestigt Almelo, 51-200 medewerkers met 57 gekoppelde
+    profielen; site bevestigt +31 546 837777 en 'importeur, exporteur en groothandel'.
+    Over-ons zegt echter 'Sindsdien zijn we een retailorganisatie geworden met onze
+    eigen speelgoedformules' (Top1Toys, Marskramer sinds 2021); huidige eigenaar (Schiphorst)
+    niet bevestigd, geen concern gevonden.
+- name: Hooijer Footwear Group (Hooijer Group)
+  url: https://hooijerfootwear.com/
+  phone: "+31 (0)53 537 44 44"
+  city: Oldenzaal (Hanzepoort 26); showrooms in Nieuwegein, Brussel, Hannover, München,
+    Leipzig, Mainhausen, Ratingen en Sindelfingen
+  priority_score: 6/10
+  industry: 'Importeur, distributeur en merkhouder van schoenen- en fashionmerken
+    (derde merken: Crocs, HEYDUDE, Hunter, KEEN, GEOX, Sockwell, Toni Pons, Georgia
+    Boot; eigen merken: Piedi Nudi, Tofvel, Jan Jansen, Lazamani)'
+  size: meer dan 100 collega's (eigen homepage, actueler dan de werkenbij-tekst 'ruim
+    70'); familiebedrijf, geen groepsbinding gevonden; boven de segmentgrens van 100
+    mw
+  tech_stack: 'Eigen B2B-portal (b2b.hooijergroep.nl / b2b.hooijerfootwear.com) met
+    (na)bestellen en klantenservice, plus ''Let''s Connect'': klanten krijgen toegang
+    tot alle vrije voorraden en productdata. Verkoop via accountmanagers en acht showrooms/ordercentra
+    in NL, BE en DE; diensten Marketing & E-commerce en Supply Chain Management. ERP
+    en marktplaatskanalen niet zichtbaar.'
+  relevant_vacancies: 'geen relevante vacatures gevonden (open: Erfahrene Handelsvertreter
+    (D), Marketing Stage en open sollicitatie; eigen werkenbij-pagina noemt wel een
+    e-commerce manager in het team)'
+  why_fit: Importeur en distributeur van tien merken die winkeliers, omnichannel-retailers
+    en pure online spelers bedient in de Benelux, DACH, Italië, Spanje en Griekenland,
+    met per merk een eigen accountmanager en collectieseizoenen (zomer en winter).
+    Voorraad, productdata en nabestellingen moeten per merk, land en kanaal samenkomen,
+    en merken als Crocs en HEYDUDE verwachten verkoopcijfers. Sterk segmentfit, maar
+    zit op de bovengrens qua omvang en heeft al een eigen B2B-portal en Let's Connect
+    (dus deels al geautomatiseerd).
+  decision_maker: Directeur of supply chain / operationeel manager (ook e-commerce
+    manager)
+  linkedin: http://www.linkedin.com/company/10778201
+  sources:
+    decision_maker: 
+    size: https://hooijerfootwear.com/
+    phone: https://hooijerfootwear.com/
+    multi_location: https://b2b.hooijerfootwear.com/
+    relevant_vacancies: https://hooijerfootwear.com/werken-bij-hooijer/vacatures
+    linkedin: https://hooijerfootwear.com/
+    segment_fit: https://hooijerfootwear.com/waarom-hooijer-footwear-group
+  value_proposition: Eén dashboard met voorraad, nabestellingen en verkoop per merk,
+    land en klant (retailer of online platform); sell-out-rapportage voor Crocs, HEYDUDE
+    en andere merkhouders; inkoop- en seizoensplanning per collectie.
+  outreach_strategy: 'Bel +31 53 537 44 44, vraag naar de supply chain/operationeel
+    manager of de directeur. Haakje: onderzoeksgesprek over hoe ze voorraad, nabestellingen
+    en verkoopcijfers per merk, land en kanaal bijhouden voor tien merken in meerdere
+    landen.'
+  conversation_starters:
+  - 'Jullie verkopen merken als Crocs en HEYDUDE aan winkeliers en online platforms
+    in Benelux en DACH: hoe zien jullie per merk, land en klant wat er verkocht wordt,
+    en hoe rapporteren jullie dat terug?'
+  - 'Via Let''s Connect en het B2B-portal delen jullie voorraad en productdata: hoe
+    komt die data in jullie eigen systeem tot stand, en wat gebeurt daar nog handmatig
+    of in Excel?'
+  verification: aangepast — Homepage bevestigt Nederlands familiebedrijf in Oldenzaal
+    'met meer dan 100 enthousiaste collega's' en tel. +31 53 537 44 44; LinkedIn-link
+    (company/10778201) staat op de eigen site, maar de pagina is zonder login niet
+    te lezen. Geen moederconcern gevonden. Grootte ligt boven de segmentgrens van
+    100, maar niet duidelijk boven 200.
+- name: B. Futurist B.V.
+  url: https://bfuturist.com/
+  phone: "+31 645217224 (Sales & Purchasing); +31 645014901 (Supply Chain)"
+  city: Capelle aan den IJssel (uit discovery; vestigingsplaats niet op de site bevestigd,
+    site noemt alleen 'headquartered in the Netherlands')
+  priority_score: 5/10
+  industry: Wereldwijde distributeur/groothandel in merkproducten beauty (parfum,
+    cosmetica, skincare, haircare, K-beauty; 850+ merken) voor retailers, groothandels
+    en e-commerce-verkopers
+  size: ca. 75 medewerkers (zoekresultaat, bron niet direct te openen; LinkedIn 51-200
+    en 68 profielen; discovery liza.nl 46); omzet 2025 volgens eigen site 65 mln,
+    2024 48 mln; 32+ nationaliteiten; opgericht 2020
+  tech_stack: Eigen afdeling 'Business Operations' voor data, automatisering en intelligence-systemen
+    (zij bouwen dus al zelf); vacature noemt spreadsheets + ERP; wholesale-aanvragen
+    via contactformulier, geen klantenportaal zichtbaar; marktplaatsen niet vermeld,
+    wel 'ECA-partners' en e-commerce sellers als klantgroep.
+  relevant_vacancies: niet geverifieerd (vacature Supply Chain Specialist van juli
+    2026 is offline, link geeft 404; eigen careerspagina toont geen leesbare lijst)
+  why_fit: 'Importeur/handelaar in derde merken (850+ merken, 80 markten wereldwijd,
+    retailers in Benelux, Scandinavie, Oost-Europa, UK/NI), met afdelingen voor Wholesale,
+    Supply Chain, Business Operations en Sales Enablement. Veel afnemers en landen,
+    deal- en partijhandel met wisselende voorraad: voorraad, marge per deal/kanaal
+    en rapportage zitten waarschijnlijk verspreid. Snelle groei (8 mln in 2020 naar
+    65 mln in 2025) maakt handmatige processen kwetsbaar. Minder sterk: handelsmodel
+    (parallelhandel/surplus), geen exclusieve merkdistributie, en eigen Business Operations-team
+    kan zelf bouwen.'
+  decision_maker: Directeur / supply chain manager of manager Business Operations
+  linkedin: https://nl.linkedin.com/company/b-futurist-b-v
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/b-futurist-b-v
+    phone: https://bfuturist.com/contact/
+    multi_location: https://bfuturist.com/about/
+    relevant_vacancies: 
+    linkedin: https://nl.linkedin.com/company/b-futurist-b-v
+    segment_fit: https://bfuturist.com/wholesale-client/
+  value_proposition: Eén dashboard voor voorraad, inkoop- en verkoopmarge per deal,
+    klant, kanaal en land, met automatische rapportage en planning van inkomende en
+    uitgaande zendingen; vervangt Excel-koppelingen tussen sales, purchasing en supply
+    chain.
+  outreach_strategy: 'Bel +31 645217224 (Sales & Purchasing; mobiel nummer, alternatief
+    supply chain +31 645014901), vraag naar de directeur of supply chain manager.
+    Haakje: onderzoeksgesprek over hoe ze bij 850+ merken en 80 markten voorraad,
+    marge en zendingen per klant en kanaal bijhouden.'
+  conversation_starters:
+  - Jullie bedienen retailers, groothandels en e-commerce-verkopers in tientallen
+    markten. Hoe houden jullie bij wat per merk en kanaal op voorraad is en wat de
+    marge per deal is?
+  - Jullie omzet is in vijf jaar van 8 naar 65 miljoen gegroeid. Welke overzichten
+    of rapportages doen jullie nu nog handmatig?
+  verification: aangepast — LinkedIn bevestigt HQ Capelle aan den IJssel, opgericht
+    2020, 51-200 met 68 gekoppelde profielen, 800+ merken en 75+ landen; contactpagina
+    bevestigt de mobiele nummers voor Sales & Purchasing en Supply Chain. De vacaturelink
+    (visasponsor.jobs) geeft nu 404, dus de vacature Supply Chain Specialist is niet
+    meer te bevestigen.
+- name: Kangaro K.T.C. B.V. (Kangaro KTC / KTC Groep)
+  url: https://www.ktcgroep.shop/
+  phone: "+31 (575) 760060"
+  city: Zutphen (nevenvestiging Kampenhout, BE)
+  priority_score: 5/10
+  industry: Merkenhuis/exclusief Benelux-distributeur papier-, bureau-, school-, schrijf-
+    en hobbywaren (o.a. Faber-Castell, Schneider, Sigel, Sheaffer, Atmosphere, Westcott,
+    Han, Les Artistes Paris) plus eigen merken Kangaro, Raadhuis, O-water, Multo
+  size: LinkedIn 11-50 medewerkers met 56 gekoppelde profielen (dus waarschijnlijk
+    50-70); liza ca. 41; sinds 1980, geen groepsbinding gevonden
+  tech_stack: B2B-webshop alleen voor KvK-ingeschreven wederverkopers (inloggen, order
+    status, wishlist, 5 talen incl. Vlaams); digitale en geprinte catalogus, content
+    voor dealerwebshops, white-label webshop in eigen huisstijl voor dealers, ruim
+    8000 artikelen op voorraad in eigen logistiek centrum; ERP niet zichtbaar. Geen
+    EDI of marktplaatsen vermeld op de eigen site (wel verkopen online dealers/Bol/DiscountOffice
+    Kangaro-artikelen, niet als eigen kanaal bevestigd).
+  relevant_vacancies: Medewerker Verkoop Binnendienst (relevant); overige vacatures
+    magazijn/reachtruck niet relevant
+  why_fit: 'Exclusieve Benelux-distributeur van tientallen derde merken (merkenpagina
+    somt ca. 55 merken op) naast vier eigen merken, met kanalen: sterdealers/dealers/verkooppunten
+    per merk (Faber-Castell en Schneider hebben eigen dealerindelingen), online dealers
+    en dealerwebshops, NL + BE-vestiging. Dealerondersteuning (content, catalogus,
+    white-label webshop) betekent veel productdata- en voorraadstromen. Minder consumentgericht
+    dan de kern van het segment (kantoor/school), dus gemiddeld.'
+  decision_maker: Directeur of operationeel manager / manager verkoop binnendienst
+  linkedin: https://nl.linkedin.com/company/kangaro-ktc
+  sources:
+    decision_maker: 
+    size: https://nl.linkedin.com/company/kangaro-ktc
+    phone: https://www.ktcgroep.shop/nl/about
+    multi_location: https://www.ktcgroep.shop/nl/about
+    relevant_vacancies: https://www.ktcgroep.shop/nl/vacatures
+    linkedin: https://nl.linkedin.com/company/kangaro-ktc
+    segment_fit: https://www.ktcgroep.shop/nl/brands
+    extra_dealers: https://www.ktcgroep.shop/nl/points-of-sale
+    extra_activities: https://www.ktcgroep.shop/nl/activities
+  value_proposition: Eén dashboard met voorraad, verkoop en marge per merk, dealer(groep)
+    en land (NL/BE), plus automatische sell-out/dealerrapportage aan de merken (Faber-Castell,
+    Schneider) en gestructureerde productdata voor dealerwebshops.
+  outreach_strategy: 'Bel +31 (575) 760060, vraag naar de directeur of de operationeel
+    manager. Haakje: onderzoeksgesprek over hoe ze voorraad, verkoop en dealerdata
+    voor ca. 55 merken en NL + BE bijhouden, en hoe ze cijfers aan de merken terugleveren.'
+  conversation_starters:
+  - Jullie vertegenwoordigen ruim vijftig merken exclusief in de Benelux. Hoe houden
+    jullie per merk bij wat er per dealer en per land verkocht wordt, en hoe rapporteren
+    jullie dat terug?
+  - Jullie leveren content en dealerwebshops aan wederverkopers. Waar komt die productdata
+    vandaan en hoeveel handwerk zit er in het actueel houden?
+  verification: aangepast — Eigen site bevestigt opgericht 1980, vier eigen merken
+    plus breed assortiment topmerken, 8000 artikelen in Zutphen, nevenvestiging Kampenhout
+    en +31 (575) 760060; vacature Medewerker Verkoop Binnendienst staat nog online.
+    LinkedIn noemt zich 'fabrikant en merkenhuis' en toont klasse 11-50 met 56 gekoppelde
+    profielen.
