@@ -1,0 +1,78 @@
+---
+business: luthox
+segment: lokaal-amsterdam-kennismaking
+generated_at: '2026-10-12'
+description: >-
+  Handmatig samengestelde lijst van 10 lokale bedrijven (Amsterdam en omgeving, ca. 10 km rond Amstelveen)
+  voor de kennismakingsinsteek (zie scripts/lokale-bedrijven-kennismaking-call-script.md). Alle namen zijn
+  gecontroleerd tegen de publieke ledenlijst van Ondernemersvereniging Amstelveen (oa-amstelveen.nl/leden-2/,
+  3 pagina's, 222+ leden op 2026-10-12): geen van de 10 staat erop. Let op: de ledenlijst op de site is
+  mogelijk niet volledig. GROOTTE IS NIET GEVERIFIEERD: geen van de sites noemt het aantal medewerkers, en
+  telefoonnummers zijn niet opgehaald. Check eerst KvK/LinkedIn voordat je belt, of vraag het in het gesprek.
+  Niet opgenomen omdat ze bij de OA zitten: o.a. Euro Pizza Products, Erbeva Groep, J&W Installatietechniek,
+  Koudijs, SICA, Topmovers, Van der Laan Touringcar, featurn.
+leads:
+- name: Heemskerk Installatiebedrijf B.V.
+  url: https://www.heemskerk-diemen.nl
+  city: Diemen (Verrijn Stuartweg 11G)
+  industry: Installatiebedrijf (cv, sanitair, gas, grafische industrie), particulier en zakelijk
+  size: onbekend; opgericht 1963, familiebedrijf (twee zoons), erkend leerbedrijf
+  fit_note: Tweede generatie, diensten door elkaar (cv, water, gas, grafisch); planning en service-orders zijn typisch handwerk. Geen software genoemd.
+- name: Hazewinkel Installatietechniek
+  url: https://www.hazewinkel.nu
+  city: Amsterdam (adres niet op site)
+  phone: 020-6241756
+  industry: Installatie/dakwerken (cv, sanitair, zink, warmtepompen, lichtstraten)
+  size: onbekend; "team van vaste installateurs en servicemonteurs"; familiebedrijf sinds 1887
+  fit_note: Veel verschillende diensten onder een dak (installatie plus dakwerk plus zink). Mail kantoor@hazewinkel.nu.
+- name: Meulemans Installatiebedrijf
+  url: http://www.adrimeulemans.nl
+  city: Diemen, Amsterdam Zuidoost, Schagen
+  industry: Installatiebedrijf, regio Amsterdam
+  size: onbekend; familiebedrijf met 3 vestigingen
+  fit_note: Drie locaties maakt planning en overzicht lastiger. Alle monteurs gecertificeerd.
+- name: UFA Bouw B.V.
+  url: https://www.ufabouw.nl
+  city: Amsterdam (Westhavenweg 47)
+  industry: Aannemer renovatie, verbouwing, nieuwbouw
+  size: onbekend; 40+ jaar actief, KvK 33012340
+  fit_note: Offertes, nacalculatie en projectadministratie zijn de gebruikelijke handwerk-plekken bij aannemers.
+- name: Witte Bouw
+  url: https://wittebouw.nl
+  city: Amsterdam
+  industry: Restauratie, renovatie, onderhoud (kleinere panden tot monumenten)
+  size: onbekend; actief sinds 1932
+  fit_note: Restauratie- en onderhoudswerk geeft veel kleine werkbonnen en offerteaanvragen.
+- name: Timtex (Timtex Amsterdam Internationale Transporten & Logistiek)
+  url: https://www.timtex.nl
+  city: Amsterdam Sloterdijk (Deccaweg 23)
+  industry: Transport, zee- en luchtvracht, douane, opslag (30.000 m2)
+  size: onbekend, waarschijnlijk groter dan de rest (30.000 m2 opslag); familiebedrijf sinds 1923, derde generatie
+  fit_note: Meerdere diensten in een bedrijf (transport, douane, verhuur) kunnen losse systemen betekenen. Check grootte voor je belt; mogelijk te groot.
+- name: Novitalia
+  url: https://www.novitalia.nl
+  city: Amsterdam (Nieuwe Hemweg 1)
+  industry: Groothandel Italiaanse producten (horeca, retail, delicatessen, catering)
+  size: onbekend
+  tech_stack: Webshop met klantaccount; bestellingen voor de Caffetteria per e-mail voor 11:00; bezorg- en afhaalservice
+  fit_note: Webshop plus orders per mail naast elkaar wijst op handmatige verwerking.
+- name: InstockMarket
+  url: https://instockmarket.nl
+  city: Diemen (goederen ontvangen)
+  industry: Duurzame horecagroothandel (overschotten)
+  size: onbekend; heeft Werken-bij-pagina
+  tech_stack: Webshop met account; bestellen voor 16:00, levering volgende leverdag volgens leverschema
+  fit_note: Wisselende voorraad (overschotten) maakt voorraad en aanbod bijhouden bewerkelijk.
+- name: SW de Vries Logistics
+  url: https://www.swdevrieslogistics.nl
+  city: De Kwakel / Amsterdam Westpoort (Poelweg 42)
+  industry: Transport, speciaal transport, horecatransport
+  size: onbekend
+  tech_stack: Offerteaanvraag via formulier, klantportaal om zendingen te volgen
+  fit_note: Offerte via formulier plus klantportaal; check hoe aanvragen intern worden verwerkt.
+- name: Haymana
+  url: https://haymana.nl
+  city: Amsterdam (adres niet op site opgehaald)
+  industry: Horecagroothandel verse groente en fruit, begonnen als familiebedrijf
+  size: onbekend
+  fit_note: Verse producten met dagelijkse bestellingen van horeca, veel kleine orders.
