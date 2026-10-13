@@ -1,0 +1,62 @@
+business: luthox
+segment: vacature-signaal
+generated_at: 2026-10-13
+description: >-
+  Eerste Apollo-zoekronde in het scherm (vacaturefilter, NL, 11-50 medewerkers). Van 14 gecontroleerde
+  namen bleef 1 lead over. Controle door onderzoeker via eigen sites, Magnet.me en Liza; geen KvK of
+  LinkedIn geopend. Omvang bij iQOUNT afgeleid uit teampagina (18 specialisten).
+leads:
+  - name: iQOUNT adviseurs & accountants
+    kwaliteit: B+ (signaal sterk, omvang klein, vast contract)
+    plaats: Harderwijk
+    sector: accountancy, fiscaal, online boekhouding (Exact Online), salarisadministratie
+    omvang: "18 specialisten volgens teampagina (geen totaal genoemd)"
+    url: https://www.iqount.nl
+    vacature: AI Automation Specialist, fulltime 40 uur, HBO
+    vacature_url: https://www.iqount.nl/werken-bij/ai-automation-specialist/
+    geplaatst: niet zichtbaar; vacature staat open (gelezen 2026-10-13)
+    citaat: "Je analyseert bestaande processen en signaleert automatiseringskansen."
+    taken: administratie, rapportages, communicatie en documentverwerking verbeteren; collega's helpen met AI; meedenken over nieuwe AI-diensten voor klanten
+    systemen: Copilot, ChatGPT; no-code/low-code als pluspunt
+    beslisser: "mede-eigenaren Robin Beelen-Hees (fiscalist), Nick Beelen (accountancy), Kevin Nieuwenhuis (innovatiemanager), Wessel Hees (oprichter); bron: teampagina iqount.nl; Kevin Nieuwenhuis eerste kandidaat"
+    proces_om_te_automatiseren: "AANNAME: documentverwerking bij binnenkomende klantstukken (zie administratiekantoren-basiskennis)"
+    risico: vast contract (geen tijdelijk signaal); vacature noemt ook AI-diensten voor klanten, dus mogelijk willen ze het zelf leren en verkopen
+    kennis: profiles/luthox/knowledge/luthox-administratiekantoren-basiskennis.md
+
+afgekeurd:
+  - name: Parking Network B.V.
+    reden: "alleen sales-vacature, geen automatiseringsrol; omvang en beslisser niet gevonden (C)"
+  - name: Blue Harvest
+    reden: "handel in visbijproducten (Urk), geen vacature of omvang gevonden, identiteit niet bevestigd (C)"
+  - name: Terramira
+    reden: AI-productbedrijf, R&D-vacatures, waarschijnlijk te groot
+  - name: Vaneigens
+    reden: Salesforce/AI-consultancy, ongeveer 45 medewerkers
+  - name: MACEE
+    reden: inhuur/secondment
+  - name: Createment
+    reden: IT-traineeship/detachering
+  - name: Epona
+    reden: softwarebedrijf, geen vacatures op site; omvang niet onderzocht
+  - name: FutureXL
+    reden: recruiter/interim
+  - name: Dutchfund
+    reden: recruiter, 5 medewerkers
+  - name: Nance
+    reden: AI-finance softwarestartup
+  - name: Sumedia
+    reden: digitaal marketingbureau
+  - name: Circle B
+    reden: identiteit onzeker; beste match is ICT-hosting/consultancy (7 FTE)
+  - name: 15Wins
+    reden: geen NL-bedrijf gevonden
+  - name: "SlashHash.ai, DutchStartup.AI, DataNorth AI, The Automation Group, Base Cyber Security, Wypoon, TechoneNL, IT RBLS, Profit4Cloud"
+    reden: AI/IT-bedrijven (op naam afgekeurd, niet geverifieerd)
+  - name: "OWOW, i-spark, Sprint and Partners, Vacatures Groningen, Werken Bij Hogeschool"
+    reden: bureaus/werving (op naam afgekeurd, niet geverifieerd)
+  - name: "GOLDBECK Nederland, ScreenPoint Medical"
+    reden: te groot of niet passend (op naam afgekeurd, niet geverifieerd)
+
+lessen:
+  - Apollo-vacaturefilter geeft vooral AI/IT-bedrijven en bureaus terug; 1 van 14 gecontroleerd bleef over.
+  - Gebruik branchefilter (uitsluiten software/IT/consultancy/marketing/werving) en de AI-kolom van Apollo.
