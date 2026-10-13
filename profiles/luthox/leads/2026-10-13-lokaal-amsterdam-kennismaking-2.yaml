@@ -1,0 +1,103 @@
+---
+business: luthox
+segment: lokaal-amsterdam-kennismaking
+generated_at: '2026-10-13'
+description: >-
+  Tweede batch van 10 lokale bedrijven (Amsterdam en Amstelveen) voor de kennismakingsinsteek
+  (scripts/lokale-bedrijven-kennismaking-call-script.md). Niet in de ledenlijst van Ondernemersvereniging
+  Amstelveen (oa-amstelveen.nl/leden-2/, gecheckt op 2026-10-12) en niet in batch 1
+  (2026-10-12-lokaal-amsterdam-kennismaking.yaml). Telefoon, adres, grootte en namen komen van de eigen
+  website van het bedrijf; velden die de site niet noemt staan als onbekend. Vooraf verwijderd: Frank
+  Wouterse Bouwbedrijf (zit in Bunnik/Utrecht, niet Amsterdam). De ledenlijst van de OA op de site kan
+  onvolledig zijn.
+leads:
+- name: Amstelvliet Bouw BV
+  url: https://amstelvlietbouw.nl
+  phone: 020 219 15 64
+  city: Amsterdam (Gedempt Hamerkanaal 75b); ook kantoor Den Haag
+  industry: Aannemer, verbouw en nieuwbouw, circulair bouwen, erkend leerbedrijf
+  size: 25 medewerkers (eigen over-ons-pagina)
+  decision_maker: Rob van Wijk (directeur)
+  branche_onderwerp: offertes en nacalculatie
+  fit_note: Middelgroot, projecten van klein tot villa-nieuwbouw, samenwerking met architecten en onderaannemers, dus veel afstemming en offertes.
+- name: Herm. Jansen Elektro-Techniek B.V.
+  url: https://www.hermjansen.nl
+  phone: 020 617 52 25
+  city: Amsterdam (Portsmuiden 108e)
+  industry: Elektrotechnisch installatiebedrijf (elektro, data, beveiliging, domotica, laadpunten, zonnepanelen, NEN 3140)
+  size: onbekend
+  decision_maker: onbekend, vraag naar eigenaar/directeur
+  branche_onderwerp: planning van monteurs en werkbonnen
+  fit_note: Veel verschillende diensten en inspecties (NEN 3140) betekent veel planning en rapportage.
+- name: Amsterdamse Loodgieters Centrale (ALC)
+  url: https://www.loodgieterscentrale.nl
+  phone: 020 614 14 17
+  city: Amsterdam (Dukdalfweg 16)
+  industry: Loodgieter, dakwerk, zink en lood, ventilatie, elektra, Evo-home
+  size: onbekend; vaste medewerkers, familiebedrijf
+  decision_maker: Magda Helsloot (directeur); Tamara Haverkamp neemt het bedrijf over
+  branche_onderwerp: planning van monteurs en werkbonnen
+  fit_note: Opvolging loopt (Tamara neemt over), dus een goed moment om te vragen hoe het werk nu is georganiseerd.
+- name: Mokum Schoonmaak en Bedrijfsdiensten
+  url: https://mokumschoonmaak.nl
+  phone: 020 26 15 230
+  city: Amsterdam (adres staat op de Locaties-pagina)
+  industry: Schoonmaak, glasbewassing, oplevering, tapijt, graffiti, gevelreiniging
+  size: onbekend; familiebedrijf; 1 openstaande vacature op de site
+  decision_maker: Alex Langereis (oprichter en directeur)
+  branche_onderwerp: planning van schoonmaakrondes en personeel op locatie
+  fit_note: Meerdere diensten en locaties met wisselend personeel; planning en urenverwerking zijn gebruikelijk handwerk.
+- name: Lutter B.V.
+  url: https://lutterbv.nl
+  phone: 020 363 81 77
+  city: Amsterdam (Schepenbergweg 36)
+  industry: Glasbewassing, schoonmaak, hogedrukreiniging, klein technisch onderhoud, hoogwerker, graffiti
+  size: meer dan 15 man (eigen site)
+  decision_maker: Danial Sarief en Mitchell Lutter (beiden directeur)
+  branche_onderwerp: planning van rondes en opdrachten
+  fit_note: Gegroeid van zelfstandige tot team van 15+, mailadres info@lutterbv.nl, werkenbij-pagina.
+- name: Schoonmaken.nl BV
+  url: https://schoonmaken.nl
+  phone: 020 640 69 08
+  city: Amstelveen (Weverij 12)
+  industry: Schoonmaak kantoren, datacenters, VvE's, horeca; ISO 9001
+  size: meer dan 100 medewerkers, allen in vaste dienst; 740+ panden per maand; familiebedrijf sinds 1955
+  decision_maker: onbekend, vraag naar eigenaar/directeur
+  branche_onderwerp: planning van schoonmaakrondes en personeel op locatie
+  fit_note: Groter, aan de bovenkant van de range. Veel panden per maand betekent veel planning en urenregistratie. Zit niet bij de OA ondanks Amstelveen.
+- name: SDR Elektrotechniek B.V.
+  url: https://www.sdr.nl
+  phone: 020 511 08 80
+  city: Amsterdam (Propellerstraat 1)
+  industry: Ontwerp, installatie en onderhoud elektrotechniek (hotels, kantoren, media, musea, zorg)
+  size: 180 medewerkers (eigen site; metadata zegt 150); bovenkant van de range
+  decision_maker: onbekend, vraag naar directie
+  branche_onderwerp: storingmeldingen en planning van service
+  fit_note: Heeft een storingsmeldlink en servicewerk. Mogelijk te groot of al eigen IT; check in het gesprek.
+- name: Techprof
+  url: https://www.techprof.nl
+  phone: onbekend (bel via de vestiging Amsterdam; site noemt geen nummer)
+  city: Amsterdam (hoofdkantoor Poortland 282); vestigingen Haarlemmermeer, Utrecht, Alkmaar, Almere
+  industry: Technische groothandel (bouw, industrie, techniek; 40.000 producten, eigen bezorgdienst, webshop)
+  size: onbekend; 5 vestigingen
+  decision_maker: onbekend
+  branche_onderwerp: orders die per mail of telefoon binnenkomen
+  fit_note: Webshop plus bestellen via vestigingen en bezorgservice; 5 locaties. Check grootte, kan boven de range zitten.
+- name: P.M. de Wit & Zn B.V. (Verhuisbedrijf Amsterdam)
+  url: https://www.verhuisbedrijfamsterdam.nl
+  phone: 020 686 74 40
+  city: Amsterdam (Archangelkade 43)
+  industry: Particuliere en zakelijke verhuizingen, opslag, pianoverhuizing, verhuislift
+  size: onbekend; sinds 1923
+  decision_maker: onbekend
+  branche_onderwerp: planning van verhuizingen en aanvragen
+  fit_note: Meerdere diensten (verhuizen, opslag, lift, boxen) met planning en offerteaanvragen.
+- name: Elektro Installatieburo J. Thijssen
+  url: https://www.elektro-thijssen.com
+  phone: 06 51 10 61 25
+  city: Amsterdam (Nieuwpoortkade 20)
+  industry: Elektra voor particulieren en bedrijven, storingen, LED- en winkelverlichting
+  size: onbekend, waarschijnlijk klein (familiebedrijf, voortgezet door de zoon in 2001)
+  decision_maker: zoon van J. Thijssen (naam niet op site)
+  branche_onderwerp: planning en werkbonnen
+  fit_note: Klein familiebedrijf; mobiel nummer. Check of er genoeg volume is voor maatwerk.

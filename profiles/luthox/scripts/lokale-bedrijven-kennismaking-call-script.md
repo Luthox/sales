@@ -1,108 +1,179 @@
 # Call-guideline: Lokale bedrijven, kennismaking als startende partner (Luthox)
 
-Leidraad, geen voorleestekst. Zeg het in eigen woorden. Dit is geen pijn-onderzoek per branche zoals de andere scripts, maar een bredere insteek: wij zijn startend, zoeken lokale bedrijven om mee samen te werken en software te bouwen die écht werkt. Doel van het gesprek: een kennismakingsgesprek van 20 minuten plannen. Niet verkopen, niet prijzen noemen.
+Leidraad, geen voorleestekst. Zeg het in eigen woorden. Dit script werkt in twee stappen, omdat je bijna altijd eerst de receptionist aan de lijn krijgt.
 
-## 1. Opener, beurt 1 (wacht op reactie)
+- **Stap 1, receptionist:** niet verkopen en geen afspraak vragen. Doel: de naam van de juiste persoon en een moment waarop diegene bereikbaar is.
+- **Stap 2, de juiste persoon:** ook geen pitch. Doel: één echte vraag stellen en luisteren. Een kennismakingsgesprek komt alleen ter sprake als er iets speelt.
 
-> "Hey, goedemiddag. Ik ben Yonathan, van Luthox. Wij zijn een startend bedrijf hier uit de regio dat software bouwt voor automatisering en betere processen. Ik bel je zomaar even, mag ik je 30 seconden vertellen waar het om gaat?"
+Context: Luthox is een startend lokaal softwarebedrijf (software op maat, koppelingen, dashboards, automatisering). We zoeken lokale bedrijven om mee te leren en samen tools te bouwen die in de praktijk werken. Dat is het enige wat je over onszelf hoeft te zeggen.
 
-- Naam en bedrijf langzaam uitspreken, daarna pauze. Niet doorpraten voordat ze reageren.
-- Receptie: "Ik zoek de eigenaar of directeur, het gaat om een kennismaking met een lokaal softwarebedrijf, geen verkoopgesprek."
-- Is diegene weg: vraag om een beter moment en een direct nummer. Laat geen boodschap achter.
+## Stap 1: de receptionist
 
-## 2. Opener, beurt 2 (na ja)
+Voorbereiding (1 minuut per bedrijf): zoek op de site, LinkedIn of KvK de naam van de eigenaar of directeur, en kies één concreet werkonderwerp dat bij de branche past (zie 1d). Weet je de naam niet, dan is "de eigenaar of directeur" de vraag die ze elke dag horen en het makkelijkst doorsturen.
 
-> "Wij bouwen software op maat: tools die handwerk overnemen, systemen die los van elkaar staan aan elkaar koppelen, en dashboards zodat je ziet wat er speelt. Eerlijk gezegd zijn we net begonnen, en we willen niet vanuit een kantoor iets bedenken. We zoeken een paar lokale bedrijven waarmee we samen tools bouwen die daadwerkelijk werken in de praktijk. Daarom bel ik: staan jullie open voor een kennismakingsgesprek van 20 minuten?"
+### 1a. Opener (maximaal 10 seconden)
 
-Eerlijk zijn over "startend" is hier juist de kracht: het haalt de verkoopdruk weg en maakt het een verzoek om mee te denken. Overdrijf niet met referenties of aantallen klanten die er niet zijn.
+Met naam:
+> "Hoi, goedemiddag. Yonathan van Luthox. Kan ik [naam] even spreken?"
 
-## 3. Onze USP in één alinea (voor als ze vragen "wat doen jullie dan precies?")
+Zonder naam:
+> "Hoi, goedemiddag. Yonathan van Luthox. Kan ik de eigenaar of directeur even spreken?"
 
-> "Eén team dat zowel meedenkt als bouwt. Geen dik adviesrapport en geen losse partijen die naar elkaar wijzen: we kijken hoe jullie werk nu loopt, bouwen er software voor en onderhouden het ook. Dus maatwerk-software, dashboards, koppelingen tussen systemen en AI-automatisering, voor wat bij jullie het meeste tijd kost."
+- Rustig en vriendelijk, niet te snel. Naam en bedrijf langzaam uitspreken.
+- Vraag naar een persoon, niet naar een onderwerp of afdeling. Een naam geven is voor haar geen "info delen".
+- Zeg niet "administratie", "systemen", "software", "automatisering", "kennismakingsgesprek" of "afspraak". Dat triggert het filter, en bij "administratie" en "systemen" hoor je "we hebben al iets".
+- Vraag niets over hun bedrijf. Geen "hoe regelen jullie...", dat komt pas bij stap 2.
 
-Houd het bij deze vier: software op maat, koppelingen/integraties, dashboards, automatisering (ook met AI). Voorbeelden om uit te kiezen: offertes en facturen automatisch klaarzetten, gegevens niet meer overtikken tussen systemen, planning en urenregistratie in één plek, aanvragen automatisch uitvragen en doorzetten.
+### 1b. Wat je wilt weten (in deze volgorde)
 
-## 4. Doorvragen (kies er 2-3, alleen als ze openstaan)
+1. Is diegene er en kan ik doorverbonden worden?
+2. Zo niet: wanneer is diegene bereikbaar?
+3. Zo niet de eigenaar: wie is dan de juiste persoon, en wat is diegene zijn of haar functie?
 
-- "Wat doen jullie precies, en met hoeveel mensen?"
-- "Welk werk doen jullie nog met de hand, in Excel of via mail en WhatsApp?"
-- "Staan er systemen die niet met elkaar praten, waardoor je dingen dubbel invoert?"
-- "Als je één ding in de week kon laten verdwijnen aan administratie, wat zou dat zijn?"
-- "Heb je weleens software of een pakket geprobeerd dat uiteindelijk niet paste?"
-- "Werken jullie nu al met iemand voor software of IT, of doe je dat zelf?"
+> "Is [naam] er nu?" → ja: "Mag ik even doorverbonden worden?"
+> → nee: "Wanneer is [naam] meestal bereikbaar? Dan bel ik dan."
 
-Luister op: "handmatig", "overtikken", "Excel", "dat doet [naam] erbij", "we hebben iets geprobeerd maar...". Vraag naar aantallen (uren, orders, medewerkers).
+Vraag vriendelijk door als ze het niet weet: "Wie weet dat dan wel, bij jullie op kantoor?"
 
-## 5. Afsluiting
+### 1c. Als ze doorvraagt: "Waar gaat het over?"
 
-> "Ik wil geen pitch geven aan de telefoon. Zullen we 20 minuten inplannen, bij jullie langs of online, dan hoor ik hoe jullie werk loopt en kijk ik of we iets kunnen betekenen? Zo niet, dan heb je in elk geval een lokale partij leren kennen."
+Geef een kleine, ware reden met het onderwerp uit 1d, geen product:
 
-Vraag een concreet moment: "Past dinsdag of donderdag beter?" Noteer e-mail en beste tijd.
+> "Ik ben net begonnen met een lokaal softwarebedrijf en ik wil met een paar bedrijven in de buurt praten over hoe ze [onderwerp uit 1d] regelen. Het is een korte vraag, geen aanbod."
 
-## 6. Bezwaren
+Houd het bij één zin. Zeg niet dat je iets verkoopt, maar ook niet dat je "gewoon een vraag hebt" als je daarna een afspraak gaat vragen.
+
+### 1d. Onderwerp per branche (voor 1c en voor stap 2)
+
+Kies er één, zo concreet mogelijk. Zeg het in hun woorden.
+
+| Branche | Onderwerp |
+|---|---|
+| Installatiebedrijf | planning van monteurs en werkbonnen |
+| Aannemer / bouw | offertes en nacalculatie |
+| Groothandel / importeur | orders die per mail of telefoon binnenkomen |
+| Transport / logistiek | planning van ritten en afhandeling van aanvragen |
+| Overig | het meest tijdrovende werk van de week dat nog met de hand gebeurt |
+
+Pas dit aan op wat je op de site ziet (bijvoorbeeld een webshop, een offerteformulier of een vacature). Dat laat zien dat je ze hebt opgezocht.
+
+### 1e. Bezwaren bij de receptie
 
 | Ze zeggen | Jij zegt |
 |---|---|
-| "Wij kennen elkaar niet / wie ben je?" | "Klopt, je hebt gelijk. Ik ben Yonathan, van Luthox, een startend softwarebedrijf uit de regio. Mag ik je 30 seconden vertellen waarom ik bel?" |
-| "Geen tijd nu" | "Snap ik, ik bel midden in je dag. Past het beter aan het eind van de dag, of liever een andere dag?" |
-| "Wat doen jullie precies?" | Gebruik de USP uit punt 3, daarna meteen: "Maar ik weet nog niet wat bij jullie speelt. Wat kost jullie nu de meeste tijd?" |
-| "Jullie zijn net begonnen, dus geen referenties?" | "Klopt, en dat zeg ik er eerlijk bij. Juist daarom zoeken we een paar lokale bedrijven om samen mee te bouwen: jullie krijgen aandacht van het hele team en bepalen mee wat er gebouwd wordt." |
-| "Wij hebben al een IT-partij / pakket" | "Mooi, daar blijven we vanaf. We zijn geen vervanger. Hoe loopt het met de dingen die dat pakket niet doet? Daar zit meestal het handwerk." |
-| "Geen behoefte / geen interesse" | "Duidelijk. Mag ik één vraag stellen? Waar gaat bij jullie de meeste tijd in zitten aan administratie? Dan weet ik of ik hier ooit nog een keer iets zinvols kan bieden." |
-| "Stuur maar een mail" | "Doe ik. Zodat ik het relevant maak: wat doen jullie, en wat kost het meeste tijd?" |
-| "Wat kost het?" | "Dat hangt van wat er speelt. Daarom wil ik eerst begrijpen wat jullie nodig hebben. Voor bedrijven die vroeg meedoen kijken we ook anders naar de voorwaarden, maar dat bespreken we in het gesprek." Noem geen bedragen. |
-| "Is dit niet gewoon een verkoopgesprek?" | "Nee, eerst luisteren. Als er niets is wat we kunnen verbeteren, zeg ik dat ook eerlijk." |
-| "Dat doet de IT-man / het hoofdkantoor" | "Duidelijk. Wie is dat, dan bel ik diegene?" Noteer de naam. |
+| "Waar gaat het over?" | Zie 1c. |
+| "Wij delen geen informatie over het bedrijf" | "Dat hoeft ook niet. Ik wil alleen [naam] even spreken, en ik vraag niets aan jou. Wanneer is [naam] bereikbaar?" |
+| "Wij zijn al voorzien / hebben al iets" | "Prima, dat vraag ik ook niet. Ik wil [naam] alleen even spreken over [onderwerp uit 1d]. Wanneer is die bereikbaar?" |
+| "Geen interesse" | "Begrijpelijk. Mag ik [naam] dat zelf laten zeggen? Wanneer is die bereikbaar?" Eén keer proberen, daarna loslaten. |
+| "Stuur maar een mail" | "Doe ik graag. Aan wie richt ik hem, en wat is het beste adres?" Noteer naam en e-mail. Zie "Vervolgmail" onderaan. |
+| "Hij/zij is er niet" | "Geen probleem. Wanneer is diegene er wel, of wanneer kan ik het beste bellen?" Noteer dag en tijd, bel dan terug. Laat geen boodschap achter. |
+| "Hij/zij zit in een gesprek" | "Dank je. Wanneer kan ik het beste terugbellen?" |
+| "Ik mag geen verkoop doorverbinden" | "Dat begrijp ik. Het is geen verkoop, ik wil iemand kort spreken. Wie kan ik dan bellen?" |
+| "Dat doet de IT-partij / het hoofdkantoor" | "Duidelijk. Wie is dat, en kan ik die rechtstreeks bellen?" Noteer naam en partij. |
+| "Wat verkopen jullie?" | "We bouwen software op maat, maar eerst wil ik begrijpen wat jullie nodig hebben, dus ik wil [naam] even spreken." |
+| "Kunt u uw nummer achterlaten?" | "Ja, 06 12 15 46 90. En met wie spreek ik, zodat ik kan zeggen dat ik via jou kom?" |
+
+Wees altijd vriendelijk tegen de receptie: ze kan je later helpen of een goed woordje doen. Noteer haar voornaam, dan kun je de volgende keer zeggen "ik sprak eerder [naam]".
+
+## Stap 2: de juiste persoon
+
+### 2a. Opener
+
+> "Hoi [naam], Yonathan van Luthox. [Naam receptie] heeft me doorverbonden. We zijn een klein lokaal softwarebedrijf en ik probeer te leren hoe ondernemers hier [onderwerp uit 1d] regelen. Heb je 30 seconden, of bel ik op een ander moment terug?"
+
+Wacht op een ja. Past het niet: vraag een moment en bel dan terug.
+
+### 2b. De ene vraag
+
+Kies er één en luister:
+
+- "Hoe loopt dat nu bij jullie, [onderwerp uit 1d]? Waar gaat daar de meeste tijd in zitten?"
+- "Welk klusje in je week zou je het liefst laten verdwijnen?"
+- "Wat doe je nu nog met de hand dat eigenlijk vanzelf zou moeten gaan?"
+
+Laat stiltes vallen. Ze moeten zelf praten. Vraag door op de woorden die ze gebruiken ("overtikken", "Excel", "dat doet [naam] erbij", "WhatsApp", "dubbel invoeren").
+
+### 2c. Doorvragen (kies er 1-2, alleen als ze praten)
+
+- "Hoeveel tijd gaat daar ongeveer aan op per week, en wie doet het?"
+- "Welke systemen of pakketten gebruiken jullie daarvoor nu?"
+- "Hebben jullie weleens iets geprobeerd om dat te verbeteren?"
+
+Noteer aantallen (uren, orders, mensen).
+
+### 2d. Als er iets speelt
+
+Alleen dan zeg je iets over wat wij doen, en houd het klein:
+
+> "Dat herken ik van meer ondernemers hier. Wij zijn net gestart en bouwen software voor dit soort handwerk: koppelingen tussen systemen, dashboards, automatisering. Ik zou het graag eens met je doorlopen, ook om te leren. Zullen we daar 20 minuten voor plannen, bij jullie of online?"
+
+Concreet moment vragen: "Past dinsdag of donderdag beter?" Beloof niets: geen prijzen, geen klantaantallen, geen koppelingen met specifieke pakketten.
+
+### 2e. Als er niets speelt of ze afhaken
+
+> "Duidelijk, bedankt voor je tijd. Mag ik je over een paar maanden nog eens bellen, als er iets verandert? En is er iemand die je zou aanraden om te spreken?"
+
+Vraag altijd naar een doorverwijzing: lokale ondernemers kennen elkaar.
+
+### 2f. Bezwaren bij de beslisser
+
+| Ze zeggen | Jij zegt |
+|---|---|
+| "Geen tijd nu" | "Snap ik, ik bel midden in je dag. Wanneer komt het beter uit?" Noteer moment. |
+| "Wat doen jullie precies?" | "Software op maat: koppelingen, dashboards en automatisering, met één team dat meedenkt en bouwt. Maar ik weet nog niet wat bij jullie speelt. Wat kost jullie nu de meeste tijd?" |
+| "Jullie zijn net begonnen, referenties?" | "Klopt, en dat zeg ik er eerlijk bij. Daarom zoek ik een paar lokale ondernemers om mee te leren. Jullie krijgen echte aandacht en bepalen mee wat er gebouwd wordt." |
+| "Wij hebben al een IT-partij / pakket" | "Mooi, daar blijf ik vanaf. Hoe loopt het met de dingen die dat pakket niet doet? Daar zit meestal het handwerk." |
+| "Geen behoefte" | Ga naar 2e. |
+| "Stuur maar een mail" | "Doe ik. Zodat ik het relevant maak: waar zit bij jullie het meeste handwerk?" |
+| "Wat kost het?" | "Dat hangt af van wat er speelt, daarom wil ik eerst luisteren. Ik noem geen bedrag zonder te weten wat je nodig hebt." |
+| "Is dit niet gewoon verkoop?" | "Ik begrijp dat het zo klinkt. Eerst luisteren. Als er niets is dat we kunnen verbeteren, zeg ik dat." |
 
 Niet doorduwen na een tweede nee. Bij "te druk": noteer "uitgesteld, nabellen op [datum]", niet "geen interesse".
 
-## 7. Als ze afhaken
-
-> "Geen probleem, bedankt voor je tijd. Mag ik je nog één vraag stellen: wat is het meest tijdrovende klusje dat bij jullie nog met de hand gebeurt?"
-
-## 8. Noteren per gesprek
+## Noteren per gesprek
 
 | Veld | Voorbeeld |
 |---|---|
-| Uitkomst | Gesprek gepland / uitgesteld / geen interesse |
-| Branche en grootte | Installatiebedrijf, 25 mensen |
-| Pijn | Echt / beleefd / geen |
+| Stap bereikt | Receptie / beslisser |
+| Naam receptie | Marloes |
+| Juiste persoon en functie | Jan de Vries, eigenaar |
+| Beste moment om te bellen | Dinsdagmiddag na 14:00 |
+| Uitkomst | Doorverbonden / terugbellen / mail / afspraak / geen interesse |
+| Branche en grootte | Installatiebedrijf, ca. 25 mensen |
 | Genoemd handwerk | Offertes overtikken, planning in Excel |
 | Huidige tools | Exact, WhatsApp, eigen Excel |
 | Eigen IT of partij | Ja, extern / nee |
-| Gesproken met | Eigenaar / office manager / receptie |
 | Opvallende quote | "Dat doet mijn vrouw erbij 's avonds" |
 
-Score elk gesprek 0-3: Pijn, Spending, Beslisser.
+Score alleen als je stap 2 bereikt: 0-3 voor Pijn, Spending, Beslisser.
 
-## 9. Vervolgmail ("stuur maar een mail")
+## Vervolgmail ("stuur maar een mail")
 
-Stuur binnen een uur, platte tekst. Vraag in het gesprek aan wie je hem richt.
+Alleen sturen als je een naam en adres hebt. Stuur binnen een uur, platte tekst, kort.
 
 **Onderwerp:** Kort na ons telefoongesprek: kennismaking Luthox
 
 > Hoi [naam],
 >
-> Bedankt voor het korte gesprek net.
+> Bedankt voor het korte gesprek net. [Naam receptie] gaf me jouw gegevens door.
 >
-> Luthox is een startend softwarebedrijf uit de regio. We bouwen software op maat, koppelingen tussen systemen, dashboards en automatisering, met één team dat meedenkt en bouwt. We zoeken een paar lokale bedrijven om samen tools te maken die in de praktijk werken.
+> Ik ben Yonathan van Luthox, een klein lokaal softwarebedrijf. We bouwen software op maat, koppelingen en automatisering, en willen graag een paar ondernemers in de buurt leren kennen. Ik hoor graag waar bij jullie nog veel handwerk zit en wat voor jullie echt zou helpen.
 >
-> Past een kennismakingsgesprek van 20 minuten, online of bij jullie langs? Dan hoor ik hoe jullie werk nu loopt en kijken we of we iets kunnen betekenen.
->
-> Wanneer schikt dat?
+> Is er een moment dat ik je kort kan bellen of spreken? 20 minuten is genoeg.
 >
 > Groet,
 > Yonathan Havshush
 > Luthox | 06 12 15 46 90 | yonathan@luthox.com
 
-**Opvolgen:** na 3-4 werkdagen in dezelfde thread: "Hoi [naam], ben je eraan toegekomen? Als het helpt bel ik graag even kort." Na nog een week één laatste belletje, daarna loslaten.
+**Opvolgen:** na 3-4 werkdagen in dezelfde thread: "Hoi [naam], ben je eraan toegekomen? Ik bel graag even kort." Na nog een week één laatste belletje, daarna loslaten.
 
-## 10. Tips
+## Tips
 
-- Laat stiltes vallen na je vraag; ze moeten zelf praten.
-- "Lokaal" en "startend" zijn je troeven: noem de regio of plaats concreet ("wij zitten ook in [plaats]"), dat maakt het persoonlijk.
-- Beloof niets wat er niet is: geen aantal klanten, geen productnamen, geen prijzen, geen koppelingen met specifieke pakketten zonder het te weten.
-- Bij branches waar je al een segmentscript voor hebt (aannemers, administratiekantoren, groothandels, distributeurs, maakindustrie, VvE): gebruik daar de specifiekere opener en pijnvragen. Dit script is voor bedrijven die in geen segment vallen, of voor een eerste, brede kennismaking.
-- Belmomenten: probeer 10:00-12:00 en 14:00-16:00. Vermijd maandagochtend en vrijdagmiddag.
+- Bij elke bel: eerst de receptionist, dus stap 1 is waar het werk zit. Wees kort, vriendelijk en eerlijk. Een goede 10 seconden levert vaak al een naam op.
+- Sla het woord "verkoop" over, ook als het zacht bedoeld is. Zeg "kennismaken", "leren", "luisteren".
+- "Lokaal" en "startend" zijn je troeven: noem de regio concreet ("wij zitten ook in [plaats]").
+- Beloof niets wat er niet is: geen aantal klanten, geen prijzen, geen koppelingen met specifieke pakketten.
+- Bij branches waar je al een segmentscript voor hebt (aannemers, administratiekantoren, groothandels, distributeurs, maakindustrie, VvE): gebruik daar de specifiekere pijnvragen bij stap 2.
+- Belmomenten: 10:00-12:00 en 14:00-16:00. Vermijd maandagochtend en vrijdagmiddag.
 - Zeg niet dat een computer of AI beslist. Software maakt voorstellen, mensen houden de regie.
-- Eigenaar-gestuurde bedrijven met 5-10 mensen kunnen te klein zijn voor maatwerk. Wijs ze niet af, maar check in het gesprek of er echt volume of handwerk is.
+- Eigenaar-gestuurde bedrijven met 5-10 mensen kunnen te klein zijn voor maatwerk. Wijs ze niet af, maar check of er echt volume of handwerk is.
