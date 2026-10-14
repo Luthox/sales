@@ -1,0 +1,148 @@
+business: luthox
+segment: signaal-gedreven-testbatch
+generated_at: 2026-10-09
+description: >-
+  Testbatch: bedrijven geselecteerd op een ACTUEEL, publiek signaal (overname,
+  nieuwe leiding, ERP-vacature, groei), niet op sector. Elke bron is door een
+  onderzoeker geopend. Velden 'inschatting' zijn aannames, geen bronfeiten.
+  Omvang en website zijn waar aangegeven nog niet geverifieerd (KvK/LinkedIn).
+  Kwaliteit: A = bellen, B = bellen na omvangcheck, C = laag/randgeval.
+leads:
+  - name: Schep Vastgoedmanagers
+    kwaliteit: A
+    sector: vastgoed-/VvE-beheer
+    omvang: "145-180 medewerkers (Indeed/Pararius, niet exact)"
+    url: https://schepvastgoedmanagers.nl
+    signaal: nieuwe CEO per 1 maart 2026 (Bas van Winden), nieuw bestuur met COO en CFO; eigenaar begon eerder met 'eerste stappen richting professionalisering en digitalisering'
+    bron: https://schepvastgoedmanagers.nl/nieuws/bas-van-winden-start-als-ceo-van-schep-vastgoedmanagers/
+    bron_datum: 2026-03-02
+    opgelost: nee, geen systeem of leverancier genoemd
+    inschatting: versnipperde beheer-/administratiesystemen bij meerdere kantoren en grote portefeuille (onbevestigd)
+    beller: COO Lyseth Bijlsma, anders CEO Van Winden
+    opener: "Ik zag dat Bas per 1 maart CEO is geworden en dat digitalisering de volgende stap is; ligt daar al iets voor klaar rond koppelen van losse systemen en handwerk?"
+
+  - name: Scab (adviesbureau bouw, loonadministratie)
+    kwaliteit: B
+    sector: administratiekantoren
+    omvang: "ca. 100 medewerkers (Accountancy Vanmorgen, nov 2025)"
+    url: onbekend (zoek scab.nl voor gebruik)
+    signaal: nieuwe directeur Stefan de Kok per 1 april 2026, nieuwe operationeel manager loonadministratie per 1 maart 2026, 'professionalisering'
+    bron: https://www.salarisvanmorgen.nl/2026/04/02/partner-scab-managementteam-scab-versterkt-met-nieuwe-directeur-en-operationeel-manager-loonadministratie/
+    bron_datum: 2026-04-02
+    opgelost: onbekend
+    inschatting: herziening van loon-/administratieprocessen en koppelingen; geen bewijs voor concrete pijn
+    let_op: stichting; open beginnen, geen aanname dat maatwerk gewenst is
+    beller: directeur Stefan de Kok of operationeel manager Peter Sinke
+    opener: "Ik las dat Stefan sinds 1 april directeur is en dat Scab verder professionaliseert; is er al een plan voor hoe loon- en administratieprocessen daarin meegroeien?"
+
+  - name: Klimax Installatiebedrijven
+    kwaliteit: A
+    sector: installatie
+    omvang: "ca. 50 medewerkers, 5 bedrijfsonderdelen (installatie.nl)"
+    url: onbekend
+    signaal: overname Installatiebedrijf Lommers en Gasservice Brabant (6 juni 2026); beide behouden voorlopig naam en locatie, later gezamenlijke locatie; doel efficiënter werken
+    bron: https://www.installatie.nl/nieuws/klimax-neemt-installatiebedrijf-lommers-over/
+    bron_datum: 2026-06-06
+    opgelost: nee, geen IT-integratie genoemd
+    inschatting: 5 onderdelen met mogelijk eigen planning, uren en administratie (aanname)
+    beller: eigenaar Jody van de Griendt
+    opener: "Ik las dat Klimax Lommers en Gasservice Brabant erbij heeft genomen en later naar één locatie gaat; hoe pakken jullie planning en administratie van die onderdelen aan?"
+
+  - name: Sluyter Logistics
+    kwaliteit: B
+    sector: transport/distributie
+    omvang: "ONZEKER: 101-200 (Prospeo), 115 (a-leads); ABN-fragment noemt 300+ voertuigen en €75 mln omzet, niet geverifieerd. Check KvK; >250 fte = afvallen"
+    url: https://sluyter-logistics.nl
+    signaal: drie overnames in drie maanden - Van der Spek Transport (1 jan 2026), Blijleven Transport (1 mrt 2026), IWS Schiphol (12 mrt 2026); drie private investeerders volgens ABN-fragment
+    bron: https://www.transport-online.nl/108819/sluyter-logistics-neemt-van-der-spek-transport-over/
+    bron_extra: https://www.transport-online.nl/120467/sluyter-logistics-versterkt-luchtvrachtgroupage-met-overname-iws-op-schiphol/
+    bron_datum: 2026-03-12
+    opgelost: nee; artikel zegt overname 'versnelt digitalisering' van Van der Spek, geen systeem genoemd
+    inschatting: planning en facturatie nog in aparte systemen (aanname)
+    beller: algemeen directeur Fred Westdijk of COO
+    opener: "Ik zag dat Sluyter dit jaar Van der Spek, Blijleven en IWS heeft opgenomen; hoe loopt planning en facturatie nu over al die locaties?"
+
+  - name: Cevetech (klimaattechnische groothandel)
+    kwaliteit: B
+    sector: groothandel
+    omvang: "onbekend; overnemer Koninklijke Oosterberg 300 fte (buiten ICP), alleen Cevetech kan lead zijn"
+    url: onbekend
+    signaal: overname door Oosterberg per 5 okt 2026 (onder voorbehoud ACM); Cevetech blijft zelfstandig, gaat stapsgewijs elkaars voorraden en afhaallocaties delen
+    bron: https://www.oosterberg.nl/koninklijke-oosterberg-neemt-cevetech-over/
+    bron_extra: https://www.gawalo.nl/17894/overname-cevetech-door-oosterberg-meer-voorraad-zelfde-team-eigen-naam
+    bron_datum: 2026-10-05
+    opgelost: nee, geen IT genoemd
+    inschatting: voorraad-/ERP-koppeling tussen twee zelfstandige bedrijven (aanname)
+    let_op: eerst omvang bepalen, deal nog onder ACM-goedkeuring
+    beller: commercieel directeur Michel Fortuin
+    opener: "Ik las dat Cevetech zelfstandig doorgaat binnen Oosterberg en dat jullie elkaars voorraden gaan gebruiken; hoe gaan jullie dat technisch regelen?"
+
+  - name: Witzand Bouwmaterialen
+    kwaliteit: B
+    sector: groothandel bouwmaterialen
+    omvang: "ca. 280 medewerkers na overname (persbericht); Witzand zelf eerder 101-200 (onverifieerd) - grensgeval"
+    url: https://www.witzand.nl
+    signaal: overname van Van de Pol Hout en Bouwmaterialen, samen 9 vestigingen; afronding in de loop van 2026, onder voorbehoud mededingingsautoriteit
+    bron: https://www.witzand.nl/actueel/persbericht-09-07-2026.html
+    bron_datum: 2026-07-09
+    opgelost: niet aangekondigd; MijnWitzand-klantportaal bestaat al
+    inschatting: systeemharmonisatie, gezamenlijke voorraad- en orderinzage (aanname)
+    beller: directie
+
+  - name: Kruitbosch (fietsen-groothandel)
+    kwaliteit: C
+    sector: groothandel/distributie
+    omvang: "ca. 230 medewerkers in 3 landen (boven ICP-grens van 200); eigen Digital-team aanwezig"
+    url: https://kruitbosch.nl
+    signaal: vacature Applicatiebeheerder ERP, nieuw NetSuite 'binnenkort live' gekoppeld aan portal
+    bron: https://magnet.me/nl-NL/vacature/1048257/applicatiebeheerder-erp
+    bron_datum: 2026-09-13 (zoekresultaat zegt 13 juni; controleren)
+    citaat: "Een order blijft hangen in het systeem."
+    opgelost: ERP-keuze gemaakt (NetSuite), koppelingen/uitzonderingen nog niet
+    inschatting: alleen interessant voor koppelingen/uitzonderingsafhandeling naast intern team
+    let_op: eigen developers; waarschijnlijk bouwen ze zelf
+
+  - name: Everest Fresh
+    kwaliteit: C
+    sector: groente/fruit handel
+    omvang: "ca. 250 vaste medewerkers; dochter van EDEKA Group, geen MKB-profiel"
+    url: https://www.team-everestfresh.nl
+    signaal: vacature Functioneel Applicatiebeheerder ERP; Navision nu, SAP gepland
+    bron: https://www.team-everestfresh.nl/vacature/functioneel-applicatiebeheerder-erp/
+    bron_datum: onbekend
+    opgelost: grotendeels (SAP gekozen)
+    inschatting: pijn hooguit rond interfaces en overbrugging
+
+  - name: HVL Metaal & Techniek
+    kwaliteit: C
+    sector: maakindustrie
+    omvang: "ca. 90-100 medewerkers"
+    url: https://www.hvlmetaal.nl
+    signaal: vacature Manager Bedrijfsbureau (knelpunten, verbeteringen, ERP-ervaring MKG gewenst); MKG-klantverhaal noemt wens naar snellere bugfixes
+    bron: https://www.hvlmetaal.nl/werken-bij/vacatures/manager-bedrijfsbureau/
+    bron_extra: https://www.mkg.eu/en-FR/my-mkg/support/knowledge-center/id/8026/hvl-metaal-techniek
+    bron_datum: 2026-02-25 (MKG-verhaal; vacature ongedateerd)
+    opgelost: grotendeels (MKG sinds 2020)
+    inschatting: hooguit dashboards/koppelingen naast MKG
+
+  - name: Unitron Systems
+    kwaliteit: C
+    sector: maakindustrie (medtech)
+    omvang: "ruim 100 medewerkers, 4 locaties"
+    url: onbekend
+    signaal: nieuwe productiehal IJzendijke, capaciteit verdubbeld
+    bron: https://www.aandrijvenenbesturen.nl/unitron-verdubbelt-productiecapaciteit/
+    bron_datum: 2026-03-24
+    opgelost: niet van toepassing, geen systeem genoemd
+    inschatting: planning/voorraad over 4 locaties (aanname, zwak)
+
+  - name: VAN-Jorn
+    kwaliteit: C
+    sector: maakindustrie (campers)
+    omvang: "ca. 10 -> ruim 40 medewerkers eind 2026 (onder/bij ondergrens)"
+    url: https://vanjorn.com
+    signaal: nieuwe fabriek, capaciteit verdrievoudigd, doel 300 campers/jaar in 2028
+    bron: https://vanjorn.com/nieuws/van-jorn-verdriedubbelt-productiecapaciteit-met-nieuwe-fabriek-in-groningen-en-opent-showroom/
+    bron_datum: 2026-05-19
+    opgelost: niet genoemd
+    inschatting: snelle groei belast orderverwerking/stuklijsten/planning (aanname, zwak)

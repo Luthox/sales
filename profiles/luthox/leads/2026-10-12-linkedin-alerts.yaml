@@ -1,0 +1,31 @@
+business: luthox
+segment: linkedin-vacature-alerts
+generated_at: 2026-10-12
+description: >-
+  Dagelijkse run op LinkedIn-alertmails (Gmail, laatste 2 dagen; 6 mails, waarvan 3 volledig
+  gelezen: procesautomatisering, automatiseringsspecialist, Jobs-You-Might-Like; 3 Nike-mails
+  zijn herhalingen van de automatiseringsspecialist-alert en niet apart gelezen).
+  Resultaat: geen bruikbare A- of B-leads.
+leads: []
+
+afgekeurd:
+  - name: My Jewellery ('s-Hertogenbosch)
+    reden: "Process Engineer Supply Chain; meer dan 1.000 medewerkers (vacaturetekst), vacature 'no longer accepting applications'"
+  - name: Nomilk2day (Panningen)
+    reden: "recruitmentpartner; eigenlijke werkgever onduidelijk (vacature noemt Fancom, techbedrijf met eigen IT); omvang niet vastgesteld"
+  - name: HAL Allergy Group (Leiden)
+    reden: "Automation & Integration Engineer; biotech/farma met waarschijnlijk >250 medewerkers en eigen IT (niet geverifieerd)"
+  - name: Jobgether
+    reden: recruiter, remote
+  - name: Doghouse Recruitment
+    reden: recruiter
+  - name: JouwWeb (Eindhoven)
+    reden: softwarebedrijf
+  - name: LYNX Beleggen
+    reden: financiele instelling met eigen IT, groot
+  - name: DC Klinieken
+    reden: zorginstelling
+  - name: a.s.r., Nike, Van Oord, Heijmans, KION Group, Intralox, Ranpak, Suitsupply, Zonneplan
+    reden: grote werkgevers (>250 medewerkers) of multinationals
+  - name: Eekels Technology (Kolham)
+    reden: industriele machinebouw-automatisering

@@ -1,0 +1,72 @@
+business: luthox
+segment: vacature-bouwsignaal-testbatch
+generated_at: 2026-10-09
+description: >-
+  Testbatch op sterk signaal: vacature waarin iemand iets moet bouwen/automatiseren dat nog
+  niet bestaat, bij een bedrijf dat intern aan eigen processen werkt. Bron: Indeed NL
+  (handmatig doorgelezen, simpele zoektermen, laatste 14 dagen, 9 okt 2026). Omvang niet
+  geverifieerd tenzij vermeld.
+leads:
+  - name: GPO Groep
+    kwaliteit: B- (signaal sterk, ICP-fit onzeker)
+    plaats: Leende (regio Eindhoven)
+    sector: vastgoedontwikkeling, short/long-stay verhuur (~30 appartementen), makelaardij, regionaal nieuwsplatform
+    omvang: onbekend, waarschijnlijk klein (<20 fte); check KvK
+    vacature: AI Specialist (m/f/x), fulltime/parttime, rapporteert aan de eigenaar
+    bron: Indeed, geopend 2026-10-09 (geen directe URL beschikbaar; zoek 'AI Specialist GPO Groep Leende')
+    citaat: "Automate processes such as guest communication, bookings, administration, property descriptions and content creation."
+    ook: "Build and maintain tools and workflows using Claude, ChatGPT, Make/Zapier and API integrations."
+    systeem: geen genoemd; gebruikt no-code (Make/Zapier)
+    waarom_signaal: bouwt van nul, meerdere bedrijven, eigenaar wil AI 'in al onze bedrijven'
+    risico: weinig backoffice-complexiteit, waarschijnlijk klein; Luthox-positie = alternatief voor aannemen
+    beller: eigenaar
+    opener: "Ik zag jullie vacature voor een AI Specialist; welke processen moet die persoon als eerste automatiseren, en kunnen wij het eerste deel alvast bouwen?"
+
+  - name: Gebr. van der Lee VOF
+    kwaliteit: onbekend, niet geopend
+    plaats: Lelystad
+    vacature: AI Specialist Procesautomatisering ('analyseer je bedrijfsprocessen en onderzoek je waar AI en automatisering waarde toevoegen')
+    bron: Indeed-lijst 2026-10-09; vacature was bij heropening al uit de lijst, niet gelezen
+    let_op: omvang en sector nog niet bevestigd; zoek de vacature op hun eigen site
+
+  - name: De Vries Transport Hallum
+    kwaliteit: B+
+    plaats: Hallum
+    sector: transport/distributie
+    omvang: "160 medewerkers, 80 vrachtwagens en opleggers (homepage)"
+    url: https://devries-hallum.com
+    vacature: IT Medewerker, 1 jaar contract met kans op vast, rapporteert aan de Manager IT in een klein team
+    bron: https://devries-hallum.com/vacature-it-medewerker-de-vries-hallum/ (gelezen door onderzoeker 2026-10-09, staat in lijst actuele vacatures; plaatsingsdatum niet zichtbaar)
+    citaat: "Het inrichten van het IT-landschap zodat dit gereed is voor de toekomst."
+    ook: "Inrichten EDI t.b.v. het uitwisselen van digitale berichten;"
+    systemen: TMS, WMS, PowerBI, EDI, SQL, Microsoft 365, Trimble, Fleethours, Absence Planner; ERP-implementatie-ervaring is een pre (Exact Globe/Online)
+    waarom_signaal: IT-capaciteit ontbreekt; veel losse systemen die gekoppeld/ingericht moeten worden
+    risico: eigen Manager IT en IT-team, generalistische rol met ook beheertaken; dus alleen kansrijk als ze projecten uitbesteden
+    beller: Manager IT, anders directie
+    opener: "Ik zag jullie vacature voor een IT-medewerker die EDI en het IT-landschap moet inrichten; welke koppelingen tussen TMS, WMS en ERP liggen er nu het langst?"
+
+  - name: Monnik Dranken
+    kwaliteit: C (B-, eigenlijk geen)
+    sector: drankengroothandel
+    omvang: "meer dan 130 medewerkers (homepage)"
+    url: https://www.monnik-dranken.nl
+    vacature: Inkoop medewerker, geplaatst 2026-09-28
+    bron: https://www.monnik-dranken.nl/over-ons/vacatures/inkoop-medewerker/
+    signaal: werkt met 'verschillende systemen en databronnen' en stamdata over meerdere databases; geen automatiseringstaak
+
+afgekeurd:
+  - name: Van de Beeten B.V. (Veghel)
+    reden: "meer dan 250 collega's, bestaand low-codeplatform, externe systeembeheerder; vacature zegt 'Acquisitie ... wordt niet op prijs gesteld'"
+  - name: Etrias BV (Boxtel)
+    reden: "~175 collega's maar 'bijna alles in-house' incl. eigen IT-team; ICP-uitsluiting"
+  - name: Van Oers Accountancy & Advies
+    reden: automatiseert ook voor klanten (concurrent/eigen expertise)
+  - name: ABN AMRO, Belastingdienst, CZ, Strukton, ProRail, Good Company, LINKIT en vergelijkbaar
+    reden: te groot, of consultancy/detachering/IT-bedrijf
+  - name: PLC/machinebouw/industrial automation (Wolf Groep, ICT Group, CLAFIS e.a.)
+    reden: andere betekenis van 'automatisering'
+
+lessen:
+  - Indeed werkt zonder login met EENVOUDIGE zoektermen; samengestelde zoekopdrachten met OR/min-tekens triggeren een Cloudflare-controle (die ik niet omzeil).
+  - Van ~60 gelezen vacatures bleven 1 sterke en 1 onbekende kandidaat over; de rest was te groot, IT/consultancy of PLC.
+  - Zoekresultaten ranken grote werkgevers hoog; de MKB-vacatures zitten verspreid en moeten per stuk worden geopend.

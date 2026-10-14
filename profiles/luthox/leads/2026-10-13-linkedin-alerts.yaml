@@ -1,0 +1,37 @@
+business: luthox
+segment: linkedin-vacature-alerts
+generated_at: 2026-10-13
+description: >-
+  Dagelijkse run op LinkedIn-alertmails (Gmail, laatste 2 dagen; 5 mails gelezen met 30
+  vacatureregels, 22 unieke vacatures; alerts: AI automatisering (2x), AI specialist,
+  automatiseringsspecialist, procesautomatisering). De mails over procesautomatisering en
+  automatiseringsspecialist van 12 okt waren al verwerkt in 2026-10-12-linkedin-alerts.yaml.
+  LinkedIn /jobs/view gaf HTTP 429 (geblokkeerd); vacatureteksten waar nodig via eigen
+  vacaturesite/zoekmachine gelezen. Resultaat: geen bruikbare A- of B-leads.
+leads: []
+
+afgekeurd:
+  - name: B Lab (Amsterdam)
+    reden: "AI Workflow Lead; internationale nonprofit (B Corp-certificering) met CTDO, Data & AI-team, Product & Platform Engineering en data engineering (Greenhouse-vacature 8877214002); sterk eigen IT-team, geen MKB"
+  - name: ForgeWorks (Utrecht)
+    reden: "AI-native Marketing Engineer; marketingrol, bedrijf niet te verifiëren (alleen een Amerikaans Forgeworks.ai gevonden), omvang onbekend"
+  - name: Stealth Startup (Amsterdam)
+    reden: "Agentic AI Engineer; techstartup, bedrijf onbekend"
+  - name: Salt
+    reden: recruitmentbureau
+  - name: Formula (voorheen Fjor)
+    reden: "AI Product Builder (Martech); martech/marketingbureau dat voor klanten bouwt"
+  - name: UbiOps
+    reden: softwarebedrijf (AI-platform)
+  - name: Craftr (Groningen)
+    reden: "Test Automation Engineer; softwaretesting, IT-rol"
+  - name: ICT Raster, Aldebaran Group
+    reden: industriële automatisering / DCS
+  - name: Axians NL, Accenture the Netherlands
+    reden: IT-dienstverlener / consultancy
+  - name: Provincie Noord-Holland, UWV
+    reden: overheid
+  - name: Prosus, NVIDIA, DHL Supply Chain, PostNL
+    reden: multinationals / grote werkgevers
+  - name: Doghouse Recruitment, HAL Allergy Group, Eekels Technology, a.s.r., Intralox, KION Group, JouwWeb
+    reden: al afgekeurd op 2026-10-12 (zie 2026-10-12-linkedin-alerts.yaml)
