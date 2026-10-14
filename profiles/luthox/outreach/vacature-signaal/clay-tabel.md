@@ -1,76 +1,108 @@
-# Clay-tabel en Apollo-gebruik: vacature-signaal
+# Clay-tabel: kandidaten controleren en verrijken (facility management en vacature)
 
-Opzet voor de 14-daagse trials (Clay: 1K data credits, 5K actions; Apollo Professional). Menunamen in Clay en Apollo kunnen afwijken van wat hier staat: ik had geen toegang tot jullie accounts. Kloppen de namen niet, pas de naam aan en houd de logica.
+Volgt `outreach/PLAN.md`. Doel: van een lijst kandidaten alleen de bedrijven overhouden die we met een geloofwaardige reden kunnen bellen. Liever 10 goede leads per dag dan 30 matige.
+
+Menunamen in Clay kunnen afwijken van wat hier staat. Klopt een naam niet, pas de naam aan en houd de logica. Credits en actions worden na de eerste 10 rijen geteld voordat we meer draaien.
 
 ## Principe
 
-1. **Bron zo breed mogelijk, filteren in kolommen.** Eerder kwam het filteren op nul uit, omdat elk extra filter in de bron de lijst leegt. Dus in de bron alleen: functietitel-zoekwoord, Nederland, laatste 14 dagen. Omvang, sector en recruiter-check komen later als kolommen.
-2. **Goedkope kolommen eerst, dure kolommen alleen voor rijen die slagen.** Contactverrijking en e-mailzoektocht zijn de duurste stappen. Die draaien pas na de score.
-3. **Eerst 10 rijen testen** en de credits tellen die elke kolom kost. Daarna pas 200 rijen.
+1. **Kandidaten komen van buiten Clay of uit de Clay-interface-zoekopdracht**, niet uit de Claude-koppeling. Die kan niet op land of vacature filteren. Bronnen: Clay-zoekopdracht in de interface (land Nederland, omvang 11-50, branche, geen non-profit), ledenlijsten van brancheorganisaties (bijvoorbeeld Schoonmakend Nederland), de bestaande FM-lijst na herfiltering, en voor vacatures de Apollo-schermzoekopdracht met branchefilter.
+2. **Goedkoop filteren eerst, dure stappen alleen voor wie slaagt.**
+3. **Bewijs of niets.** Elke AI-kolom geeft een bron-URL en een letterlijk citaat, of de tekst "onvoldoende bewijs, telefonisch verifiëren". Een gok is niet toegestaan.
+4. **Eerst 10 rijen testen**, credits en minuten tellen, daarna pas meer.
 
-## Bron
+## Fase 1: ICP-filter (gratis of bijna gratis)
 
-Gebruik de vacature-bron van Clay (zoek in Sources naar job postings / jobs) of, als alternatief, het job-postings-filter in Apollo. Zoektermen, één run per term:
-
-- AI specialist · AI engineer · AI automation
-- automatiseringsspecialist · procesautomatisering · workflow automation
-- procesoptimalisatie · process improvement · digitalisering
-- Power Automate · Power Platform · Make · Zapier · n8n
-
-Alleen: land Nederland, geplaatst in de laatste 14 dagen. Kolom `bron_term` noteert welke zoekterm de rij opleverde.
-
-## Kolommen (in deze volgorde)
-
-| # | Kolom | Wat | Kost |
-|---|---|---|---|
-| 1 | `bedrijf`, `domein`, `vacature_titel`, `vacature_url`, `geplaatst` | uit de bron | |
-| 2 | `bron_term` | welke zoekterm | |
-| 3 | `dubbel` | staat het bedrijf al in `profiles/luthox/leads/`? Zo ja, uitsluiten | goedkoop |
-| 4 | `recruiter` | vlag bij woorden als "recruitment", "uitzend", "detachering", "talent", "staffing", "interim bureau" in naam of domein | goedkoop |
-| 5 | `omvang` | medewerkers (Clay-bedrijfsdata) | data credit |
-| 6 | `omvang_ok` | `omvang` tussen 10 en 250, of leeg (leeg = handmatig checken) | gratis formule |
-| 7 | `branche` | bedrijfsbranche uit bedrijfsdata | gratis uit kolom 5 |
-| 8 | `branche_uit` | vlag voor software/IT, consultancy, bureaus, overheid, zorg, onderwijs, banken | gratis formule |
-| 9 | `contractvorm` | AI-kolom die uit de vacaturetekst haalt: tijdelijk / freelance / interim / vast / onbekend | actions |
-| 10 | `pijn_citaat` | AI-kolom: letterlijk één zin uit de vacature over handmatig werk, losse systemen of "bouwen van nul". Leeg als er geen is. | actions |
-| 11 | `score` | zie hieronder | gratis formule |
-| 12 | `beslisser` | persoon zoeken, alleen voor rijen met `score` ≥ 5 | data credits |
-| 13 | `email` | via Clay waterfall en Apollo, alleen voor rijen met `score` ≥ 5 | data credits |
-| 14 | `rechtsvorm` | eenmanszaak of vof? Dan niet mailen, wel bellen | handmatig |
-| 15 | `proces_idee` | AI-kolom: één regel, gelabeld als aanname, voor de teardown | actions |
-
-## Score (0–10)
-
-- +3 tijdelijk, freelance of interim · +1 vast
-- +2 `pijn_citaat` aanwezig
-- +2 omvang tussen 20 en 150
-- +1 geplaatst in de laatste 7 dagen
-- +1 beslisser gevonden
-- Uitsluiten (score 0): `dubbel`, `recruiter`, `branche_uit`, `omvang` boven 250
-
-Alleen rijen met score ≥ 5 gaan door naar de dure kolommen.
-
-## Apollo (14-daagse trial) gebruiken voor
-
-- **Contacten en e-mailadressen** voor rijen die Clay niet heeft gevuld.
-- **Exports voor de trial afloopt**: bewaar alles wat je nodig hebt als CSV in dit project. Weg is weg na dag 14.
-- Gebruik Apollo niet voor het vinden van vacatures als Clay dat al doet. Dan betaal je twee keer voor hetzelfde signaal.
-
-## Schema voor de 14 dagen
-
-| Dag | Doen |
+| Kolom | Wat |
 |---|---|
-| 1 | Tabel bouwen, 10 rijen testen, credits per kolom noteren |
-| 2–3 | 200 rijen draaien, score bekijken, top 50 handmatig controleren |
-| 4–10 | Dagelijks bijvullen tot het budget op is, teardowns schrijven |
-| 10 | Beslissen: wat werkte, wat was het kostbaar, welk abonnement (indien) |
-| 12–13 | Alles exporteren naar het project |
+| `bedrijf`, `domein`, `bron`, `bron_term` | herkomst van de rij |
+| `land_ok` | land is Nederland |
+| `omvang` en `omvang_ok` | medewerkers tussen 11 en 50. Leeg = "handmatig checken" |
+| `type_uit` | non-profit, vereniging, stichting, overheid |
+| `naam_uit` | woorden als recruitment, uitzend, detachering, staffing, interim in naam of domein |
+| `dubbel` | staat al in `profiles/luthox/leads/` (zonder bewuste herbenadering) |
 
-## Naar de mail
+Een rij die hier één keer faalt, krijgt `valt_af` met de reden en gaat niet verder.
 
-Voor Gmail-concepten leveren we deze kolommen als CSV: `voornaam`, `email`, `bedrijf`, `vacature_titel`, `contractvorm`, `proces_idee`. Dat zijn de velden uit de mail.
+## Fase 2: site en vacature lezen (AI-kolommen)
+
+Eén kolom per vraag. Gebruik voor elke kolom deze slotregel in de prompt:
+
+> Geef een antwoord, een bron-URL en één letterlijk citaat van de pagina. Staat het niet op de site of in de vacature, antwoord dan precies: "onvoldoende bewijs, telefonisch verifiëren". Vul niets aan met aannames.
+
+| Kolom | Vraag aan de AI |
+|---|---|
+| `wat_doen_ze` | Wat verkoopt dit bedrijf aan wie? Kies: schoonmaak, beveiliging, technisch beheer/onderhoud, groenvoorziening, catering, receptie, anders (benoem). |
+| `meerdere_locaties` | Werkt dit bedrijf voor meerdere klanten of op meerdere locaties tegelijk? Noem wat de site zegt. |
+| `vacature` | Staat er een open vacature voor administratie, planning, operations, procesverbetering, digitalisering of automatisering? Titel, URL, plaatsingsdatum als zichtbaar. |
+| `al_ver` | Zegt de site dat het bedrijf al investeert in AI/automatisering of een eigen ontwikkelteam heeft? Dan wordt het invalshoek C (samenwerking), geen teardown. |
+| `rechtsvorm_concern` | Is dit een eenmanszaak of vof, of onderdeel van een groter concern? Waar blijkt dat uit? |
+
+## Behoefte-check per segment (fase 2, test C en daarna)
+
+Per bedrijf één AI-kolom `behoefte_check` met de rubric van het segment waarin het zit. Dezelfde slotregel: bron-URL, letterlijk citaat, of "onvoldoende bewijs, telefonisch verifiëren".
+Uitkomst: **niveau A** (aanwijzing met citaat), **niveau B** (past in segment, geen aanwijzing), **valt af** (past niet of de site spreekt het tegen).
+
+| Segment | Zoek op de site naar |
+|---|---|
+| Haartransplantatie en cosmetische klinieken | Gratis adviesgesprek of intakeformulier met foto-upload, WhatsApp-contact, offerte of prijsindicatie op aanvraag, meerdere vestigingen, advertenties of landingspagina's |
+| Tandarts met implantologie of orthodontie | Consult of intake aanvragen, offerte of behandelplan, meerdere locaties of behandelaars |
+| Medisch-esthetisch en laser | Online afspraak of aanvraagformulier, behandeltrajecten (meerdere afspraken), nazorg |
+| Dieren- en paardenklinieken | Aanvraag per telefoon of mail, offerte of kostenindicatie, oproepsysteem |
+| Warmtepomp, zonnepanelen, airco | Offerte of opname aanvragen, adviesgesprek, meerdere monteurs of installatieteams, projecten per week |
+| Maatwerk keuken, interieur, zwembad | Showroomafspraak of offerte aanvragen, opname bij de klant, projecten met meerdere stappen |
+| Jacht (bouw, makelaar, onderhoud) | Offerte voor onderhoud of renovatie, werf met meerdere projecten tegelijk |
+| Klassieke en exclusieve auto's | Aanvraag, inruil, restauratieprojecten per auto |
+| Relocation, expat, immigratie | Intakeformulier, documentenlijst, trajecten met deadlines, meerdere klanten tegelijk |
+| Boutique advocaat of notaris | Intake, dossiers per cliënt, kantoor met meerdere behandelaars |
+| Facility management | Meerdere klanten of locaties, planning per locatie, relevante vacature |
+| Aannemers, groothandel, installateur, administratiekantoor, vastgoedbeheer, maakindustrie | Zie de segmentbestanden in `segments/` voor het probleem en de openingsvraag |
+
+Is het bedrijf zelf al ver (site noemt AI-tools, eigen ontwikkelaar, geavanceerd klantportaal)? Dan `al_ver` en invalshoek C (samenwerking).
+
+## Briefing per lead (belbriefje)
+
+Voor niveau A, na `waarom_nu`, één AI-kolom `briefing`. Maximaal 6 regels, in deze volgorde:
+1. Wat doet het bedrijf, in één zin.
+2. **Haakje (feit):** het citaat uit `behoefte_check` met bron.
+3. **Hypothese:** wat dit kan betekenen, gemarkeerd als aanname.
+4. **Openingsvraag:** uit het segmentbestand of de rubric.
+5. **Twee vervolgvragen** over proces, tools en tijd.
+6. **Let op:** onzekerheid (omvang onbekend, rechtsvorm, medische gegevens, al ver).
+
+De briefing bevat geen prijs, levertijd, klantnaam of resultaat.
+
+## Fase 3: beslissing
+
+Een formule geeft een voorstel, jij beslist.
+
+- **bel:** `wat_doen_ze` past, plus `meerdere_locaties` of een relevante `vacature` met bron, geen concern, geen eenmanszaak.
+- **controleer handmatig:** één van de vragen heeft "onvoldoende bewijs".
+- **valt af:** past niet, of de site spreekt de hypothese tegen.
+
+Elk bedrijf met "bel" wordt nog handmatig bekeken: de bron openen en het citaat controleren.
+
+## Waarom nu? (AI-kolom, na fase 3)
+
+Alleen voor "bel". Drie aparte kolommen:
+
+- `waarom_nu_feit`: één zin uit de uitkomsten van fase 2, met bron. Is er geen citaat, dan is er geen lead.
+- `waarom_nu_hypothese`: wat dit kan betekenen, expliciet gemarkeerd als aanname.
+- `waarom_nu_vraag`: de vraag voor in het gesprek, in gewone taal.
+
+## Fase 4: contact (alleen voor "bel")
+
+`beslisser`, `email`, `telefoon`. Dit is de duurste stap. Probeer Clay eerst. Apollo (80 contactcredits) alleen voor wat Clay mist.
+
+## Meten per batch
+
+Noteer in `outreach/vacature-signaal/logboek.md`: onderzocht, valt af in fase 1, valt af in fase 2-3, bel, **minuten totaal**, credits en actions verbruikt, wat Clay vond dat handwerk gemist zou hebben, en later gesprekken en intakes.
+
+## Voor de mail of het bellen
+
+Lever per "bel"-rij: `bedrijf`, `voornaam`, `telefoon`, `email`, `waarom_nu_feit`, `waarom_nu_hypothese`, `waarom_nu_vraag`, `al_ver`. Dat zijn de velden uit `mail-en-opvolging.md` en `scripts/`.
 
 ## Let op
 
-- Mail alleen naar zakelijke adressen en alleen na controle van de rechtsvorm (eenmanszaak en vof tellen als natuurlijke personen). Twijfel je, bel dan. Laat een jurist dit nog bevestigen voor je opschaalt.
-- Een lead zonder `pijn_citaat` en zonder tijdelijke contractvorm krijgt geen teardown. Dan is het signaal te zwak.
+- Mail alleen naar zakelijke adressen en alleen na controle van de rechtsvorm (eenmanszaak en vof tellen als natuurlijke personen). Twijfel je, bel dan. Laat een jurist dit bevestigen voor je opschaalt.
+- Exporteer alles wat je nodig hebt vóór de trial afloopt (ongeveer 27 oktober).
