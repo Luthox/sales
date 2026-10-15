@@ -1,0 +1,67 @@
+# Leadformaat van het Clay-kanaal. Eén bestand per niche en run: batches/<datum>-<niche>.yaml
+# Eigen schema: niet hetzelfde als profiles/luthox/leads/*.yaml.
+# Regel: elk kenmerk heeft een letterlijk citaat en een url, of precies "onvoldoende bewijs, telefonisch verifiëren".
+
+batch:
+  datum: 2026-10-14
+  niche: haartransplantatie-klinieken
+  bron: Clay-tabel "Haartransplantatie" (Google Maps)
+  rubric: outreach/clay/rubrics.md
+  workflow_run: ""          # run-id of notitie
+  credits_voor: null
+  credits_na: null
+
+leads:
+  - bedrijf: ""
+    website: ""
+    telefoon: ""
+    adres: ""
+    google_rating: null
+    google_reviews: null
+
+    # Door Clay ingevuld
+    kenmerken:
+      k1_intake_route:      { gevonden: false, citaat: "", url: "" }
+      k2_foto_documenten:   { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag:  { gevonden: false, citaat: "", url: "" }
+      k4_opvolging:         { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject:           { gevonden: false, citaat: "", url: "" }
+    contra:                 { gevonden: false, citaat: "", url: "" }
+    al_ver:                 { gevonden: false, citaat: "", url: "" }
+    online_boeken:          { gevonden: false, citaat: "", url: "" }   # telt niet mee
+    rechtsvorm_zichtbaar:   { gevonden: false, citaat: "", url: "" }
+    aantal_kenmerken: 0     # extra bewijs, geen beslisregel (K1 komt bijna overal voor)
+    proces_type: ""         # handmatig | gemengd | modern | onbekend (hoofdvraag, zie rubrics.md)
+    boekingstool: ""        # naam van de tool, of leeg
+    reden: ""               # één zin
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "", url: "" }
+    boek_links: ""
+    extra_pagina_s: []
+    kandidaat: false        # true bij handmatig of gemengd
+
+    # Jouw controle (alleen voor kandidaten)
+    controle:
+      citaat_geopend: false  # bron geopend en citaat gelezen
+      omvang: ""             # ongeveer aantal medewerkers en bron
+      rechtsvorm: ""         # alleen vóór mailen nodig
+      concern: ""
+      dubbel_in_leads: false
+      besluit: ""            # bellen | niet bellen | later
+      gecontroleerd_op: ""
+
+    # Alleen voor besluit "bellen"
+    waarom_nu_feit: ""       # één zin met bron
+    waarom_nu_hypothese: ""  # expliciet als aanname
+    waarom_nu_vraag: ""      # de vraag voor in het gesprek
+    briefing: ""             # max 6 regels, geen prijs, levertijd, klantnaam of resultaat
+    invalshoek: ""           # A verkennend | B teardown | C samenwerking (zie PLAN sectie 3)
+
+    # Na contact
+    contact:
+      beslisser: ""
+      email: ""
+      status: ""             # nieuw | gebeld | geen gehoor | gesprek | intake | afgevallen
+      laatste_contact: ""
+      notities: ""

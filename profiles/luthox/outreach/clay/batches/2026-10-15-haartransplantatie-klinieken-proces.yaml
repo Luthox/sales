@@ -1,0 +1,2419 @@
+# Klinieken, tweede run met de vraag "handmatig, gemengd of modern?" (2026-10-15)
+# Vervangt de eerste run (batches/2026-10-14-haartransplantatie-klinieken.yaml) voor deze bedrijven. Citaten door de AI uit de pagina's gehaald, nog NIET door jou gecontroleerd.
+batch:
+  datum: 2026-10-15
+  niche: haartransplantatie-klinieken
+  bron: Clay-tabel "Haartransplantatie" (Google Maps), via CSV-upload
+  workflow: wf_0tmwmztvgPhUu4EDB7h
+  ai_model: gpt-5.4-nano
+  vraag: Werkt de kliniek met een handmatig proces (mail, telefoon, WhatsApp, terugbellen, offerte op aanvraag) of een modern systeem (echte boekingstool, online betalen, portaal, calculator)?
+leads:
+  - bedrijf: "Alpha Haarkliniek"
+    website: "https://alphahaarkliniek.nl/"
+    telefoon: "+31 20 262 0222"
+    adres: "Pedro de Medinalaan 67, 1086 XP Amsterdam, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "79"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJm8Em_50NxkcRukyGreL4K_o"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De intake/consult aanvraag verloopt via contact (bellen/WhatsApp/e-mail en een berichtformulier) en “prijzen op aanvraag”, zonder zichtbare geautomatiseerde boekings- of offertetool; daarom handmatig."
+    handmatig: { signalen: "\"Wij reageren doorgaans binnen enkele uren\" en \"WhatsApp+31 6 11 06 73 67\" (contact via telefoon/WhatsApp/e-mail en berichtformulier) plus \"Prijs op aanvraag\".", url: "https://alphahaarkliniek.nl/nl/contact" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://wa.me/31611067367 | https://facebook.com/alphahaarkliniek"
+    extra_pagina_s: ["https://alphahaarkliniek.nl/nl/contact", "https://alphahaarkliniek.nl/nl/gratis-consult"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Heeft u een vraag of wilt u direct een van onze specialisten spreken? Wij reageren doorgaans binnen enkele uren.\"", url: "https://alphahaarkliniek.nl/nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: true, citaat: "\"Prijs op aanvraag\"", url: "https://alphahaarkliniek.nl/" }
+      k4_opvolging: { gevonden: true, citaat: "\"Wij reageren doorgaans binnen enkele uren\"", url: "https://alphahaarkliniek.nl/nl/contact" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"LocatiesHaartransplantatie AmsterdamHaartransplantatie RotterdamHaartransplantatie NederlandHaartransplantatie TurkijeHaartransplantatie Duitsland\"", url: "https://alphahaarkliniek.nl/" }
+      k6_traject: { gevonden: true, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: true, citaat: "Onderdeel van Genco Clinics B.V.", url: "https://alphahaarkliniek.nl/" }
+    email_van_site: "info@alphahaarkliniek.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Amsterdam Hair Institute"
+    website: "https://www.amsterdamhairinstitute.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb"
+    telefoon: "+31 88 303 1660"
+    adres: "Antonio Vivaldistraat 56, 1083 HP Amsterdam, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "526"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJ0RhumbFLxEcRY4yRklCv-EM"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De intake/afhandeling verloopt via haarbeoordeling aanvragen met fotoupload en vervolgens persoonlijk contact (o.a. via WhatsApp en een specialist) i.p.v. een volledig geautomatiseerde online intake of boekings/offertetool."
+    handmatig: { signalen: "\"Binnen 48 uur neemt een specialist contact met u op voor een vrijblijvend persoonlijk consult.\"", url: "https://www.amsterdamhairinstitute.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb" }
+    modern: { signalen: "", url: "" }
+    boek_links: ""
+    extra_pagina_s: ["https://www.amsterdamhairinstitute.com/locatie-en-bereikbaarheid/", "https://www.amsterdamhairinstitute.com/nazorg-na-haartransplantatie/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Upload 3 foto's van uw haar en ontvang een persoonlijke beoordeling van uw haaruitval, donorgebied en de mogelijke FUE CT behandelopties.\"", url: "https://www.amsterdamhairinstitute.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb" }
+      k2_foto_documenten: { gevonden: true, citaat: "\"Upload 3 foto's van uw haar en ontvang een persoonlijke beoordeling van uw haaruitval, donorgebied en de mogelijke FUE CT behandelopties.\"", url: "https://www.amsterdamhairinstitute.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb" }
+      k3_offerte_aanvraag: { gevonden: true, citaat: "\"Indien een behandeling medisch verantwoord en passend wordt geacht, ontvangt u een voorlopige prijsindicatie.\"", url: "https://www.amsterdamhairinstitute.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb" }
+      k4_opvolging: { gevonden: true, citaat: "\"Binnen 48 uur neemt een specialist contact met u op voor een vrijblijvend persoonlijk consult.\"", url: "https://www.amsterdamhairinstitute.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "Binnen de FUE CT methode vormt nazorg een vast onderdeel van het medische behandeltraject.", url: "https://www.amsterdamhairinstitute.com/nazorg-na-haartransplantatie/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Anatomy43"
+    website: "https://anatomy43.nl/"
+    telefoon: "+31 182 769 011"
+    adres: "Korte Groenendaal 4, 2801 JN Gouda, Netherlands"
+    google_rating: "5"
+    google_reviews: "50"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJLU2AaQLUxUcRHG2vPQKb1e8"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "In de aangeleverde teksten loopt het eerste contact via een contactformulier en/of telefonisch contact en er wordt geen zichtbare geautomatiseerde boekings- of offertetool genoemd."
+    handmatig: { signalen: "De website vraagt om contact via het contactformulier of telefonisch: \"Vul dan het contactformulier in met jouw vraag.\" en \"Bel dan op maandag t/m vrijdag tussen 10:00 uur en 17:00 uur naar +31 (0) 182 769 011\"", url: "https://anatomy43.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Afspraak maken -> https://anatomy43.nl/afspraak/"
+    extra_pagina_s: ["https://anatomy43.nl/contact/", "https://anatomy43.nl/afspraak/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Vul dan het contactformulier in met jouw vraag.\"", url: "https://anatomy43.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "Wij zullen deze dan zo snel mogelijk beantwoorden.", url: "https://anatomy43.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "PROCESOns Zorgvuldige 4-StappenprocesNaar Jouw Perfecte Look", url: "https://anatomy43.nl/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "admin@msight.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Beauclinic"
+    website: "http://www.beauclinic.nl/"
+    telefoon: "+31 85 303 1570"
+    adres: "Wiersedreef 26, 3433 ZX Nieuwegein, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "361"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJa2lDkxNkxkcRAb2ujK9-jy8"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Beauclinic toont vooral contact/aanvragen via adviesgesprek en (e-mail/telefoon/WhatsApp/formulier); er is geen zichtbaar geautomatiseerd boekings- of offertool in de aangeleverde teksten."
+    handmatig: { signalen: "Er is (handmatig) aanvraag/contact via gratis adviesgesprek en directe contactkanalen, o.a. “Bel (+31) 085-303 1570” en “WhatsApp (+31) 085-303 1570”, plus aanvraagformulieren zoals “Laat je naam en e-mailadres achter. Je ontvangt direct onze volledige prijslijst.”", url: "http://www.beauclinic.nl/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "WhatsApp naar (085) 303 1570 -> https://api.whatsapp.com/send/?phone=31853031570 | https://www.facebook.com/beauclinicnederland"
+    extra_pagina_s: ["https://beauclinic.nl/contact/", "https://beauclinic.nl/haartransplantatie-kosten-prijzen/"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Binnen 2 werkdagen antwoord”", url: "https://beauclinic.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "“We hebben vijf locaties door heel Nederland.”", url: "https://beauclinic.nl/" }
+      k6_traject: { gevonden: true, citaat: "De prijzen zijn inclusief alle voor- en nazorg, waaronder een haarverbetering, maar ook de speciale verzorgingsproducten die je na de behandeling ontvangt.", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "jeroenvanderkroon@beauclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Beauty by Roos Hairextensions Amersfoort"
+    website: "http://www.beautybyroos.nl/"
+    telefoon: "+31 33 760 0010"
+    adres: "Algolweg 18, 3821 BH Amersfoort, Netherlands"
+    google_rating: "4.7"
+    google_reviews: "153"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJjbh3559GxkcRLUScK2SSeAw"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Op de afspraakpagina verloopt contact/intake via telefoon, e-mail en een (contact)formulier; er wordt geen echte online boekingstool of geautomatiseerde intake/offerte zichtbaar."
+    handmatig: { signalen: "Contact en aanmelding verlopen via “WhatsApp ons”, “Bel ons” en “Of stel je vraag hier” (formulier).", url: "https://beautybyroos.nl/afspraak/" }
+    modern: { signalen: "Er is wel een “Simulator (AI)” en “calculator”, maar dat toont geen geautomatiseerd intake/boekings- of offerteproces.", url: "" }
+    boek_links: "Afspraak maken -> https://beautybyroos.nl/afspraak/ | Follow -> https://www.facebook.com/beautybyrooshairextensions"
+    extra_pagina_s: ["https://beautybyroos.nl/afspraak/", "https://beautybyroos.nl/hairextensions/advies-en-werkwijze/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Of stel je vraag hier”", url: "https://beautybyroos.nl/afspraak/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Wij zijn ook altijd bereikbaar voor eventuele vragen, we beantwoorden ze graag.”", url: "https://beautybyroos.nl/afspraak/" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "“✨ 10 Salons in Nederland &amp; België!”", url: "http://www.beautybyroos.nl/" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: true, citaat: "Simulator (AI)", url: "http://www.beautybyroos.nl/" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@beautybyroos.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Beauty Care Nederland"
+    website: "http://www.beautycarenederland.nl/"
+    telefoon: "+31 71 888 5652"
+    adres: "Mandenmakerstraat 5, 2222 AX Katwijk aan Zee, Netherlands"
+    google_rating: "5"
+    google_reviews: "139"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJRUDPuXrAxUcRTwWHq-5qK1Y"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De website laat een (foto)formulier/WhatsApp intake zien waarna iemand telefonisch contact opneemt om het behandelplan en een offerte te bespreken; er is geen zichtbare geautomatiseerde boekings- of offertecalculator-tool."
+    handmatig: { signalen: "\"Middels dit MHP foto consult formulier is het mogelijk om foto’s in te sturen en op basis daarvan advies en een offerte te ontvangen\" en \"na beoordeling van de foto’s en opstellen van een behandelplan telefonisch contact opnemen om dit te bespreken.\"", url: "https://www.beautycarenederland.nl/mhp-foto-consult-service/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Maak een afspraak -> https://www.beautycarenederland.nl/contact-opnemen-met-beauty-care-nederland/ | https://www.facebook.com/Beautycarenederland/ | Stuur ons een appje! -> https://api.whatsapp.com/send?phone=31627297972"
+    extra_pagina_s: ["https://www.beautycarenederland.nl/mhp-foto-consult-service/", "https://www.beautycarenederland.nl/smp-photo-consult-service/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "Middels dit MHP foto consult formulier is het mogelijk om foto’s in te sturen en op basis daarvan advies en een offerte te ontvangen.", url: "https://www.beautycarenederland.nl/mhp-foto-consult-service/" }
+      k2_foto_documenten: { gevonden: true, citaat: "Graag ontvangen wij recente foto’s van scherpe, heldere kwaliteit.", url: "https://www.beautycarenederland.nl/mhp-foto-consult-service/" }
+      k3_offerte_aanvraag: { gevonden: true, citaat: "Middels dit MHP foto consult formulier is het mogelijk om foto’s in te sturen en op basis daarvan advies en een offerte te ontvangen.", url: "https://www.beautycarenederland.nl/mhp-foto-consult-service/" }
+      k4_opvolging: { gevonden: true, citaat: "We zullen de situatie bekijken en na beoordeling van de foto’s en opstellen van een behandelplan telefonisch contact opnemen om dit te bespreken.", url: "https://www.beautycarenederland.nl/mhp-foto-consult-service/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@beautycarenederland.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Beauty Clinic Nederland"
+    website: "https://beautyclinic.global/"
+    telefoon: "+31 70 389 1193"
+    adres: "Van der Vennestraat 61, 2525 CB Den Haag, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "118"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJYbr6GFO3xUcRaXHykPjIKtQ"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen geen zichtbare online boekingstool of geautomatiseerd offerteproces; contact verloopt via contactformulier en telefonisch (handmatig)."
+    handmatig: { signalen: "\"Neem dan contact met ons op via ons contactformulier\" en \"Bel ons op: 070 – 389 1193\".", url: "homepage (https://beautyclinic.global/)" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Afspraak maken -> https://beautyclinic.global/afspraak-maken/ | https://www.facebook.com/beauty.clinic.den.haag | https://wa.me/+31703891193"
+    extra_pagina_s: ["https://beautyclinic.global/contact/", "https://beautyclinic.global/afspraak-maken/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Neem dan contact met ons op via ons contactformulier.\"", url: "pagina 2 (https://beautyclinic.global/contact/)" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"LocatiesDen Haag\" en \"Voorburg\"", url: "homepage (https://beautyclinic.global/)" }
+      k6_traject: { gevonden: true, citaat: "\"Voorafgaand aan de behandeling nodigen wij u uit voor een intakegesprek.\"", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "\"Bel ons op: 070 – 389 1193 of maak eenvoudig online een afspraak.\"", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@beautyclinic-nederland.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "CB Clinic"
+    website: "http://www.cb-clinic.nl/"
+    telefoon: "+31 6 46818838"
+    adres: "2e Industrieweg 14b, 4147 CT Asperen, Netherlands"
+    google_rating: "5"
+    google_reviews: "41"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJzay-COOLxkcRiMyiS68Sbns"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen een intake/contactaanvraag via een invulformulier (waarna contact wordt opgenomen), zonder zichtbare online boeking of geautomatiseerde intake/offerte tool."
+    handmatig: { signalen: "“Vul onderstaand formulier in en wij nemen zo snel mogelijk contact met u op!” en “Tijdens een gratis intake bespreken we uw wensen en kunt u door middel van een proefshot ervaren hoe onze laser werkt.”", url: "https://www.cb-clinic.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://www.facebook.com/CB-Clinic-108314814675224"
+    extra_pagina_s: ["https://www.cb-clinic.nl/contact/", "http://www.cb-clinic.nl/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Vul onderstaand formulier in en wij nemen zo snel mogelijk contact met u op!”", url: "https://www.cb-clinic.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Vul onderstaand formulier in en wij nemen zo snel mogelijk contact met u op!”", url: "https://www.cb-clinic.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@cb-clinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "center Oosterwal"
+    website: "http://www.centrum-oosterwal.nl/"
+    telefoon: "+31 72 515 7744"
+    adres: "Comeniusstraat 3, 1817 MS Alkmaar, Netherlands"
+    google_rating: "4.2"
+    google_reviews: "135"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJm0-mC-pXz0cRBMAfUPMjrMk"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Centrum Oosterwal maakt afspraken volgens de teksten via telefonisch contact en een (tijdelijk buiten werking zijnd) contactformulier; er wordt geen zichtbare online boekingstool of geautomatiseerde intake/offerte getoond."
+    handmatig: { signalen: "\"U kunt een afspraak bij ons maken door telefonisch contact op te nemen.\" en \"Onderstaand contactformulier is tijdelijk buiten werking.\"", url: "http://www.centrum-oosterwal.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Afspraken -> http://www.centrum-oosterwal.nl/contact/afspraak-maken | Contact -> http://www.centrum-oosterwal.nl/contact/afspraak-maken/contactformulier | Contact huisarts -> http://www.centrum-oosterwal.nl/contact/afspraak-maken/contact_huisarts | https://www.facebook.com/Centrum.Oosterwal/"
+    extra_pagina_s: ["http://www.centrum-oosterwal.nl/contact/", "http://www.centrum-oosterwal.nl/contact/locaties"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"U kunt een afspraak bij ons maken door telefonisch contact op te nemen.\"", url: "http://www.centrum-oosterwal.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Indien u liever door ons gebeld wilt worden, kunt u onderstaand formulier invullen, dan nemen wij contact met u op.\"", url: "http://www.centrum-oosterwal.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"U kunt bij ons terecht op een van de vier locaties; Alkmaar, Badhoevedorp, Heemstede en Heerhugowaard.\"", url: "http://www.centrum-oosterwal.nl/contact/locaties" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Clinic Redermal"
+    website: "http://www.clinicredermal.nl/"
+    telefoon: "+31 70 369 8212"
+    adres: "Johann Sebastian Bachlaan 97, 2264 WC Leidschendam, Netherlands"
+    google_rating: "4.7"
+    google_reviews: "24"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJH1Wvr9S3xUcRiE4O9nyctQw"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Er wordt een afspraak gemaakt via een contactpagina/formulier (geen zichtbare geautomatiseerde boekingstool of online betaal-/offertesysteem in de gegeven teksten)."
+    handmatig: { signalen: "“AFSPRAAK MAKEN -> http://clinicredermal.nl/contact/” en op de contactpagina “Stuur ons een bericht”.", url: "http://clinicredermal.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://www.facebook.com/www.clinicredermal.nl/ | AFSPRAAK MAKEN -> http://clinicredermal.nl/contact/"
+    extra_pagina_s: ["http://clinicredermal.nl/contact/", "https://clinicredermal.nl/contact/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Stuur ons een bericht”", url: "http://clinicredermal.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@clinicredermal.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "De Huidkliniek"
+    website: "https://dehuidkliniek.nl/klinieken/de-huidkliniek-leiden?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-website&utm_content=dhkleiden"
+    telefoon: "+31 88 224 0300"
+    adres: "Haarlemmerstraat 198/200, 2312 GH Leiden, Netherlands"
+    google_rating: "5"
+    google_reviews: "66"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJUSDoSjfHxUcRXC8Blsn5FNo"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen dat nieuwe afspraken/intake verlopen via bellen of WhatsApp/telefonisch contact, zonder zichtbare online boekingstool of geautomatiseerd intake-/offertesysteem."
+    handmatig: { signalen: "Nieuw: “Plan vrijblijvend een gratis consult in of boek direct een behandeling. Wij zijn 6 dagen per week en in de avond geopend” en contact via “Bel of whatsapp met 088 - 2240300.”", url: "https://dehuidkliniek.nl/afspraak-maken" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Maak een afspraak -> https://dehuidkliniek.nl/afspraak-maken | 088 224 03 00 -> https://wa.me/31882240300 | https://www.facebook.com/DeHuidkliniek"
+    extra_pagina_s: ["https://dehuidkliniek.nl/over/contact", "https://dehuidkliniek.nl/afspraak-maken"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "Wil je meer informatie over een behandeling, of wil je een behandeling inplannen, verzetten of wijzigen? Neem dan via Whatsapp of telefonisch contact met ons op.", url: "https://dehuidkliniek.nl/over/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "Je ontvangt binnen 1 werkdag reactie op jouw bericht, maar vaak is dit al veel sneller!", url: "https://dehuidkliniek.nl/over/contact" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "Mijn HuidkliniekOnze kliniekenAlle klinieken Den Haag ... Bussum ... Rotterdam ... Utrecht ... Breda ... Haarlem ... Heemstede ... Hoofddorp ... Leiden ... Amsterdam-West ... Amsterdam Zuid ... Zwolle ... Arnhem ... Den Bosch ... Tilburg", url: "https://dehuidkliniek.nl/afspraak-maken" }
+      k6_traject: { gevonden: true, citaat: "Na het consult ontvang je een behandelplan op maat, afgestemd op jouw huidtype, wensen en behoeften.", url: "https://dehuidkliniek.nl/klinieken/de-huidkliniek-leiden?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-website&utm_content=dhkleiden" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Dfine Clinic"
+    website: "https://dfineclinic.nl/"
+    telefoon: "+31 6 42227289"
+    adres: "Kerckeven 1, 1902 AG Castricum, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "134"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJ1YjBy6wJxkcRCEQRoArJ3rg"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Het proces lijkt niet volledig geautomatiseerd: via het contactformulier/“afspraak maken”/“gratis intake” wordt een aanvraag ingediend en daarna neemt de kliniek contact op voor een definitieve afspraak."
+    handmatig: { signalen: "\"De aanvraag is niet bindend. Wij nemen contact met u op voor een definitieve afspraak\".", url: "https://dfineclinic.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://www.facebook.com/dfineclinic/ | Gratis intake gesprek -> https://dfineclinic.nl/contact/#maak-afspraak"
+    extra_pagina_s: ["https://dfineclinic.nl/contact/", "https://dfineclinic.nl/behandelingen/nazorg/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"AfspraakvormAfspraakvormIntake\" / \"BehandelingGratis intake\"", url: "https://dfineclinic.nl/contact/" }
+      k2_foto_documenten: { gevonden: true, citaat: "\"Upload een foto van je bestaande permanente make-up\"", url: "https://dfineclinic.nl/contact/" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Wij nemen contact met u op voor een definitieve afspraak\".", url: "https://dfineclinic.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "Na de behandeling kan de gepigmenteerde huid een beetje geïrriteerd en/of trekkerig voelen en er kan mogelijk een kleine zwelling optreden.", url: "https://dfineclinic.nl/behandelingen/nazorg/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@dfineclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Elite Skin Clinic"
+    website: "http://www.eliteskin.nl/"
+    telefoon: "+31 70 200 5962"
+    adres: "Laan van Wateringse Veld 385, 2548 BL Den Haag, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "257"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJRdTZ8lSxxUcRnWSEPnK2ZoE"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Er is geen zichtbare online boekingstool of geautomatiseerde intake/offerte; er wordt wel een handmatig contactkanaal genoemd via WhatsApp/telefoon."
+    handmatig: { signalen: "Op de contactpagina staat 'Whatsapp' als handmatig contactkanaal.", url: "https://eliteskin.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://wa.me/31702005962 | Facebook -> https://nl-nl.facebook.com/eliteskinclinic"
+    extra_pagina_s: ["https://eliteskin.nl/contact/", "https://eliteskin.nl/behandelingen/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "Whatsapp", url: "https://eliteskin.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      contra: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      al_ver: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@eliteskin.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Estefarya Haarkliniek"
+    website: "https://estefarya.com/"
+    telefoon: "+31 6 85857700"
+    adres: "Ganzenhoef Medisch Centrum, Bijlmerdreef 1169, 3e verdieping, 1103 TT Amsterdam, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "184"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJvQVinOQNxkcRyer1jSrN2Bc"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De intake verloopt via handmatige contactkanalen (WhatsApp/telefoon/e-mail en een “Send Message” formulier); er is geen zichtbare online boekingstool of geautomatiseerde intake/offertecalculator in de gegeven teksten."
+    handmatig: { signalen: "“Upload Files … Choose files or drag & drop them here … Send Message” en contact via telefoon/WhatsApp/e-mail (“Phone +316 85857700” en “Email info@estefarya.com”).", url: "https://estefarya.com/en/contact-us/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Start your journey -> https://api.whatsapp.com/send/?phone=31685857700&text&type=phone_number&app_absent=0 | I need advice -> https://api.whatsapp.com/send/?phone=905441240808&text&type=phone_number&app_absent=0 | Contact us -> https://wa.me/31685857700 | https://www.facebook.com/estefarya/"
+    extra_pagina_s: ["https://estefarya.com/en/contact-us/", "https://estefarya.com/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Upload Files” en “Send Message”", url: "https://estefarya.com/en/contact-us/" }
+      k2_foto_documenten: { gevonden: true, citaat: "“Upload Files” en “Choose files or drag & drop them here”", url: "https://estefarya.com/en/contact-us/" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "“Our clinics … Worldwide … Netherlands … Ganzenhoef Medisch Centrum … Türkiye … Mersin Türkiye … Istanbul Türkiye … Diyarbakır”", url: "https://estefarya.com/en/contact-us/" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@estefarya.com"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Esteworld Haartransplantatie Turkije"
+    website: "http://www.esteworld-haartransplantatie.nl/"
+    telefoon: "+31 30 227 0560"
+    adres: "Lage Dijk-Noord 18, 3401 VA IJsselstein, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "747"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJaVWF745kxkcR--pue9Dp6Gw"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De website toont vooral intake via formulieren/consult aanvragen en contact, met handmatige opvolging (reactie/consult), zonder zichtbare geautomatiseerde boeking of offerte-tool."
+    handmatig: { signalen: "\"Offerte aanvragen\" en \"Consult aanvragen\" via formulier/contact, met \"Binnen 1 werkdag reactie\".", url: "https://www.esteworld-haartransplantatie.nl/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Facebook -> https://www.esteworld-haartransplantatie.nl/external/https://www.facebook.com/Esteworld.Nederland/"
+    extra_pagina_s: ["https://www.esteworld-haartransplantatie.nl/consult", "https://www.esteworld-haartransplantatie.nl/contact"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Middels dit formulier kunt u kosteloos een consult aanvragen\"", url: "https://www.esteworld-haartransplantatie.nl/consult" }
+      k2_foto_documenten: { gevonden: true, citaat: "\"We ontvangen graag foto's van de: voorkant, bovenkant en achterkant van uw hoofd.\"", url: "https://www.esteworld-haartransplantatie.nl/consult" }
+      k3_offerte_aanvraag: { gevonden: true, citaat: "\"Wilt u binnen 24uur een offerte dan kan dit ook direct via offerte aanvragen.\"", url: "http://www.esteworld-haartransplantatie.nl/" }
+      k4_opvolging: { gevonden: true, citaat: "\"Binnen 1 werkdag reactie\"", url: "http://www.esteworld-haartransplantatie.nl/" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"Met Esteworld vestiging in Nederland/België\" en \"Esteworld heeft 70+ vestigingen wereldwijd, waaronder een vestiging in Nederland.\"", url: "http://www.esteworld-haartransplantatie.nl/" }
+      k6_traject: { gevonden: true, citaat: "Haartransplantatie Turkije met Nederlandse zorgEsteworld Nederland begeleidt u voor, tijdens en na uw haartransplantatie in Turkije.", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "hallo@esteworld-haartransplantatie.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "FlyHealth Turkije | Plastisch Chirurgie | Haartransplantatie | Tandarts | Gewichtsverlies"
+    website: "http://www.flyhealth.nl/"
+    telefoon: "+31 6 86078924"
+    adres: "Kanaalpark 157, 2321, 2321 JW Leiden, Netherlands"
+    google_rating: "5"
+    google_reviews: "16"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJvwUIhZPHxUcRcHv4Jvgwb5U"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "FlyHealth gebruikt contact via WhatsApp en een formulier om een afspraak/consult te plannen, zonder zichtbare geautomatiseerde boekings- of offertecalculator-tool."
+    handmatig: { signalen: "Afspraak/consult loopt via WhatsApp en/of een (contact)formulier, waarna men contact opneemt: “Maak direct een afspraak bij FlyHealth” en “Voor meer informatie hierover neemt u contact met ons op via WhatsApp; +31 6 86078924 of het onderstaande formulier.”", url: "https://www.flyhealth.nl/gratis-consult/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Whatsapp: +31 686 07 8924 -> https://api.whatsapp.com/send?phone=31686078924 | 0686078924 -> https://api.whatsapp.com/send?phone=0686078924 | Facebook -> https://www.facebook.com/FlyHealth | WhatsApp -> https://api.whatsapp.com/send/?phone=31686078924&text=Hallo%2C+ik+wil+een+gratis+persoonlijke+analyse&type=pho"
+    extra_pagina_s: ["https://www.flyhealth.nl/contact-ons/", "https://www.flyhealth.nl/gratis-consult/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Voor meer informatie hierover neemt u contact met ons op via WhatsApp; +31 6 86078924 of het onderstaande formulier.”", url: "https://www.flyhealth.nl/gratis-consult/" }
+      k2_foto_documenten: { gevonden: true, citaat: "“Eerst ga je naar Leiden naar Ozge om alles te bespreken en daar worden ook foto’s gemaakt om naar de dokter te sturen.”", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Nu thuis , ik stuur foto's door naar Ozge , met vragen en 2 u later heb ik al een antwoord van haar of van de dokter.”", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: true, citaat: "Ik deel graag mijn ervaring met FlyHealth B.V", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Fue Perfect"
+    website: "http://www.fueperfect.nl/"
+    telefoon: "+31 85 401 8112"
+    adres: "Zilverparkkade 3, 8232 WJ Lelystad, Netherlands"
+    google_rating: "4.7"
+    google_reviews: "34"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJVXB8AiULxkcRuuz6ZNMkfYo"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Er is geen zichtbare geautomatiseerde intake/offerte of boekingstool; consultaanvraag loopt via contact/aanvraag en daarna volgt een stappenplan met consult en nazorg."
+    handmatig: { signalen: "\"Vraag een gratis consult aan\" en via het contactformulier \"Naam *Email *GeboortedatumTelefoonnummerToelichting *Versturen\".", url: "http://www.fueperfect.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Facebook-f -> https://nl-nl.facebook.com/fueperfect/"
+    extra_pagina_s: ["https://www.fueperfect.nl/contact/", "https://www.fueperfect.nl/haartransplantatie-kosten/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Vraag een gratis consult aan\"", url: "http://www.fueperfect.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"We starten met een consult in Lelystad of Hoofddorp\"", url: "http://www.fueperfect.nl/" }
+      k6_traject: { gevonden: true, citaat: "Stap 1: consultIn Lelystad of Hoofddorp beoordelen we uw haarlijn, dichtheid en donorgebied.Stap 2: behandelplanU krijgt een persoonlijk plan met een inschatting van het aantal grafts en de aanpak.Stap 3: behandelingU kiest voor uitvoering in Nederland of Turkije, volgens het afgesproken plan.Stap 4: nazorgWe volgen uw herstel op met instructies en geplande controles in Nederland.fue_perfect", url: "http://www.fueperfect.nl/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@fueperfect.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Graft Point Kliniek | Haartransplantatie"
+    website: "https://graftpoint.nl/"
+    telefoon: "+31 6 10419910"
+    adres: "Kanaalweg 3-7, 2903 LR Capelle aan den IJssel, Netherlands"
+    google_rating: "5"
+    google_reviews: "66"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJgxcSOYnLxUcRuLswBlxQkIM"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Op de website staat contact en een invulformulier (met WhatsApp/telefonisch overleg), maar er is geen zichtbare online boekingstool of geautomatiseerde offerte/aanbetaling in de gegeven teksten; daarom is het proces handmatig."
+    handmatig: { signalen: "“Je kunt telefonisch overleggen met onze haarspecialist of gewoon langskomen in onze kliniek.” en “Vul je gegevens in en ontvang binnen 24 uur persoonlijk en deskundig advies” (plus contact via “+31613901380 of whatsapp ons”).", url: "https://graftpoint.nl/consult-plannen/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "WhatsApp -> https://wa.me/31610419910 | of whatsapp ons -> https://wa.me/31613901380%20 | Facebook -> https://www.facebook.com/graftpoint.nl | Whatsapp -> https://wa.me/31613901380"
+    extra_pagina_s: ["https://graftpoint.nl/contact/", "https://graftpoint.nl/consult-plannen/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Vragen? +31613901380 of whatsapp ons”", url: "https://graftpoint.nl/consult-plannen/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Vul je gegevens in en ontvang binnen 24 uur persoonlijk en deskundig advies”", url: "https://graftpoint.nl/consult-plannen/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "“Gedurende 1 jaar krijg je gratis follow-ups in onze kliniek.”", url: "https://graftpoint.nl/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@graftpoint.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Haar- & Huidinstituut Westland"
+    website: "https://haarenhuidinstituutwestland.nl/"
+    telefoon: "+31 174 621 936"
+    adres: "Voorstraat 96, 2685 EP Poeldijk, Netherlands"
+    google_rating: "4.3"
+    google_reviews: "35"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJnWCwSy6yxUcRiR7MQZyKL2w"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De intake verloopt via een contactformulier met de boodschap dat ze je bellen voor een afspraak, zonder zichtbare online boeking of geautomatiseerde flow."
+    handmatig: { signalen: "Handmatige aanpak met contact via formulier en terugbel/afspraak: \"Wij bellen je voor een afspraak\".", url: "https://haarenhuidinstituutwestland.nl/contact" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://www.facebook.com/haarenhuidinstituutwestland/ | Vragen? -> https://wa.me/31174621936?text=Hoi,%20heb%20je%20vragen?%20Laat%20het%20ons%20weten!"
+    extra_pagina_s: ["https://haarenhuidinstituutwestland.nl/contact", "https://haarenhuidinstituutwestland.nl/nazorg/crlab"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "Wij werken graag op afspraak, zodat wij de tijd hebben om een goed advies te kunnen geven.", url: "https://haarenhuidinstituutwestland.nl/contact" }
+      k2_foto_documenten: { gevonden: true, citaat: "Stuur (eventueel) een foto mee", url: "https://haarenhuidinstituutwestland.nl/contact" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "Wij bellen je voor een afspraak", url: "https://haarenhuidinstituutwestland.nl/contact" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "Tijdens een CRLAB-traject krijgt u ook producten mee om thuis de behandeling tussentijds voort te zetten.", url: "https://haarenhuidinstituutwestland.nl/nazorg/crlab" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@haarenhuidinstituutwestland.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Haartransplantatie Yildiz"
+    website: "http://www.haartransplantatieyildiz.nl/"
+    telefoon: "+31 72 202 9376"
+    adres: "Laat 117E, 1811 ED Alkmaar, Netherlands"
+    google_rating: "5"
+    google_reviews: "7"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJTV7YNWtXz0cRSkd2IFtPuCA"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De website vraagt via contactformulier/aanvraag voor een kosteloos consult en toont geen echte online boekingstool of geautomatiseerde offerte."
+    handmatig: { signalen: "Er is een (kosteloos) consult/“offerte aanvraag” via een contactformulier met velden “E-mailadres”, “Telefoon” en “Je bericht” en een “Verzenden” knop.", url: "http://www.haartransplantatieyildiz.nl/" }
+    modern: { signalen: "", url: "" }
+    boek_links: ""
+    extra_pagina_s: ["https://www.haartransplantatieyildiz.nl/locaties", "https://www.haartransplantatieyildiz.nl/prp-behandeling"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Vraag een consult aan of ontvang meer informatieE-mailadresTelefoonJe berichtVerzenden”", url: "http://www.haartransplantatieyildiz.nl/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: true, citaat: "“Offerte aanvraagMeer informatie”", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "Tijdens het gratis consult bespreken we het aantal te transplanteren grafts (haarzakjes), het verwachte eindresultaat, de all-in prijs, en de voor- en nazorg.", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@haartransplantatieyildiz.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Hair Consultancy Bussum B.V."
+    website: "https://www.hairconsultancy.nl/"
+    telefoon: "+31 35 693 0442"
+    adres: "Lindelaan 2, 1405 AJ Bussum, Netherlands"
+    google_rating: "4.3"
+    google_reviews: "6"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJEYOg4mUTxkcRXfrA6N813hY"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen vooral een verzoek voor een (vrijblijvend) informatiegesprek en contact per telefoon/e-mail; er is geen zichtbare online boekings- of offerte-tool, dus het proces is handmatig."
+    handmatig: { signalen: "“Gesprek aanvragen” en contactgegevens zoals “info@hairconsultancy.nl” wijzen op een aanvraag per contactkanaal in plaats van een online boekings-/betaalt tool.", url: "https://www.hairconsultancy.nl/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Follow -> https://www.facebook.com/HairConsultancy/"
+    extra_pagina_s: ["https://www.hairconsultancy.nl/en/", "https://www.hairconsultancy.nl/de/"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "“info@hairconsultancy.nl”", url: "https://www.hairconsultancy.nl/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "“Vertel onze gerenommeerde experts in een vrijblijvend gesprek wat je wensen zijn. Samen kijken we naar je bestaande situatie. Vervolgens informeren we je wat voor jou de beste manier is om je natuurlijke kapsel terug te krijgen. Ook ontvang je een prijsopgave inclusief betalingsvoorwaarden en bekijken we wat de bijdrage van jouw zorgverzekeraar is.”", url: "https://www.hairconsultancy.nl/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@hairconsultancy.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Hair Solutions Clinic | Haar pigmentatie specialist | Ombre Powder Brows"
+    website: "http://www.hairsolutionsclinic.nl/"
+    telefoon: "+31 6 42145130"
+    adres: "Bozenhoven 19, 3641 AB Mijdrecht, Netherlands"
+    google_rating: "5"
+    google_reviews: "77"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJBTm7YOMNxkcRC4qQq7WF9JQ"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen afspraak/consult aanvragen via contact (telefoon/WhatsApp en formulier) en niet via een zichtbare online boekingstool of geautomatiseerde intake/offerte."
+    handmatig: { signalen: "\"Er wordt alleen op afspraak gewerkt, zodat er genoeg tijd voor je is.\" en \"Wil je een gratis en vrijblijvend consult aanvragen?\" en \"Maak een afspraak\".", url: "http://www.hairsolutionsclinic.nl/contact" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://facebook.com/hairsolutionsclinic | https://wa.me/0031642145130"
+    extra_pagina_s: ["http://www.hairsolutionsclinic.nl/contact", "http://www.hairsolutionsclinic.nl/prijzen"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Wil je een gratis en vrijblijvend consult aanvragen? Of wil je gewoon wat vragen stellen?\" en \"Neem contact met ons op\"", url: "http://www.hairsolutionsclinic.nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: true, citaat: "\"Het is lastig om zonder consult of goede analyse een correcte prijs te geven op voorhand.\" en \"Om zeker te weten wat de behandelprijs is voor jouw persoonlijke situatie, kan je contact opnemen voor een gratis en vrijblijvend consult.\"", url: "http://www.hairsolutionsclinic.nl/prijzen" }
+      k4_opvolging: { gevonden: true, citaat: "\"We nemen zo snel mogelijk contact met u op.\"", url: "http://www.hairsolutionsclinic.nl/contact" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@hairsolutionsclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "hairdresser Cleopatra"
+    website: "http://www.saloncleopatra.nl/"
+    telefoon: "+31 30 289 9822"
+    adres: "Rijnlaan 92, 3522 BR Utrecht, Netherlands"
+    google_rating: "4.7"
+    google_reviews: "72"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJCTxETvFlxkcRY-kpyWJ1oF0"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen vooral contact opnemen via telefoon/e-mail voor afspraken; er is geen zichtbare geautomatiseerde online boekingstool of offertecalculator in de aangeleverde teksten."
+    handmatig: { signalen: "\"TELEFOON: 030 – 2899822\" en \"E-MAIL: info@saloncleopatra.nl\"", url: "https://saloncleopatra.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "MAAK EEN AFSPRAAK -> http://www.saloncleopatra.nl/afspraak-maken | https://facebook.com/Cleopatra.HairBeautysalon.Utrecht"
+    extra_pagina_s: ["https://saloncleopatra.nl/contact/", "http://www.saloncleopatra.nl/afspraak-maken"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Wilt u een afspraak maken of meer informatie?\"", url: "https://saloncleopatra.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@saloncleopatra.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Hairtec"
+    website: "https://hairtec.nl/"
+    telefoon: "+31 15 700 9755"
+    adres: "Olof Palmestraat 20, 2616 LS Delft, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "366"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJJzsuwoq1xUcRZEoQnf9SRBM"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Er wordt contact opgenomen via een contactformulier (handmatig) en er zijn meerdere stappen via gratis adviesgesprek/ analyse/ behandeling/ nazorg, zonder zichtbare online boekings- of geautomatiseerde intake/offerte-tool."
+    handmatig: { signalen: "\"Wilt u dat wij contact met u opnemen? Vul dan onderstaande gegevens in en we nemen uiterlijk de volgende werkdag contact met u op.\"", url: "https://hairtec.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Facebook -> https://www.facebook.com/hairtecnl/"
+    extra_pagina_s: ["https://hairtec.nl/contact/", "https://hairtec.nl/hairtec-faq/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Wilt u dat wij contact met u opnemen? Vul dan onderstaande gegevens in\"", url: "https://hairtec.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Wilt u dat wij contact met u opnemen? Vul dan onderstaande gegevens in en we nemen uiterlijk de volgende werkdag contact met u op.\"", url: "https://hairtec.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"STAP 1\\nSTAP 1\\nGratis advies\\nEen persoonlijk gesprek met onze specialisten over uw wensen en mogelijkheden.\\nGRATIS ADVIESGESPREK\\nSTAP 2\\nSTAP 2\\nHaar- en huidanalyse\\nEen gedetailleerde analyse van uw hoofdhuid en haarfollikels om de juiste aanpak te bepalen.\\nGRATIS ADVIESGESPREK\\nSTAP 3\\nSTAP 3\\nBehandeling\\nDe geselecteerde haartransplantatietechniek wordt zorgvuldig uitgevoerd door ons ervaren team.\\nGRATIS ADVIESGESPREK\\nSTAP 4\\nSTAP 4\\nNazorg en controle\\nProfessionele begeleiding na uw behandeling voor een optimaal herstel en blijvend resultaat.\\nGRATIS ADVIESGESPREK\"", url: "https://hairtec.nl/hairtec-faq/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "contact@hairtec.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Harbour Hair Clinic"
+    website: "https://www.harbourhairclinic.nl/"
+    telefoon: "+31 70 221 1790"
+    adres: "Hellingweg 96-G, 2583 WH Den Haag, Netherlands"
+    google_rating: "4.6"
+    google_reviews: "16"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJoRVC4WuxxUcRAbHwHAPEqoY"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Het consultproces loopt via een invulformulier en contact via telefoon/WhatsApp, zonder zichtbare geautomatiseerde boekings- of offertetool."
+    handmatig: { signalen: "“Plan een vrijblijvend consult en krijg professioneel advies, inclusief een haaranalyse.” en “Voornaam … E-mailadres … Telefoonnummer … Bericht” met “VERZENDEN”, plus “Bel ons” en “WhatsApp”", url: "https://harbourhairclinic.nl/gratis-consult/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://wa.me/+31702211790 | https://wa.me/31702211790"
+    extra_pagina_s: ["https://harbourhairclinic.nl/contact/", "https://harbourhairclinic.nl/gratis-consult/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Plan een vrijblijvend consult en krijg professioneel advies, inclusief een haaranalyse.” en “Gratis Consult” met formulier en “VERZENDEN”", url: "https://harbourhairclinic.nl/gratis-consult/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@harbourhairclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Hasci Amsterdam"
+    website: "https://hasci.nl/"
+    telefoon: "+31 20 575 2330"
+    adres: "Claude Debussylaan 263, 1082 MC Amsterdam, Netherlands"
+    google_rating: "3.6"
+    google_reviews: "24"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJFw9NmwQKxkcRwKtTigWMcrk"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten beschrijven een gratis, vrijblijvend consult en contact via contact opnemen/afspraak maken, maar tonen geen echte online boekingstool of geautomatiseerd intake/offertesysteem."
+    handmatig: { signalen: "\"Tijdens een gratis, vrijblijvend consult krijg je ons professionele advies\" en \"Contact opnemen\".", url: "https://hasci.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "facebook-1 -> https://www.facebook.com/HairScienceClinic/"
+    extra_pagina_s: ["https://hasci.nl/contact/", "https://hasci.nl/vrijblijvend-consult/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Contact opnemen\"", url: "https://hasci.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: true, citaat: "\"Vrijblijvende prijsopgave\"", url: "https://hasci.nl/vrijblijvend-consult/" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"Book now\"", url: "https://hasci.nl/contact/" }
+      k6_traject: { gevonden: true, citaat: "Diagnose door een ervaren arts\nPassend en eerlijk advies-op-maat\nBehandel- en preventieplan\nVrijblijvende prijsopgave\nInkijk in de behandeldag", url: "https://hasci.nl/vrijblijvend-consult/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "HCI Clinics"
+    website: "http://www.hciclinics.com/"
+    telefoon: "+31 6 27536330"
+    adres: "Burgemeester Verderlaan 15 G, 3544 AD Utrecht, Netherlands"
+    google_rating: "5"
+    google_reviews: "205"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJuU3ScADhxkcRALNsvnfHMAs"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Er is geen zichtbare online boekingstool; contact voor consult loopt via (e-mail/telefoon) en WhatsApp-links, wat wijst op een handmatig proces."
+    handmatig: { signalen: "\"Haartransplantatie -> https://wa.me/+31627536330\" / \"Injectables -> https://wa.me/+31615215155\" en \"E-Mailinfo@hciclinics.nl\" / \"Telefoon\" tonen contact via WhatsApp, e-mail en telefoon i.p.v. een geautomatiseerde boekingsflow.", url: "http://www.hciclinics.com/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://www.facebook.com/HCIClinics/ | Online boeken -> http://www.hciclinics.com/online-boeken | Haartransplantatie -> https://wa.me/+31627536330 | Injectables -> https://wa.me/+31615215155"
+    extra_pagina_s: ["http://www.hciclinics.com/over-ons/contact", "http://www.hciclinics.com/online-boeken"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Haartransplantatie -> https://wa.me/+31627536330\"", url: "http://www.hciclinics.com/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"Overweeg je een haartransplantatie? Bij HCI Clinics ben je welkom voor een gratis en vrijblijvend consult... Tijdens het consult beoordelen we jouw haarsituatie, bespreken we jouw wensen en geven we eerlijk en persoonlijk advies. Je ontvangt een duidelijk behandelplan\" en \"HCI Clinics blijft de gehele haartransplantatie proces persoonlijk volgen tot de 12e maand.\"", url: "http://www.hciclinics.com/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@hciclinics.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Huidinstituut Versailles"
+    website: "http://www.huidinstituutversailles.nl/"
+    telefoon: "+31 251 223 459"
+    adres: "Hilbersplein 25, 1944 RB Beverwijk, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "64"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJUU_hGo7wxUcRcRYvNvgCrYw"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De kliniek toont alleen contact via formulier/e-mail/telefoon (geen zichtbare online boekingstool of geautomatiseerde offerte)."
+    handmatig: { signalen: "Afspraken of informatie verlopen via e-mail/formulier: \"Afspraken maken of meer informatie ontvangen:contact [AT] schoonheidssalonversailles.nl\" en er is een contactformulier op de website.", url: "http://www.huidinstituutversailles.nl/contact.php" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://wa.me/31652663834 | https://www.facebook.com/people/Huidinstituut-Versailles/100085440469329/"
+    extra_pagina_s: ["http://www.huidinstituutversailles.nl/contact.php", "http://www.huidinstituutversailles.nl/prijslijst.php"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "Afspraken maken of meer informatie ontvangen:contact [AT] schoonheidssalonversailles.nl", url: "http://www.huidinstituutversailles.nl/contact.php" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: true, citaat: "Afspraken maken of meer informatie ontvangen:contact [AT] schoonheidssalonversailles.nl", url: "http://www.huidinstituutversailles.nl/contact.php" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: true, citaat: "Versailles is gevestigd buiten het centrum en omdat het een eenmanszaak is kan Versailles de beste prijs kwaliteit verhouding aanbieden.", url: "http://www.huidinstituutversailles.nl/prijslijst.php" }
+    email_van_site: "beastar@huidinstituutversailles.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Huidpraktijk Debbie Hendriks"
+    website: "https://www.huidpraktijkdebbiehendriks.nl/"
+    telefoon: "+31 6 28620816"
+    adres: "Kompasweg 82, 1825 LX Alkmaar, Netherlands"
+    google_rating: "5"
+    google_reviews: "24"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJcwHhphhXz0cRpcHrvavwkjw"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten laten afspraken via telefonisch/mail/WhatsApp/formulier zien, zonder zichtbare online boekingstool of geautomatiseerde intake/offerte."
+    handmatig: { signalen: "Afspraak via “Je kunt telefonisch, per mail, via WhatsApp of via het formulier op deze pagina een afspraak maken.”", url: "https://www.huidpraktijkdebbiehendriks.nl/contact" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Facebook -> https://facebook.com/huidpraktijkdebbiehendriks.nl | WhatsApp -> https://api.whatsapp.com/send?phone=31628620816 | WhatsApp -> https://api.whatsapp.com/send?phone=%2B31628620816"
+    extra_pagina_s: ["https://www.huidpraktijkdebbiehendriks.nl/contact", "https://www.huidpraktijkdebbiehendriks.nl/contact-1"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Je kunt telefonisch, per mail, via WhatsApp of via het formulier op deze pagina een afspraak maken.”", url: "https://www.huidpraktijkdebbiehendriks.nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Op werkdagen reageer ik binnen 24 uur, maar vaak eerder.”", url: "https://www.huidpraktijkdebbiehendriks.nl/contact" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "support@jouwweb.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Istanbulhair Kliniek"
+    website: "https://istanbulhair.nl/"
+    telefoon: "+31 85 400 8484"
+    adres: "Waldorpstraat 215-2, 2521 CJ Den Haag, Netherlands"
+    google_rating: "4.6"
+    google_reviews: "254"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJ7bXRfZ8zxEcRa2oLrBh4lNY"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen vooral contact via formulier, WhatsApp en contactopname (geen zichtbare geautomatiseerde boek-/offertetool of volledig online portaal)."
+    handmatig: { signalen: "\"Vul ons contactformulier in\" en \"📞 Gratis Haarconsult\"/\"WhatsApp 085 400 84 84\"", url: "https://istanbulhair.nl/contact" }
+    modern: { signalen: "", url: "" }
+    boek_links: "WhatsApp -> https://wa.me/31682888786 | Facebook -> https://www.facebook.com/profile.php?id=61552486382068&mibextid=LQQJ4d | Afspraak annuleren -> https://istanbulhair.nl/afspraak-annuleren/"
+    extra_pagina_s: ["https://istanbulhair.nl/contact", "https://istanbulhair.nl/contact/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Vul ons contactformulier in en wij nemen zo snel mogelijk contact met u op\"", url: "https://istanbulhair.nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Algemeen contact Stel uw vraag en wij nemen binnen 24 uur contact met u op.\"", url: "https://istanbulhair.nl/contact" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"Istanbul Hair heeft vijf toonaangevende locaties in Europa.\"", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"U ontvangt begeleiding vóór, tijdens en na de behandeling - met controles en advies op maat.\"", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "\"Boek Uw Afspraak\"", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@istanbulhair.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Kliniek Groene Hart"
+    website: "http://www.kliniekgroenehart.nl/"
+    telefoon: "+31 182 235 030"
+    adres: "Middenmolenlaan 1, 2807 DD Gouda, Netherlands"
+    google_rating: "4.7"
+    google_reviews: "48"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJv8euLafWxUcRtaJRTSpviog"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De site vraagt om contact via formulier/WhatsApp en belooft daarna advies/opname; er is geen zichtbare geautomatiseerde intake/offerte-tool of betaal-/aanbetalingsflow in de aangeleverde teksten."
+    handmatig: { signalen: "“Stel uw vraag via whatsapp” en het contactformulier “Stuur ons een bericht” (Naam, E-mailadres, Bericht) om een eerste aanvraag te doen.", url: "https://kliniekgroenehart.nl/contact" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Afspraak maken -> https://kliniekgroenehart.nl/afspraak-maken/ | Facebook -> https://www.facebook.com/KliniekGroeneHart/ | Stel uw vraag via whatsapp -> https://api.whatsapp.com/send?phone=+31182235030&text="
+    extra_pagina_s: ["https://kliniekgroenehart.nl/contact", "https://kliniekgroenehart.nl/afspraak-maken/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Stuur ons een bericht”", url: "https://kliniekgroenehart.nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Ontvang binnen 1 werkdag gratis vrijblijvend advies”", url: "https://kliniekgroenehart.nl/contact" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "“Maak gemakkelijk online een afspraak of plan een gratis intake gesprek in.”", url: "https://kliniekgroenehart.nl/afspraak-maken/" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@kliniekgroenehart.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Medikliniek"
+    website: "https://medi-kliniek.nl/"
+    telefoon: "+31 85 800 0750"
+    adres: "Admiraal de Ruijterweg 73H, 1057 JZ Amsterdam, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "275"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJyYsGed8JxkcRFvi-3FJzku0"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Het proces wordt duidelijk via contact/afspraak maken (contactformulier en bellen) aangeboden, zonder zichtbare geautomatiseerde boekings- of offertetool."
+    handmatig: { signalen: "\"Vul het contactformulier in of neem direct contact met ons op\" en \"Bel ons!\"", url: "pagina 3" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Facebook -> https://www.facebook.com/Medikliniek/ | Maak een afspraak -> https://medi-kliniek.nl/afspraak-maken/ | Maak een afspraak -> https://www.medi-kliniek.nl/afspraak-maken/"
+    extra_pagina_s: ["https://medi-kliniek.nl/contact/", "https://www.medi-kliniek.nl/contact/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Heeft u een vraag of wilt u een consult plannen? Vul het contactformulier in of neem direct contact met ons op.\"", url: "pagina 3" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@medi-kliniek.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "mh kliniek"
+    website: "http://www.mhkliniek.nl/"
+    telefoon: "+31 70 740 0004"
+    adres: "Broekmolenweg 20, 2289 BE Rijswijk, Netherlands"
+    google_rating: "4.3"
+    google_reviews: "11"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJb7u16te1xUcRCaZE3RZNQB0"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De aanvraag loopt via contact opnemen/bellen of het (online) contactformulier waarna iemand contact opneemt; er is geen zichtbare geautomatiseerde intake- of boekingstool in de teksten."
+    handmatig: { signalen: "\"U kunt ons bereiken via telefoon, e-mail of door het contactformulier in te vullen.\" en \"wij nemen zo snel mogelijk contact met u op.\"", url: "http://www.mhkliniek.nl/contact" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Maak een afspraak -> http://www.mhkliniek.nl/maak-een-afspraak | Facebook -> https://www.facebook.com/MHkliniek | Maak een afspraak -> http://www.mhkliniek.nl/maak-een-afspraak/"
+    extra_pagina_s: ["http://www.mhkliniek.nl/contact", "https://www.mhkliniek.nl/contact/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Of u nu meer wilt weten over onze behandelingen of direct een afspraak wilt inplannen, via onze contactpagina vindt u eenvoudig de weg naar ons team.\" (en) \"U kunt ons bereiken via telefoon, e-mail of door het contactformulier in te vullen.\"", url: "http://www.mhkliniek.nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Vul uw gegevens in en laat ons weten welke behandeling of locatie uw voorkeur heeft, en wij nemen zo snel mogelijk contact met u op.\"", url: "http://www.mhkliniek.nl/contact" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"Met vestigingen in Papendrecht en Rijswijk combineren wij ruim 20 jaar ervaring met de nieuwste technieken en persoonlijke aandacht.\"", url: "http://www.mhkliniek.nl/" }
+      k6_traject: { gevonden: true, citaat: "\"Ja, we plannen altijd eerst een vrijblijvend consult. Tijdens dit gesprek bespreken we je wensen, geven we advies op maat en bekijken we of de behandeling geschikt voor je is.\"", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@mhkliniek.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Nielsen Haarkliniek Den Haag"
+    website: "http://www.nielsenhaarkliniek.nl/"
+    telefoon: "+31 70 221 2829"
+    adres: "Laan van Waalhaven 472, 2497 GR Den Haag, Netherlands"
+    google_rating: "4.5"
+    google_reviews: "237"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJeeTxVIm3xUcRCUB7Txzi188"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De aanvraag voor een gratis consult loopt via een invulformulier (“Aanvraag versturen”), zonder zichtbare geautomatiseerde boekings- of betaaltool."
+    handmatig: { signalen: "“Schakel JavaScript in je browser in om dit formulier in te vullen.” en “Aanvraag versturen” (gratis consult aanvragen via formulier).", url: "https://nielsenhaarkliniek.nl/consult/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Gratis consult boeken -> https://nielsenhaarkliniek.nl/consult/"
+    extra_pagina_s: ["https://nielsenhaarkliniek.nl/contact/", "https://nielsenhaarkliniek.nl/consult/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Schakel JavaScript in je browser in om dit formulier in te vullen.” en “Aanvraag versturen”", url: "https://nielsenhaarkliniek.nl/consult/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "“Op welke locatie wil je de consult? *Laan van Waalhaven 472, 2497 GR Den HaagBu­urserstraat 250, 7544 RG Enschede”", url: "https://nielsenhaarkliniek.nl/consult/" }
+      k6_traject: { gevonden: true, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "“Boek nu gratis en vrijblijvend een consult bij Nielsen Haarkliniek.” / “Aanvraag versturen”", url: "https://nielsenhaarkliniek.nl/consult/" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@nielsenhaarkliniek.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Omorfy Haartransplantatiekliniek"
+    website: "http://omorfy.nl/"
+    telefoon: "+31 30 808 4731"
+    adres: "Sportlaan 11-13, 3951 CG Maarn, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "85"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJpWoRJxpnxkcRWF6q4vYYiIo"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen contact via telefoon/formulier/WhatsApp met handmatige opvolging (specialist neemt contact op), zonder zichtbare geautomatiseerde boekings- of offertetool."
+    handmatig: { signalen: "\"Laat ons weten hoe we je kunnen bereiken, en één van onze specialisten neemt binnen 24 uur contact met je op.\" en formulier met \"Versturen\".", url: "https://omorfy.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://wa.me/31616317408 | https://www.facebook.com/Omorfytransplant"
+    extra_pagina_s: ["https://omorfy.nl/contact/", "https://omorfy.nl/haaruitval-mannen/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Voornaam &amp; achternaam*\" ... \"Versturen\"", url: "https://omorfy.nl/contact/" }
+      k2_foto_documenten: { gevonden: true, citaat: "\"Sleep een foto hierheen of klik om te uploaden\"", url: "http://omorfy.nl/" }
+      k3_offerte_aanvraag: { gevonden: true, citaat: "\"Vraag de actieprijs aan\"", url: "http://omorfy.nl/" }
+      k4_opvolging: { gevonden: true, citaat: "\"Laat ons weten hoe we je kunnen bereiken, en één van onze specialisten neemt binnen 24 uur contact met je op.\"", url: "https://omorfy.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@omorfy.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "PODO HAIR CLINIK"
+    website: "https://podoclinik.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaATsEahwZG9mAmZkaWQWUMefCLXTZ_sYWEVnGHYS5axp9iM07GV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpzsmq3LrdZh4kDdITWVocHjg_RpRFUFHbjaWmQlzBProVxber6uQrr-kJfZF_aem_nC7ZF7c7JGYPp3Uf3q39HA"
+    telefoon: "+31 970 065 44280"
+    adres: "Verrijn Stuartlaan, 2288 GL Rijswijk, Netherlands"
+    google_rating: "5"
+    google_reviews: "5"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJF1XXEwDNl0cRUb8dwbRl_vQ"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen aanvraag via contactformulier/WhatsApp/e-mail/telefoon en belofte van begeleiding, zonder zichtbare online boekingstool of geautomatiseerde intake/offerte."
+    handmatig: { signalen: "“فريقنا جاهز لتقديم استشارة مجانية ومرافقتك خطوة بخطوة في رحلتك العلاجية.” en formulier/WhatsApp/e-mail/telefoon om contact op te nemen.", url: "https://podoclinik.com/contact-us/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "WhatsApp -> https://api.whatsapp.com/send?phone=491724178524 | 0033626109454 -> https://api.whatsapp.com/send?phone=33626109454&text= | 00491724178524 -> https://api.whatsapp.com/send?phone=491724178524&text="
+    extra_pagina_s: ["https://podoclinik.com/contact-us/", "https://podoclinik.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaATsEahwZG9mAmZkaWQWUMefCLXTZ_sYWEVnGHYS5axp9iM07GV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpzsmq3LrdZh4kDdITWVocHjg_RpRFUFHbjaWmQlzBProVxber6uQrr-kJfZF_aem_nC7ZF7c7JGYPp3Uf3q39HA"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Your nameYour emailSubjectYour message (optional)”", url: "https://podoclinik.com/contact-us/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“فريقنا جاهز لتقديم استشارة مجانية ومرافقتك خطوة بخطوة في رحلتك العلاجية”", url: "https://podoclinik.com/contact-us/" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "“GermanyCologne, Germany Bergerstraße 89 Cologne, Germany FranceGagny, Paris 57 bis Av. Jean Jaurès, 93220 Gagny”", url: "https://podoclinik.com/contact-us/" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@podoclinik.com"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Prime Esthetic"
+    website: "https://primeesthetic.nl/"
+    telefoon: "+31 6 20445448"
+    adres: "Verrijn Stuartlaan 17, 2288 GL Rijswijk, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "25"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJVSXzepu3xUcRZGVe5BH3C_E"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Prime Esthetic vraagt via een aanvraagformulier om een consult en belooft daarna contact op te nemen (telefonisch/WhatsApp/mail), zonder zichtbare geautomatiseerde boekings- of offertetool; daarom is het proces handmatig."
+    handmatig: { signalen: "\"U hoort binnen drie werkdagen van ons, via het kanaal dat u kiest: bellen, mailen of WhatsApp.\"", url: "https://primeesthetic.nl/consult/" }
+    modern: { signalen: "", url: "" }
+    boek_links: ""
+    extra_pagina_s: ["https://primeesthetic.nl/consult/", "https://primeesthetic.nl/kosten/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Uw aanvraag\"", url: "https://primeesthetic.nl/consult/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Drie korte stappen, daarna neemt de kliniek binnen drie werkdagen contact op.\"", url: "https://primeesthetic.nl/consult/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"Drie korte stappen, daarna neemt de kliniek binnen drie werkdagen contact op.\"", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@primeesthetic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Qyoutis Alkmaar Laat"
+    website: "https://www.qyoutis.nl/"
+    telefoon: "+31 72 203 4034"
+    adres: "Laat 207, 1811 EG Alkmaar, Netherlands"
+    google_rating: "5"
+    google_reviews: "9"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJo0vSTBlXz0cR8dEJtqrWf74"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Qyoutis laat intake en afspraken verlopen via bellen en/of een contactformulier waarna men terugbelt, zonder zichtbare geautomatiseerde boeking of offerte-tool."
+    handmatig: { signalen: "\"Bel ons gerust voor een intakegesprek. Dit eerste gesprek is kosteloos en vrijblijvend.\"", url: "https://qyoutis.nl/contact/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Nu ook Botox® en fillers op Laat Alkmaar -> https://qyoutis.nl/afspraak-maken/ | https://www.facebook.com/Qyoutis-112836043751610/"
+    extra_pagina_s: ["https://qyoutis.nl/contact/", "https://qyoutis.nl/afspraak-maken/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Bel ons gerust voor een intakegesprek.\"", url: "https://qyoutis.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Wij nemen dan spoedig contact met je op.\"", url: "https://qyoutis.nl/afspraak-maken/" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"Op vijf locaties in Noord-Holland staat ons team van huidtherapeuten, plastisch chirurgen en cosmetisch dermatologen voor je klaar.\"", url: "https://www.qyoutis.nl/" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@qyoutis.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Rijkskliniek"
+    website: "http://rijkskliniek.nl/"
+    telefoon: "+31 85 060 1315"
+    adres: "Editiestraat 10, 1321 NG Almere, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "214"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJr56WFCsXxkcR1prkzDVfUbU"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen contact via formulier/telefoon/WhatsApp om een aanvraag of afspraak te regelen, maar er is geen zichtbare online boekingstool of geautomatiseerd offerteproces."
+    handmatig: { signalen: "\"Voor vragen kun je contact opnemen via het formulier of met contactgegevens\" en \"Telefonisch bereikbaar op werkdagen van 09:00 tot 17:30.\"", url: "https://rijkskliniek.nl/contacts/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "ADVIES GESPREK -> https://rijkskliniek.nl/afspraak-maken/ | Afspraak maken -> https://rijkskliniek.nl/afspraak-maken-rijkskliniek/ | WhatsApp -> https://wa.me/31850601315"
+    extra_pagina_s: ["https://rijkskliniek.nl/contacts/", "https://rijkskliniek.nl/afspraak-maken/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Voor vragen kun je contact opnemen via het formulier of met contactgegevens\"", url: "https://rijkskliniek.nl/contacts/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@rijkskliniek.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Skin Therapy Clinics"
+    website: "https://www.skintherapyclinics.nl/"
+    telefoon: "+31 6 19342172"
+    adres: "Vondelstraat 2, 1814 AB Alkmaar, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "115"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJaXQV6fhXz0cR39SmSFhBKjY"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Er wordt intake via formulier/terugbelopties en contactkanalen aangeboden (o.a. “vul onderstaand formulier in” en “Terug gebeld worden”), zonder zichtbare geautomatiseerde boekingstool of online offertecalculator in de aangeleverde teksten."
+    handmatig: { signalen: "“Gratis intake inplannen” en “vul onderstaand formulier in.” met opvolgingopties “Terug gemaild worden”/“Terug gebeld worden”.", url: "https://www.skintherapyclinics.nl/ (homepage)" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://www.facebook.com/Hairlesslaserclinics/ | Afspraak maken -> https://www.skintherapyclinics.nl/afspraak-inplannen.html | https://api.whatsapp.com/send?phone=31619342172 | Intake inplannen -> https://www.skintherapyclinics.nl/appointment.html"
+    extra_pagina_s: ["https://www.skintherapyclinics.nl/appointment.html", "https://www.skintherapyclinics.nl/afspraak-inplannen.html"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Gratis intake inplannen”", url: "https://www.skintherapyclinics.nl/appointment.html" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Terug gebeld worden”", url: "https://www.skintherapyclinics.nl/ (homepage)" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@skintherapyclinics.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Smooth Skin Clinic"
+    website: "http://www.smoothskinclinic.nl/"
+    telefoon: "+31 6 81521925"
+    adres: "Parallelweg 128, A14, 1948 NN Beverwijk, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "59"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJv6BgAprxxUcRoHYoA11wJlc"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Er wordt afspraak maken expliciet via WhatsApp aangeboden, zonder zichtbare online boekingstool of geautomatiseerde intake/offerte."
+    handmatig: { signalen: "\"Boek jouw afspraak via WhatsApp\" / \"Vragen? WhatsApp: 06 81 52 19 25\"", url: "https://www.smoothskinclinic.nl/afspraak-maken/" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Afspraak maken -> https://www.smoothskinclinic.nl/afspraak-maken/ | https://www.facebook.com/profile.php?id=100088860391728 | WhatsApp -> http://wa.me/31681521925"
+    extra_pagina_s: ["https://www.smoothskinclinic.nl/afspraak-maken/", "https://www.smoothskinclinic.nl/behandelingen/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Boek jouw afspraak via WhatsApp\"", url: "https://www.smoothskinclinic.nl/afspraak-maken/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Transhair"
+    website: "http://www.transhair.nl/"
+    telefoon: "+31 73 684 7311"
+    adres: "Wolput 30, 5251 CG Vlijmen, Netherlands"
+    google_rating: "4.7"
+    google_reviews: "180"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJOQmGbgLtxkcRaC6gKByniMs"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "Op de site staat een aanvraag via een formulier (consult) en contact via telefoon/WhatsApp; er wordt geen echte online boekingstool of geautomatiseerde intake/offertecalculator zichtbaar."
+    handmatig: { signalen: "\"Vul onderstaand formulier in Vul onderstaande gegevens in voor het aanvragen van een consult.\" en \"of whatsapp\"", url: "http://www.transhair.nl/plan-een-consult" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Afspraak maken -> http://www.transhair.nl/plan-een-consult | Boek nu jouw haartransplantatie tegen ge -> https://www.transhair.nl/transhair-academy#Frm9contactgegevens | Facebook -> https://www.facebook.com/Transhair/ | WhatsApp -> https://api.whatsapp.com/send?phone=31638418212"
+    extra_pagina_s: ["http://www.transhair.nl/contact", "http://www.transhair.nl/plan-een-consult"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Vul onderstaande gegevens in voor het aanvragen van een consult.\"", url: "http://www.transhair.nl/plan-een-consult" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"We reageren tussen 8:30 - 17:00u\"", url: "http://www.transhair.nl/contact" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"Onze locaties door heel Nederland en België\"", url: "http://www.transhair.nl/" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@transhair.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Waterland Kliniek Alkmaar"
+    website: "http://www.waterlandkliniek.nl/"
+    telefoon: "+31 72 572 1051"
+    adres: "Bergerweg 62, 1815 AE Alkmaar, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "24"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJ7a3ZBGpXz0cRbfUzwgQUylM"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De kliniek gebruikt een contact-/afspraakformulier en kan via e-mail of WhatsApp contact opnemen, zonder zichtbare geautomatiseerde boekings- of offertesystemen in de gegeven teksten."
+    handmatig: { signalen: "\"U kunt contact opnemen met Waterland Kliniek via onderstaand formulier.\" en \"WHATSAPP\" / \"MAAK JE AFSPRAAK\".", url: "https://waterlandkliniek.nl/contact" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Maak een afspraak -> https://waterlandkliniek.nl/contact | WhatsApp -> https://wa.me/31686881177 | volg ons -> https://www.facebook.com/Waterlandkliniek | MAAK JE AFSPRAAK -> mailto:receptie@waterlandkliniek.nl | MAAK JE AFSPRAAK -> http://www.waterlandkliniek.nl/contact"
+    extra_pagina_s: ["https://waterlandkliniek.nl/contact", "https://waterlandkliniek.nl/contact/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"U kunt contact opnemen met Waterland Kliniek via onderstaand formulier.\"", url: "https://waterlandkliniek.nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"AMSTERDAM\" \"ALKMAAR\" \"VOLENDAM\"", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "receptie@waterlandkliniek.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "YUEN CLINIC"
+    website: "http://www.yuenclinic.nl/"
+    telefoon: "+31 20 213 7788"
+    adres: "Amsterdamseweg 414, 1181 BT Amstelveen, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "12"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJv62oO43hxUcREzNILf6xyvQ"
+    proces_type: "handmatig"
+    boekingstool: ""
+    reden: "De teksten tonen vooral contact via formulier/mail/telefoon (geen zichtbare online boekingstool), daarom is het proces handmatig."
+    handmatig: { signalen: "Via het contactformulier met velden en 'Submit' en contactgegevens als telefoon en mail (", url: "pagina 2 (https://yuenclinic.nl/contact/)" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Boek nu alvast een afspraak -> mailto:info@yuenclinic.nl"
+    extra_pagina_s: ["https://yuenclinic.nl/contact/", "http://www.yuenclinic.nl/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "Submit", url: "pagina 2 (https://yuenclinic.nl/contact/)" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@yuenclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Aesthetic Medico Center"
+    website: "http://www.aestheticmedicocenter.nl/"
+    telefoon: "+31 6 49637980"
+    adres: "Zocherstraat 4a, 3067 AT Rotterdam, Netherlands"
+    google_rating: "5"
+    google_reviews: "56"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJ3XgSb6vNxUcRFXBZhhroe2M"
+    proces_type: "gemengd"
+    boekingstool: ""
+    reden: "Er is een online afspraakformulier (keuze behandeling/datum/tijd), maar de definitieve bevestiging gebeurt door de kliniek (“wij nemen contact op”), dus het proces is gemengd."
+    handmatig: { signalen: "“Wij nemen contact met u op om de afspraak definitief te bevestigen.”", url: "https://aestheticmedicocenter.nl/afspraak-maken/" }
+    modern: { signalen: "“Kies eenvoudig uw behandeling, voorkeursdatum en tijd. Wij nemen contact met u op om de afspraak definitief te bevestigen.”", url: "https://aestheticmedicocenter.nl/afspraak-maken/" }
+    boek_links: "Afspraak maken -> https://aestheticmedicocenter.nl/afspraak-maken/"
+    extra_pagina_s: ["https://aestheticmedicocenter.nl/contact/", "https://aestheticmedicocenter.nl/afspraak-maken/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Afspraak aanvragen”", url: "https://aestheticmedicocenter.nl/afspraak-maken/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Wij nemen contact met u op om de afspraak definitief te bevestigen.”", url: "https://aestheticmedicocenter.nl/afspraak-maken/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "“Online afspraak maken”", url: "https://aestheticmedicocenter.nl/afspraak-maken/" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@aestheticmedicocenter.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Bodyshape2beauty"
+    website: "http://www.bodyshape2beauty.nl/"
+    telefoon: "+31 6 49891680"
+    adres: "Poortdijk 34D, 3402 BS IJsselstein, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "5"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJK1dIdexkxkcRBw3hbAWfOqc"
+    proces_type: "gemengd"
+    boekingstool: "Treatwell"
+    reden: "De site combineert handmatige intake/afspraak via WhatsApp en contactformulier met online boeking via Treatwell, daarom is het proces gemengd."
+    handmatig: { signalen: "Handmatige signalen zijn o.a. \"Intake gesprek is gratis\" en afspraak/aanmelding via WhatsApp: \"Vanaf nu afspraak maken via business whatsapp is sneller ! 06-49891680\".", url: "http://www.bodyshape2beauty.nl/" }
+    modern: { signalen: "Er is een online boekingslink naar Treatwell: \"Openingstijden -> https://bodyshape2beauty.mytreatwell.nl/\".", url: "https://bodyshape2beauty.mytreatwell.nl/" }
+    boek_links: "Openingstijden -> https://bodyshape2beauty.mytreatwell.nl/"
+    extra_pagina_s: ["https://bodyshape2beauty.nl/contact/", "https://bodyshape2beauty.nl/contact-stella-ramos-tel-06-49891680/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Vanaf nu afspraak maken mogelijk via business whatsapp ! 06-49891680\"", url: "https://bodyshape2beauty.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "\"Openingstijden -> https://bodyshape2beauty.mytreatwell.nl/\"", url: "https://bodyshape2beauty.mytreatwell.nl/" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "by Char Den Haag"
+    website: "https://hairextensionsbychar.nl/"
+    telefoon: "+31 85 060 2630"
+    adres: "Molenstraat 32, 2513 BL Den Haag, Netherlands"
+    google_rating: "5"
+    google_reviews: "21"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJqUyXET63xUcRKQboBm_EkyQ"
+    proces_type: "gemengd"
+    boekingstool: ""
+    reden: "De website combineert een (vrij) automatische prijsindicatie/AI met een handmatige intake via WhatsApp/e-mail en opvolging door medewerkers."
+    handmatig: { signalen: "Via WhatsApp of e-mail contact opnemen en telefonisch zijn niet bereikbaar: \"Whatsapp\" en \"Neem contact op via Whatsapp of e-mail\".", url: "https://hairextensionsbychar.nl/contact" }
+    modern: { signalen: "Extensions calculator (\"Ontdek jouw prijs\" / \"2 minuten\") en AI-assistent/AI preview.", url: "https://hairextensionsbychar.nl/" }
+    boek_links: "https://www.facebook.com/hairextensionsbychar/ | Whatsapp ons -> https://wa.me/31850602630?text=Hi!%20Ik%20heb%20een%20vraag%20over... | AmsterdamHaarlemmerweg 519Op afspraak ·  -> https://hairextensionsbychar.nl/salon/amsterdam | Den HaagMolenstraat 32Op afspraak · Grat -> https://hairextensionsbychar.nl/salon/den-haag | EindhovenHoogstraat 114Op afspraak · Gra -> https://hairextensionsbychar.nl/salon/eindhoven | Afspraak maken -> https://hairextensionsbychar.nl/afspraak"
+    extra_pagina_s: ["https://hairextensionsbychar.nl/contact", "https://hairextensionsbychar.nl/afspraak"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "Neem contact op via Whatsapp of e-mail.", url: "https://hairextensionsbychar.nl/contact" }
+      k2_foto_documenten: { gevonden: true, citaat: "Upload een foto van jezelf en onze AI toont je direct hoe hair extensions bij jou zouden staan.", url: "https://hairextensionsbychar.nl/" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "We reageren doorgaans binnen een paar uur.", url: "https://hairextensionsbychar.nl/contact" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "AmsterdamHaarlemmerweg 519Op afspraak · Gratis consultDen HaagMolenstraat 32Op afspraak · Gratis consultEindhovenHoogstraat 114Op afspraak · Gratis consult", url: "https://hairextensionsbychar.nl/" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: true, citaat: "Typ je vraag en onze AI-assistent geeft je direct antwoord", url: "https://hairextensionsbychar.nl/" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Clinic de la peau"
+    website: "http://www.clinicdelapeau.nl/"
+    telefoon: "+31 72 582 6904"
+    adres: "Stationsplein 99, 1703 WE Heerhugowaard, Netherlands"
+    google_rating: "5"
+    google_reviews: "42"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJY5wrlN9Xz0cRB7zZnhc4gY8"
+    proces_type: "gemengd"
+    boekingstool: "boekingapp (clinicdelapeau.boekingapp.nl)"
+    reden: "Er is zowel een (handmatige) intake-aanvraag via een contactformulier met terugbel-/contactmoment als een moderne optie om online te boeken via een externe boekingstool."
+    handmatig: { signalen: "“Laat uw gegevens achter, dan nemen we contact op om samen een afspraak te plannen.”", url: "http://www.clinicdelapeau.nl/contact" }
+    modern: { signalen: "Op de website staat online boeken via de knop/tool “Online boeken” met link naar https://clinicdelapeau.boekingapp.nl/.", url: "http://www.clinicdelapeau.nl/" }
+    boek_links: "Online boeken -> https://clinicdelapeau.boekingapp.nl/ | https://www.facebook.com/clinicdelapeauNL/"
+    extra_pagina_s: ["http://www.clinicdelapeau.nl/contact", "http://www.clinicdelapeau.nl/werkwijze"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Laat uw gegevens achter, dan nemen we contact op om samen een afspraak te plannen.”", url: "http://www.clinicdelapeau.nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Laat uw gegevens achter, dan nemen we contact op om samen een afspraak te plannen.”", url: "http://www.clinicdelapeau.nl/contact" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "", url: "http://www.clinicdelapeau.nl/" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@clinicdelapeau.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Clinic Lara's Leiden"
+    website: "https://www.cliniclarasleiden.nl/"
+    telefoon: "+31 71 542 7523"
+    adres: "Breestraat 39, 2311 CH Leiden, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "248"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJ90aClO3GxUcRm_NzXG4GANs"
+    proces_type: "gemengd"
+    boekingstool: ""
+    reden: "De kliniek laat vooral een online afsprakenplanner zien, maar voor laserontharing vraagt ze om te bellen (dus deels handmatig)."
+    handmatig: { signalen: "Voor laserontharing vragen ze: “even te bellen” en ze tonen een telefoonnummer/WhatsApp.", url: "https://www.cliniclarasleiden.nl/afspraak-maken/" }
+    modern: { signalen: "Online afspraak boeken via “onze online agenda is 24/7 beschikbaar” met bevestiging per e-mail.", url: "https://www.cliniclarasleiden.nl/afspraak-maken/" }
+    boek_links: "AFSPRAAK MAKEN -> https://www.cliniclarasleiden.nl/afspraak-maken/ | https://api.whatsapp.com/send?phone=31683444502 | https://www.facebook.com/cliniclaras/ | Afspraak Maken -> https://www.cliniclarasleiden.nl/afspraak-maken-2/"
+    extra_pagina_s: ["https://www.cliniclarasleiden.nl/contact-3/", "https://www.cliniclarasleiden.nl/afspraak-maken/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Uw naam” en “Gewenste datum/tijd” in het online afspraakformulier (“MAAK NU EEN AFSPRAAK”).", url: "https://www.cliniclarasleiden.nl/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "“Breestraat 39 2311 CH Leiden” en “Linnaeusstraat 521092 CM Amsterdam”", url: "https://www.cliniclarasleiden.nl/" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "“Plan direct je afspraak bij Clinic Lara’s Leiden in slechts een paar klikken! ” en “onze online agenda is 24/7 beschikbaar.”", url: "https://www.cliniclarasleiden.nl/afspraak-maken/" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Cloud Skin Clinic"
+    website: "https://www.cloudskinclinic.nl/"
+    telefoon: "+31 70 204 2088"
+    adres: "Waldorpstraat 397, 2521 CJ Den Haag, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "177"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJm3FhytmxxUcRAb4Hjc3IoqA"
+    proces_type: "gemengd"
+    boekingstool: ""
+    reden: "Er is zowel een online “Boek nu” consultpagina als zichtbare mogelijkheid om contact op te nemen via WhatsApp, maar geen expliciete geautomatiseerde boekingstool of volledig online portaal in de gegeven teksten."
+    handmatig: { signalen: "WhatsApp wordt genoemd als contactmogelijkheid: “Afspraak makenWhatsapp”.", url: "https://www.cloudskinclinic.nl/" }
+    modern: { signalen: "Op de site staat een online “Boek nu”-pagina met informatie over het consult en de keuze voor “Consult + huidscan + gelaatbehandeling”.", url: "https://www.cloudskinclinic.nl/boek-nu/" }
+    boek_links: "Boek nu -> https://www.cloudskinclinic.nl/boek-nu | Afspraak maken -> https://cloudskinclinic.nl/boek-nu/ | Whatsapp -> https://wa.me/31616501806"
+    extra_pagina_s: ["https://cloudskinclinic.nl/boek-nu/", "https://www.cloudskinclinic.nl/over-ons"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "Neem contact op", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k6_traject: { gevonden: true, citaat: "01. Consult, huidanalyse en behandelplan ... 02. Behandeling ... 03. Nazorg", url: "" }
+      contra: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      al_ver: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@cloudskinclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "DoctorFace"
+    website: "https://www.doctorface.nl/"
+    telefoon: "+31 85 060 7271"
+    adres: "Zilverparkkade 3, 8232 WJ Lelystad, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "89"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJg7UcIicnxkcRmC0SrFZgeKI"
+    proces_type: "gemengd"
+    boekingstool: ""
+    reden: "De website gebruikt een online formulier/consultplanning, maar bij het inplannen wordt expliciet aangegeven dat je telefonisch wordt gebeld (geen volledig geautomatiseerde intake/boeking)."
+    handmatig: { signalen: "\"Wil je dit jaar nog aan de beurt komen? Meld je aan voor de wachtlijst - wij nemen dan contact op zodra er plekken vrijkomen\" en \"voor het inplannen van een afspraak word je gebeld\".", url: "https://www.doctorface.nl/afspraak-plannen" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Gratis consult plannen -> https://www.doctorface.nl/afspraak-plannen"
+    extra_pagina_s: ["https://www.doctorface.nl/contact", "https://www.doctorface.nl/afspraak-plannen"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Plan een gratis consult in.\"", url: "https://www.doctorface.nl/" }
+      k2_foto_documenten: { gevonden: true, citaat: "\"Indien je wilt kun je ook foto’s toevoegen aan jouw vraag, zodat de arts jouw vraag beter kan beantwoorden.\"", url: "https://www.doctorface.nl/contact" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Wil je dit jaar nog aan de beurt komen? Meld je aan voor de wachtlijst - wij nemen dan contact op zodra er plekken vrijkomen\"", url: "https://www.doctorface.nl/afspraak-plannen" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"Hoe werkt dat?\\n1Vrijblijvend consultPlan een gratis consult in. Drs. Yalaniz hoort graag jouw wensen aan en geeft op basis van de mogelijkheden een eerlijk advies, ook als dat betekent dat we geen behandeling aanbevelen.2BehandelingKom je in aanmerking voor een behandeling? Denk er gerust eerst nog over na, of ga direct na het consult voor de behandeling indien dat mogelijk is.3AftercareAfhankelijk van het type behandeling kun je rekenen op een zorgvuldige nazorg.\"", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@doctorface.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "DUTCH CLINIC"
+    website: "https://dutchclinic.com/"
+    telefoon: "+31 20 214 2033"
+    adres: "Hoofdweg Oostzijde 848A, 2132 MC Hoofddorp, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "183"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJN8ZzirvnxUcRssV8_vLJB70"
+    proces_type: "gemengd"
+    boekingstool: ""
+    reden: "De aanvraag loopt via contactformulier en daarna telefonisch contact, met daarnaast een (vermelde) agenda voor het plannen van een eerste afspraak; geen volledig geautomatiseerde intake/boekte tool met zichtbare toolnaam in de teksten."
+    handmatig: { signalen: "\"Laat uw gegevens achter en wij nemen telefonisch contact met u op\" / \"Neem telefonisch contact op\"", url: "https://www.dutchclinic.com/contact/" }
+    modern: { signalen: "\"Plan uw eerste afspraak\" en \"Kies hieronder uw vooronderzoek ... en bekijk de beschikbare momenten.\"", url: "" }
+    boek_links: "Maak een afspraak -> https://www.dutchclinic.com/maak-een-afspraak/ | Facebook -> https://www.facebook.com/dutchclinic/?locale=nl_NL | Maak een afspraak -> https://www.dutchclinic.com/afspraak-maken-ooglaseren/ | Facebook -> https://www.facebook.com/dutchclinic/ | https://wa.me/31611715363"
+    extra_pagina_s: ["https://www.dutchclinic.com/contact/", "https://www.dutchclinic.com/maak-een-afspraak/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"laat uw gegevens achter en wij nemen telefonisch contact met u op om samen een geschikt moment voor uw consult in te plannen.\"", url: "https://www.dutchclinic.com/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"plan een consult in bij onze experts.\" en \"wij nemen zo snel mogelijk contact met u op\" (pagina 2)", url: "https://www.dutchclinic.com/contact/" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "\"Bij Dutch Clinic kunt u terecht voor advies, vooronderzoek en moderne oogbehandelingen op twee centrale locaties.\"", url: "https://dutchclinic.com/" }
+      k6_traject: { gevonden: true, citaat: "\"Tijdens een persoonlijk vooronderzoek bespreken we uw wensen, mogelijkheden en verwachtingen. Zo weet u precies waar u aan toe bent.\"", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@dutchclinic.com"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Lalana"
+    website: "https://lalana.nl/"
+    telefoon: "+31 416 724 840"
+    adres: "Grotestraat 205, 5141 JS Waalwijk, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "328"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJi4FXA3KTxkcR0ZppqaEyhcM"
+    proces_type: "gemengd"
+    boekingstool: ""
+    reden: "Lalana biedt wel een online afspraak maken en contactformulieren, maar er worden in de teksten geen volledig geautomatiseerde intake/prijs-offerteflow of zichtbare boekingstool beschreven; het contact verloopt via (online) formulier/telefoon/mail/WhatsApp."
+    handmatig: { signalen: "\"Neem contact op\" (met formulier met \"Voornaam*\" en \"Verstuur bericht\") en \"Bel ons tijdens openingstijden\"", url: "https://lalana.nl/contact/" }
+    modern: { signalen: "\"Maak eenvoudig online je afspraak.\"", url: "https://lalana.nl/afspraak-maken/" }
+    boek_links: "Plan jouw gratis huidavies -> https://lalana.nl/afspraak-maken/ | Plan gratis proefbehandeling -> https://lalana.nl/afspraak-pagina-laser-ontharen/ | https://wa.me/31657903836?text=Hoi%20ik%20heb%20een%20vraag%20over%20een%20behandeling | https://www.facebook.com/Lalanahuidkliniek"
+    extra_pagina_s: ["https://lalana.nl/contact/", "https://lalana.nl/afspraak-maken/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Neem contact op\" Voornaam* Achternaam* E-mailadres* Bericht* Verstuur bericht", url: "https://lalana.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "\"Maak eenvoudig online je afspraak.\"", url: "https://lalana.nl/afspraak-maken/" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@lalana.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "MOOI Institute"
+    website: "https://www.mooiinstitute.nl/"
+    telefoon: "+31 10 212 6044"
+    adres: "Weissenbruchlaan 126, 3054 LS Rotterdam, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "477"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJexmurCvNxUcRQazDKQKGqEs"
+    proces_type: "gemengd"
+    boekingstool: "Salonized"
+    reden: "De site toont zowel een handmatige contact-/intake-route (formulier/bellen/e-mail) als online afspraakmogelijkheden via een externe boekingstool (Salonized)."
+    handmatig: { signalen: "Er is een intake/contactroute via contactformulier, bellen en e-mail, met terugkoppeling: \"Vul dan onderstaand formulier in, bel ons of stuur ons een e-mail. Dan nemen we zo spoedig mogelijk contact met u op.\"", url: "http://mooiinstitute.nl/contact/" }
+    modern: { signalen: "Op de homepage staan knoppen/links om een afspraak te maken via Salonized (widget_bookings/new).", url: "https://mooi-institute-1.salonized.com/widget_bookings/new" }
+    boek_links: "Afspraak maken -> https://mooi-institute-1.salonized.com/widget_bookings/new | Facebook -> https://www.facebook.com/MOOIinstitute/ | Afspraak maken -> https://mooi-institute-1.salonized.com/widget_bookings/new?widget_id=z7ZboJZ8P33JorKK4Aj5Nfxz | Afspraak maken -> https://mooi-institute-1.salonized.com/widget_bookings/new?widget_id=3Nh3FQKyRNQyYk8K11MwbFLy | Afspraak maken -> https://mooi-institute-1.salonized.com/widget_bookings/new?widget_id=9uhwmJazzQ5Pi9ziVfd7YDf7 | Afspraak maken -> https://mooi-institute-1.salonized.com/widget_bookings/new?widget_id=Q34gzXBa8qSMuTk5PKNKHMqD"
+    extra_pagina_s: ["http://mooiinstitute.nl/contact/", "https://www.mooiinstitute.nl/contact/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "Vul dan onderstaand formulier in, bel ons of stuur ons een e-mail.", url: "http://mooiinstitute.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "Dan nemen we zo spoedig mogelijk contact met u op.", url: "http://mooiinstitute.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "Afspraak maken", url: "https://mooi-institute-1.salonized.com/widget_bookings/new" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@mooiinstitute.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Silkify Clinic"
+    website: "https://silkify.nl/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=utrecht"
+    telefoon: "+31 85 049 2718"
+    adres: "Lange Viestraat 4, 3511 BK Utrecht, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "106"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJe3vh_TdvxkcRKX8LglRlbik"
+    proces_type: "gemengd"
+    boekingstool: ""
+    reden: "De kliniek biedt zowel online afspraken plannen (beschikbare tijden/“Boek afspraak”) als handmatige contactroutes zoals WhatsApp en een contactformulier met reactie binnen 1 werkdag."
+    handmatig: { signalen: "“Vul het formulier in en we reageren binnen één werkdag.” en “Vragen, afspraak verzetten, foto's sturen voor advies.”", url: "https://silkify.nl/contact/" }
+    modern: { signalen: "“Afspraak maken… Kies je vestiging en behandeling en zie direct de beschikbare tijden. Intake is gratis.”", url: "https://silkify.nl/plan-een-afspraak/" }
+    boek_links: "Plan een afspraak -> https://silkify.nl/plan-een-afspraak/ | Whatsapp -> https://wa.me/31850492718 | Facebook -> https://www.facebook.com/silkifyclinic/ | https://wa.me/31850492718?text=Hello"
+    extra_pagina_s: ["https://silkify.nl/contact/", "https://silkify.nl/plan-een-afspraak/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Vul het formulier in en we reageren binnen één werkdag.”", url: "https://silkify.nl/contact/" }
+      k2_foto_documenten: { gevonden: true, citaat: "“Vragen, afspraak verzetten, foto's sturen voor advies.”", url: "https://silkify.nl/contact/" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "“Kom langs in Amsterdam, Den Haag of Utrecht.”", url: "https://silkify.nl/contact/" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: true, citaat: "Log in met je e-mailadres en wijzig je afspraak zelf.", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "contact@silkify.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Deluxe Clinics"
+    website: "https://www.deluxeclinics.com/"
+    telefoon: "+31 6 57835470"
+    adres: "Volmerlaan 5, 2288 GC Rijswijk, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "12"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJeSz_Qby3xUcR7BWn4qrJ5fc"
+    proces_type: "onbekend"
+    boekingstool: ""
+    reden: "In de aangeleverde homepage/tekstfragmenten staat geen informatie over handmatige of geautomatiseerde intake- of offerteprocessen (alleen blogposts)."
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "", url: "" }
+    boek_links: "https://www.facebook.com/sharer/sharer.php?u=https://deluxeclinics.com/news/tooth-extraction-aftercare-a-how-t | https://www.facebook.com/sharer/sharer.php?u=https://deluxeclinics.com/uncategorized/hello-world/ | https://www.facebook.com/sharer/sharer.php?u=https://deluxeclinics.com/factcheck/the-unexpected-dangers-of-gum | https://www.facebook.com/sharer/sharer.php?u=https://deluxeclinics.com/factcheck/what-to-know-about-tooth-extr | https://www.facebook.com/sharer/sharer.php?u=https://deluxeclinics.com/interesting/teeth-names-types-and-funct | https://www.facebook.com/sharer/sharer.php?u=https://deluxeclinics.com/interesting/how-does-tooth-enamel-last-"
+    extra_pagina_s: ["https://www.deluxeclinics.com/", "https://www.deluxeclinics.com/"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "DYNA CLINIC"
+    website: "http://dynaclinic.nl/"
+    telefoon: "+31 6 22298711"
+    adres: "Standerdmolen 8b, 3995 AA Houten, Netherlands"
+    google_rating: "5"
+    google_reviews: "2"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJ82lVVCNnxkcRcv2e-lGB16k"
+    proces_type: "onbekend"
+    boekingstool: ""
+    reden: "De aangeleverde teksten van de homepage tonen geen inhoud over intake, offerte of boekingen; alleen meldingen dat het domein zojuist is geactiveerd zonder webinhoud."
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "", url: "" }
+    boek_links: ""
+    extra_pagina_s: ["http://dynaclinic.nl/", "http://dynaclinic.nl/"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k6_traject: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      contra: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      al_ver: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      online_boeken: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "KliniekErvaringen"
+    website: "https://www.kliniekervaringen.nl/"
+    telefoon: "+31 85 401 2474"
+    adres: "Randstad 22 46, 1316 BZ Almere, Netherlands"
+    google_rating: "4.3"
+    google_reviews: "6"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJe4DLQtJzxkcRjHdQoAmbQkU"
+    proces_type: "onbekend"
+    boekingstool: ""
+    reden: "In de aangeleverde teksten wordt geen concrete (online) intake- of offertestroom met tool/automatisering of terugbelproces getoond; er zijn alleen algemene verwijzingen zoals 'Direct een afspraak maken' en contact via e-mail."
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "", url: "" }
+    boek_links: "Facebook -> https://www.facebook.com/KliniekErvaringen"
+    extra_pagina_s: ["https://www.kliniekervaringen.nl/p/contact", "https://www.kliniekervaringen.nl/behandeling"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Aever Clinics - Westfield Mall of Netherlands"
+    website: "https://aeverclinics.com/en-NL/?utm_content=Aever+Clinics+-+Westfield+Mall+of+Netherlands+-+Leidschendam&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_12173105324906054707"
+    telefoon: "+31 6 38106283"
+    adres: "Kornoelje 16A, 2262 AV Leidschendam, Netherlands"
+    google_rating: "4.7"
+    google_reviews: "52"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJL5kAbPC3xUcR2CTq3tg8rWM"
+    proces_type: "modern"
+    boekingstool: "booking system"
+    reden: "De website verwijst naar een online booking system (Buy & Save/Book Now), wat wijst op een modern geautomatiseerd proces i.p.v. een handmatige intake/offerte."
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "Er staat dat je zaken via “our booking system” kunt regelen: “You can easily purchase a gift card either through our booking system using the Buy &amp; Save button”.", url: "https://aeverclinics.com/en-NL/booking/" }
+    boek_links: "Account -> https://aeverclinics.com/en-NL/booking/ | https://www.facebook.com/Aeverclinics/"
+    extra_pagina_s: ["https://aeverclinics.com/en-NL/?utm_content=Aever+Clinics+-+Westfield+Mall+of+Netherlands+-+Leidschendam&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_12173105324906054707", "https://aeverclinics.com/en-NL/?utm_content=Aever+Clinics+-+Westfield+Mall+of+Netherlands+-+Leidschendam&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_12173105324906054707"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "“either through our booking system using the Buy &amp; Save button or in person at any of our clinics.”", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "You can easily purchase a gift card either through our booking system using the Buy &amp; Save button", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "support.nl@aeverclinics.com"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Aurum Clinic"
+    website: "https://aurumclinic.nl/"
+    telefoon: "+31 85 303 7245"
+    adres: "Markt 13, 4101 BW Culemborg, Netherlands"
+    google_rating: "5"
+    google_reviews: "6"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJO0E7Ic5fxkcRyQPuT979vDc"
+    proces_type: "modern"
+    boekingstool: "book-now.at"
+    reden: "De website toont een (online) boekingslink voor het plannen van een consult, wat wijst op een modern intakeproces i.p.v. enkel handmatige afhandeling."
+    handmatig: { signalen: "Contact via telefoon/WhatsApp staat op de homepage, o.a. “06 20 70 15 42” en “https://wa.me/31620701542”.", url: "https://aurumclinic.nl/" }
+    modern: { signalen: "Er is een online boekingslink via “Maak een afspraak -> https://book-now.at/aurum-clinic” en daarnaast een WhatsApp-link (https://wa.me/31620701542) om een afspraak/consult in te plannen.", url: "https://aurumclinic.nl/" }
+    boek_links: "Maak een afspraak -> https://book-now.at/aurum-clinic | https://wa.me/31620701542 | https://www.facebook.com/share/1FnvQe5MfH/?mibextid=wwXIfr"
+    extra_pagina_s: ["https://aurumclinic.nl/prp-behandelingen", "https://aurumclinic.nl/over-ons"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Plan een vrijblijvend intakegesprek in”", url: "https://aurumclinic.nl/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "“Mijn aanpak begint met een uitgebreide intake, waarbij we samen kijken naar uw levensstijl, medische achtergrond en persoonlijke doelen. Pas als ik zeker weet dat ik u daadwerkelijk kan helpen, gaan we over tot een behandeling.”", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@aurumclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Comfort Clinic Laser Hair Removal & Skincare"
+    website: "https://www.comfortclinic.nl/"
+    telefoon: "+31 10 237 3330"
+    adres: "Blauwgras 69, 3068 BB Rotterdam, Netherlands"
+    google_rating: "5"
+    google_reviews: "23"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJh0C-Kh_NxUcRG0KQB6k-XMs"
+    proces_type: "modern"
+    boekingstool: "Salonized (widget_bookings)"
+    reden: "Omdat afspraken (gratis intake en boekingen) via online boekingssystemen zoals Salonized/Treatwell verlopen, is het proces modern geautomatiseerd met beperkte handmatige contactopties."
+    handmatig: { signalen: "\"chat via Whatsapp\" en \"vul het contactformulier in\" voor persoonlijk advies/vragen.", url: "https://www.comfortclinic.nl/contact" }
+    modern: { signalen: "\"Plan meteen uw gratis intakegesprek voor het laserontharen\" (met online boekingswidget) en \"U kunt de behandeling van uw keuze gemakkelijk online boeken via het Treatwell-boekingssysteem.\"", url: "https://comfort-clinic.salonized.com/widget_bookings/new" }
+    boek_links: "Whatsapp -> https://wa.me/+31639617825 | Plan meteen uw gratis intakegesprek voor -> https://comfort-clinic.salonized.com/widget_bookings/new | Boek nu! -> https://www.treatwell.nl/salon/comfort-clinic/ | https://www.facebook.com/comfortclinic.nl/"
+    extra_pagina_s: ["https://www.comfortclinic.nl/contact", "https://www.comfortclinic.nl/gezichtsbehandelingen"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Bel: 010 - 2373330, chat via Whatsapp, stuur een e-mail of vul het contactformulier in.\"", url: "https://www.comfortclinic.nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"We gebruiken de informatie in dit formulier om contact met u op te nemen over uw vraag.\"", url: "https://www.comfortclinic.nl/contact" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"Is dit het geval, dan heeft u gemiddeld 6 tot 8 behandelingen nodig om alle haren permanent te verwijderen.\"", url: "" }
+      contra: { gevonden: true, citaat: "\"U kunt de behandeling van uw keuze gemakkelijk online boeken via het Treatwell-boekingssysteem.\"", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "\"U kunt de behandeling van uw keuze gemakkelijk online boeken via het Treatwell-boekingssysteem.\"", url: "https://www.treatwell.nl/salon/comfort-clinic/" }
+      rechtsvorm: { gevonden: true, citaat: "\"Maak dan meteen een afspraak bij Comfort Clinic Laser Hair Removal B.V..\"", url: "https://www.comfortclinic.nl/contact" }
+    email_van_site: "info@comfortclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Diba Clinics"
+    website: "https://www.dibaclinics.nl/"
+    telefoon: "+31 10 203 8423"
+    adres: "Weissenbruchlaan 166, 3054 LS Rotterdam, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "402"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJVd5387A1xEcRxa0VzfCSGOI"
+    proces_type: "modern"
+    boekingstool: ""
+    reden: "De kliniek laat afspraken via een online agenda boeken met directe bevestiging, naast contact per telefoon/WhatsApp/formulier; dit wijst op een (deels) modern proces i.p.v. volledig handmatig."
+    handmatig: { signalen: "Bel/app/formulier waarna iemand antwoordt: “Bel ons, stuur een bericht of vul het formulier hieronder in.” en “Binnen twee werkdagen.”", url: "https://www.dibaclinics.nl/contact" }
+    modern: { signalen: "Er staat dat je “zelf online” een moment kiest en dat de bevestiging “direct” binnenkomt, plus dat de online agenda het snelst is.", url: "https://www.dibaclinics.nl/contact" }
+    boek_links: "5,03.910 reviews -> https://dibaclinics.salonized.com/reviews | Afspraak maken -> https://www.dibaclinics.nl/afspraak | Wat klanten zeggenAlles op Salonized, zo -> https://www.dibaclinics.nl/reviews | Stel je vraag -> https://wa.me/31624315661 | Facebook -> https://www.facebook.com/dibabeautycenter/?locale=nl_NL"
+    extra_pagina_s: ["https://www.dibaclinics.nl/intake", "https://www.dibaclinics.nl/contact"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Bel ons, stuur een bericht of vul het formulier hieronder in.”", url: "https://www.dibaclinics.nl/contact" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Binnen twee werkdagen. Voor iets met haast is bellen of appen sneller.”", url: "https://www.dibaclinics.nl/contact" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "“We reserveren er maximaal 30 minuten voor: het gesprek, de beoordeling van je huid en een advies dat je mee naar huis krijgt.”", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: ""
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Dokter Snel"
+    website: "http://www.doktersnel.nl/"
+    telefoon: "+31 20 211 7855"
+    adres: "Noordeinde 128H, 1121 AL Landsmeer, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "247"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJ5bYqxBwHxkcR9yI7DuYdrXI"
+    proces_type: "modern"
+    boekingstool: "book-now.at"
+    reden: "Er staat een directe knop om online een afspraak te plannen via een boekingstool (\"Plan afspraak\" naar book-now.at), wat wijst op een modern/ geautomatiseerd boekingsproces."
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "De pagina vermeldt \"Plan afspraak\" met een link naar https://book-now.at/dokter-snel (online boeken via een echte boekingstool).", url: "http://www.doktersnel.nl/ (link \"Plan afspraak\" naar https://book-now.at/dokter-snel)" }
+    boek_links: "Plan afspraak -> https://book-now.at/dokter-snel | Facebook -> https://www.facebook.com/drssnel"
+    extra_pagina_s: ["https://doktersnel.nl/behandelingen/", "https://doktersnel.nl/behandeling/kin/"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"Tijdens een behandeling worden de volgende stappen doorlopen: Consultatie... Voorbereiding... Injectie... Massage\"", url: "https://doktersnel.nl/behandeling/kin/" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "\"Plan afspraak\"", url: "http://www.doktersnel.nl/" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "Info@doktersnel.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "eClinic"
+    website: "http://www.eclinic.nl/"
+    telefoon: "+31 35 203 1711"
+    adres: "Eemnesserweg 14, 1251 NC Laren, Netherlands"
+    google_rating: "4.8"
+    google_reviews: "16"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJwzm-bC8VxkcROLQybqC6Nl4"
+    proces_type: "modern"
+    boekingstool: ""
+    reden: "Er is een (online) boekroute voor een gratis consult via de online agenda/\"Plan gratis consult\", naast contact via bellen/mailen; er wordt geen volledig geautomatiseerde intake/offertetool of AI genoemd."
+    handmatig: { signalen: "\"Staat uw tijd er niet bij? Bel of mail gerust.\"", url: "https://eclinic.nl/contact/" }
+    modern: { signalen: "\"Plan gratis consult\" en \"Een gratis consult bij eClinic is makkelijk te boeken via onze online agenda: gratis consult\".", url: "https://eclinic.nl/gratis-consult/" }
+    boek_links: "http://www.facebook.com/eClinicLaren/?locale=nl_NL"
+    extra_pagina_s: ["https://eclinic.nl/contact/", "https://eclinic.nl/gratis-consult/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Een gratis consult bij eClinic is makkelijk te boeken via onze online agenda: gratis consult\"", url: "https://eclinic.nl/contact/" }
+      k2_foto_documenten: { gevonden: true, citaat: "\"Eventuele foto\"", url: "https://eclinic.nl/contact/" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Heeft u een vraag? Stel deze gerust, wij nemen zo snel mogelijk contact met u op.\"", url: "https://eclinic.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"Bij eClinic kijkt de arts, tijdens het gratis consult, of u geschikt bent voor een haartransplantatie. Vervolgens wordt er een behandelplan voor u opgesteld\"", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "\"Een gratis consult bij eClinic is makkelijk te boeken via onze online agenda: gratis consult\"", url: "https://eclinic.nl/contact/" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@eclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Inmedita, International Medical Travel Agency"
+    website: "https://inmedita.nl/"
+    telefoon: "+31 85 760 4230"
+    adres: "Sierenborch 6, 1043 BA Amsterdam, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "24"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJk_qkbD_hxUcRgePq_t_Pk_s"
+    proces_type: "modern"
+    boekingstool: "Jotform"
+    reden: "Op de website staan knoppen die naar een online formulier verwijzen (Jotform) voor consult/prijsaanvraag en er is geen eigen chatbot of volledig geautomatiseerde intake/offerte beschreven in de teksten, dus het proces is modern (online tool)."
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "Knoppen zoals “Consult Plannen”, “Bel me terug” en “Aanvragen” verwijzen naar online formulieren (Jotform) voor o.a. consult en prijsopgave.", url: "https://inmedita.nl/" }
+    boek_links: "Consult Plannen -> https://form.jotform.com/242484332855360 | Bel me terug -> https://form.jotform.com/243123938829061 | Aanvragen -> https://form.jotform.com/241893998677080 | https://api.whatsapp.com/send?phone=+31611177806"
+    extra_pagina_s: ["http://www.inmedita.nl/contact", "https://inmedita.nl/over-ons/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Gratis Consult”", url: "homepage (https://inmedita.nl/)" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: true, citaat: "“Ontvang een gratis consult en prijsopgave Aanvragen”", url: "homepage (https://inmedita.nl/)" }
+      k4_opvolging: { gevonden: true, citaat: "“Bel me terug”", url: "homepage (https://inmedita.nl/)" }
+      k5_meerdere_locaties: { gevonden: true, citaat: "“Amsterdam | Istanbul | Antwerpen”", url: "homepage (https://inmedita.nl/)" }
+      k6_traject: { gevonden: true, citaat: "“Gratis ConsultTijdens het gratis consult bespreken we uw wensen en doelstellingen”", url: "homepage (https://inmedita.nl/)" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "reservations@inmedita.com"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "KLINICA"
+    website: "https://www.klinica.nl/"
+    telefoon: "+31 6 21663573"
+    adres: "Guldengaarde 8B, 5234 GG 's-Hertogenbosch, Netherlands"
+    google_rating: "4.7"
+    google_reviews: "228"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJ6V17ALvvxkcRj3ZIr5faXtY"
+    proces_type: "modern"
+    boekingstool: "Salonized"
+    reden: "De site toont een directe online boekingslink naar een externe boekingstool (Salonized), dus het proces is modern geautomatiseerd."
+    handmatig: { signalen: "Vooraf worden wensen besproken via een intakegesprek (“Om het optimale resultaat te bereiken bespreken we van tevoren jouw wensen middels een intakegesprek.”).", url: "" }
+    modern: { signalen: "Er is een online boekingstool zichtbaar via “Maak een afspraak”.", url: "https://klinica-health-elements.salonized.com/widget_bookings/new?widget_id=BiACtkEvXqjuQXbHKJxQdxhz" }
+    boek_links: "Cadeaubon -> https://klinica-health-elements.salonized.com/widget_giftcards/new | Inloggen -> https://www.klinica.nl/wp-admin/ | Maak een afspraak -> https://klinica-health-elements.salonized.com/widget_bookings/new?widget_id=BiACtkEvXqjuQXbHKJxQdxhz"
+    extra_pagina_s: ["https://www.klinica.nl/contact/", "https://www.klinica.nl/prijslijst/"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "Maak een afspraak", url: "https://klinica-health-elements.salonized.com/widget_bookings/new?widget_id=BiACtkEvXqjuQXbHKJxQdxhz" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@klinica.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Nationaal Huidcentrum"
+    website: "https://nationaalhuidcentrum.nl/"
+    telefoon: "+31 88 425 1000"
+    adres: "Naarderpoort 2A, 1411 MA Naarden, Netherlands"
+    google_rating: "4.4"
+    google_reviews: "76"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJu8OTN2QTxkcR-VouaGVzZm8"
+    proces_type: "modern"
+    boekingstool: "ClinicMinds"
+    reden: "De website verwijst naar een externe online afspraak-omgeving (ClinicMinds) voor “Maak een afspraak”, daarom is het proces modern met online boeking in plaats van enkel handmatige intake/offerte."
+    handmatig: { signalen: "Bel of mail voor contact en bij een afspraak plannen ze een consult in: “Bel of mail dan gewoon. Je hoeft niets te weten voordat je contact opneemt.”", url: "https://nationaalhuidcentrum.nl/contact/" }
+    modern: { signalen: "Online afspraak via “Maak een afspraak” met link naar https://schedule.clinicminds.com/services?clinic=39bb1dfd-ac1c-11eb-bffe-06f92916377c&l=nl-NL.", url: "https://schedule.clinicminds.com/services?clinic=39bb1dfd-ac1c-11eb-bffe-06f92916377c&l=nl-NL" }
+    boek_links: "Afspraak verplaatsen of afzeggen -> https://nationaalhuidcentrum.nl/de-kliniek/afspraak-verplaatsen-of-afzeggen/ | Maak een afspraak -> https://schedule.clinicminds.com/services?clinic=39bb1dfd-ac1c-11eb-bffe-06f92916377c&l=nl-NL | https://www.facebook.com/nationaalhuidcentrum.nl/ | WhatsApp ons -> https://wa.me/31644882792"
+    extra_pagina_s: ["https://nationaalhuidcentrum.nl/contact/", "https://nationaalhuidcentrum.nl/de-kliniek/afspraak-verplaatsen-of-afzeggen/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Bel of mail dan gewoon. Je hoeft niets te weten voordat je contact opneemt.”", url: "https://nationaalhuidcentrum.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Wil je een afspraak maken, dan plannen we een consult in bij de arts of huidtherapeut die het beste bij je vraag past.”", url: "https://nationaalhuidcentrum.nl/contact/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "“Maak een afspraak”", url: "https://schedule.clinicminds.com/services?clinic=39bb1dfd-ac1c-11eb-bffe-06f92916377c&l=nl-NL" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@nationaalhuidcentrum.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Natural Young!"
+    website: "https://natuurlijkjong.nl/?utm_source=googlemybusiness&utm_medium=organic"
+    telefoon: "+31 229 743 105"
+    adres: "Nieuwe Steen 52, 1625 HV Hoorn, Netherlands"
+    google_rating: "4.9"
+    google_reviews: "591"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJq0_pI_euyEcR7nmavKWxgSE"
+    proces_type: "modern"
+    boekingstool: "ClinicMinds Booking"
+    reden: "De website vermeldt “eenvoudig online inplannen” en toont “ClinicMinds Booking”, wat wijst op een online (geautomatiseerd) boekingsproces in plaats van een volledig handmatige intake/offerte."
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "De tekst noemt “eenvoudig online inplannen” en op pagina 3 staat “ClinicMinds Booking”.", url: "https://natuurlijkjong.nl/online-agenda/" }
+    boek_links: "Facebook-f -> https://www.facebook.com/NatuurlijkJong/"
+    extra_pagina_s: ["https://natuurlijkjong.nl/contact/", "https://natuurlijkjong.nl/online-agenda/"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: false, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@natuurlijkjong.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Novèll Skin Clinic"
+    website: "https://www.novellskinclinic.nl/"
+    telefoon: "+31 72 234 0883"
+    adres: "Korte Vondelstraat 5, 1813 AC Alkmaar, Netherlands"
+    google_rating: "5"
+    google_reviews: "80"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJm3B_5HJXz0cRCO8-ksk21Oo"
+    proces_type: "modern"
+    boekingstool: ""
+    reden: "Op de afspraakpagina staat een online boekingsstappenplan (“Boek hier…”) waarmee bezoekers zelf een afspraak kunnen maken, wat wijst op een modern proces."
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "“BOEK HIER GEMAKKELIJK JOUW AFSPRAAK” en “Klik op volgende stap en kies een beschikbare dag en tijd.”", url: "https://novellskinclinic.nl/afspraak-maken/" }
+    boek_links: "Afspraak maken -> https://novellskinclinic.nl/afspraak-maken/"
+    extra_pagina_s: ["https://novellskinclinic.nl/contact/", "https://novellskinclinic.nl/afspraak-maken/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "“Stap 3: Vul je gegevens in”", url: "" }
+      k2_foto_documenten: { gevonden: true, citaat: "“Dit bestaat uit een intakegesprek, uitgebreide huidanalyse d.m.v. het maken van foto’s in de Observ520X”", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "“Wij bellen of mailen jou als er een plek vrijkomt op de dagen waar jij je op in hebt geschreven.”", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "“Een consult + behandeling boek je als je jouw huid wilt verbeteren en een huidtraject in wilt gaan. Dit bestaat uit een intakegesprek, uitgebreide huidanalyse d.m.v. het maken van foto’s in de Observ520X , een behandeling op maat en productadvies.”", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "“BOEK HIER GEMAKKELIJK JOUW AFSPRAAK”", url: "" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@novellskinclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Saff. Clinics"
+    website: "http://www.saffclinics.nl/"
+    telefoon: "+31 6 13231118"
+    adres: "Fossa Iberica 1, 3995 XH Houten, Netherlands"
+    google_rating: "5"
+    google_reviews: "28"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJYSbjsVVnxkcRAiqbHeGvrCQ"
+    proces_type: "modern"
+    boekingstool: "Salonized"
+    reden: "De website biedt online boeken via een zichtbare Salonized boekingstool, dus het proces is modern met daarnaast een WhatsApp optie."
+    handmatig: { signalen: "WhatsApp wordt als contactkanaal aangeraden: \"Vanwege drukte adviseren we u ons te contacteren via WhatsApp!\"", url: "homepage (http://www.saffclinics.nl/)" }
+    modern: { signalen: "Op de homepage staat een ‘Boek hier uw afspraak’-link naar een online boekingstool van Salonized (widget_bookings/new) en er is ook een WhatsApp-contactlink.", url: "homepage (http://www.saffclinics.nl/)" }
+    boek_links: "Boek hier uw afspraak -> https://saff-clinics.salonized.com/widget_bookings/new | Boek hier uw afspraak -> https://saff-clinics.salonized.com/widget_bookings/new?widget_id=eWmihUF1Mg9Fe6YuS2EQmXkb | Start Chat with: -> https://api.whatsapp.com/send?phone=31613231118"
+    extra_pagina_s: ["http://www.saffclinics.nl/contact", "http://www.saffclinics.nl/prijslijst"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Vanwege drukte adviseren we u ons te contacteren via WhatsApp!\"", url: "homepage (http://www.saffclinics.nl/)" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"Boek dan nu een gratis consult of proefbehandeling bij Saff. Clinics.\"", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: false, citaat: "", url: "homepage (http://www.saffclinics.nl/)" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@saffclinics.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Secret Hair Clinic"
+    website: "http://www.secrethairclinic.nl/"
+    telefoon: "+31 6 44481110"
+    adres: "Sint-Andriesstraat 51, 3073 JS Rotterdam, Netherlands"
+    google_rating: "4.6"
+    google_reviews: "132"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJaY9oe5YzxEcR8uLPVeQ6CdE"
+    proces_type: "modern"
+    boekingstool: "Salonized"
+    reden: "De homepage biedt online boeking via een Salonized boekingswidget (afspraak maken), wat wijst op een modern/geautomatiseerd boekingsproces i.p.v. handmatige intake/offerte."
+    handmatig: { signalen: "", url: "" }
+    modern: { signalen: "Online afspraak maken via de knoppen “Afsrpaak maken” en “Afspraak maken”, die naar een Salonized widget_bookings/new link verwijzen.", url: "http://www.secrethairclinic.nl/" }
+    boek_links: "+31 (0)6 44481110 -> https://api.whatsapp.com/send?phone=31644481110 | Facebook -> https://www.facebook.com/secretsclinic/ | Afsrpaak maken -> https://secret-hair-clinic.salonized.com/widget_bookings/new | Afspraak maken -> https://secret-hair-treatment-1.salonized.com/widget_bookings/new"
+    extra_pagina_s: ["https://secrethairclinic.nl/contact/", "http://www.secrethairclinic.nl/contact"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "+31 (0)6 44481110", url: "http://www.secrethairclinic.nl/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      k6_traject: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+      online_boeken: { gevonden: true, citaat: "Afspraak maken", url: "http://www.secrethairclinic.nl/" }
+      rechtsvorm: { gevonden: false, citaat: "onvoldoende bewijs, telefonisch verifiëren", url: "" }
+    email_van_site: "info@secrethairclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "Stralend Waalwijk"
+    website: "http://www.stralendwaalwijk.nl/"
+    telefoon: "+31 416 209 111"
+    adres: "Kloosterheulweg 14, 5145 NZ Waalwijk, Netherlands"
+    google_rating: "5"
+    google_reviews: "129"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJhaYnZESRxkcRATqmdBP2FVU"
+    proces_type: "modern"
+    boekingstool: ""
+    reden: "De website laat zien dat afspraken zelf online kunnen worden ingepland via een online afspraakstap (datum/tijd kiezen en gegevens invullen)."
+    handmatig: { signalen: "\"Staat jouw gewenste tijd er niet bij? Neem dan contact met ons op door een mail te sturen naar jasmine@stralendwaalwijk.nl.\"", url: "https://stralendwaalwijk.nl/afspraak/" }
+    modern: { signalen: "\"Bij Stralend plan je je afspraak makkelijk online in. Kies de gewenste behandeling, klik de datum en het tijdstip aan en vul je persoonlijke gegevens in.\"", url: "https://stralendwaalwijk.nl/afspraak/" }
+    boek_links: "Afspraak maken -> https://stralendwaalwijk.nl/afspraak/ | Facebook-f -> https://m.facebook.com/351138915605128/"
+    extra_pagina_s: ["https://stralendwaalwijk.nl/contact/", "https://stralendwaalwijk.nl/afspraak/"]
+    kenmerken:
+      k1_intake_route: { gevonden: true, citaat: "\"Je naam\"", url: "https://stralendwaalwijk.nl/contact/" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: true, citaat: "\"Staat jouw gewenste tijd er niet bij? Neem dan contact met ons op door een mail te sturen naar jasmine@stralendwaalwijk.nl.\"", url: "https://stralendwaalwijk.nl/afspraak/" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "\"We nemen de tijd, luisteren naar je verhaal en begeleiden je stap voor stap naar een gladde huid\"", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "\"Bij Stralend plan je je afspraak makkelijk online in.\"", url: "https://stralendwaalwijk.nl/afspraak/" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "jasmine@stralendwaalwijk.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
+  - bedrijf: "VIC Skin Clinic"
+    website: "http://www.vicskinclinic.nl/"
+    telefoon: "+31 6 48917819"
+    adres: "Molenstraat 47D, 4201 CV Gorinchem, Netherlands"
+    google_rating: "5"
+    google_reviews: "116"
+    maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJsRf1fRSFxkcRNzLp2A1Ub74"
+    proces_type: "modern"
+    boekingstool: "Salonized"
+    reden: "De website biedt online een boekingstool aan voor een huidanalyse (Salonized), wat wijst op een modern intakeproces."
+    handmatig: { signalen: "Contact via telefoon/e-mail of contactformulier: \"Bericht\\u00a0Verzenden\".", url: "https://www.vicskinclinic.nl/contact" }
+    modern: { signalen: "Online boeken via een Salonized widget voor een huidanalyse: \"PLAN HUIDANALYSE\".", url: "https://vic-skin-clinic-huidtherapie.salonized.com/widget_bookings/new" }
+    boek_links: "PLAN HUIDANALYSE -> https://vic-skin-clinic-huidtherapie.salonized.com/widget_bookings/new"
+    extra_pagina_s: ["https://www.vicskinclinic.nl/contact", "https://www.vicskinclinic.nl/combinatiebehandeling"]
+    kenmerken:
+      k1_intake_route: { gevonden: false, citaat: "", url: "" }
+      k2_foto_documenten: { gevonden: false, citaat: "", url: "" }
+      k3_offerte_aanvraag: { gevonden: false, citaat: "", url: "" }
+      k4_opvolging: { gevonden: false, citaat: "", url: "" }
+      k5_meerdere_locaties: { gevonden: false, citaat: "", url: "" }
+      k6_traject: { gevonden: true, citaat: "", url: "" }
+      contra: { gevonden: false, citaat: "", url: "" }
+      al_ver: { gevonden: false, citaat: "", url: "" }
+      online_boeken: { gevonden: true, citaat: "PLAN JE HUIDANALYSE", url: "https://vic-skin-clinic-huidtherapie.salonized.com/widget_bookings/new" }
+      rechtsvorm: { gevonden: false, citaat: "", url: "" }
+    email_van_site: "info@vicskinclinic.nl"
+    controle: { citaat_geopend: false, omvang: "", rechtsvorm: "", concern: "", dubbel_in_leads: false, besluit: "", gecontroleerd_op: "" }
+    waarom_nu_feit: ""
+    waarom_nu_hypothese: ""
+    waarom_nu_vraag: ""
+    briefing: ""
+    invalshoek: ""
+    contact: { beslisser: "", email: "", status: nieuw, laatste_contact: "", notities: "" }
