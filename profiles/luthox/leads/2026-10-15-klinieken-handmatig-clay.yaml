@@ -1,0 +1,1665 @@
+business: luthox
+segment: haartransplantatie-klinieken
+generated_at: 2026-10-15
+description: >-
+  55 klinieken (haartransplantatie, cosmetisch en huid) uit een Google Maps-zoekopdracht in Clay, per site doorgelicht door de Clay-workflow
+  "Clay – Klinieken behoefte-check" (homepage plus twee extra pagina's; zie outreach/clay/). Gekozen omdat de site een handmatig proces laat zien
+  (44 HANDMATIG, 11 GEMENGD: deels online plannen, deels handwerk). Per lead staat dit in `proces_type` en vooraan in `why_fit`. Klinieken die al modern werken (15) en klinieken zonder bruikbare site (3) zijn niet opgenomen; zie de batch in outreach/clay/. Alle citaten komen uit de gescrapete tekst van de site en zijn NOG NIET door een mens
+  gecontroleerd. NIET gecontroleerd: omvang (11-50), rechtsvorm (eenmanszaak/vof niet mailen, wel bellen), concern en of een boekingstool of portaal
+  op een niet gelezen pagina staat. Controleer de bronpagina en het citaat vóór je belt. Volledige uitkomst met alle kenmerken en citaten:
+  outreach/clay/batches/2026-10-15-haartransplantatie-klinieken-proces.yaml.
+leads:
+  - name: "Alpha Haarkliniek"
+    url: "https://alphahaarkliniek.nl/"
+    city: "Amsterdam"
+    address: "Pedro de Medinalaan 67, 1086 XP Amsterdam, Netherlands"
+    phone: "+31 20 262 0222"
+    email_van_site: "info@alphahaarkliniek.nl"
+    google_rating: "4.9"
+    google_reviews: "79"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De intake/consult aanvraag verloopt via contact (bellen/WhatsApp/e-mail en een berichtformulier) en “prijzen op aanvraag”, zonder zichtbare geautomatiseerde boekings- of offertetool; daarom handmatig."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://alphahaarkliniek.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://alphahaarkliniek.nl/nl/contact): \"Wij reageren doorgaans binnen enkele uren\" en \"WhatsApp+31 6 11 06 73 67\" (contact via telefoon/WhatsApp/e-mail en berichtformulier) plus \"Prijs op aanvraag\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Wij reageren doorgaans binnen enkele uren\" en \"WhatsApp+31 6 11 06 73 67\" (contact via telefoon/WhatsApp/e-mail en berichtformulier) plus \"Prijs op aanvraag\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Amsterdam Hair Institute"
+    url: "https://www.amsterdamhairinstitute.com/"
+    city: "Amsterdam"
+    address: "Antonio Vivaldistraat 56, 1083 HP Amsterdam, Netherlands"
+    phone: "+31 88 303 1660"
+    email_van_site: ""
+    google_rating: "4.9"
+    google_reviews: "526"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De intake/afhandeling verloopt via haarbeoordeling aanvragen met fotoupload en vervolgens persoonlijk contact (o.a. via WhatsApp en een specialist) i.p.v. een volledig geautomatiseerde online intake of boekings/offertetool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.amsterdamhairinstitute.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb): \"Binnen 48 uur neemt een specialist contact met u op voor een vrijblijvend persoonlijk consult.\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Binnen 48 uur neemt een specialist contact met u op voor een vrijblijvend persoonlijk consult.\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Anatomy43"
+    url: "https://anatomy43.nl/"
+    city: "Gouda"
+    address: "Korte Groenendaal 4, 2801 JN Gouda, Netherlands"
+    phone: "+31 182 769 011"
+    email_van_site: "admin@msight.nl"
+    google_rating: "5"
+    google_reviews: "50"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: In de aangeleverde teksten loopt het eerste contact via een contactformulier en/of telefonisch contact en er wordt geen zichtbare geautomatiseerde boekings- of offertetool genoemd."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://anatomy43.nl/contact/): De website vraagt om contact via het contactformulier of telefonisch: \"Vul dan het contactformulier in met jouw vraag.\" en \"Bel dan op maandag t/m vrijdag tussen 10:00 uur en 17:00 uur naar +31 (0) 182 769 011\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: De website vraagt om contact via het contactformulier of telefonisch: \"Vul dan het contactformulier in met jouw vraag.\" en \"Bel dan op maandag t/m vrijdag tussen 10:00 uur en 17:00 uur naar +31 (0) 18"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Beauclinic"
+    url: "http://www.beauclinic.nl/"
+    city: "Nieuwegein"
+    address: "Wiersedreef 26, 3433 ZX Nieuwegein, Netherlands"
+    phone: "+31 85 303 1570"
+    email_van_site: "jeroenvanderkroon@beauclinic.nl"
+    google_rating: "4.8"
+    google_reviews: "361"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Beauclinic toont vooral contact/aanvragen via adviesgesprek en (e-mail/telefoon/WhatsApp/formulier); er is geen zichtbaar geautomatiseerd boekings- of offertool in de aangeleverde teksten."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://beauclinic.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.beauclinic.nl/): Er is (handmatig) aanvraag/contact via gratis adviesgesprek en directe contactkanalen, o.a. “Bel (+31) 085-303 1570” en “WhatsApp (+31) 085-303 1570”, plus aanvraagformulieren zoals “Laat je naam en e-mailadres achter. Je ontvangt direct onze volledige prijslijst.”"
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Er is (handmatig) aanvraag/contact via gratis adviesgesprek en directe contactkanalen, o.a. “Bel (+31) 085-303 1570” en “WhatsApp (+31) 085-303 1570”, plus aanvraagformulieren zoals “Laat je naam en e"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Beauty by Roos Hairextensions Amersfoort"
+    url: "http://www.beautybyroos.nl/"
+    city: "Amersfoort"
+    address: "Algolweg 18, 3821 BH Amersfoort, Netherlands"
+    phone: "+31 33 760 0010"
+    email_van_site: "info@beautybyroos.nl"
+    google_rating: "4.7"
+    google_reviews: "153"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Op de afspraakpagina verloopt contact/intake via telefoon, e-mail en een (contact)formulier; er wordt geen echte online boekingstool of geautomatiseerde intake/offerte zichtbaar."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "http://www.beautybyroos.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://beautybyroos.nl/afspraak/): Contact en aanmelding verlopen via “WhatsApp ons”, “Bel ons” en “Of stel je vraag hier” (formulier)."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Contact en aanmelding verlopen via “WhatsApp ons”, “Bel ons” en “Of stel je vraag hier” (formulier)."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Beauty Care Nederland"
+    url: "http://www.beautycarenederland.nl/"
+    city: "Katwijk aan Zee"
+    address: "Mandenmakerstraat 5, 2222 AX Katwijk aan Zee, Netherlands"
+    phone: "+31 71 888 5652"
+    email_van_site: "info@beautycarenederland.nl"
+    google_rating: "5"
+    google_reviews: "139"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De website laat een (foto)formulier/WhatsApp intake zien waarna iemand telefonisch contact opneemt om het behandelplan en een offerte te bespreken; er is geen zichtbare geautomatiseerde boekings- of offertecalculator-tool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.beautycarenederland.nl/mhp-foto-consult-service/): \"Middels dit MHP foto consult formulier is het mogelijk om foto’s in te sturen en op basis daarvan advies en een offerte te ontvangen\" en \"na beoordeling van de foto’s en opstellen van een behandelplan telefonisch contact opnemen om dit te bespreken.\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Middels dit MHP foto consult formulier is het mogelijk om foto’s in te sturen en op basis daarvan advies en een offerte te ontvangen\" en \"na beoordeling van de foto’s en opstellen van een behandelpla"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Beauty Clinic Nederland"
+    url: "https://beautyclinic.global/"
+    city: "Den Haag"
+    address: "Van der Vennestraat 61, 2525 CB Den Haag, Netherlands"
+    phone: "+31 70 389 1193"
+    email_van_site: "info@beautyclinic-nederland.nl"
+    google_rating: "4.9"
+    google_reviews: "118"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen geen zichtbare online boekingstool of geautomatiseerd offerteproces; contact verloopt via contactformulier en telefonisch (handmatig)."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "homepage (https://beautyclinic.global/)"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (homepage (https://beautyclinic.global/)): \"Neem dan contact met ons op via ons contactformulier\" en \"Bel ons op: 070 – 389 1193\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Neem dan contact met ons op via ons contactformulier\" en \"Bel ons op: 070 – 389 1193\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "CB Clinic"
+    url: "http://www.cb-clinic.nl/"
+    city: "Asperen"
+    address: "2e Industrieweg 14b, 4147 CT Asperen, Netherlands"
+    phone: "+31 6 46818838"
+    email_van_site: "info@cb-clinic.nl"
+    google_rating: "5"
+    google_reviews: "41"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen een intake/contactaanvraag via een invulformulier (waarna contact wordt opgenomen), zonder zichtbare online boeking of geautomatiseerde intake/offerte tool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.cb-clinic.nl/contact/): “Vul onderstaand formulier in en wij nemen zo snel mogelijk contact met u op!” en “Tijdens een gratis intake bespreken we uw wensen en kunt u door middel van een proefshot ervaren hoe onze laser werkt.”"
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Vul onderstaand formulier in en wij nemen zo snel mogelijk contact met u op!” en “Tijdens een gratis intake bespreken we uw wensen en kunt u door middel van een proefshot ervaren hoe onze laser werkt"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "center Oosterwal"
+    url: "http://www.centrum-oosterwal.nl/"
+    city: "Alkmaar"
+    address: "Comeniusstraat 3, 1817 MS Alkmaar, Netherlands"
+    phone: "+31 72 515 7744"
+    email_van_site: ""
+    google_rating: "4.2"
+    google_reviews: "135"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Centrum Oosterwal maakt afspraken volgens de teksten via telefonisch contact en een (tijdelijk buiten werking zijnd) contactformulier; er wordt geen zichtbare online boekingstool of geautomatiseerde intake/offerte getoond."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "http://www.centrum-oosterwal.nl/contact/locaties"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.centrum-oosterwal.nl/contact/): \"U kunt een afspraak bij ons maken door telefonisch contact op te nemen.\" en \"Onderstaand contactformulier is tijdelijk buiten werking.\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"U kunt een afspraak bij ons maken door telefonisch contact op te nemen.\" en \"Onderstaand contactformulier is tijdelijk buiten werking.\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Clinic Redermal"
+    url: "http://www.clinicredermal.nl/"
+    city: "Leidschendam"
+    address: "Johann Sebastian Bachlaan 97, 2264 WC Leidschendam, Netherlands"
+    phone: "+31 70 369 8212"
+    email_van_site: "info@clinicredermal.nl"
+    google_rating: "4.7"
+    google_reviews: "24"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Er wordt een afspraak gemaakt via een contactpagina/formulier (geen zichtbare geautomatiseerde boekingstool of online betaal-/offertesysteem in de gegeven teksten)."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://clinicredermal.nl/contact/): “AFSPRAAK MAKEN -> http://clinicredermal.nl/contact/” en op de contactpagina “Stuur ons een bericht”."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “AFSPRAAK MAKEN -> http://clinicredermal.nl/contact/” en op de contactpagina “Stuur ons een bericht”."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "De Huidkliniek"
+    url: "https://dehuidkliniek.nl/klinieken/de-huidkliniek-leiden"
+    city: "Leiden"
+    address: "Haarlemmerstraat 198/200, 2312 GH Leiden, Netherlands"
+    phone: "+31 88 224 0300"
+    email_van_site: ""
+    google_rating: "5"
+    google_reviews: "66"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen dat nieuwe afspraken/intake verlopen via bellen of WhatsApp/telefonisch contact, zonder zichtbare online boekingstool of geautomatiseerd intake-/offertesysteem."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://dehuidkliniek.nl/afspraak-maken"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://dehuidkliniek.nl/afspraak-maken): Nieuw: “Plan vrijblijvend een gratis consult in of boek direct een behandeling. Wij zijn 6 dagen per week en in de avond geopend” en contact via “Bel of whatsapp met 088 - 2240300.”"
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Nieuw: “Plan vrijblijvend een gratis consult in of boek direct een behandeling. Wij zijn 6 dagen per week en in de avond geopend” en contact via “Bel of whatsapp met 088 - 2240300.”"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Dfine Clinic"
+    url: "https://dfineclinic.nl/"
+    city: "Castricum"
+    address: "Kerckeven 1, 1902 AG Castricum, Netherlands"
+    phone: "+31 6 42227289"
+    email_van_site: "info@dfineclinic.nl"
+    google_rating: "4.9"
+    google_reviews: "134"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Het proces lijkt niet volledig geautomatiseerd: via het contactformulier/“afspraak maken”/“gratis intake” wordt een aanvraag ingediend en daarna neemt de kliniek contact op voor een definitieve afspraak."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://dfineclinic.nl/contact/): \"De aanvraag is niet bindend. Wij nemen contact met u op voor een definitieve afspraak\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"De aanvraag is niet bindend. Wij nemen contact met u op voor een definitieve afspraak\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Elite Skin Clinic"
+    url: "http://www.eliteskin.nl/"
+    city: "Den Haag"
+    address: "Laan van Wateringse Veld 385, 2548 BL Den Haag, Netherlands"
+    phone: "+31 70 200 5962"
+    email_van_site: "info@eliteskin.nl"
+    google_rating: "4.9"
+    google_reviews: "257"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Er is geen zichtbare online boekingstool of geautomatiseerde intake/offerte; er wordt wel een handmatig contactkanaal genoemd via WhatsApp/telefoon."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://eliteskin.nl/contact/): Op de contactpagina staat 'Whatsapp' als handmatig contactkanaal."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Op de contactpagina staat 'Whatsapp' als handmatig contactkanaal."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Estefarya Haarkliniek"
+    url: "https://estefarya.com/"
+    city: "Amsterdam"
+    address: "Ganzenhoef Medisch Centrum, Bijlmerdreef 1169, 3e verdieping, 1103 TT Amsterdam, Netherlands"
+    phone: "+31 6 85857700"
+    email_van_site: "info@estefarya.com"
+    google_rating: "4.8"
+    google_reviews: "184"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De intake verloopt via handmatige contactkanalen (WhatsApp/telefoon/e-mail en een “Send Message” formulier); er is geen zichtbare online boekingstool of geautomatiseerde intake/offertecalculator in de gegeven teksten."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://estefarya.com/en/contact-us/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://estefarya.com/en/contact-us/): “Upload Files … Choose files or drag & drop them here … Send Message” en contact via telefoon/WhatsApp/e-mail (“Phone +316 85857700” en “Email info@estefarya.com”)."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Upload Files … Choose files or drag & drop them here … Send Message” en contact via telefoon/WhatsApp/e-mail (“Phone +316 85857700” en “Email info@estefarya.com”)."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Esteworld Haartransplantatie Turkije"
+    url: "http://www.esteworld-haartransplantatie.nl/"
+    city: "IJsselstein"
+    address: "Lage Dijk-Noord 18, 3401 VA IJsselstein, Netherlands"
+    phone: "+31 30 227 0560"
+    email_van_site: "hallo@esteworld-haartransplantatie.nl"
+    google_rating: "4.9"
+    google_reviews: "747"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De website toont vooral intake via formulieren/consult aanvragen en contact, met handmatige opvolging (reactie/consult), zonder zichtbare geautomatiseerde boeking of offerte-tool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "http://www.esteworld-haartransplantatie.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.esteworld-haartransplantatie.nl/): \"Offerte aanvragen\" en \"Consult aanvragen\" via formulier/contact, met \"Binnen 1 werkdag reactie\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Offerte aanvragen\" en \"Consult aanvragen\" via formulier/contact, met \"Binnen 1 werkdag reactie\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "FlyHealth Turkije | Plastisch Chirurgie | Haartransplantatie | Tandarts | Gewichtsverlies"
+    url: "http://www.flyhealth.nl/"
+    city: "Leiden"
+    address: "Kanaalpark 157, 2321, 2321 JW Leiden, Netherlands"
+    phone: "+31 6 86078924"
+    email_van_site: ""
+    google_rating: "5"
+    google_reviews: "16"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: FlyHealth gebruikt contact via WhatsApp en een formulier om een afspraak/consult te plannen, zonder zichtbare geautomatiseerde boekings- of offertecalculator-tool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.flyhealth.nl/gratis-consult/): Afspraak/consult loopt via WhatsApp en/of een (contact)formulier, waarna men contact opneemt: “Maak direct een afspraak bij FlyHealth” en “Voor meer informatie hierover neemt u contact met ons op via WhatsApp; +31 6 86078924 of het onderstaande formulier.”"
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Afspraak/consult loopt via WhatsApp en/of een (contact)formulier, waarna men contact opneemt: “Maak direct een afspraak bij FlyHealth” en “Voor meer informatie hierover neemt u contact met ons op via "
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Fue Perfect"
+    url: "http://www.fueperfect.nl/"
+    city: "Lelystad"
+    address: "Zilverparkkade 3, 8232 WJ Lelystad, Netherlands"
+    phone: "+31 85 401 8112"
+    email_van_site: "info@fueperfect.nl"
+    google_rating: "4.7"
+    google_reviews: "34"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Er is geen zichtbare geautomatiseerde intake/offerte of boekingstool; consultaanvraag loopt via contact/aanvraag en daarna volgt een stappenplan met consult en nazorg."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "http://www.fueperfect.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.fueperfect.nl/contact/): \"Vraag een gratis consult aan\" en via het contactformulier \"Naam *Email *GeboortedatumTelefoonnummerToelichting *Versturen\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Vraag een gratis consult aan\" en via het contactformulier \"Naam *Email *GeboortedatumTelefoonnummerToelichting *Versturen\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Graft Point Kliniek | Haartransplantatie"
+    url: "https://graftpoint.nl/"
+    city: "Capelle aan den IJssel"
+    address: "Kanaalweg 3-7, 2903 LR Capelle aan den IJssel, Netherlands"
+    phone: "+31 6 10419910"
+    email_van_site: "info@graftpoint.nl"
+    google_rating: "5"
+    google_reviews: "66"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Op de website staat contact en een invulformulier (met WhatsApp/telefonisch overleg), maar er is geen zichtbare online boekingstool of geautomatiseerde offerte/aanbetaling in de gegeven teksten; daarom is het proces handmatig."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://graftpoint.nl/consult-plannen/): “Je kunt telefonisch overleggen met onze haarspecialist of gewoon langskomen in onze kliniek.” en “Vul je gegevens in en ontvang binnen 24 uur persoonlijk en deskundig advies” (plus contact via “+31613901380 of whatsapp ons”)."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Je kunt telefonisch overleggen met onze haarspecialist of gewoon langskomen in onze kliniek.” en “Vul je gegevens in en ontvang binnen 24 uur persoonlijk en deskundig advies” (plus contact via “+3161"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Haar- & Huidinstituut Westland"
+    url: "https://haarenhuidinstituutwestland.nl/"
+    city: "Poeldijk"
+    address: "Voorstraat 96, 2685 EP Poeldijk, Netherlands"
+    phone: "+31 174 621 936"
+    email_van_site: "info@haarenhuidinstituutwestland.nl"
+    google_rating: "4.3"
+    google_reviews: "35"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De intake verloopt via een contactformulier met de boodschap dat ze je bellen voor een afspraak, zonder zichtbare online boeking of geautomatiseerde flow."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://haarenhuidinstituutwestland.nl/contact): Handmatige aanpak met contact via formulier en terugbel/afspraak: \"Wij bellen je voor een afspraak\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Handmatige aanpak met contact via formulier en terugbel/afspraak: \"Wij bellen je voor een afspraak\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Haartransplantatie Yildiz"
+    url: "http://www.haartransplantatieyildiz.nl/"
+    city: "Alkmaar"
+    address: "Laat 117E, 1811 ED Alkmaar, Netherlands"
+    phone: "+31 72 202 9376"
+    email_van_site: "info@haartransplantatieyildiz.nl"
+    google_rating: "5"
+    google_reviews: "7"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De website vraagt via contactformulier/aanvraag voor een kosteloos consult en toont geen echte online boekingstool of geautomatiseerde offerte."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.haartransplantatieyildiz.nl/): Er is een (kosteloos) consult/“offerte aanvraag” via een contactformulier met velden “E-mailadres”, “Telefoon” en “Je bericht” en een “Verzenden” knop."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Er is een (kosteloos) consult/“offerte aanvraag” via een contactformulier met velden “E-mailadres”, “Telefoon” en “Je bericht” en een “Verzenden” knop."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Hair Consultancy Bussum B.V."
+    url: "https://www.hairconsultancy.nl/"
+    city: "Bussum"
+    address: "Lindelaan 2, 1405 AJ Bussum, Netherlands"
+    phone: "+31 35 693 0442"
+    email_van_site: "info@hairconsultancy.nl"
+    google_rating: "4.3"
+    google_reviews: "6"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen vooral een verzoek voor een (vrijblijvend) informatiegesprek en contact per telefoon/e-mail; er is geen zichtbare online boekings- of offerte-tool, dus het proces is handmatig."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.hairconsultancy.nl/): “Gesprek aanvragen” en contactgegevens zoals “info@hairconsultancy.nl” wijzen op een aanvraag per contactkanaal in plaats van een online boekings-/betaalt tool."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Gesprek aanvragen” en contactgegevens zoals “info@hairconsultancy.nl” wijzen op een aanvraag per contactkanaal in plaats van een online boekings-/betaalt tool."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Hair Solutions Clinic | Haar pigmentatie specialist | Ombre Powder Brows"
+    url: "http://www.hairsolutionsclinic.nl/"
+    city: "Mijdrecht"
+    address: "Bozenhoven 19, 3641 AB Mijdrecht, Netherlands"
+    phone: "+31 6 42145130"
+    email_van_site: "info@hairsolutionsclinic.nl"
+    google_rating: "5"
+    google_reviews: "77"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen afspraak/consult aanvragen via contact (telefoon/WhatsApp en formulier) en niet via een zichtbare online boekingstool of geautomatiseerde intake/offerte."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.hairsolutionsclinic.nl/contact): \"Er wordt alleen op afspraak gewerkt, zodat er genoeg tijd voor je is.\" en \"Wil je een gratis en vrijblijvend consult aanvragen?\" en \"Maak een afspraak\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Er wordt alleen op afspraak gewerkt, zodat er genoeg tijd voor je is.\" en \"Wil je een gratis en vrijblijvend consult aanvragen?\" en \"Maak een afspraak\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "hairdresser Cleopatra"
+    url: "http://www.saloncleopatra.nl/"
+    city: "Utrecht"
+    address: "Rijnlaan 92, 3522 BR Utrecht, Netherlands"
+    phone: "+31 30 289 9822"
+    email_van_site: "info@saloncleopatra.nl"
+    google_rating: "4.7"
+    google_reviews: "72"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen vooral contact opnemen via telefoon/e-mail voor afspraken; er is geen zichtbare geautomatiseerde online boekingstool of offertecalculator in de aangeleverde teksten."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://saloncleopatra.nl/contact/): \"TELEFOON: 030 – 2899822\" en \"E-MAIL: info@saloncleopatra.nl\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"TELEFOON: 030 – 2899822\" en \"E-MAIL: info@saloncleopatra.nl\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Hairtec"
+    url: "https://hairtec.nl/"
+    city: "Delft"
+    address: "Olof Palmestraat 20, 2616 LS Delft, Netherlands"
+    phone: "+31 15 700 9755"
+    email_van_site: "contact@hairtec.nl"
+    google_rating: "4.9"
+    google_reviews: "366"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Er wordt contact opgenomen via een contactformulier (handmatig) en er zijn meerdere stappen via gratis adviesgesprek/ analyse/ behandeling/ nazorg, zonder zichtbare online boekings- of geautomatiseerde intake/offerte-tool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://hairtec.nl/contact/): \"Wilt u dat wij contact met u opnemen? Vul dan onderstaande gegevens in en we nemen uiterlijk de volgende werkdag contact met u op.\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Wilt u dat wij contact met u opnemen? Vul dan onderstaande gegevens in en we nemen uiterlijk de volgende werkdag contact met u op.\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Harbour Hair Clinic"
+    url: "https://www.harbourhairclinic.nl/"
+    city: "Den Haag"
+    address: "Hellingweg 96-G, 2583 WH Den Haag, Netherlands"
+    phone: "+31 70 221 1790"
+    email_van_site: "info@harbourhairclinic.nl"
+    google_rating: "4.6"
+    google_reviews: "16"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Het consultproces loopt via een invulformulier en contact via telefoon/WhatsApp, zonder zichtbare geautomatiseerde boekings- of offertetool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://harbourhairclinic.nl/gratis-consult/): “Plan een vrijblijvend consult en krijg professioneel advies, inclusief een haaranalyse.” en “Voornaam … E-mailadres … Telefoonnummer … Bericht” met “VERZENDEN”, plus “Bel ons” en “WhatsApp”"
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Plan een vrijblijvend consult en krijg professioneel advies, inclusief een haaranalyse.” en “Voornaam … E-mailadres … Telefoonnummer … Bericht” met “VERZENDEN”, plus “Bel ons” en “WhatsApp”"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Hasci Amsterdam"
+    url: "https://hasci.nl/"
+    city: "Amsterdam"
+    address: "Claude Debussylaan 263, 1082 MC Amsterdam, Netherlands"
+    phone: "+31 20 575 2330"
+    email_van_site: ""
+    google_rating: "3.6"
+    google_reviews: "24"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten beschrijven een gratis, vrijblijvend consult en contact via contact opnemen/afspraak maken, maar tonen geen echte online boekingstool of geautomatiseerd intake/offertesysteem."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://hasci.nl/contact/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://hasci.nl/contact/): \"Tijdens een gratis, vrijblijvend consult krijg je ons professionele advies\" en \"Contact opnemen\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Tijdens een gratis, vrijblijvend consult krijg je ons professionele advies\" en \"Contact opnemen\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "HCI Clinics"
+    url: "http://www.hciclinics.com/"
+    city: "Utrecht"
+    address: "Burgemeester Verderlaan 15 G, 3544 AD Utrecht, Netherlands"
+    phone: "+31 6 27536330"
+    email_van_site: "info@hciclinics.nl"
+    google_rating: "5"
+    google_reviews: "205"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Er is geen zichtbare online boekingstool; contact voor consult loopt via (e-mail/telefoon) en WhatsApp-links, wat wijst op een handmatig proces."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.hciclinics.com/): \"Haartransplantatie -> https://wa.me/+31627536330\" / \"Injectables -> https://wa.me/+31615215155\" en \"E-Mailinfo@hciclinics.nl\" / \"Telefoon\" tonen contact via WhatsApp, e-mail en telefoon i.p.v. een geautomatiseerde boekingsflow."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Haartransplantatie -> https://wa.me/+31627536330\" / \"Injectables -> https://wa.me/+31615215155\" en \"E-Mailinfo@hciclinics.nl\" / \"Telefoon\" tonen contact via WhatsApp, e-mail en telefoon i.p.v. een ge"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Huidinstituut Versailles"
+    url: "http://www.huidinstituutversailles.nl/"
+    city: "Beverwijk"
+    address: "Hilbersplein 25, 1944 RB Beverwijk, Netherlands"
+    phone: "+31 251 223 459"
+    email_van_site: "beastar@huidinstituutversailles.nl"
+    google_rating: "4.8"
+    google_reviews: "64"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De kliniek toont alleen contact via formulier/e-mail/telefoon (geen zichtbare online boekingstool of geautomatiseerde offerte)."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.huidinstituutversailles.nl/contact.php): Afspraken of informatie verlopen via e-mail/formulier: \"Afspraken maken of meer informatie ontvangen:contact [AT] schoonheidssalonversailles.nl\" en er is een contactformulier op de website."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Afspraken of informatie verlopen via e-mail/formulier: \"Afspraken maken of meer informatie ontvangen:contact [AT] schoonheidssalonversailles.nl\" en er is een contactformulier op de website."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Huidpraktijk Debbie Hendriks"
+    url: "https://www.huidpraktijkdebbiehendriks.nl/"
+    city: "Alkmaar"
+    address: "Kompasweg 82, 1825 LX Alkmaar, Netherlands"
+    phone: "+31 6 28620816"
+    email_van_site: "support@jouwweb.nl"
+    google_rating: "5"
+    google_reviews: "24"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten laten afspraken via telefonisch/mail/WhatsApp/formulier zien, zonder zichtbare online boekingstool of geautomatiseerde intake/offerte."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.huidpraktijkdebbiehendriks.nl/contact): Afspraak via “Je kunt telefonisch, per mail, via WhatsApp of via het formulier op deze pagina een afspraak maken.”"
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Afspraak via “Je kunt telefonisch, per mail, via WhatsApp of via het formulier op deze pagina een afspraak maken.”"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Istanbulhair Kliniek"
+    url: "https://istanbulhair.nl/"
+    city: "Den Haag"
+    address: "Waldorpstraat 215-2, 2521 CJ Den Haag, Netherlands"
+    phone: "+31 85 400 8484"
+    email_van_site: "info@istanbulhair.nl"
+    google_rating: "4.6"
+    google_reviews: "254"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen vooral contact via formulier, WhatsApp en contactopname (geen zichtbare geautomatiseerde boek-/offertetool of volledig online portaal)."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://istanbulhair.nl/contact): \"Vul ons contactformulier in\" en \"📞 Gratis Haarconsult\"/\"WhatsApp 085 400 84 84\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Vul ons contactformulier in\" en \"📞 Gratis Haarconsult\"/\"WhatsApp 085 400 84 84\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Kliniek Groene Hart"
+    url: "http://www.kliniekgroenehart.nl/"
+    city: "Gouda"
+    address: "Middenmolenlaan 1, 2807 DD Gouda, Netherlands"
+    phone: "+31 182 235 030"
+    email_van_site: "info@kliniekgroenehart.nl"
+    google_rating: "4.7"
+    google_reviews: "48"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De site vraagt om contact via formulier/WhatsApp en belooft daarna advies/opname; er is geen zichtbare geautomatiseerde intake/offerte-tool of betaal-/aanbetalingsflow in de aangeleverde teksten."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://kliniekgroenehart.nl/contact): “Stel uw vraag via whatsapp” en het contactformulier “Stuur ons een bericht” (Naam, E-mailadres, Bericht) om een eerste aanvraag te doen."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Stel uw vraag via whatsapp” en het contactformulier “Stuur ons een bericht” (Naam, E-mailadres, Bericht) om een eerste aanvraag te doen."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Medikliniek"
+    url: "https://medi-kliniek.nl/"
+    city: "Amsterdam"
+    address: "Admiraal de Ruijterweg 73H, 1057 JZ Amsterdam, Netherlands"
+    phone: "+31 85 800 0750"
+    email_van_site: "info@medi-kliniek.nl"
+    google_rating: "4.8"
+    google_reviews: "275"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Het proces wordt duidelijk via contact/afspraak maken (contactformulier en bellen) aangeboden, zonder zichtbare geautomatiseerde boekings- of offertetool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (pagina 3): \"Vul het contactformulier in of neem direct contact met ons op\" en \"Bel ons!\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Vul het contactformulier in of neem direct contact met ons op\" en \"Bel ons!\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "mh kliniek"
+    url: "http://www.mhkliniek.nl/"
+    city: "Rijswijk"
+    address: "Broekmolenweg 20, 2289 BE Rijswijk, Netherlands"
+    phone: "+31 70 740 0004"
+    email_van_site: "info@mhkliniek.nl"
+    google_rating: "4.3"
+    google_reviews: "11"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De aanvraag loopt via contact opnemen/bellen of het (online) contactformulier waarna iemand contact opneemt; er is geen zichtbare geautomatiseerde intake- of boekingstool in de teksten."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "http://www.mhkliniek.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.mhkliniek.nl/contact): \"U kunt ons bereiken via telefoon, e-mail of door het contactformulier in te vullen.\" en \"wij nemen zo snel mogelijk contact met u op.\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"U kunt ons bereiken via telefoon, e-mail of door het contactformulier in te vullen.\" en \"wij nemen zo snel mogelijk contact met u op.\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Nielsen Haarkliniek Den Haag"
+    url: "http://www.nielsenhaarkliniek.nl/"
+    city: "Den Haag"
+    address: "Laan van Waalhaven 472, 2497 GR Den Haag, Netherlands"
+    phone: "+31 70 221 2829"
+    email_van_site: "info@nielsenhaarkliniek.nl"
+    google_rating: "4.5"
+    google_reviews: "237"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De aanvraag voor een gratis consult loopt via een invulformulier (“Aanvraag versturen”), zonder zichtbare geautomatiseerde boekings- of betaaltool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://nielsenhaarkliniek.nl/consult/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://nielsenhaarkliniek.nl/consult/): “Schakel JavaScript in je browser in om dit formulier in te vullen.” en “Aanvraag versturen” (gratis consult aanvragen via formulier)."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Schakel JavaScript in je browser in om dit formulier in te vullen.” en “Aanvraag versturen” (gratis consult aanvragen via formulier)."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Omorfy Haartransplantatiekliniek"
+    url: "http://omorfy.nl/"
+    city: "Maarn"
+    address: "Sportlaan 11-13, 3951 CG Maarn, Netherlands"
+    phone: "+31 30 808 4731"
+    email_van_site: "info@omorfy.nl"
+    google_rating: "4.9"
+    google_reviews: "85"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen contact via telefoon/formulier/WhatsApp met handmatige opvolging (specialist neemt contact op), zonder zichtbare geautomatiseerde boekings- of offertetool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://omorfy.nl/contact/): \"Laat ons weten hoe we je kunnen bereiken, en één van onze specialisten neemt binnen 24 uur contact met je op.\" en formulier met \"Versturen\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Laat ons weten hoe we je kunnen bereiken, en één van onze specialisten neemt binnen 24 uur contact met je op.\" en formulier met \"Versturen\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "PODO HAIR CLINIK"
+    url: "https://podoclinik.com/"
+    city: "Rijswijk"
+    address: "Verrijn Stuartlaan, 2288 GL Rijswijk, Netherlands"
+    phone: "+31 970 065 44280"
+    email_van_site: "info@podoclinik.com"
+    google_rating: "5"
+    google_reviews: "5"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen aanvraag via contactformulier/WhatsApp/e-mail/telefoon en belofte van begeleiding, zonder zichtbare online boekingstool of geautomatiseerde intake/offerte."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://podoclinik.com/contact-us/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://podoclinik.com/contact-us/): “فريقنا جاهز لتقديم استشارة مجانية ومرافقتك خطوة بخطوة في رحلتك العلاجية.” en formulier/WhatsApp/e-mail/telefoon om contact op te nemen."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “فريقنا جاهز لتقديم استشارة مجانية ومرافقتك خطوة بخطوة في رحلتك العلاجية.” en formulier/WhatsApp/e-mail/telefoon om contact op te nemen."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Prime Esthetic"
+    url: "https://primeesthetic.nl/"
+    city: "Rijswijk"
+    address: "Verrijn Stuartlaan 17, 2288 GL Rijswijk, Netherlands"
+    phone: "+31 6 20445448"
+    email_van_site: "info@primeesthetic.nl"
+    google_rating: "4.8"
+    google_reviews: "25"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Prime Esthetic vraagt via een aanvraagformulier om een consult en belooft daarna contact op te nemen (telefonisch/WhatsApp/mail), zonder zichtbare geautomatiseerde boekings- of offertetool; daarom is het proces handmatig."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://primeesthetic.nl/consult/): \"U hoort binnen drie werkdagen van ons, via het kanaal dat u kiest: bellen, mailen of WhatsApp.\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"U hoort binnen drie werkdagen van ons, via het kanaal dat u kiest: bellen, mailen of WhatsApp.\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Qyoutis Alkmaar Laat"
+    url: "https://www.qyoutis.nl/"
+    city: "Alkmaar"
+    address: "Laat 207, 1811 EG Alkmaar, Netherlands"
+    phone: "+31 72 203 4034"
+    email_van_site: "info@qyoutis.nl"
+    google_rating: "5"
+    google_reviews: "9"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Qyoutis laat intake en afspraken verlopen via bellen en/of een contactformulier waarna men terugbelt, zonder zichtbare geautomatiseerde boeking of offerte-tool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://www.qyoutis.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://qyoutis.nl/contact/): \"Bel ons gerust voor een intakegesprek. Dit eerste gesprek is kosteloos en vrijblijvend.\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Bel ons gerust voor een intakegesprek. Dit eerste gesprek is kosteloos en vrijblijvend.\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Rijkskliniek"
+    url: "http://rijkskliniek.nl/"
+    city: "Almere"
+    address: "Editiestraat 10, 1321 NG Almere, Netherlands"
+    phone: "+31 85 060 1315"
+    email_van_site: "info@rijkskliniek.nl"
+    google_rating: "4.9"
+    google_reviews: "214"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen contact via formulier/telefoon/WhatsApp om een aanvraag of afspraak te regelen, maar er is geen zichtbare online boekingstool of geautomatiseerd offerteproces."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://rijkskliniek.nl/contacts/): \"Voor vragen kun je contact opnemen via het formulier of met contactgegevens\" en \"Telefonisch bereikbaar op werkdagen van 09:00 tot 17:30.\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Voor vragen kun je contact opnemen via het formulier of met contactgegevens\" en \"Telefonisch bereikbaar op werkdagen van 09:00 tot 17:30.\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Skin Therapy Clinics"
+    url: "https://www.skintherapyclinics.nl/"
+    city: "Alkmaar"
+    address: "Vondelstraat 2, 1814 AB Alkmaar, Netherlands"
+    phone: "+31 6 19342172"
+    email_van_site: "info@skintherapyclinics.nl"
+    google_rating: "4.8"
+    google_reviews: "115"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Er wordt intake via formulier/terugbelopties en contactkanalen aangeboden (o.a. “vul onderstaand formulier in” en “Terug gebeld worden”), zonder zichtbare geautomatiseerde boekingstool of online offertecalculator in de aangeleverde teksten."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.skintherapyclinics.nl/ (homepage)): “Gratis intake inplannen” en “vul onderstaand formulier in.” met opvolgingopties “Terug gemaild worden”/“Terug gebeld worden”."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Gratis intake inplannen” en “vul onderstaand formulier in.” met opvolgingopties “Terug gemaild worden”/“Terug gebeld worden”."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Smooth Skin Clinic"
+    url: "http://www.smoothskinclinic.nl/"
+    city: "Beverwijk"
+    address: "Parallelweg 128, A14, 1948 NN Beverwijk, Netherlands"
+    phone: "+31 6 81521925"
+    email_van_site: ""
+    google_rating: "4.9"
+    google_reviews: "59"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Er wordt afspraak maken expliciet via WhatsApp aangeboden, zonder zichtbare online boekingstool of geautomatiseerde intake/offerte."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.smoothskinclinic.nl/afspraak-maken/): \"Boek jouw afspraak via WhatsApp\" / \"Vragen? WhatsApp: 06 81 52 19 25\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Boek jouw afspraak via WhatsApp\" / \"Vragen? WhatsApp: 06 81 52 19 25\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Transhair"
+    url: "http://www.transhair.nl/"
+    city: "Vlijmen"
+    address: "Wolput 30, 5251 CG Vlijmen, Netherlands"
+    phone: "+31 73 684 7311"
+    email_van_site: "info@transhair.nl"
+    google_rating: "4.7"
+    google_reviews: "180"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: Op de site staat een aanvraag via een formulier (consult) en contact via telefoon/WhatsApp; er wordt geen echte online boekingstool of geautomatiseerde intake/offertecalculator zichtbaar."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "http://www.transhair.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.transhair.nl/plan-een-consult): \"Vul onderstaand formulier in Vul onderstaande gegevens in voor het aanvragen van een consult.\" en \"of whatsapp\""
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Vul onderstaand formulier in Vul onderstaande gegevens in voor het aanvragen van een consult.\" en \"of whatsapp\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Waterland Kliniek Alkmaar"
+    url: "http://www.waterlandkliniek.nl/"
+    city: "Alkmaar"
+    address: "Bergerweg 62, 1815 AE Alkmaar, Netherlands"
+    phone: "+31 72 572 1051"
+    email_van_site: "receptie@waterlandkliniek.nl"
+    google_rating: "4.8"
+    google_reviews: "24"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De kliniek gebruikt een contact-/afspraakformulier en kan via e-mail of WhatsApp contact opnemen, zonder zichtbare geautomatiseerde boekings- of offertesystemen in de gegeven teksten."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://waterlandkliniek.nl/contact): \"U kunt contact opnemen met Waterland Kliniek via onderstaand formulier.\" en \"WHATSAPP\" / \"MAAK JE AFSPRAAK\"."
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"U kunt contact opnemen met Waterland Kliniek via onderstaand formulier.\" en \"WHATSAPP\" / \"MAAK JE AFSPRAAK\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "YUEN CLINIC"
+    url: "http://www.yuenclinic.nl/"
+    city: "Amstelveen"
+    address: "Amsterdamseweg 414, 1181 BT Amstelveen, Netherlands"
+    phone: "+31 20 213 7788"
+    email_van_site: "info@yuenclinic.nl"
+    google_rating: "4.9"
+    google_reviews: "12"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: handmatig
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "HANDMATIG: De teksten tonen vooral contact via formulier/mail/telefoon (geen zichtbare online boekingstool), daarom is het proces handmatig."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (pagina 2 (https://yuenclinic.nl/contact/)): Via het contactformulier met velden en 'Submit' en contactgegevens als telefoon en mail ("
+    waarom_nu_hypothese: "Aanvragen en afspraken lijken met de hand te worden afgehandeld (mail, telefoon, WhatsApp, terugbellen); dat kan het team veel tijd kosten. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Via het contactformulier met velden en 'Submit' en contactgegevens als telefoon en mail ("
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Aesthetic Medico Center"
+    url: "http://www.aestheticmedicocenter.nl/"
+    city: "Rotterdam"
+    address: "Zocherstraat 4a, 3067 AT Rotterdam, Netherlands"
+    phone: "+31 6 49637980"
+    email_van_site: "info@aestheticmedicocenter.nl"
+    google_rating: "5"
+    google_reviews: "56"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): Er is een online afspraakformulier (keuze behandeling/datum/tijd), maar de definitieve bevestiging gebeurt door de kliniek (“wij nemen contact op”), dus het proces is gemengd."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://aestheticmedicocenter.nl/afspraak-maken/): “Wij nemen contact met u op om de afspraak definitief te bevestigen.” Daarnaast online: “Kies eenvoudig uw behandeling, voorkeursdatum en tijd. Wij nemen contact met u op om de afspraak definitief te bevestigen.”"
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Wij nemen contact met u op om de afspraak definitief te bevestigen.”"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Bodyshape2beauty"
+    url: "http://www.bodyshape2beauty.nl/"
+    city: "IJsselstein"
+    address: "Poortdijk 34D, 3402 BS IJsselstein, Netherlands"
+    phone: "+31 6 49891680"
+    email_van_site: ""
+    google_rating: "4.8"
+    google_reviews: "5"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Boekingstool: Treatwell"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): De site combineert handmatige intake/afspraak via WhatsApp en contactformulier met online boeking via Treatwell, daarom is het proces gemengd."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.bodyshape2beauty.nl/): Handmatige signalen zijn o.a. \"Intake gesprek is gratis\" en afspraak/aanmelding via WhatsApp: \"Vanaf nu afspraak maken via business whatsapp is sneller ! 06-49891680\". Daarnaast online: Er is een online boekingslink naar Treatwell: \"Openingstijden -> https://bodyshape2beauty.mytreatwell.nl/\"."
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Handmatige signalen zijn o.a. \"Intake gesprek is gratis\" en afspraak/aanmelding via WhatsApp: \"Vanaf nu afspraak maken via business whatsapp is sneller ! 06-49891680\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "by Char Den Haag"
+    url: "https://hairextensionsbychar.nl/"
+    city: "Den Haag"
+    address: "Molenstraat 32, 2513 BL Den Haag, Netherlands"
+    phone: "+31 85 060 2630"
+    email_van_site: ""
+    google_rating: "5"
+    google_reviews: "21"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): De website combineert een (vrij) automatische prijsindicatie/AI met een handmatige intake via WhatsApp/e-mail en opvolging door medewerkers."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://hairextensionsbychar.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://hairextensionsbychar.nl/contact): Via WhatsApp of e-mail contact opnemen en telefonisch zijn niet bereikbaar: \"Whatsapp\" en \"Neem contact op via Whatsapp of e-mail\". Daarnaast online: Extensions calculator (\"Ontdek jouw prijs\" / \"2 minuten\") en AI-assistent/AI preview."
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Via WhatsApp of e-mail contact opnemen en telefonisch zijn niet bereikbaar: \"Whatsapp\" en \"Neem contact op via Whatsapp of e-mail\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Clinic de la peau"
+    url: "http://www.clinicdelapeau.nl/"
+    city: "Heerhugowaard"
+    address: "Stationsplein 99, 1703 WE Heerhugowaard, Netherlands"
+    phone: "+31 72 582 6904"
+    email_van_site: "info@clinicdelapeau.nl"
+    google_rating: "5"
+    google_reviews: "42"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Boekingstool: boekingapp (clinicdelapeau.boekingapp.nl)"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): Er is zowel een (handmatige) intake-aanvraag via een contactformulier met terugbel-/contactmoment als een moderne optie om online te boeken via een externe boekingstool."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://www.clinicdelapeau.nl/contact): “Laat uw gegevens achter, dan nemen we contact op om samen een afspraak te plannen.” Daarnaast online: Op de website staat online boeken via de knop/tool “Online boeken” met link naar https://clinicdelapeau.boekingapp.nl/."
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Laat uw gegevens achter, dan nemen we contact op om samen een afspraak te plannen.”"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Clinic Lara's Leiden"
+    url: "https://www.cliniclarasleiden.nl/"
+    city: "Leiden"
+    address: "Breestraat 39, 2311 CH Leiden, Netherlands"
+    phone: "+31 71 542 7523"
+    email_van_site: ""
+    google_rating: "4.9"
+    google_reviews: "248"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): De kliniek laat vooral een online afsprakenplanner zien, maar voor laserontharing vraagt ze om te bellen (dus deels handmatig)."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://www.cliniclarasleiden.nl/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.cliniclarasleiden.nl/afspraak-maken/): Voor laserontharing vragen ze: “even te bellen” en ze tonen een telefoonnummer/WhatsApp. Daarnaast online: Online afspraak boeken via “onze online agenda is 24/7 beschikbaar” met bevestiging per e-mail."
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Voor laserontharing vragen ze: “even te bellen” en ze tonen een telefoonnummer/WhatsApp."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Cloud Skin Clinic"
+    url: "https://www.cloudskinclinic.nl/"
+    city: "Den Haag"
+    address: "Waldorpstraat 397, 2521 CJ Den Haag, Netherlands"
+    phone: "+31 70 204 2088"
+    email_van_site: "info@cloudskinclinic.nl"
+    google_rating: "4.9"
+    google_reviews: "177"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): Er is zowel een online “Boek nu” consultpagina als zichtbare mogelijkheid om contact op te nemen via WhatsApp, maar geen expliciete geautomatiseerde boekingstool of volledig online portaal in de gegeven teksten."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.cloudskinclinic.nl/): WhatsApp wordt genoemd als contactmogelijkheid: “Afspraak makenWhatsapp”. Daarnaast online: Op de site staat een online “Boek nu”-pagina met informatie over het consult en de keuze voor “Consult + huidscan + gelaatbehandeling”."
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: WhatsApp wordt genoemd als contactmogelijkheid: “Afspraak makenWhatsapp”."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "DoctorFace"
+    url: "https://www.doctorface.nl/"
+    city: "Lelystad"
+    address: "Zilverparkkade 3, 8232 WJ Lelystad, Netherlands"
+    phone: "+31 85 060 7271"
+    email_van_site: "info@doctorface.nl"
+    google_rating: "4.9"
+    google_reviews: "89"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): De website gebruikt een online formulier/consultplanning, maar bij het inplannen wordt expliciet aangegeven dat je telefonisch wordt gebeld (geen volledig geautomatiseerde intake/boeking)."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.doctorface.nl/afspraak-plannen): \"Wil je dit jaar nog aan de beurt komen? Meld je aan voor de wachtlijst - wij nemen dan contact op zodra er plekken vrijkomen\" en \"voor het inplannen van een afspraak word je gebeld\"."
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Wil je dit jaar nog aan de beurt komen? Meld je aan voor de wachtlijst - wij nemen dan contact op zodra er plekken vrijkomen\" en \"voor het inplannen van een afspraak word je gebeld\"."
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "DUTCH CLINIC"
+    url: "https://dutchclinic.com/"
+    city: "Hoofddorp"
+    address: "Hoofdweg Oostzijde 848A, 2132 MC Hoofddorp, Netherlands"
+    phone: "+31 20 214 2033"
+    email_van_site: "info@dutchclinic.com"
+    google_rating: "4.8"
+    google_reviews: "183"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): De aanvraag loopt via contactformulier en daarna telefonisch contact, met daarnaast een (vermelde) agenda voor het plannen van een eerste afspraak; geen volledig geautomatiseerde intake/boekte tool met zichtbare toolnaam in de teksten."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://dutchclinic.com/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://www.dutchclinic.com/contact/): \"Laat uw gegevens achter en wij nemen telefonisch contact met u op\" / \"Neem telefonisch contact op\" Daarnaast online: \"Plan uw eerste afspraak\" en \"Kies hieronder uw vooronderzoek ... en bekijk de beschikbare momenten.\""
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Laat uw gegevens achter en wij nemen telefonisch contact met u op\" / \"Neem telefonisch contact op\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Lalana"
+    url: "https://lalana.nl/"
+    city: "Waalwijk"
+    address: "Grotestraat 205, 5141 JS Waalwijk, Netherlands"
+    phone: "+31 416 724 840"
+    email_van_site: "info@lalana.nl"
+    google_rating: "4.8"
+    google_reviews: "328"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): Lalana biedt wel een online afspraak maken en contactformulieren, maar er worden in de teksten geen volledig geautomatiseerde intake/prijs-offerteflow of zichtbare boekingstool beschreven; het contact verloopt via (online) formulier/telefoon/mail/WhatsApp."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://lalana.nl/contact/): \"Neem contact op\" (met formulier met \"Voornaam*\" en \"Verstuur bericht\") en \"Bel ons tijdens openingstijden\" Daarnaast online: \"Maak eenvoudig online je afspraak.\""
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: \"Neem contact op\" (met formulier met \"Voornaam*\" en \"Verstuur bericht\") en \"Bel ons tijdens openingstijden\""
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "MOOI Institute"
+    url: "https://www.mooiinstitute.nl/"
+    city: "Rotterdam"
+    address: "Weissenbruchlaan 126, 3054 LS Rotterdam, Netherlands"
+    phone: "+31 10 212 6044"
+    email_van_site: "info@mooiinstitute.nl"
+    google_rating: "4.8"
+    google_reviews: "477"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Boekingstool: Salonized"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): De site toont zowel een handmatige contact-/intake-route (formulier/bellen/e-mail) als online afspraakmogelijkheden via een externe boekingstool (Salonized)."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: null
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (http://mooiinstitute.nl/contact/): Er is een intake/contactroute via contactformulier, bellen en e-mail, met terugkoppeling: \"Vul dan onderstaand formulier in, bel ons of stuur ons een e-mail. Dan nemen we zo spoedig mogelijk contact met u op.\" Daarnaast online: Op de homepage staan knoppen/links om een afspraak te maken via Salonized (widget_bookings/new)."
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: Er is een intake/contactroute via contactformulier, bellen en e-mail, met terugkoppeling: \"Vul dan onderstaand formulier in, bel ons of stuur ons een e-mail. Dan nemen we zo spoedig mogelijk contact m"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+  - name: "Silkify Clinic"
+    url: "https://silkify.nl/"
+    city: "Utrecht"
+    address: "Lange Viestraat 4, 3511 BK Utrecht, Netherlands"
+    phone: "+31 85 049 2718"
+    email_van_site: "contact@silkify.nl"
+    google_rating: "4.8"
+    google_reviews: "106"
+    industry: Kliniek (haartransplantatie, cosmetisch of huid; volgens Google Maps en de site)
+    size: niet geverifieerd (Google Maps geeft geen aantal medewerkers)
+    proces_type: gemengd
+    tech_stack: "Geen boekingstool of portaal zichtbaar op de gelezen pagina's"
+    relevant_vacancies: niet onderzocht
+    why_fit: "GEMENGD (deels online, deels handwerk): De kliniek biedt zowel online afspraken plannen (beschikbare tijden/“Boek afspraak”) als handmatige contactroutes zoals WhatsApp en een contactformulier met reactie binnen 1 werkdag."
+    decision_maker: eigenaar of praktijkmanager (niet onderzocht)
+    linkedin: null
+    sources:
+      decision_maker: null
+      size: null
+      multi_location: "https://silkify.nl/contact/"
+      relevant_vacancies: null
+    waarom_nu_feit: "Volgens de site (https://silkify.nl/contact/): “Vul het formulier in en we reageren binnen één werkdag.” en “Vragen, afspraak verzetten, foto's sturen voor advies.” Daarnaast online: “Afspraak maken… Kies je vestiging en behandeling en zie direct de beschikbare tijden. Intake is gratis.”"
+    waarom_nu_hypothese: "Een deel loopt online, maar een deel nog met de hand (terugbellen, formulier, foto's sturen); op de overgang kan handwerk ontstaan. Dit is een aanname."
+    waarom_nu_vraag: "Hoe gaat een aanvraag nu van binnenkomst tot afspraak, en wie pakt dat op?"
+    value_proposition: "Een tool die aanvragen ontvangt, klaarzet voor het team en de opvolging bijhoudt. Richting, geen vaststaand ontwerp (zie scripts/klinieken-call-script.md)."
+    outreach_strategy: "Invalshoek A (verkennend gesprek), eerst bellen. Controleer de bronpagina en het citaat vóór het bellen. Zie scripts/klinieken-call-script.md."
+    conversation_starters:
+      - "Ik zag op jullie site: “Vul het formulier in en we reageren binnen één werkdag.” en “Vragen, afspraak verzetten, foto's sturen voor advies.”"
+      - "Hoe gaat dat nu bij jullie, van aanvraag tot afspraak?"
+    controle: niet gecontroleerd
+
+lessen:
+  - Op de homepage alleen is het proces vaak niet te zien; de extra pagina's (contact, afspraak, werkwijze) en de boeklinks maken het verschil.
+  - Handmatig betekent: geen boekingstool of portaal zichtbaar. Een systeem dat niet op de site staat zien we niet; het gesprek bevestigt dat.
